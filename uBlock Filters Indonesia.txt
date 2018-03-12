@@ -1,0 +1,444 @@
+========== Untuk block iklan secara maksimal nyalakan 3rd-party filters:
+
+! - My filters
+! - uBlock filters
+! - Adguard Mobile Filters
+! - Adguard Spyware Filters
+! - Adguard’s Annoyance List
+! - EasyList
+! - hpHosts’ Ad and tracking servers
+! - MVPS HOSTS
+! - Peter Lowe’s Ad and tracking server list
+! Dan matikan 3rd-party filters selain yang tidak tertera di atas
+
+========== Cara memblokir dan mengunblock website ==========
+
+! Jika anda ingin memblokir website, masukkan langsung saja URL web tersebut di URL List
+! Jika anda ingin mengunblock website
+! Masukkan "@@URLwebsite" pakai double at / @@ lalu nama website dan masukkan di Unblocked URL List
+! Agar URL yang telah diblock muncul kembali, hapus saja URL tersebut dari List
+
+========== Tambahan ==========
+
+! Masih belum terblok secara maksimal ?
+! Buka alamat ini (chrome) : "chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/popup.html?tabId=-1&fullsize=1" tanpa kutip
+! Untuk firefox pastikan tetap sama "moz-extension://blablabla/dashboard.html" dan ubah "/dashboard" menjadi "/popup.html?tabId=-1&fullsize=1" tanpa kutip
+! Hilangkan tanda abu-abu lalu lock (gambar kunci) dan apabila uBlock belum berwarna biru (nyala), klik 1x sampai berwarna biru
+! Untuk apakah tutorial di atas ? Pastinya itu akan membuat pengguna dapat memblok background/behind-the-scene ads (advertisement/iklan) secara maksimal
+! Jika Anda masih mendapatkan iklan dari website yang Anda sukai,
+! Anda dapat melaporkan kepada kami untuk memblock iklan yang ada di website tersebut
+! Caranya, Buka web lalu tuliskan komentar Anda di : blogforhelpyou.blogspot.co.id/2017/12/uBlockfiltersIndonesia.html
+
+========== ## and ### List ==========
+
+##a[href="/76BMlHexsYA&fix=1"]
+-------------------------------------
+##a[href*="//6c37f8a12dede103bf7.com"]
+##a[href*="//adserver.adreactor.com"]
+##a[href*="bit.ly/2fxPTzf"]
+##a[href*="earth-111.com"]
+##a[href*="href.li"]
+##a[href*="inclk.com"]
+##a[href*="mellowads.com"]
+-------------------------------------
+##article:nth-of-type(5) > .clearfix
+##iframe[src*="/widget.html"]
+##iframe[src*="servlet/redirect.srv"]
+-------------------------------------
+##.ablkAlert
+##.adlink2
+##.adsbyadop
+##.adsbygoogle
+##.adsgen
+##.adsgen1
+##.adsiber
+##.ArevicoModal
+##.bsac-link
+##.dark.jquery-adi
+##.disads300px
+##.disads301px
+##.disads728px
+##.error.test-status
+##.gb_g.gb_Tc.gb_ud
+##.hads
+##.in_up_ad-area
+##.left.left_bottom_ad.widget
+##.onesuch
+##.right.right_middle_ad.widget
+##.right.right_top_ad.widget
+-------------------------------------
+awsubs.co##.fb_iframe_widget.fb-like
+awsubs.co##.minipusat
+awsubs.co##.pusat728
+coeg.in##.c-message > div:nth-of-type(1)
+coeg.in##.disclaimer
+gigapurbalingga.net##.code-block-1.code-block
+gigapurbalingga.net##.code-block-2.code-block
+juraganfiles.com##.no-padding.box.container > center
+kompas.com##.clearfix.kcm__horizontal.kcm
+kompas.com##.js-kcm-horizontal.kcm__close
+myanimelist.net##._unit
+siherp.com##.c-message > div:nth-of-type(1)
+siherp.com##.disclaimer
+siotong.com##.c-message > div:nth-of-type(1)
+siotong.com##.disclaimer
+solidfiles.com##.premium-promo.box
+solidfiles.com##.remove
+susutinv2.com##.panel-body.panel-default.panel > h3
+telondasmu.com##.c-message > div:nth-of-type(1)
+telondasmu.com##.disclaimer
+-------------------------------------
+aw-games.net##h1
+aw-games.net##img[src*="prntscr.com"]
+short.awsubs.co##h1
+short.awsubs.co##img[src*="awsubs.co"]
+coeg.in##h2
+oploverz.in##s
+oploverz.in##u
+siherp.com##h2
+siotong.com##h2
+susutinv2.com##h2
+susutinv2.com##p:nth-of-type(1)
+susutinv2.com##p:nth-of-type(2)
+susutinv2.com##p:nth-of-type(3)
+susutinv2.com##p:nth-of-type(4)
+susutinv2.com##p:nth-of-type(5)
+susutinv2.com##p:nth-of-type(6)
+susutinv2.com##p:nth-of-type(7)
+susutinv2.com##p:nth-of-type(8)
+telondasmu.com##h2
+-------------------------------------
+###abAlert
+###banner_ikln_tengah
+###b300
+###btm_banner
+###ctr_banner
+###h237
+###popup
+###v3ea
+###videoad1
+###z2c7
+-------------------------------------
+liz.zdonlot.in###close-banner
+dataid.us###loading
+indoxxi.net###extand
+tribunnews.com###articleright
+
+========== ^ List ==========
+
+^restricted
+restricted$domain=behind-the-scene
+^restricted*error=404$popup
+
+========== & List ==========
+
+&aff_sub2=$popunder
+&aff_sub2=$popup
+
+========== ? List ==========
+
+?r*pagead2.googlesyndication.com$popup
+
+========== / List ==========
+
+-728x90.
+-728-x-90.
+/1market.php
+/296467_712a70a8-97e6-11e4-9eb1-ca992523fab8.jpg
+/7811552/250x250.gif
+/7813650/paxful.gif
+/abd.interstitial.preroll$script,third-party
+/adnetwork.js$script,third-party
+/adsbottompagenav.
+/adsleft.
+/adsmobilebottom.
+/adsmobiletop.
+/api/inventory
+/app/assets/js/app_$script
+/autoptimize$domain=oploverz.in
+/autoptimize*autoptimize$script
+/Banner-*.gif
+/cdn-cgi/beacon/
+/cdn-cgi/pe/bag2?r
+/csi_204
+/error_204
+/funcript
+/gen204
+/gen_204
+/gen_204$other,domain=behind-the-scene
+/generate_204
+/HOKI365.gif
+/iklan/728
+/includes/left_list-ad.php
+/index.php?ajax/ad-action
+/index.php?page=t&f=
+/js/packed/interstitial-page.js
+/js.betterpop.js
+/jserror?
+/keremiyav4/js/lockscript.js
+/layarkaca21/js/lk21ads.js
+/log?format=
+/mts_ad_sense/js
+/nontonanime.org/js/ads.js
+/ouo2018$script,third-party
+/popupad$script,third-party
+/ppu.js
+/safelink$script,third-party
+/safelink-indolinker
+/scripts/x.js?
+/safe.$script,domain=ad4msan.com
+/sl.$script,domain=ad4msan.com
+/sora$script,third-party
+/static/101/site.js?
+/static/js/amvn.js
+/sugoi$script
+/themes/*/dist/scripts/main.js
+/TOTO-300-x-250.
+/videojs.vast.vpaid.min
+/videojs_5.vast.vpaid.min
+/widgets/www.hiqqu$third-party
+/wp-adblock-
+/wp-content/themes/animeindo/images/blacktr.png
+/wp-content/themes/animeku/iklan/
+/wp-content/uploads/iklan/
+/wp-jw-player/css/popup
+/wp-jw-player/js/popup.js
+/wpad/
+/www-static/css/premium/premium-modals.css$important
+/www-static/js/premium/premium-modals.js$important
+/www-static/js/widgets-live-popup.js$important
+
+========== . List ==========
+
+.adskom.com$third-party
+.bid$third-party
+.cc/_Incapsula_Resource?
+.com/*.html?q$popunder
+.org/lube
+
+========== URL List ==========
+
+.doubleclick.net*ad$third-party
+------------------------------
+*.*-adnow.com$script,third-party
+*bp.blogspot.com/-2q1uG5S7AOI/WjT_ilAeypI/AAAAAAAAA1o/lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
+*bp.blogspot.com/-4iMj8lE8K7w/Vyz57GClIHI/AAAAAAAADDI/LkdTwv6o7OAfOMlx2k764u22OX7TgeiSACLcB/s1600/Adblock.
+3.bp.blogspot.com/-AmCc0DAkbzI/WHnXC8-s60I/AAAAAAAABt8/RTwuo4KqfSU0AYIDF9g5Bz8VfSJpXJi7gCLcB/s1600/1.jpg
+6c37f8a12dede103bf7.com$third-party
+4youtds.com$popup
+8lhf65dy.com$third-party
+------------------------------
+a.admp.io$third-party
+a.props.$third-party
+acorporary.info$third-party
+acroscow.com$third-party
+activex.press$third-party
+addthis.com$third-party,important
+addtoany.com$third-party
+adexchangecloud.com$popunder
+adexchangecloud.com$popup
+adop.cc$third-party
+adservice.google.*$third-party
+ads.$domain=behind-the-scene
+ads.pubmatic.com$third-party
+adsdonlot.in/css/ads_donlotin.css
+adsdonlot.in/get-ads-
+adsdonlot.in/js/popup_donlotin.js
+adsoptimal.com$third-party
+adtival.com$third-party
+agreemand.com$third-party
+alicdn.com/g/alilog/mlog/aplus_int.js$third-party
+ambient-platform.com$third-party
+anime21.co/content/template/images/
+animeindo.net/wp-content/uploads/*.gif
+animeindo.video/area.js
+anoboy.com/lompatin
+apps.drakor.id/images/yu/2.jpg
+arenabetting.cc$third-party
+arequiry.info$third-party
+areyouahuman.com$third-party
+assets.adobedtm.com$third-party
+ayclinical.com$third-party
+boostads.site$third-party
+boudja.com$third-party
+bp.blogspot.com$third-party,domain=elsfile.org
+c.adsco.re$third-party
+cachefly.net$third-party
+calcch.com$third-party
+casterist.com$third-party
+casterist.info$third-party
+chatango.com$third-party
+ciuvo.com$third-party
+climbering.info$third-party
+cloudmedia.gdn$third-party
+cloudmediacdn.com$third-party
+coinhive.com$third-party
+consolebackup.com$third-party
+consoletarget.com$third-party
+cpaoptimizer.com$popunder
+cpaoptimizer.com$popup
+cpaoptimizer.com$third-party
+croissed.info$third-party
+crypto-loot.com$third-party
+d162nnmwf9bggr.cloudfront.net$third-party
+d1nmxiiewlx627.cloudfront.net$third-party
+d2ghscazvn398x.cloudfront.net$third-party
+d3oep4gb91kpuv.cloudfront.net$third-party
+d3p2b5qewrnsyv.cloudfront.net$third-party
+d3rhktq8uy839j.cloudfront.net$third-party
+dc08i221b0n8a.cloudfront.net$third-party
+digiads.co.id$third-party
+dl.jeodrive.com$popup,domain=jheberg.net
+doubleclick.net$important,domain=speedtest.net
+dr1.masbro.id/iklan/fob.css
+dr1.masbro.id/js2.js
+dwindly.io$third-party
+earth-111.com/ref?k=$popup
+ecvladelayk.com$third-party
+eiqzyxofsgzel.com$third-party
+elthamely.com$third-party
+evidon.com$third-party
+exdynsrv.com$domain=behind-the-scene
+facebook.com$popup,domain=bagilagi.com
+f0nxxmrm.me$third-party
+generaed.info$third-party
+genieessp.com$third-party
+go.*gold.net/id$third-party
+go.oclasrv.com$popup
+go.onclasrv.com$popup
+google.*/_/chrome/newtab-serviceworker.js
+google.*/api/stats/qoe?$third-party
+google.*/async*&async$third-party
+google.*/complete/search?client$third-party
+google.*/pagead$third-party
+gways.net$popup
+hh-btr.com$popunder
+hh-btr.com$popup
+hikarinoakariost.info$inline-script
+hitcpm.com$popunder
+hitcpm.com$popup
+i027m.top$third-party
+idsly.com$third-party
+imgclick.net$generichide,important
+imgu.info$third-party
+imgur.com$third-party,domain=awsubs.co|nanime.org|nontonanime.id
+img.topddl.net/*gif$third-party
+impactify.io$third-party
+inclk.com/itab/sa?cid=$popunder
+inclk.com/itab/sa?cid=$popup
+ipify.org$third-party
+javascript:*.$popup
+jerwested.info$third-party
+joneself.com$third-party
+knoacc.org$third-party
+kuotamurahku.com$third-party
+kuyhaa.me$inline-script
+lazada.co.id$third-party,domain=anoboy.com
+ldtv.co/wp-content/uploads/*.gif
+limaten.info$popunder
+limaten.info$popup
+limaten.info$third-party
+linkshrink.net$script,third-party
+lonedol.info$popup
+lonedol.info$third-party
+lucklayed.info$third-party
+lyrical-nonsense.com$inline-script
+meownime.com$inline-script
+minishing.com$popup
+minishing.com$third-party
+misslk.com$third-party
+mmstat.com/v.gif?$third-party
+naenticle.info$third-party
+nephritish.com$third-party
+notifa.info$third-party
+offerenced.com$third-party
+onesignal.com$third-party
+pc2ads.com$third-party
+pgl.yoyo.org$third-party
+platinmods.com/deferred.php
+platinmods.com/index.php?chat/refresh
+play.google.com/log$third-party
+plenty.analisis.io$third-party
+postimg.org$third-party,image,domain=coeg.in|siotong.com|telondasmu.com
+provalist.info$third-party
+puu.sh/xv53n$third-party
+r2games.com$domain=behind-the-scene
+rawgit.com$third-party,domain=myanimeindo.net
+rtbapi.net$third-party
+safelinkconverter.com$third-party,script
+safelinku$third-party,script
+schillmania.com/projects$third-party
+senditcloud.com$popup
+serve.popads.net/s?cid=$popup
+shrinklink.co$third-party,script
+strucewe.info$third-party
+smartphonelist.com$popunder
+smartphonelist.com$popup
+smartphoneslist.com$popunder
+smartphoneslist.com$popup
+surgeprice.com$third-party
+tango-deg.com$popunder
+tango-deg.com$popup
+tawk.to$third-party
+tfw-current.s3.amazonaws.com
+threadsphere.bid/js/display.js
+tobys.dk$inline-script,domain=tobys.dk
+torpsol.com$popunder
+torpsol.com$popup
+treasuredata.com$third-party
+tuxzictbrqietq.com$third-party
+uadexchange.com$third-party
+uzone.id$third-party
+webmine.pro$third-party
+whxhegjrqlddko.com$third-party
+wjkwjcmeymu.com$third-party
+wnp.com$third-party
+wyueivwashc.com$third-party
+x.kinja-static.com/assets/packaged-js/dollars.
+xdeyou.com$third-party,script
+xugnzawkrkvu.com$third-party
+xx1.me/js/ch.
+xx1.me/js/yt.js
+xx1.me/lib
+xx1.me/sworker.js
+xydeyou.com$third-party,script
+youtube.com/api/stats/watchtime?$important
+zenmate.com/api/analyze?
+zippyshare.com$generichide,important
+zpfjfwbij.com$third-party
+
+========== Unblocked URL List ==========
+
+@@/AC_RunActiveContent
+@@/adimg$image
+@@/ad_top_bg2.png?
+@@/banner$domain=filecloud.io
+@@/basement/js
+@@/js/ads.js$domain=coinlink.co|coshink.co|
+@@/themes*adsbygoogle.js
+@@/wp-content/themes/jannah/js
+----------------------------------------
+@@ad4msan.win$generichide
+@@adf.ly/*.php$popup
+@@asr-games.net/newjs
+@@bagilagi.com$generichide
+@@bigspeeds.com/ajax/advertisement.js
+@@d.bloggerku.com/safelink/1.0/script.js
+@@igg-games.com
+@@juragan-anime.net/wp-content/cache
+@@jwpltx.com
+@@linkbucks.com/scripts/intermissionLink
+@@meongs.bid
+@@pagead2.googlesyndication.com$domain=safelink.top
+@@revdepo.com/static/advertisement.js
+@@shrinklink.co/js/ads.js
+@@uplod.cc*advertisement$script
+
+========== Custom List ==========
+awsubsco.ga##script:inject(abort-on-property-write.js, Fingerprint2)
+awsubsco.ga##script:inject(nano-setInterval-booster.js)
+elsfile.org##script:inject(abort-on-property-write.js, Fingerprint2)
+elsfile.org##script:inject(nano-setInterval-booster.js)
+soundcloud.com##script:inject(abort-on-property-write.js, Fingerprint2)
+v1.94lauin.com##script:inject(abort-on-property-write.js, Fingerprint2)
+v1.94lauin.com##script:inject(nano-setInterval-booster.js)
