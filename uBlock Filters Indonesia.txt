@@ -27,7 +27,7 @@
 ! Untuk apakah tutorial di atas ? Pastinya itu akan membuat pengguna dapat memblok background/behind-the-scene ads (advertisement/iklan) secara maksimal
 ! Jika Anda masih mendapatkan iklan dari website yang Anda sukai,
 ! Anda dapat melaporkan kepada kami untuk memblock iklan yang ada di website tersebut
-! Caranya, Buka web lalu tuliskan komentar Anda di : blogforhelpyou.blogspot.com
+! Caranya, Buka web lalu tuliskan komentar Anda di : bit.ly/2zTBwU7
 
 ========== ## and ### List ==========
 
@@ -437,8 +437,10 @@ zpfjfwbij.com$third-party
 @@jwpltx.com
 @@linkbucks.com/scripts/intermissionLink
 @@meongs.bid
+@@ouo.io$domain=~blogforhelpyou.blogspot.com
 @@pagead2.googlesyndication.com$domain=safelink.top
 @@revdepo.com/static/advertisement.js
+@@safelinku.com$domain=~blogforhelpyou.blogspot.com
 @@shrinklink.co/js/ads.js
 @@uplod.cc*advertisement$script
 
