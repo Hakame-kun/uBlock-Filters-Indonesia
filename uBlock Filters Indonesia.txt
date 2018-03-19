@@ -6,7 +6,7 @@
 ! - Adguard Spyware Filters
 ! - Adguard’s Annoyance List
 ! - EasyList
-! - hpHosts’ Ad and tracking servers
+! - hpHosts’ Ad and tracking servers​​​​​
 ! - MVPS HOSTS
 ! - Peter Lowe’s Ad and tracking server list
 ! Dan matikan 3rd-party filters selain yang tidak tertera di atas
@@ -27,7 +27,7 @@
 ! Untuk apakah tutorial di atas ? Pastinya itu akan membuat pengguna dapat memblok background/behind-the-scene ads (advertisement/iklan) secara maksimal
 ! Jika Anda masih mendapatkan iklan dari website yang Anda sukai,
 ! Anda dapat melaporkan kepada kami untuk memblock iklan yang ada di website tersebut
-! Caranya, Buka web lalu tuliskan komentar Anda di : blogforhelpyou.blogspot.co.id/2017/12/uBlockfiltersIndonesia.html
+! Caranya, Buka web lalu tuliskan komentar Anda di : blogforhelpyou.blogspot.com
 
 ========== ## and ### List ==========
 
@@ -119,9 +119,10 @@ telondasmu.com##h2
 ###videoad1
 ###z2c7
 -------------------------------------
-liz.zdonlot.in###close-banner
 dataid.us###loading
+dewafile.com###download
 indoxxi.net###extand
+liz.zdonlot.in###close-banner
 tribunnews.com###articleright
 
 ========== ^ List ==========
@@ -233,6 +234,8 @@ a.props.$third-party
 acorporary.info$third-party
 acroscow.com$third-party
 activex.press$third-party
+ad4msan.com*bbspoiler
+ad4msan.com*daves
 addthis.com$third-party,important
 addtoany.com$third-party
 adexchangecloud.com$popunder
@@ -245,6 +248,7 @@ adsdonlot.in/css/ads_donlotin.css
 adsdonlot.in/get-ads-
 adsdonlot.in/js/popup_donlotin.js
 adsoptimal.com$third-party
+adsrv4k.com$third-party
 adtival.com$third-party
 agreemand.com$third-party
 alicdn.com/g/alilog/mlog/aplus_int.js$third-party
@@ -286,6 +290,7 @@ d2ghscazvn398x.cloudfront.net$third-party
 d3oep4gb91kpuv.cloudfront.net$third-party
 d3p2b5qewrnsyv.cloudfront.net$third-party
 d3rhktq8uy839j.cloudfront.net$third-party
+d3ud741uvs727m.cloudfront.net$third-party
 dc08i221b0n8a.cloudfront.net$third-party
 digiads.co.id$third-party
 dl.jeodrive.com$popup,domain=jheberg.net
@@ -299,8 +304,9 @@ eiqzyxofsgzel.com$third-party
 elthamely.com$third-party
 evidon.com$third-party
 exdynsrv.com$domain=behind-the-scene
-facebook.com$popup,domain=bagilagi.com
 f0nxxmrm.me$third-party
+facebook.com$popup,domain=bagilagi.com
+fourtesy.info$third-party
 generaed.info$third-party
 genieessp.com$third-party
 go.*gold.net/id$third-party
@@ -362,6 +368,7 @@ plenty.analisis.io$third-party
 postimg.org$third-party,image,domain=coeg.in|siotong.com|telondasmu.com
 provalist.info$third-party
 puu.sh/xv53n$third-party
+qregation.info$third-party
 r2games.com$domain=behind-the-scene
 rawgit.com$third-party,domain=myanimeindo.net
 rtbapi.net$third-party
@@ -377,6 +384,7 @@ smartphonelist.com$popup
 smartphoneslist.com$popunder
 smartphoneslist.com$popup
 surgeprice.com$third-party
+tagbucket.cc$third-party
 tango-deg.com$popunder
 tango-deg.com$popup
 tawk.to$third-party
@@ -435,10 +443,14 @@ zpfjfwbij.com$third-party
 @@uplod.cc*advertisement$script
 
 ========== Custom List ==========
+ad4msan.com##script:inject(abort-on-property-write.js, Fingerprint2)
+ad4msan.com##script:inject(nano-setInterval-booster.js)
 awsubsco.ga##script:inject(abort-on-property-write.js, Fingerprint2)
 awsubsco.ga##script:inject(nano-setInterval-booster.js)
 elsfile.org##script:inject(abort-on-property-write.js, Fingerprint2)
 elsfile.org##script:inject(nano-setInterval-booster.js)
+safelinkreviewz.com##script:inject(nano-setInterval-booster.js)
+speedtest.net##script:inject(nano-setInterval-booster.js)
 soundcloud.com##script:inject(abort-on-property-write.js, Fingerprint2)
 v1.94lauin.com##script:inject(abort-on-property-write.js, Fingerprint2)
 v1.94lauin.com##script:inject(nano-setInterval-booster.js)
