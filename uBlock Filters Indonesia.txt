@@ -374,6 +374,8 @@ rawgit.com$third-party,domain=myanimeindo.net
 rtbapi.net$third-party
 safelinkconverter.com$third-party,script
 safelinku$third-party,script
+safelinku.net/downlaod1.
+safelinku.net/download.
 schillmania.com/projects$third-party
 senditcloud.com$popup
 serve.popads.net/s?cid=$popup
@@ -437,10 +439,10 @@ zpfjfwbij.com$third-party
 @@jwpltx.com
 @@linkbucks.com/scripts/intermissionLink
 @@meongs.bid
-@@ouo.io$domain=~blogforhelpyou.blogspot.com
+@@ouo.io$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr
 @@pagead2.googlesyndication.com$domain=safelink.top
 @@revdepo.com/static/advertisement.js
-@@safelinku.com$domain=~blogforhelpyou.blogspot.com
+@@safelinku.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr
 @@shrinklink.co/js/ads.js
 @@uplod.cc*advertisement$script
 
