@@ -6,7 +6,7 @@
 ! - Adguard Spyware Filters
 ! - Adguard’s Annoyance List
 ! - EasyList
-! - hpHosts’ Ad and tracking servers​​​​​
+! - hpHosts’ Ad and tracking servers
 ! - MVPS HOSTS
 ! - Peter Lowe’s Ad and tracking server list
 ! Dan matikan 3rd-party filters selain yang tidak tertera di atas
@@ -28,194 +28,6 @@
 ! Jika Anda masih mendapatkan iklan dari website yang Anda sukai,
 ! Anda dapat melaporkan kepada kami untuk memblock iklan yang ada di website tersebut
 ! Caranya, Buka web lalu tuliskan komentar Anda di : blogforhelpyou.blogspot.co.id/2017/12/uBlockfiltersIndonesia.html
-
-========== ## and ### List ==========
-
-##a[href="/76BMlHexsYA&fix=1"]
--------------------------------------
-##a[href*="//6c37f8a12dede103bf7.com"]
-##a[href*="//adserver.adreactor.com"]
-##a[href*="bit.ly/2fxPTzf"]
-##a[href*="earth-111.com"]
-##a[href*="href.li"]
-##a[href*="inclk.com"]
-##a[href*="mellowads.com"]
--------------------------------------
-##article:nth-of-type(5) > .clearfix
-##iframe[src*="/widget.html"]
-##iframe[src*="servlet/redirect.srv"]
--------------------------------------
-##.ablkAlert
-##.adlink2
-##.adsbyadop
-##.adsbygoogle
-##.adsgen
-##.adsgen1
-##.adsiber
-##.ArevicoModal
-##.bsac-link
-##.dark.jquery-adi
-##.disads300px
-##.disads301px
-##.disads728px
-##.error.test-status
-##.gb_g.gb_Tc.gb_ud
-##.hads
-##.in_up_ad-area
-##.left.left_bottom_ad.widget
-##.onesuch
-##.right.right_middle_ad.widget
-##.right.right_top_ad.widget
--------------------------------------
-awsubs.co##.fb_iframe_widget.fb-like
-awsubs.co##.minipusat
-awsubs.co##.pusat728
-coeg.in##.c-message > div:nth-of-type(1)
-coeg.in##.disclaimer
-gigapurbalingga.net##.code-block-1.code-block
-gigapurbalingga.net##.code-block-2.code-block
-juraganfiles.com##.no-padding.box.container > center
-kompas.com##.clearfix.kcm__horizontal.kcm
-kompas.com##.js-kcm-horizontal.kcm__close
-myanimelist.net##._unit
-siherp.com##.c-message > div:nth-of-type(1)
-siherp.com##.disclaimer
-siotong.com##.c-message > div:nth-of-type(1)
-siotong.com##.disclaimer
-solidfiles.com##.premium-promo.box
-solidfiles.com##.remove
-susutinv2.com##.panel-body.panel-default.panel > h3
-telondasmu.com##.c-message > div:nth-of-type(1)
-telondasmu.com##.disclaimer
--------------------------------------
-aw-games.net##h1
-aw-games.net##img[src*="prntscr.com"]
-short.awsubs.co##h1
-short.awsubs.co##img[src*="awsubs.co"]
-coeg.in##h2
-oploverz.in##s
-oploverz.in##u
-siherp.com##h2
-siotong.com##h2
-susutinv2.com##h2
-susutinv2.com##p:nth-of-type(1)
-susutinv2.com##p:nth-of-type(2)
-susutinv2.com##p:nth-of-type(3)
-susutinv2.com##p:nth-of-type(4)
-susutinv2.com##p:nth-of-type(5)
-susutinv2.com##p:nth-of-type(6)
-susutinv2.com##p:nth-of-type(7)
-susutinv2.com##p:nth-of-type(8)
-telondasmu.com##h2
--------------------------------------
-###abAlert
-###banner_ikln_tengah
-###b300
-###btm_banner
-###ctr_banner
-###h237
-###popup
-###v3ea
-###videoad1
-###z2c7
--------------------------------------
-dataid.us###loading
-dewafile.com###download
-indoxxi.net###extand
-liz.zdonlot.in###close-banner
-tribunnews.com###articleright
-
-========== ^ List ==========
-
-^restricted
-restricted$domain=behind-the-scene
-^restricted*error=404$popup
-
-========== & List ==========
-
-&aff_sub2=$popunder
-&aff_sub2=$popup
-
-========== ? List ==========
-
-?r*pagead2.googlesyndication.com$popup
-
-========== / List ==========
-
--728x90.
--728-x-90.
-/1market.php
-/296467_712a70a8-97e6-11e4-9eb1-ca992523fab8.jpg
-/7811552/250x250.gif
-/7813650/paxful.gif
-/abd.interstitial.preroll$script,third-party
-/adnetwork.js$script,third-party
-/adsbottompagenav.
-/adsleft.
-/adsmobilebottom.
-/adsmobiletop.
-/api/inventory
-/app/assets/js/app_$script
-/autoptimize$domain=oploverz.in
-/autoptimize*autoptimize$script
-/Banner-*.gif
-/cdn-cgi/beacon/
-/cdn-cgi/pe/bag2?r
-/csi_204
-/error_204
-/funcript
-/gen204
-/gen_204
-/gen_204$other,domain=behind-the-scene
-/generate_204
-/HOKI365.gif
-/iklan/728
-/includes/left_list-ad.php
-/index.php?ajax/ad-action
-/index.php?page=t&f=
-/js/packed/interstitial-page.js
-/js.betterpop.js
-/jserror?
-/keremiyav4/js/lockscript.js
-/layarkaca21/js/lk21ads.js
-/log?format=
-/mts_ad_sense/js
-/nontonanime.org/js/ads.js
-/ouo2018$script,third-party
-/popupad$script,third-party
-/ppu.js
-/safelink$script,third-party
-/safelink-indolinker
-/scripts/x.js?
-/safe.$script,domain=ad4msan.com
-/sl.$script,domain=ad4msan.com
-/sora$script,third-party
-/static/101/site.js?
-/static/js/amvn.js
-/sugoi$script
-/themes/*/dist/scripts/main.js
-/TOTO-300-x-250.
-/videojs.vast.vpaid.min
-/videojs_5.vast.vpaid.min
-/widgets/www.hiqqu$third-party
-/wp-adblock-
-/wp-content/themes/animeindo/images/blacktr.png
-/wp-content/themes/animeku/iklan/
-/wp-content/uploads/iklan/
-/wp-jw-player/css/popup
-/wp-jw-player/js/popup.js
-/wpad/
-/www-static/css/premium/premium-modals.css$important
-/www-static/js/premium/premium-modals.js$important
-/www-static/js/widgets-live-popup.js$important
-
-========== . List ==========
-
-.adskom.com$third-party
-.bid$third-party
-.cc/_Incapsula_Resource?
-.com/*.html?q$popunder
-.org/lube
 
 ========== URL List ==========
 
@@ -253,6 +65,7 @@ adtival.com$third-party
 agreemand.com$third-party
 alicdn.com/g/alilog/mlog/aplus_int.js$third-party
 ambient-platform.com$third-party
+amjadfreesoft.com$third-party
 anime21.co/content/template/images/
 animeindo.net/wp-content/uploads/*.gif
 animeindo.video/area.js
@@ -380,11 +193,11 @@ schillmania.com/projects$third-party
 senditcloud.com$popup
 serve.popads.net/s?cid=$popup
 shrinklink.co$third-party,script
-strucewe.info$third-party
 smartphonelist.com$popunder
 smartphonelist.com$popup
 smartphoneslist.com$popunder
 smartphoneslist.com$popup
+strucewe.info$third-party
 surgeprice.com$third-party
 tagbucket.cc$third-party
 tango-deg.com$popunder
@@ -417,6 +230,99 @@ zenmate.com/api/analyze?
 zippyshare.com$generichide,important
 zpfjfwbij.com$third-party
 
+========== ^ List ==========
+
+^restricted
+restricted$domain=behind-the-scene
+^restricted*error=404$popup
+
+========== & List ==========
+
+&aff_sub2=$popunder
+&aff_sub2=$popup
+
+========== ? List ==========
+
+?r*pagead2.googlesyndication.com$popup
+
+========== / List ==========
+
+-728x90.
+-728-x-90.
+/1market.php
+/296467_712a70a8-97e6-11e4-9eb1-ca992523fab8.jpg
+/7811552/250x250.gif
+/7813650/paxful.gif
+/abd.interstitial.preroll$script,third-party
+/adnetwork.js$script,third-party
+/adsbottompagenav.
+/adsleft.
+/adsmobilebottom.
+/adsmobiletop.
+/api/inventory
+/app/assets/js/app_$script
+/autoptimize$domain=oploverz.in
+/autoptimize*autoptimize$script
+/Banner-*.gif
+/cdn-cgi/beacon/
+/cdn-cgi/pe/bag2?r
+/csi_204
+/error_204
+/funcript
+/gen204
+/gen_204
+/gen_204$other,domain=behind-the-scene
+/generate_204
+/HOKI365.gif
+/iklan/728
+/includes/left_list-ad.php
+/index.php?ajax/ad-action
+/index.php?page=t&f=
+/js/packed/interstitial-page.js
+/js.betterpop.js
+/jserror?
+/keremiyav4/js/lockscript.js
+/layarkaca21/js/lk21ads.js
+/log?format=
+/mts_ad_sense/js
+/nontonanime.org/js/ads.js
+/ouo2018$script,third-party
+/popupad$script,third-party
+/ppu.js
+/safelink$script,third-party
+/safelink-indolinker
+/scripts/x.js?
+/safe.$script,domain=ad4msan.com
+/sl.$script,domain=ad4msan.com
+/sora$script,third-party
+/static/101/site.js?
+/static/js/amvn.js
+/sugoi$script
+/themes/*/dist/scripts/main.js
+/TOTO-300-x-250.
+/videojs.vast.vpaid.min
+/videojs_5.vast.vpaid.min
+/widgets/www.hiqqu$third-party
+/win728x90_2x.
+/wp-adblock-
+/wp-content/themes/animeindo/images/blacktr.png
+/wp-content/themes/animeku/iklan/
+/wp-content/uploads/iklan/
+/wp-jw-player/css/popup
+/wp-jw-player/js/popup.js
+/wpad/
+/www-static/css/premium/premium-modals.css$important
+/www-static/js/premium/premium-modals.js$important
+/www-static/js/widgets-live-popup.js$important
+
+========== . List ==========
+
+.adskom.com$third-party
+.bid$third-party
+.cc/_Incapsula_Resource?
+.com/*.html?q$popunder
+.org/lube
+
 ========== Unblocked URL List ==========
 
 @@/AC_RunActiveContent
@@ -447,14 +353,112 @@ zpfjfwbij.com$third-party
 @@uplod.cc*advertisement$script
 
 ========== Custom List ==========
+========== ## and ### List ==========
+
+##a[href="/76BMlHexsYA&fix=1"]
+-------------------------------------
+##a[href*="//6c37f8a12dede103bf7.com"]
+##a[href*="//adserver.adreactor.com"]
+##a[href*="bit.ly/2fxPTzf"]
+##a[href*="earth-111.com"]
+##a[href*="href.li"]
+##a[href*="inclk.com"]
+##a[href*="mellowads.com"]
+-------------------------------------
+##article:nth-of-type(5) > .clearfix
+##iframe[src*="/widget.html"]
+##iframe[src*="servlet/redirect.srv"]
+-------------------------------------
+##.ablkAlert
+##.adlink2
+##.adsbyadop
+##.adsbygoogle
+##.adsgen
+##.adsgen1
+##.adsiber
+##.ArevicoModal
+##.bsac-link
+##.dark.jquery-adi
+##.disads300px
+##.disads301px
+##.disads728px
+##.error.test-status
+##.gb_g.gb_Tc.gb_ud
+##.hads
+##.in_up_ad-area
+##.left.left_bottom_ad.widget
+##.onesuch
+##.right.right_middle_ad.widget
+##.right.right_top_ad.widget
+-------------------------------------
+awsubs.co##.fb_iframe_widget.fb-like
+awsubs.co##.minipusat
+awsubs.co##.pusat728
+coeg.in##.c-message > div:nth-of-type(1)
+coeg.in##.disclaimer
+gigapurbalingga.net##.code-block-1.code-block
+gigapurbalingga.net##.code-block-2.code-block
+juraganfiles.com##.no-padding.box.container > center
+kompas.com##.clearfix.kcm__horizontal.kcm
+kompas.com##.js-kcm-horizontal.kcm__close
+myanimelist.net##._unit
+siherp.com##.c-message > div:nth-of-type(1)
+siherp.com##.disclaimer
+siotong.com##.c-message > div:nth-of-type(1)
+siotong.com##.disclaimer
+solidfiles.com##.premium-promo.box
+solidfiles.com##.remove
+speedtest.net##.top-horizontal
+susutinv2.com##.panel-body.panel-default.panel > h3
+telondasmu.com##.c-message > div:nth-of-type(1)
+telondasmu.com##.disclaimer
+-------------------------------------
+94lauin.com##script:inject(abort-on-property-write.js, Fingerprint2)
+94lauin.com##script:inject(nano-setInterval-booster.js)
 ad4msan.com##script:inject(abort-on-property-write.js, Fingerprint2)
 ad4msan.com##script:inject(nano-setInterval-booster.js)
+aw-games.net##h1
+aw-games.net##img[src*="prntscr.com"]
 awsubsco.ga##script:inject(abort-on-property-write.js, Fingerprint2)
 awsubsco.ga##script:inject(nano-setInterval-booster.js)
+coeg.in##h2
 elsfile.org##script:inject(abort-on-property-write.js, Fingerprint2)
 elsfile.org##script:inject(nano-setInterval-booster.js)
+lenov.ru##script:inject(nano-setInterval-booster.js)
+oploverz.in##s
+oploverz.in##u
 safelinkreviewz.com##script:inject(nano-setInterval-booster.js)
-speedtest.net##script:inject(nano-setInterval-booster.js)
+short.awsubs.co##h1
+short.awsubs.co##img[src*="awsubs.co"]
+siherp.com##h2
+siotong.com##h2
 soundcloud.com##script:inject(abort-on-property-write.js, Fingerprint2)
-v1.94lauin.com##script:inject(abort-on-property-write.js, Fingerprint2)
-v1.94lauin.com##script:inject(nano-setInterval-booster.js)
+speedtest.net##script:inject(nano-setInterval-booster.js)
+susutinv2.com##h2
+susutinv2.com##p:nth-of-type(1)
+susutinv2.com##p:nth-of-type(2)
+susutinv2.com##p:nth-of-type(3)
+susutinv2.com##p:nth-of-type(4)
+susutinv2.com##p:nth-of-type(5)
+susutinv2.com##p:nth-of-type(6)
+susutinv2.com##p:nth-of-type(7)
+susutinv2.com##p:nth-of-type(8)
+telondasmu.com##h2
+upload4earn.com##script:inject(nano-setInterval-booster.js)
+-------------------------------------
+###abAlert
+###banner_ikln_tengah
+###b300
+###btm_banner
+###ctr_banner
+###h237
+###popup
+###v3ea
+###videoad1
+###z2c7
+-------------------------------------
+dataid.us###loading
+dewafile.com###download
+indoxxi.net###extand
+liz.zdonlot.in###close-banner
+tribunnews.com###articleright
