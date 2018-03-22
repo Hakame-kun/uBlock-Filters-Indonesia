@@ -231,22 +231,18 @@ zippyshare.com$generichide,important
 zpfjfwbij.com$third-party
 
 ========== ^ List ==========
-
 ^restricted
 restricted$domain=behind-the-scene
 ^restricted*error=404$popup
 
 ========== & List ==========
-
 &aff_sub2=$popunder
 &aff_sub2=$popup
 
 ========== ? List ==========
-
 ?r*pagead2.googlesyndication.com$popup
 
 ========== / List ==========
-
 -728x90.
 -728-x-90.
 /1market.php
@@ -316,7 +312,6 @@ restricted$domain=behind-the-scene
 /www-static/js/widgets-live-popup.js$important
 
 ========== . List ==========
-
 .adskom.com$third-party
 .bid$third-party
 .cc/_Incapsula_Resource?
@@ -324,7 +319,6 @@ restricted$domain=behind-the-scene
 .org/lube
 
 ========== Unblocked URL List ==========
-
 @@/AC_RunActiveContent
 @@/adimg$image
 @@/ad_top_bg2.png?
@@ -353,8 +347,8 @@ restricted$domain=behind-the-scene
 @@uplod.cc*advertisement$script
 
 ========== Custom List ==========
-========== ## and ### List ==========
 
+========== ## and ### List ==========
 ##a[href="/76BMlHexsYA&fix=1"]
 -------------------------------------
 ##a[href*="//6c37f8a12dede103bf7.com"]
