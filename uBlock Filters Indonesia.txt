@@ -55,6 +55,7 @@ adexchangecloud.com$popup
 adop.cc$third-party
 adservice.google.*$third-party
 ads.$domain=behind-the-scene
+ads.linkshrink.net$popunder
 ads.pubmatic.com$third-party
 adsdonlot.in/css/ads_donlotin.css
 adsdonlot.in/get-ads-
@@ -119,6 +120,8 @@ evidon.com$third-party
 exdynsrv.com$domain=behind-the-scene
 f0nxxmrm.me$third-party
 facebook.com$popup,domain=bagilagi.com
+firebasestorage.googleapis.com*ABP.css?$third-party
+firebasestorage.googleapis.com*ABP.js?$third-party
 fourtesy.info$third-party
 generaed.info$third-party
 genieessp.com$third-party
@@ -342,10 +345,11 @@ restricted$domain=behind-the-scene
 @@meongs.bid
 @@ouo.io$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@pagead2.googlesyndication.com$domain=safelink.top
+@@payskip.me/js/ads.
 @@revdepo.com/static/advertisement.js
 @@safelinkconverter.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@safelinku.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
-@@shrinklink.co/js/ads.js
+@@shrinklink.co/js/ads.
 @@uplod.cc*advertisement$script
 
 ========== Custom List ==========
@@ -374,11 +378,13 @@ aw-games.net##img[src*="prntscr.com"]
 awsubsco.ga##script:inject(abort-on-property-write.js, Fingerprint2)
 awsubsco.ga##script:inject(nano-setInterval-booster.js)
 coeg.in##h2
+designmyhomee.com##script:inject(nano-setInterval-booster.js)
 elsfile.org##script:inject(abort-on-property-write.js, Fingerprint2)
 elsfile.org##script:inject(nano-setInterval-booster.js)
 lenov.ru##script:inject(nano-setInterval-booster.js)
 oploverz.in##s
 oploverz.in##u
+payskip.me##script:inject(nano-setInterval-booster.js)
 safelinkreviewz.com##script:inject(nano-setInterval-booster.js)
 short.awsubs.co##h1
 short.awsubs.co##img[src*="awsubs.co"]
@@ -432,6 +438,7 @@ juraganfiles.com##.no-padding.box.container > center
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
 myanimelist.net##._unit
+pekalongan-kommuniti.net##.fb-btn-seocips
 siherp.com##.c-message > div:nth-of-type(1)
 siherp.com##.disclaimer
 siotong.com##.c-message > div:nth-of-type(1)
@@ -451,6 +458,7 @@ userscloud.com##.list-group
 ###ctr_banner
 ###h237
 ###popup
+###s141
 ###v3ea
 ###videoad1
 ###z2c7
@@ -459,4 +467,6 @@ dataid.us###loading
 dewafile.com###download
 indoxxi.net###extand
 liz.zdonlot.in###close-banner
+pekalongan-kommuniti.net###box-message
+pekalongan-kommuniti.net###s141
 tribunnews.com###articleright
