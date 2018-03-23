@@ -191,6 +191,7 @@ safelinku.net/downlaod1.
 safelinku.net/download.
 schillmania.com/projects$third-party
 senditcloud.com$popup
+sendit.cloud$third-party
 serve.popads.net/s?cid=$popup
 shrinklink.co$third-party,script
 smartphonelist.com$popunder
@@ -363,6 +364,40 @@ restricted$domain=behind-the-scene
 ##iframe[src*="/widget.html"]
 ##iframe[src*="servlet/redirect.srv"]
 -------------------------------------
+94lauin.com##script:inject(abort-on-property-write.js, Fingerprint2)
+94lauin.com##script:inject(nano-setInterval-booster.js)
+ad4msan.com##script:inject(abort-on-property-write.js, Fingerprint2)
+ad4msan.com##script:inject(nano-setInterval-booster.js)
+aw-games.net##h1
+aw-games.net##img[src*="prntscr.com"]
+awsubsco.ga##script:inject(abort-on-property-write.js, Fingerprint2)
+awsubsco.ga##script:inject(nano-setInterval-booster.js)
+coeg.in##h2
+elsfile.org##script:inject(abort-on-property-write.js, Fingerprint2)
+elsfile.org##script:inject(nano-setInterval-booster.js)
+lenov.ru##script:inject(nano-setInterval-booster.js)
+oploverz.in##s
+oploverz.in##u
+safelinkreviewz.com##script:inject(nano-setInterval-booster.js)
+short.awsubs.co##h1
+short.awsubs.co##img[src*="awsubs.co"]
+siherp.com##h2
+siotong.com##h2
+soundcloud.com##script:inject(abort-on-property-write.js, Fingerprint2)
+speedtest.net##script:inject(nano-setInterval-booster.js)
+susutinv2.com##h2
+susutinv2.com##p:nth-of-type(1)
+susutinv2.com##p:nth-of-type(2)
+susutinv2.com##p:nth-of-type(3)
+susutinv2.com##p:nth-of-type(4)
+susutinv2.com##p:nth-of-type(5)
+susutinv2.com##p:nth-of-type(6)
+susutinv2.com##p:nth-of-type(7)
+susutinv2.com##p:nth-of-type(8)
+telondasmu.com##h2
+upload4earn.com##script:inject(nano-setInterval-booster.js)
+userscloud.com##div:nth-of-type(3) > center
+-------------------------------------
 ##.ablkAlert
 ##.adlink2
 ##.adsbyadop
@@ -406,39 +441,7 @@ speedtest.net##.top-horizontal
 susutinv2.com##.panel-body.panel-default.panel > h3
 telondasmu.com##.c-message > div:nth-of-type(1)
 telondasmu.com##.disclaimer
--------------------------------------
-94lauin.com##script:inject(abort-on-property-write.js, Fingerprint2)
-94lauin.com##script:inject(nano-setInterval-booster.js)
-ad4msan.com##script:inject(abort-on-property-write.js, Fingerprint2)
-ad4msan.com##script:inject(nano-setInterval-booster.js)
-aw-games.net##h1
-aw-games.net##img[src*="prntscr.com"]
-awsubsco.ga##script:inject(abort-on-property-write.js, Fingerprint2)
-awsubsco.ga##script:inject(nano-setInterval-booster.js)
-coeg.in##h2
-elsfile.org##script:inject(abort-on-property-write.js, Fingerprint2)
-elsfile.org##script:inject(nano-setInterval-booster.js)
-lenov.ru##script:inject(nano-setInterval-booster.js)
-oploverz.in##s
-oploverz.in##u
-safelinkreviewz.com##script:inject(nano-setInterval-booster.js)
-short.awsubs.co##h1
-short.awsubs.co##img[src*="awsubs.co"]
-siherp.com##h2
-siotong.com##h2
-soundcloud.com##script:inject(abort-on-property-write.js, Fingerprint2)
-speedtest.net##script:inject(nano-setInterval-booster.js)
-susutinv2.com##h2
-susutinv2.com##p:nth-of-type(1)
-susutinv2.com##p:nth-of-type(2)
-susutinv2.com##p:nth-of-type(3)
-susutinv2.com##p:nth-of-type(4)
-susutinv2.com##p:nth-of-type(5)
-susutinv2.com##p:nth-of-type(6)
-susutinv2.com##p:nth-of-type(7)
-susutinv2.com##p:nth-of-type(8)
-telondasmu.com##h2
-upload4earn.com##script:inject(nano-setInterval-booster.js)
+userscloud.com##.list-group
 -------------------------------------
 ###abAlert
 ###banner_ikln_tengah
