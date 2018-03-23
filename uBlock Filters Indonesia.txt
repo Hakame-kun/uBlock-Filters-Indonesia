@@ -27,7 +27,7 @@
 ! Untuk apakah tutorial di atas ? Pastinya itu akan membuat pengguna dapat memblok background/behind-the-scene ads (advertisement/iklan) secara maksimal
 ! Jika Anda masih mendapatkan iklan dari website yang Anda sukai,
 ! Anda dapat melaporkan kepada kami untuk memblock iklan yang ada di website tersebut
-! Caranya, Buka web lalu tuliskan komentar Anda di : blogforhelpyou.blogspot.co.id/2017/12/uBlockfiltersIndonesia.html
+! Caranya, Buka web lalu tuliskan komentar Anda di : blogforhelpyou.blogspot.co.id/2017/12/uBlockfiltersIndonesia.html atau di GitHub : github.com/Haekal737/uBlock
 
 ========== URL List ==========
 
@@ -328,7 +328,7 @@ restricted$domain=behind-the-scene
 @@/ad_top_bg2.png?
 @@/banner$domain=filecloud.io
 @@/basement/js
-@@/js/ads.js$domain=coinlink.co|coshink.co|
+@@/js/ads.js$domain=coinlink.co|coshink.co
 @@/themes*adsbygoogle.js
 @@/wp-content/themes/jannah/js
 ----------------------------------------
@@ -371,8 +371,10 @@ restricted$domain=behind-the-scene
 -------------------------------------
 94lauin.com##script:inject(abort-on-property-write.js, Fingerprint2)
 94lauin.com##script:inject(nano-setInterval-booster.js)
+9files.co##a[href*="onamind.com"]
 ad4msan.com##script:inject(abort-on-property-write.js, Fingerprint2)
 ad4msan.com##script:inject(nano-setInterval-booster.js)
+addfile.org##a[href*="onamind.com"]
 aw-games.net##h1
 aw-games.net##img[src*="prntscr.com"]
 awsubsco.ga##script:inject(abort-on-property-write.js, Fingerprint2)
@@ -385,6 +387,7 @@ lenov.ru##script:inject(nano-setInterval-booster.js)
 oploverz.in##s
 oploverz.in##u
 payskip.me##script:inject(nano-setInterval-booster.js)
+qtfile.com##a[href*="onamind.com"]
 safelinkreviewz.com##script:inject(nano-setInterval-booster.js)
 short.awsubs.co##h1
 short.awsubs.co##img[src*="awsubs.co"]
@@ -402,6 +405,7 @@ susutinv2.com##p:nth-of-type(6)
 susutinv2.com##p:nth-of-type(7)
 susutinv2.com##p:nth-of-type(8)
 telondasmu.com##h2
+upfile.mobi##a[href*="onamind.com"]
 upload4earn.com##script:inject(nano-setInterval-booster.js)
 userscloud.com##div:nth-of-type(3) > center
 -------------------------------------
