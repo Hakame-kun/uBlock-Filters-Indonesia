@@ -340,10 +340,11 @@ restricted$domain=behind-the-scene
 @@jwpltx.com
 @@linkbucks.com/scripts/intermissionLink
 @@meongs.bid
-@@ouo.io$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr
+@@ouo.io$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@pagead2.googlesyndication.com$domain=safelink.top
 @@revdepo.com/static/advertisement.js
-@@safelinku.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr
+@@safelinkconverter.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
+@@safelinku.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@shrinklink.co/js/ads.js
 @@uplod.cc*advertisement$script
 
