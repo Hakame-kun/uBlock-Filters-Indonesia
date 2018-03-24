@@ -43,6 +43,7 @@
 8lhf65dy.com$third-party
 ------------------------------
 a.admp.io$third-party
+ad.a-ads.com$third-party
 a.props.$third-party
 acorporary.info$third-party
 acroscow.com$third-party
@@ -232,7 +233,6 @@ xx1.me/sworker.js
 xydeyou.com$third-party,script
 youtube.com/api/stats/watchtime?$important
 zenmate.com/api/analyze?
-zippyshare.com$generichide,important
 zpfjfwbij.com$third-party
 
 ========== ^ List ==========
@@ -383,6 +383,7 @@ coeg.in##h2
 designmyhomee.com##script:inject(nano-setInterval-booster.js)
 elsfile.org##script:inject(abort-on-property-write.js, Fingerprint2)
 elsfile.org##script:inject(nano-setInterval-booster.js)
+greget.space##h2
 lenov.ru##script:inject(nano-setInterval-booster.js)
 oploverz.in##s
 oploverz.in##u
@@ -434,10 +435,13 @@ userscloud.com##div:nth-of-type(3) > center
 awsubs.co##.fb_iframe_widget.fb-like
 awsubs.co##.minipusat
 awsubs.co##.pusat728
+citpekalongan.com##.section.header-right
 coeg.in##.c-message > div:nth-of-type(1)
 coeg.in##.disclaimer
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
+greget.space##.c-message > div:nth-of-type(1)
+greget.space##.disclaimer
 juraganfiles.com##.no-padding.box.container > center
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
