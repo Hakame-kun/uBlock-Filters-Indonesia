@@ -54,7 +54,7 @@ adexchangecloud.com$popunder
 adexchangecloud.com$popup
 adop.cc$third-party
 adservice.google.*$third-party
-ads.$domain=behind-the-scene
+ads.$third-party
 ads.linkshrink.net$popunder
 ads.pubmatic.com$third-party
 adsdonlot.in/css/ads_donlotin.css
@@ -117,7 +117,7 @@ ecvladelayk.com$third-party
 eiqzyxofsgzel.com$third-party
 elthamely.com$third-party
 evidon.com$third-party
-exdynsrv.com$domain=behind-the-scene
+exdynsrv.com$third-party
 f0nxxmrm.me$third-party
 facebook.com$popup,domain=bagilagi.com
 firebasestorage.googleapis.com*ABP.css?$third-party
@@ -236,7 +236,7 @@ zpfjfwbij.com$third-party
 
 ========== ^ List ==========
 ^restricted
-restricted$domain=behind-the-scene
+restricted$third-party
 ^restricted*error=404$popup
 
 ========== & List ==========
@@ -271,7 +271,6 @@ restricted$domain=behind-the-scene
 /funcript
 /gen204
 /gen_204
-/gen_204$other,domain=behind-the-scene
 /generate_204
 /HOKI365.gif
 /iklan/728
@@ -453,7 +452,7 @@ speedtest.net##.top-horizontal
 susutinv2.com##.panel-body.panel-default.panel > h3
 telondasmu.com##.c-message > div:nth-of-type(1)
 telondasmu.com##.disclaimer
-userscloud.com##.list-group
+userscloud.com##.media-body > center
 -------------------------------------
 ###abAlert
 ###banner_ikln_tengah
