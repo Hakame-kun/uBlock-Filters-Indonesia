@@ -27,7 +27,7 @@
 ! Untuk apakah tutorial di atas ? Pastinya itu akan membuat pengguna dapat memblok background/behind-the-scene ads (advertisement/iklan) secara maksimal
 ! Jika Anda masih mendapatkan iklan dari website yang Anda sukai,
 ! Anda dapat melaporkan kepada kami untuk memblock iklan yang ada di website tersebut
-! Caranya, Buka web lalu tuliskan komentar Anda di : blogforhelpyou.blogspot.co.id/2017/12/uBlockfiltersIndonesia.html atau di GitHub : github.com/Haekal737/uBlock
+! Caranya, Buka web lalu tuliskan komentar Anda di : blogforhelpyou.blogspot.co.id/2017/12/uBlockfiltersIndonesia.html atau di GitHub : github.com/Hakame-kun/uBlock
 
 ========== URL List ==========
 
