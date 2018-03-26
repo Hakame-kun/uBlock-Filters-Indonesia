@@ -190,6 +190,7 @@ qregation.info$third-party
 r2games.com$domain=behind-the-scene
 rawgit.com$third-party,domain=myanimeindo.net
 rtbapi.net$third-party
+runtnc.net$third-party
 safelinkconverter.com$third-party,script
 safelinku$third-party,script
 safelinku.net/downlaod1.
@@ -198,6 +199,7 @@ schillmania.com/projects$third-party
 senditcloud.com$popup
 sendit.cloud$third-party
 serve.popads.net/s?cid=$popup
+shelljacket.us$third-party
 shrinklink.co$third-party,script
 smartphonelist.com$popunder
 smartphonelist.com$popup
@@ -326,17 +328,19 @@ restricted$third-party
 @@/AC_RunActiveContent
 @@/adimg$image
 @@/ad_top_bg2.png?
-@@/banner$domain=filecloud.io
 @@/basement/js
-@@/js/ads.js$domain=coinlink.co|coshink.co
-@@/themes*adsbygoogle.js
+@@/download^$xmlhttprequest,domain=speedtest.net 
+@@/hello^$xmlhttprequest,domain=speedtest.net 
+@@/ping^$xmlhttprequest,domain=speedtest.net
+@@/themes*js/adsbygoogle.js
+@@/upload^$xmlhttprequest,domain=speedtest.net
 @@/wp-content/themes/jannah/js
 ----------------------------------------
-@@ad4msan.win$generichide
 @@adf.ly/*.php$popup
 @@asr-games.net/newjs
 @@bagilagi.com$generichide
 @@bigspeeds.com/ajax/advertisement.js
+@@clksite.com/static/advertisement.
 @@d.bloggerku.com/safelink/1.0/script.js
 @@igg-games.com
 @@juragan-anime.net/wp-content/cache
@@ -345,7 +349,6 @@ restricted$third-party
 @@meongs.bid
 @@ouo.io$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@pagead2.googlesyndication.com$domain=safelink.top
-@@payskip.me/js/ads.
 @@revdepo.com/static/advertisement.js
 @@safelinkconverter.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@safelinku.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
@@ -369,20 +372,22 @@ restricted$third-party
 ##iframe[src*="/widget.html"]
 ##iframe[src*="servlet/redirect.srv"]
 -------------------------------------
-94lauin.com##script:inject(abort-on-property-write.js, Fingerprint2)
+123link.pw##script:inject(nano-setInterval-booster.js)
+94lauin.com##script:inject(abort-on-property-read.js, h237)
 94lauin.com##script:inject(nano-setInterval-booster.js)
 9files.co##a[href*="onamind.com"]
-ad4msan.com##script:inject(abort-on-property-write.js, Fingerprint2)
+ad4msan.com##script:inject(addEventListener-defuser.js)
 ad4msan.com##script:inject(nano-setInterval-booster.js)
 addfile.org##a[href*="onamind.com"]
 aw-games.net##h1
 aw-games.net##img[src*="prntscr.com"]
-awsubsco.ga##script:inject(abort-on-property-write.js, Fingerprint2)
+awsubsco.ga##script:inject(abort-on-property-read.js)
 awsubsco.ga##script:inject(nano-setInterval-booster.js)
 coeg.in##h2
 designmyhomee.com##script:inject(nano-setInterval-booster.js)
-elsfile.org##script:inject(abort-on-property-write.js, Fingerprint2)
+elsfile.org##script:inject(abort-on-property-read.js, h237)
 elsfile.org##script:inject(nano-setInterval-booster.js)
+filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
 greget.space##h2
 lenov.ru##script:inject(nano-setInterval-booster.js)
 oploverz.in##s
@@ -394,7 +399,6 @@ short.awsubs.co##h1
 short.awsubs.co##img[src*="awsubs.co"]
 siherp.com##h2
 siotong.com##h2
-soundcloud.com##script:inject(abort-on-property-write.js, Fingerprint2)
 speedtest.net##script:inject(nano-setInterval-booster.js)
 susutinv2.com##h2
 susutinv2.com##p:nth-of-type(1)
@@ -411,6 +415,7 @@ upload4earn.com##script:inject(nano-setInterval-booster.js)
 userscloud.com##div:nth-of-type(3) > center
 -------------------------------------
 ##.ablkAlert
+##.adBtn
 ##.adlink2
 ##.adsbyadop
 ##.adsbygoogle
@@ -420,6 +425,7 @@ userscloud.com##div:nth-of-type(3) > center
 ##.ArevicoModal
 ##.bsac-link
 ##.dark.jquery-adi
+##.disable-ad
 ##.disads300px
 ##.disads301px
 ##.disads728px
@@ -453,6 +459,8 @@ siotong.com##.c-message > div:nth-of-type(1)
 siotong.com##.disclaimer
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
+speedtest.net##.lower-horizontal.ad
+speedtest.net##.notification-container
 speedtest.net##.top-horizontal
 susutinv2.com##.panel-body.panel-default.panel > h3
 telondasmu.com##.c-message > div:nth-of-type(1)
