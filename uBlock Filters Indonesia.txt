@@ -69,6 +69,7 @@ agreemand.com$third-party
 alicdn.com/g/alilog/mlog/aplus_int.js$third-party
 ambient-platform.com$third-party
 amjadfreesoft.com$third-party
+androidrepublic.org/js/siropu/chat
 anime21.co/content/template/images/
 animeindo.net/wp-content/uploads/*.gif
 animeindo.video/area.js
@@ -79,6 +80,7 @@ arequiry.info$third-party
 areyouahuman.com$third-party
 assets.adobedtm.com$third-party
 ayclinical.com$third-party
+bit.ly/PokerQQ$popup
 boostads.site$third-party
 boudja.com$third-party
 bp.blogspot.com$third-party,domain=elsfile.org
@@ -120,6 +122,7 @@ eiqzyxofsgzel.com$third-party
 elthamely.com$third-party
 evidon.com$third-party
 exdynsrv.com$third-party
+eyeota.net$third-party
 f0nxxmrm.me$third-party
 facebook.com$popup,domain=bagilagi.com
 firebasestorage.googleapis.com*ABP.css?$third-party
@@ -141,11 +144,11 @@ hh-btr.com$popup
 hikarinoakariost.info$inline-script
 hitcpm.com$popunder
 hitcpm.com$popup
+i.imgur.com$third-party,domain=awsubs.co|nanime.org|nontonanime.id
 i027m.top$third-party
 idsly.com$third-party
 imgclick.net$generichide,important
 imgu.info$third-party
-imgur.com$third-party,domain=awsubs.co|nanime.org|nontonanime.id
 img.topddl.net/*gif$third-party
 impactify.io$third-party
 inclk.com/itab/sa?cid=$popunder
@@ -171,6 +174,7 @@ meownime.com$inline-script
 minishing.com$popup
 minishing.com$third-party
 misslk.com$third-party
+ml314.com$third-party
 mmstat.com/v.gif?$third-party
 naenticle.info$third-party
 nephritish.com$third-party
@@ -181,6 +185,7 @@ pc2ads.com$third-party
 pgl.yoyo.org$third-party
 platinmods.com/deferred.php
 platinmods.com/index.php?chat/refresh
+platinmods.com/js/Siropu/Chat
 play.google.com/log$third-party
 plenty.analisis.io$third-party
 postimg.org$third-party,image,domain=coeg.in|siotong.com|telondasmu.com
@@ -211,8 +216,10 @@ tagbucket.cc$third-party
 tango-deg.com$popunder
 tango-deg.com$popup
 tawk.to$third-party
+tcheats.com$inline-script,domain=tcheats.com
 tfw-current.s3.amazonaws.com
 threadsphere.bid/js/display.js
+tidaltv.com$third-party
 tobys.dk$inline-script,domain=tobys.dk
 torpsol.com$popunder
 torpsol.com$popup
@@ -220,6 +227,7 @@ treasuredata.com$third-party
 tuxzictbrqietq.com$third-party
 uadexchange.com$third-party
 uzone.id$third-party
+w55c.net$third-party
 webmine.pro$third-party
 whxhegjrqlddko.com$third-party
 wjkwjcmeymu.com$third-party
@@ -341,7 +349,9 @@ restricted$third-party
 @@bagilagi.com$generichide
 @@bigspeeds.com/ajax/advertisement.js
 @@clksite.com/static/advertisement.
+@@cloudflare.com$domain=freevpn.us
 @@d.bloggerku.com/safelink/1.0/script.js
+@@freevpn.us$generichide
 @@igg-games.com
 @@juragan-anime.net/wp-content/cache
 @@jwpltx.com
@@ -385,10 +395,13 @@ awsubsco.ga##script:inject(abort-on-property-read.js)
 awsubsco.ga##script:inject(nano-setInterval-booster.js)
 coeg.in##h2
 designmyhomee.com##script:inject(nano-setInterval-booster.js)
+dynamicssh.com##script:inject(abort-on-property-read.js)
+dynamicssh.com##script:inject(nano-setInterval-booster.js)
 elsfile.org##script:inject(abort-on-property-read.js, h237)
 elsfile.org##script:inject(nano-setInterval-booster.js)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
 greget.space##h2
+idsly.bid##script:inject(nano-setInterval-booster.js)
 lenov.ru##script:inject(nano-setInterval-booster.js)
 oploverz.in##s
 oploverz.in##u
@@ -451,6 +464,8 @@ greget.space##.disclaimer
 juraganfiles.com##.no-padding.box.container > center
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
+lenov.ru##.clearfix.rek-but:nth-of-type(1)
+lenov.ru##.clearfix.rek-red.rek-but
 myanimelist.net##._unit
 pekalongan-kommuniti.net##.fb-btn-seocips
 siherp.com##.c-message > div:nth-of-type(1)
@@ -479,10 +494,12 @@ userscloud.com##.media-body > center
 ###videoad1
 ###z2c7
 -------------------------------------
+androidrepublic.org###siropuChat
 dataid.us###loading
 dewafile.com###download
 indoxxi.net###extand
 liz.zdonlot.in###close-banner
 pekalongan-kommuniti.net###box-message
 pekalongan-kommuniti.net###s141
+platinmods.com###siropuChat
 tribunnews.com###articleright
