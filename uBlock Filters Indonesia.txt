@@ -102,6 +102,7 @@ cpaoptimizer.com$popup
 cpaoptimizer.com$third-party
 croissed.info$third-party
 crypto-loot.com$third-party
+cwv3_bg_image
 d162nnmwf9bggr.cloudfront.net$third-party
 d1nmxiiewlx627.cloudfront.net$third-party
 d2ghscazvn398x.cloudfront.net$third-party
@@ -223,6 +224,7 @@ tidaltv.com$third-party
 tobys.dk$inline-script,domain=tobys.dk
 torpsol.com$popunder
 torpsol.com$popup
+trafficsan.com$third-party
 treasuredata.com$third-party
 tuxzictbrqietq.com$third-party
 uadexchange.com$third-party
@@ -352,6 +354,7 @@ restricted$third-party
 @@cloudflare.com$domain=freevpn.us
 @@d.bloggerku.com/safelink/1.0/script.js
 @@freevpn.us$generichide
+@@games.co.id/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
 @@igg-games.com
 @@juragan-anime.net/wp-content/cache
 @@jwpltx.com
@@ -359,10 +362,14 @@ restricted$third-party
 @@meongs.bid
 @@ouo.io$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@pagead2.googlesyndication.com$domain=safelink.top
+@@payskip.me/js/ads.
+@@qualityfilehosting.com$elemhide
+@@qualityfilehosting.com/adframe.
 @@revdepo.com/static/advertisement.js
 @@safelinkconverter.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@safelinku.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@shrinklink.co/js/ads.
+@@tunnl.com/js/ads.js?
 @@uplod.cc*advertisement$script
 
 ========== Custom List ==========
@@ -427,6 +434,7 @@ upfile.mobi##a[href*="onamind.com"]
 upload4earn.com##script:inject(nano-setInterval-booster.js)
 userscloud.com##div:nth-of-type(3) > center
 -------------------------------------
+##.__b-popup1__.b-modal
 ##.ablkAlert
 ##.adBtn
 ##.adlink2
@@ -438,6 +446,7 @@ userscloud.com##div:nth-of-type(3) > center
 ##.ArevicoModal
 ##.bsac-link
 ##.dark.jquery-adi
+##.dialog-overlay.cwv3
 ##.disable-ad
 ##.disads300px
 ##.disads301px
@@ -446,6 +455,7 @@ userscloud.com##div:nth-of-type(3) > center
 ##.gb_g.gb_Tc.gb_ud
 ##.hads
 ##.in_up_ad-area
+##.js.cwv3_dialog
 ##.left.left_bottom_ad.widget
 ##.onesuch
 ##.right.right_middle_ad.widget
@@ -483,6 +493,7 @@ telondasmu.com##.disclaimer
 userscloud.com##.media-body > center
 -------------------------------------
 ###abAlert
+###agegate_content
 ###banner_ikln_tengah
 ###b300
 ###btm_banner
