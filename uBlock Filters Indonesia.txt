@@ -129,6 +129,7 @@ facebook.com$popup,domain=bagilagi.com
 firebasestorage.googleapis.com*ABP.css?$third-party
 firebasestorage.googleapis.com*ABP.js?$third-party
 fourtesy.info$third-party
+gambar123.com$third-party,domain=46.166.167.16|semprot.com|semprotku.com
 generaed.info$third-party
 genieessp.com$third-party
 go.*gold.net/id$third-party
@@ -390,37 +391,27 @@ restricted$third-party
 ##iframe[src*="servlet/redirect.srv"]
 -------------------------------------
 123link.pw##script:inject(nano-setInterval-booster.js)
-94lauin.com##script:inject(abort-on-property-read.js, h237)
-94lauin.com##script:inject(nano-setInterval-booster.js)
-9files.co##a[href*="onamind.com"]
+94lauin.com,elsfile.org##script:inject(abort-on-property-read.js, h237)
+94lauin.com,elsfile.org##script:inject(nano-setInterval-booster.js)
+9files.co,addfile.org,qtfile.com,upfile.mobi##a[href*="onamind.com"]
 ad4msan.com##script:inject(addEventListener-defuser.js)
 ad4msan.com##script:inject(nano-setInterval-booster.js)
-addfile.org##a[href*="onamind.com"]
-aw-games.net##h1
-aw-games.net##img[src*="prntscr.com"]
+aw-games.net,short.awsubs.co##h1
+aw-games.net,short.awsubs.co##img[src*="awsubs.co,prntscr.com"]
 awsubsco.ga##script:inject(abort-on-property-read.js)
 awsubsco.ga##script:inject(nano-setInterval-booster.js)
-coeg.in##h2
+coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com##h2
 designmyhomee.com##script:inject(nano-setInterval-booster.js)
 dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
-elsfile.org##script:inject(abort-on-property-read.js, h237)
-elsfile.org##script:inject(nano-setInterval-booster.js)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
-greget.space##h2
 idsly.bid##script:inject(nano-setInterval-booster.js)
 lenov.ru##script:inject(nano-setInterval-booster.js)
 oploverz.in##s
 oploverz.in##u
 payskip.me##script:inject(nano-setInterval-booster.js)
-qtfile.com##a[href*="onamind.com"]
 safelinkreviewz.com##script:inject(nano-setInterval-booster.js)
-short.awsubs.co##h1
-short.awsubs.co##img[src*="awsubs.co"]
-siherp.com##h2
-siotong.com##h2
 speedtest.net##script:inject(nano-setInterval-booster.js)
-susutinv2.com##h2
 susutinv2.com##p:nth-of-type(1)
 susutinv2.com##p:nth-of-type(2)
 susutinv2.com##p:nth-of-type(3)
@@ -429,9 +420,6 @@ susutinv2.com##p:nth-of-type(5)
 susutinv2.com##p:nth-of-type(6)
 susutinv2.com##p:nth-of-type(7)
 susutinv2.com##p:nth-of-type(8)
-telondasmu.com##h2
-upfile.mobi##a[href*="onamind.com"]
-upload4earn.com##script:inject(nano-setInterval-booster.js)
 userscloud.com##div:nth-of-type(3) > center
 -------------------------------------
 ##.__b-popup1__.b-modal
@@ -461,16 +449,16 @@ userscloud.com##div:nth-of-type(3) > center
 ##.right.right_middle_ad.widget
 ##.right.right_top_ad.widget
 -------------------------------------
+46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
+46.166.167.16,semprot.com,semprotku.com##.warning
 awsubs.co##.fb_iframe_widget.fb-like
 awsubs.co##.minipusat
 awsubs.co##.pusat728
 citpekalongan.com##.section.header-right
-coeg.in##.c-message > div:nth-of-type(1)
-coeg.in##.disclaimer
+coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##.c-message > div:nth-of-type(1)
+coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##.disclaimer
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
-greget.space##.c-message > div:nth-of-type(1)
-greget.space##.disclaimer
 juraganfiles.com##.no-padding.box.container > center
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
@@ -478,18 +466,12 @@ lenov.ru##.clearfix.rek-but:nth-of-type(1)
 lenov.ru##.clearfix.rek-red.rek-but
 myanimelist.net##._unit
 pekalongan-kommuniti.net##.fb-btn-seocips
-siherp.com##.c-message > div:nth-of-type(1)
-siherp.com##.disclaimer
-siotong.com##.c-message > div:nth-of-type(1)
-siotong.com##.disclaimer
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
 speedtest.net##.lower-horizontal.ad
 speedtest.net##.notification-container
 speedtest.net##.top-horizontal
 susutinv2.com##.panel-body.panel-default.panel > h3
-telondasmu.com##.c-message > div:nth-of-type(1)
-telondasmu.com##.disclaimer
 userscloud.com##.media-body > center
 -------------------------------------
 ###abAlert
