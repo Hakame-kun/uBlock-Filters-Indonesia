@@ -32,12 +32,9 @@
 
 ========== URL List ==========
 
-.doubleclick.net*ad$third-party
+doubleclick.net$third-party
 ------------------------------
 *.*-adnow.com$script,third-party
-*bp.blogspot.com/-2q1uG5S7AOI/WjT_ilAeypI/AAAAAAAAA1o/lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
-*bp.blogspot.com/-4iMj8lE8K7w/Vyz57GClIHI/AAAAAAAADDI/LkdTwv6o7OAfOMlx2k764u22OX7TgeiSACLcB/s1600/Adblock.
-3.bp.blogspot.com/-AmCc0DAkbzI/WHnXC8-s60I/AAAAAAAABt8/RTwuo4KqfSU0AYIDF9g5Bz8VfSJpXJi7gCLcB/s1600/1.jpg
 6c37f8a12dede103bf7.com$third-party
 4youtds.com$popup
 8lhf65dy.com$third-party
@@ -113,7 +110,6 @@ d3ud741uvs727m.cloudfront.net$third-party
 dc08i221b0n8a.cloudfront.net$third-party
 digiads.co.id$third-party
 dl.jeodrive.com$popup,domain=jheberg.net
-doubleclick.net$important,domain=speedtest.net
 dr1.masbro.id/iklan/fob.css
 dr1.masbro.id/js2.js
 dwindly.io$third-party
@@ -156,7 +152,6 @@ impactify.io$third-party
 inclk.com/itab/sa?cid=$popunder
 inclk.com/itab/sa?cid=$popup
 ipify.org$third-party
-javascript:*.$popup
 jerwested.info$third-party
 joneself.com$third-party
 knoacc.org$third-party
@@ -190,7 +185,7 @@ platinmods.com/index.php?chat/refresh
 platinmods.com/js/Siropu/Chat
 play.google.com/log$third-party
 plenty.analisis.io$third-party
-postimg.org$third-party,image,domain=coeg.in|siotong.com|telondasmu.com
+postimg.org$third-party,image,domain=coeg.in|siotong.com|telondasmu.com|thejual.com
 provalist.info$third-party
 puu.sh/xv53n$third-party
 qregation.info$third-party
@@ -296,12 +291,15 @@ restricted$third-party
 /jserror?
 /keremiyav4/js/lockscript.js
 /layarkaca21/js/lk21ads.js
+/LkdTwv6o7OAfOMlx2k764u22OX7TgeiSACLcB/s1600/Adblock.
 /log?format=
+/lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
 /mts_ad_sense/js
 /nontonanime.org/js/ads.js
 /ouo2018$script,third-party
 /popupad$script,third-party
 /ppu.js
+/RTwuo4KqfSU0AYIDF9g5Bz8VfSJpXJi7gCLcB/s1600/1.jpg
 /safelink$script,third-party
 /safelink-indolinker
 /scripts/x.js?
@@ -396,8 +394,8 @@ restricted$third-party
 9files.co,addfile.org,qtfile.com,upfile.mobi##a[href*="onamind.com"]
 ad4msan.com##script:inject(addEventListener-defuser.js)
 ad4msan.com##script:inject(nano-setInterval-booster.js)
+aw-games.net,short.awsubs.co##center:nth-of-type(2)
 aw-games.net,short.awsubs.co##h1
-aw-games.net,short.awsubs.co##img[src*="awsubs.co,prntscr.com"]
 awsubsco.ga##script:inject(abort-on-property-read.js)
 awsubsco.ga##script:inject(nano-setInterval-booster.js)
 coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com##h2
@@ -495,4 +493,5 @@ liz.zdonlot.in###close-banner
 pekalongan-kommuniti.net###box-message
 pekalongan-kommuniti.net###s141
 platinmods.com###siropuChat
+revolt.group###category_shoutbox
 tribunnews.com###articleright
