@@ -32,8 +32,6 @@
 
 ========== URL List ==========
 
-doubleclick.net$third-party
-------------------------------
 *.*-adnow.com$script,third-party
 6c37f8a12dede103bf7.com$third-party
 4youtds.com$popup
@@ -110,6 +108,7 @@ d3ud741uvs727m.cloudfront.net$third-party
 dc08i221b0n8a.cloudfront.net$third-party
 digiads.co.id$third-party
 dl.jeodrive.com$popup,domain=jheberg.net
+doubleclick.net$third-party
 dr1.masbro.id/iklan/fob.css
 dr1.masbro.id/js2.js
 dwindly.io$third-party
@@ -167,7 +166,6 @@ lonedol.info$popup
 lonedol.info$third-party
 lucklayed.info$third-party
 lyrical-nonsense.com$inline-script
-meownime.com$inline-script
 minishing.com$popup
 minishing.com$third-party
 misslk.com$third-party
@@ -331,6 +329,7 @@ restricted$third-party
 .bid$third-party
 .cc/_Incapsula_Resource?
 .com/*.html?q$popunder
+.top$third-party,domain=animeindo.net
 .org/lube
 
 ========== Unblocked URL List ==========
@@ -405,6 +404,7 @@ dynamicssh.com##script:inject(nano-setInterval-booster.js)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
 idsly.bid##script:inject(nano-setInterval-booster.js)
 lenov.ru##script:inject(nano-setInterval-booster.js)
+meownime.com##script:inject(noeval.js)
 oploverz.in##s
 oploverz.in##u
 payskip.me##script:inject(nano-setInterval-booster.js)
