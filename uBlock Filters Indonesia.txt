@@ -33,9 +33,10 @@
 ========== URL List ==========
 
 *.*-adnow.com$script,third-party
-6c37f8a12dede103bf7.com$third-party
 4youtds.com$popup
+6c37f8a12dede103bf7.com$third-party
 8lhf65dy.com$third-party
+9xmovie.co$third-party
 ------------------------------
 a.admp.io$third-party
 ad.a-ads.com$third-party
@@ -106,6 +107,7 @@ d3p2b5qewrnsyv.cloudfront.net$third-party
 d3rhktq8uy839j.cloudfront.net$third-party
 d3ud741uvs727m.cloudfront.net$third-party
 dc08i221b0n8a.cloudfront.net$third-party
+dailymotion.com$third-party,domain=mirrorace.com
 digiads.co.id$third-party
 dl.jeodrive.com$popup,domain=jheberg.net
 doubleclick.net$third-party
@@ -153,6 +155,7 @@ inclk.com/itab/sa?cid=$popup
 ipify.org$third-party
 jerwested.info$third-party
 joneself.com$third-party
+kay-61.com$third-party,popup
 knoacc.org$third-party
 kuotamurahku.com$third-party
 kuyhaa.me$inline-script
@@ -168,6 +171,7 @@ lucklayed.info$third-party
 lyrical-nonsense.com$inline-script
 minishing.com$popup
 minishing.com$third-party
+mirrorace.com/themes/ace/assets/img/Jk
 misslk.com$third-party
 ml314.com$third-party
 mmstat.com/v.gif?$third-party
@@ -223,8 +227,10 @@ treasuredata.com$third-party
 tuxzictbrqietq.com$third-party
 uadexchange.com$third-party
 uzone.id$third-party
+vdztr.bid$popunder
 w55c.net$third-party
 webmine.pro$third-party
+wentshops.xyz$third-party,popup
 whxhegjrqlddko.com$third-party
 wjkwjcmeymu.com$third-party
 wnp.com$third-party
@@ -404,6 +410,7 @@ dynamicssh.com##script:inject(nano-setInterval-booster.js)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
 idsly.bid##script:inject(nano-setInterval-booster.js)
 lenov.ru##script:inject(nano-setInterval-booster.js)
+linkpoi.*##script:inject(abort-current-inline-script.js, addEventListener)
 meownime.com##script:inject(noeval.js)
 oploverz.in##s
 oploverz.in##u
@@ -418,7 +425,7 @@ susutinv2.com##p:nth-of-type(5)
 susutinv2.com##p:nth-of-type(6)
 susutinv2.com##p:nth-of-type(7)
 susutinv2.com##p:nth-of-type(8)
-userscloud.com##div:nth-of-type(3) > center
+userscloud.com##div:nth-of-type(5) > center
 -------------------------------------
 ##.__b-popup1__.b-modal
 ##.ablkAlert
@@ -462,6 +469,7 @@ kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
 lenov.ru##.clearfix.rek-but:nth-of-type(1)
 lenov.ru##.clearfix.rek-red.rek-but
+mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
 myanimelist.net##._unit
 pekalongan-kommuniti.net##.fb-btn-seocips
 solidfiles.com##.premium-promo.box
@@ -470,7 +478,7 @@ speedtest.net##.lower-horizontal.ad
 speedtest.net##.notification-container
 speedtest.net##.top-horizontal
 susutinv2.com##.panel-body.panel-default.panel > h3
-userscloud.com##.media-body > center
+userscloud.com##.text-center.panel-default.panel > center
 -------------------------------------
 ###abAlert
 ###agegate_content
