@@ -1,35 +1,3 @@
-========== Untuk block iklan secara maksimal nyalakan 3rd-party filters:
-
-! - My filters
-! - uBlock filters
-! - Adguard Mobile Filters
-! - Adguard Spyware Filters
-! - Adguard’s Annoyance List
-! - EasyList
-! - hpHosts’ Ad and tracking servers
-! - MVPS HOSTS
-! - Peter Lowe’s Ad and tracking server list
-! Dan matikan 3rd-party filters selain yang tidak tertera di atas
-
-========== Cara memblokir dan mengunblock website ==========
-
-! Jika anda ingin memblokir website, masukkan langsung saja URL web tersebut di URL List
-! Jika anda ingin mengunblock website
-! Masukkan "@@URLwebsite" pakai double at / @@ lalu nama website dan masukkan di Unblocked URL List
-! Agar URL yang telah diblock muncul kembali, hapus saja URL tersebut dari List
-
-========== Tambahan ==========
-
-! Masih belum terblok secara maksimal ?
-! Buka alamat ini (chrome) : "chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/popup.html?tabId=-1&fullsize=1" tanpa kutip
-! Untuk firefox pastikan tetap sama "moz-extension://blablabla/dashboard.html" dan ubah "/dashboard" menjadi "/popup.html?tabId=-1&fullsize=1" tanpa kutip
-! Hilangkan tanda abu-abu lalu lock (gambar kunci) dan apabila uBlock belum berwarna biru (nyala), klik 1x sampai berwarna biru
-! Untuk apakah tutorial di atas ? Pastinya itu akan membuat pengguna dapat memblok background/behind-the-scene ads (advertisement/iklan) secara maksimal
-! Jika Anda masih mendapatkan iklan dari website yang Anda sukai,
-! Anda dapat melaporkan kepada kami untuk memblock iklan yang ada di website tersebut
-! Caranya, Buka web lalu tuliskan komentar Anda di : blogforhelpyou.blogspot.co.id/2017/12/uBlockfiltersIndonesia.html 
-! atau di GitHub : github.com/Hakame-kun/uBlock
-
 ========== URL List ==========
 
 *.*-adnow.com$script,third-party
