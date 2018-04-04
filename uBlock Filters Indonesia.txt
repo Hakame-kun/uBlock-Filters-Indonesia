@@ -7,13 +7,11 @@
 9xmovie.co$third-party
 ------------------------------
 a.admp.io$third-party
-ad.a-ads.com$third-party
 a.props.$third-party
 acorporary.info$third-party
 acroscow.com$third-party
 activex.press$third-party
-ad4msan.com*bbspoiler
-ad4msan.com*daves
+ad.a-ads.com$third-party
 addthis.com$third-party,important
 addtoany.com$third-party
 adexchangecloud.com$popunder
@@ -280,8 +278,8 @@ restricted$third-party
 /safelink$script,third-party
 /safelink-indolinker
 /scripts/x.js?
-/safe.$script,domain=ad4msan.com
-/sl.$script,domain=ad4msan.com
+/safe.js$domain=ad4msan.com
+/sl.js$domain=ad4msan.com
 /sora$script,third-party
 /static/101/site.js?
 /static/js/amvn.js
@@ -323,6 +321,7 @@ restricted$third-party
 @@/upload^$xmlhttprequest,domain=speedtest.net
 @@/wp-content/themes/jannah/js
 ----------------------------------------
+@@ad4msan.com$generichide
 @@adf.ly/*.php$popup
 @@asr-games.net/newjs
 @@bagilagi.com$generichide
@@ -371,8 +370,6 @@ restricted$third-party
 94lauin.com,elsfile.org##script:inject(abort-on-property-read.js, h237)
 94lauin.com,elsfile.org##script:inject(nano-setInterval-booster.js)
 9files.co,addfile.org,qtfile.com,upfile.mobi##a[href*="onamind.com"]
-ad4msan.com##script:inject(addEventListener-defuser.js)
-ad4msan.com##script:inject(nano-setInterval-booster.js)
 aw-games.net,short.awsubs.co##center:nth-of-type(2)
 aw-games.net,short.awsubs.co##h1
 awsubsco.ga##script:inject(abort-on-property-read.js)
@@ -468,6 +465,7 @@ zonawibu.me##.infopost
 ###h237
 ###popup
 ###s141
+###tevrzbo-blanket
 ###v3ea
 ###videoad1
 ###z2c7
