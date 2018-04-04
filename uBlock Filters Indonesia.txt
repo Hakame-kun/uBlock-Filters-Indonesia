@@ -67,6 +67,7 @@ ambient-platform.com$third-party
 amjadfreesoft.com$third-party
 androidrepublic.org/js/siropu/chat
 anime21.co/content/template/images/
+animeindo.net/wp-content/themes/animeindo/chat.php
 animeindo.net/wp-content/uploads/*.gif
 animeindo.video/area.js
 anoboy.com/lompatin
@@ -79,7 +80,7 @@ ayclinical.com$third-party
 bit.ly/PokerQQ$popup
 boostads.site$third-party
 boudja.com$third-party
-bp.blogspot.com$third-party,domain=elsfile.org|zonawibu.bid
+bp.blogspot.com$third-party,domain=94lauin.com|elsfile.org|zonawibu.bid
 c.adsco.re$third-party
 cachefly.net$third-party
 calcch.com$third-party
@@ -273,6 +274,7 @@ restricted$third-party
 /adsleft.
 /adsmobilebottom.
 /adsmobiletop.
+/analytics/track.png?q
 /api/inventory
 /app/assets/js/app_$script
 /autoptimize$domain=oploverz.in
@@ -294,6 +296,8 @@ restricted$third-party
 /js/packed/interstitial-page.js
 /js.betterpop.js
 /jserror?
+/JuraganFinal/images/300ads.
+/JuraganFinal/images/hads.
 /keremiyav4/js/lockscript.js
 /layarkaca21/js/lk21ads.js
 /LkdTwv6o7OAfOMlx2k764u22OX7TgeiSACLcB/s1600/Adblock.
@@ -384,6 +388,7 @@ restricted$third-party
 -------------------------------------
 ##a[href*="//6c37f8a12dede103bf7.com"]
 ##a[href*="http://adserver.adreactor.com"]
+##a[href*="https://adserver.adreactor.com"]
 ##a[href*="bit.ly/2fxPTzf"]
 ##a[href*="earth-111.com"]
 ##a[href*="href.li"]
