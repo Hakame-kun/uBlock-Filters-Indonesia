@@ -1,5 +1,6 @@
 # uBlock
-========== Kegunaan uBlock ==========<br><br>
+========== Kegunaan uBlock ==========
+
 Dengan menggunakan ekstensi ini, Anda dapat memblokir iklan yang menurut Anda mengganggu saat melakukan browsing di web-web yang Anda suka jelajahi.<br>
 Anda juga dapat menghemat penggunaan kuota internet atau mempercepat loading website, dengan demikian Anda dapat menghemat waktu.<br>
 <br>
