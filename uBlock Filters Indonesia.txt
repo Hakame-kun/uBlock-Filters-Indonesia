@@ -79,7 +79,7 @@ ayclinical.com$third-party
 bit.ly/PokerQQ$popup
 boostads.site$third-party
 boudja.com$third-party
-bp.blogspot.com$third-party,domain=elsfile.org
+bp.blogspot.com$third-party,domain=elsfile.org|zonawibu.bid
 c.adsco.re$third-party
 cachefly.net$third-party
 calcch.com$third-party
@@ -245,6 +245,7 @@ xx1.me/sworker.js
 xydeyou.com$third-party,script
 youtube.com/api/stats/watchtime?$important
 zenmate.com/api/analyze?
+zonawibu.me/data/no-ads.
 zpfjfwbij.com$third-party
 
 ========== ^ List ==========
@@ -382,7 +383,7 @@ restricted$third-party
 ##a[href="/76BMlHexsYA&fix=1"]
 -------------------------------------
 ##a[href*="//6c37f8a12dede103bf7.com"]
-##a[href*="//adserver.adreactor.com"]
+##a[href*="http://adserver.adreactor.com"]
 ##a[href*="bit.ly/2fxPTzf"]
 ##a[href*="earth-111.com"]
 ##a[href*="href.li"]
@@ -415,6 +416,7 @@ meownime.com##script:inject(noeval.js)
 oploverz.in##s
 oploverz.in##u
 payskip.me##script:inject(nano-setInterval-booster.js)
+platinmods.com##script:inject(bab-defuser.js)
 safelinkreviewz.com##script:inject(nano-setInterval-booster.js)
 speedtest.net##script:inject(nano-setInterval-booster.js)
 susutinv2.com##p:nth-of-type(1)
@@ -479,6 +481,10 @@ speedtest.net##.notification-container
 speedtest.net##.top-horizontal
 susutinv2.com##.panel-body.panel-default.panel > h3
 userscloud.com##.text-center.panel-default.panel > center
+zonawibu.bid##.artikel
+zonawibu.bid##h4
+zonawibu.bid##.thumbnail
+zonawibu.me##.infopost
 -------------------------------------
 ###abAlert
 ###agegate_content
