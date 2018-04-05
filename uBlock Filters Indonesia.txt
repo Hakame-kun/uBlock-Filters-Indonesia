@@ -31,6 +31,7 @@ agreemand.com$third-party
 alicdn.com/g/alilog/mlog/aplus_int.js$third-party
 ambient-platform.com$third-party
 amjadfreesoft.com$third-party
+ani-share.com/wp-content/uploads/
 androidrepublic.org/js/siropu/chat
 anime21.co/content/template/images/
 animeindo.net/wp-content/themes/animeindo/chat.php
@@ -46,12 +47,14 @@ ayclinical.com$third-party
 bit.ly/PokerQQ$popup
 boostads.site$third-party
 boudja.com$third-party
-bp.blogspot.com$third-party,domain=94lauin.com|elsfile.org|zonawibu.bid
+bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|elsfile.org|zonawibu.bid
 c.adsco.re$third-party
 cachefly.net$third-party
 calcch.com$third-party
 casterist.com$third-party
 casterist.info$third-party
+caughinga.info$popup
+caughinga.info$third-party
 chatango.com$third-party
 ciuvo.com$third-party
 climbering.info$third-party
@@ -77,6 +80,7 @@ dc08i221b0n8a.cloudfront.net$third-party
 dailymotion.com$third-party,domain=mirrorace.com
 digiads.co.id$third-party
 dl.jeodrive.com$popup,domain=jheberg.net
+dorpaahonet-blog.logdown.com
 doubleclick.net$third-party
 dr1.masbro.id/iklan/fob.css
 dr1.masbro.id/js2.js
@@ -94,6 +98,7 @@ firebasestorage.googleapis.com*ABP.css?$third-party
 firebasestorage.googleapis.com*ABP.js?$third-party
 fourtesy.info$third-party
 gambar123.com$third-party,domain=46.166.167.16|semprot.com|semprotku.com
+genderfluidsupport.com
 generaed.info$third-party
 genieessp.com$third-party
 go.*gold.net/id$third-party
@@ -155,6 +160,8 @@ platinmods.com/js/Siropu/Chat
 play.google.com/log$third-party
 plenty.analisis.io$third-party
 postimg.org$third-party,image,domain=coeg.in|siotong.com|telondasmu.com|thejual.com
+preditates.com$popup
+preditates.com$third-party
 provalist.info$third-party
 puu.sh/xv53n$third-party
 qregation.info$third-party
@@ -170,6 +177,7 @@ schillmania.com/projects$third-party
 senditcloud.com$popup
 sendit.cloud$third-party
 serve.popads.net/s?cid=$popup
+sflink.cc$third-party,script
 shelljacket.us$third-party
 shrinklink.co$third-party,script
 smartphonelist.com$popunder
@@ -259,7 +267,6 @@ restricted$third-party
 /includes/left_list-ad.php
 /index.php?ajax/ad-action
 /index.php?page=t&f=
-/js/packed/interstitial-page.js
 /js.betterpop.js
 /jserror?
 /JuraganFinal/images/300ads.
@@ -323,6 +330,9 @@ restricted$third-party
 ----------------------------------------
 @@ad4msan.com$generichide
 @@adf.ly/*.php$popup
+@@anifiles.org/themes/flow/
+@@ani-share.com$generichide
+@@anisubindo.org$generichide
 @@asr-games.net/newjs
 @@bagilagi.com$generichide
 @@bigspeeds.com/ajax/advertisement.js
@@ -370,6 +380,7 @@ restricted$third-party
 94lauin.com,elsfile.org##script:inject(abort-on-property-read.js, h237)
 94lauin.com,elsfile.org##script:inject(nano-setInterval-booster.js)
 9files.co,addfile.org,qtfile.com,upfile.mobi##a[href*="onamind.com"]
+anisubindo.org##script:inject(abort-current-inline-script.js, addEventListener)
 aw-games.net,short.awsubs.co##center:nth-of-type(2)
 aw-games.net,short.awsubs.co##h1
 awsubsco.ga##script:inject(abort-on-property-read.js)
@@ -380,6 +391,7 @@ dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
 idsly.bid##script:inject(nano-setInterval-booster.js)
+ironime.org##script:inject(abort-current-inline-script.js, addEventListener)
 lenov.ru##script:inject(nano-setInterval-booster.js)
 linkpoi.*##script:inject(abort-current-inline-script.js, addEventListener)
 meownime.com##script:inject(noeval.js)
@@ -398,6 +410,7 @@ susutinv2.com##p:nth-of-type(6)
 susutinv2.com##p:nth-of-type(7)
 susutinv2.com##p:nth-of-type(8)
 userscloud.com##div:nth-of-type(5) > center
+zippyanime.net##script:inject(nano-setInterval-booster.js)
 -------------------------------------
 ##.__b-popup1__.b-modal
 ##.ablkAlert
@@ -428,14 +441,17 @@ userscloud.com##div:nth-of-type(5) > center
 -------------------------------------
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
+anisubindo.org##.ArevicoModal-bg
 awsubs.co##.fb_iframe_widget.fb-like
 awsubs.co##.minipusat
 awsubs.co##.pusat728
 citpekalongan.com##.section.header-right
 coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##.c-message > div:nth-of-type(1)
 coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##.disclaimer
+fanbatch.us##.featuredimg
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
+ironime.org##.anon
 juraganfiles.com##.no-padding.box.container > center
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
