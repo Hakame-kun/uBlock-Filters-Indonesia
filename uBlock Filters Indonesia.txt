@@ -1,7 +1,8 @@
 ========== URL List ==========
 
 *.*-adnow.com$script,third-party
-4youtds.com$popup
+35.188.147.160$popup,third-party
+4youtds.com$popup,third-party
 6c37f8a12dede103bf7.com$third-party
 8lhf65dy.com$third-party
 9xmovie.co$third-party
@@ -44,7 +45,7 @@ arequiry.info$third-party
 areyouahuman.com$third-party
 assets.adobedtm.com$third-party
 ayclinical.com$third-party
-bit.ly/PokerQQ$popup
+bit.ly/PokerQQ$popup,third-party
 boostads.site$third-party
 boudja.com$third-party
 bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|elsfile.org|zonawibu.bid
@@ -53,7 +54,7 @@ cachefly.net$third-party
 calcch.com$third-party
 casterist.com$third-party
 casterist.info$third-party
-caughinga.info$popup
+caughinga.info$popup,third-party
 caughinga.info$third-party
 chatango.com$third-party
 ciuvo.com$third-party
@@ -64,7 +65,7 @@ coinhive.com$third-party
 consolebackup.com$third-party
 consoletarget.com$third-party
 cpaoptimizer.com$popunder
-cpaoptimizer.com$popup
+cpaoptimizer.com$popup,third-party
 cpaoptimizer.com$third-party
 croissed.info$third-party
 crypto-loot.com$third-party
@@ -97,24 +98,25 @@ facebook.com$popup,domain=bagilagi.com
 firebasestorage.googleapis.com*ABP.css?$third-party
 firebasestorage.googleapis.com*ABP.js?$third-party
 fourtesy.info$third-party
+freeproxy.io$third-party
 gambar123.com$third-party,domain=46.166.167.16|semprot.com|semprotku.com
 genderfluidsupport.com
 generaed.info$third-party
 genieessp.com$third-party
 go.*gold.net/id$third-party
-go.oclasrv.com$popup
-go.onclasrv.com$popup
+go.oclasrv.com$popup,third-party
+go.onclasrv.com$popup,third-party
 google.*/_/chrome/newtab-serviceworker.js
 google.*/api/stats/qoe?$third-party
 google.*/async*&async$third-party
 google.*/complete/search?client$third-party
 google.*/pagead$third-party
-gways.net$popup
+gways.net$popup,third-party
 hh-btr.com$popunder
-hh-btr.com$popup
+hh-btr.com$popup,third-party
 hikarinoakariost.info$inline-script
 hitcpm.com$popunder
-hitcpm.com$popup
+hitcpm.com$popup,third-party
 i.imgur.com$third-party,domain=awsubs.co|nanime.org|nontonanime.id
 i027m.top$third-party
 idsly.com$third-party
@@ -123,25 +125,25 @@ imgu.info$third-party
 img.topddl.net/*gif$third-party
 impactify.io$third-party
 inclk.com/itab/sa?cid=$popunder
-inclk.com/itab/sa?cid=$popup
+inclk.com/itab/sa?cid=$popup,third-party
 ipify.org$third-party
 jerwested.info$third-party
 joneself.com$third-party
-kay-61.com$third-party,popup
+kay-61.com$popup,third-party
 knoacc.org$third-party
 kuotamurahku.com$third-party
 kuyhaa.me$inline-script
 lazada.co.id$third-party,domain=anoboy.com
 ldtv.co/wp-content/uploads/*.gif
 limaten.info$popunder
-limaten.info$popup
+limaten.info$popup,third-party
 limaten.info$third-party
 linkshrink.net$script,third-party
-lonedol.info$popup
+lonedol.info$popup,third-party
 lonedol.info$third-party
 lucklayed.info$third-party
 lyrical-nonsense.com$inline-script
-minishing.com$popup
+minishing.com$popup,third-party
 minishing.com$third-party
 mirrorace.com/themes/ace/assets/img/Jk
 misslk.com$third-party
@@ -159,8 +161,9 @@ platinmods.com/index.php?chat/refresh
 platinmods.com/js/Siropu/Chat
 play.google.com/log$third-party
 plenty.analisis.io$third-party
+poopads.xyz$popup,third-party
 postimg.org$third-party,image,domain=coeg.in|siotong.com|telondasmu.com|thejual.com
-preditates.com$popup
+preditates.com$popup,third-party
 preditates.com$third-party
 provalist.info$third-party
 puu.sh/xv53n$third-party
@@ -174,21 +177,21 @@ safelinku$third-party,script
 safelinku.net/downlaod1.
 safelinku.net/download.
 schillmania.com/projects$third-party
-senditcloud.com$popup
+senditcloud.com$popup,third-party
 sendit.cloud$third-party
-serve.popads.net/s?cid=$popup
+serve.popads.net/s?cid=$popup,third-party
 sflink.cc$third-party,script
 shelljacket.us$third-party
 shrinklink.co$third-party,script
 smartphonelist.com$popunder
-smartphonelist.com$popup
+smartphonelist.com$popup,third-party
 smartphoneslist.com$popunder
-smartphoneslist.com$popup
+smartphoneslist.com$popup,third-party
 strucewe.info$third-party
 surgeprice.com$third-party
 tagbucket.cc$third-party
 tango-deg.com$popunder
-tango-deg.com$popup
+tango-deg.com$popup,third-party
 tawk.to$third-party
 tcheats.com$inline-script,domain=tcheats.com
 tfw-current.s3.amazonaws.com
@@ -196,7 +199,7 @@ threadsphere.bid/js/display.js
 tidaltv.com$third-party
 tobys.dk$inline-script,domain=tobys.dk
 torpsol.com$popunder
-torpsol.com$popup
+torpsol.com$popup,third-party
 trafficsan.com$third-party
 treasuredata.com$third-party
 tuxzictbrqietq.com$third-party
@@ -205,7 +208,7 @@ uzone.id$third-party
 vdztr.bid$popunder
 w55c.net$third-party
 webmine.pro$third-party
-wentshops.xyz$third-party,popup
+wentshops.xyz$popup,third-party
 whxhegjrqlddko.com$third-party
 wjkwjcmeymu.com$third-party
 wnp.com$third-party
@@ -226,14 +229,14 @@ zpfjfwbij.com$third-party
 ========== ^ List ==========
 ^restricted
 restricted$third-party
-^restricted*error=404$popup
+^restricted*error=404$popup,third-party
 
 ========== & List ==========
 &aff_sub2=$popunder
-&aff_sub2=$popup
+&aff_sub2=$popup,third-party
 
 ========== ? List ==========
-?r*pagead2.googlesyndication.com$popup
+?r*pagead2.googlesyndication.com$popup,third-party
 
 ========== / List ==========
 -728x90.
@@ -262,6 +265,7 @@ restricted$third-party
 /gen204
 /gen_204
 /generate_204
+/hitomi/nutaku/
 /HOKI365.gif
 /iklan/728
 /includes/left_list-ad.php
@@ -324,6 +328,7 @@ restricted$third-party
 @@/download^$xmlhttprequest,domain=speedtest.net 
 @@/hello^$xmlhttprequest,domain=speedtest.net 
 @@/ping^$xmlhttprequest,domain=speedtest.net
+@@/Sites/admin/Scripts/md5.min.js
 @@/themes*js/adsbygoogle.js
 @@/upload^$xmlhttprequest,domain=speedtest.net
 @@/wp-content/themes/jannah/js
@@ -409,7 +414,6 @@ susutinv2.com##p:nth-of-type(5)
 susutinv2.com##p:nth-of-type(6)
 susutinv2.com##p:nth-of-type(7)
 susutinv2.com##p:nth-of-type(8)
-userscloud.com##div:nth-of-type(5) > center
 zippyanime.net##script:inject(nano-setInterval-booster.js)
 -------------------------------------
 ##.__b-popup1__.b-modal
@@ -432,6 +436,7 @@ zippyanime.net##script:inject(nano-setInterval-booster.js)
 ##.error.test-status
 ##.gb_g.gb_Tc.gb_ud
 ##.hads
+##.hitomi-anintager
 ##.in_up_ad-area
 ##.js.cwv3_dialog
 ##.left.left_bottom_ad.widget
@@ -466,7 +471,6 @@ speedtest.net##.lower-horizontal.ad
 speedtest.net##.notification-container
 speedtest.net##.top-horizontal
 susutinv2.com##.panel-body.panel-default.panel > h3
-userscloud.com##.text-center.panel-default.panel > center
 zonawibu.bid##.artikel
 zonawibu.bid##h4
 zonawibu.bid##.thumbnail
@@ -479,6 +483,7 @@ zonawibu.me##.infopost
 ###btm_banner
 ###ctr_banner
 ###h237
+###idblog-adb-enabled
 ###popup
 ###s141
 ###tevrzbo-blanket
