@@ -34,6 +34,6 @@ Jika Anda masih mendapatkan iklan dari website yang Anda sukai, Anda dapat melap
 Caranya, Buka web lalu tuliskan komentar Anda di : <a href="https://blogforhelpyou.blogspot.co.id/2017/12/uBlockfiltersIndonesia.html">Sini</a> atau di GitHub : <a href="https://github.com/Hakame-kun/uBlock/issues">Di sini</a>
 
 # Hosts
-File ini berguna untuk mengunblock beberapa websites yang terblock internet positif atau sebagainya. Bisa dibilang juga bypass, cara menggunakannya mudah. Cukup copy hosts yang baru didownload lalu paste di C:\Windows\System32\drivers\etc.
-Terkadang, yang sudah dimasukkan ke dalam hosts tetap terblock internet positif. Ini hanyalah alternatif lainnya sebelum menggunakan VPN.
-Ingin ditambah lagi hostsnya ? Buka saja <a href="https://github.com/Hakame-kun/uBlock/issues">ini</a> lalu masukkan website yang diinginkan
+File ini berguna untuk mengunblock beberapa websites yang terblock internet positif atau sebagainya. Bisa dibilang juga bypass, cara menggunakannya mudah. Cukup copy hosts yang baru didownload lalu paste di C:\Windows\System32\drivers\etc.<br>
+Terkadang, yang sudah dimasukkan ke dalam hosts tetap terblock internet positif. Ini hanyalah alternatif lainnya sebelum menggunakan VPN.<br>
+Ingin ditambahkan lagi hostsnya ? Buka saja <a href="https://github.com/Hakame-kun/uBlock/issues">ini</a> lalu masukkan website yang diinginkan.
