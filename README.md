@@ -32,3 +32,7 @@ Hilangkan tanda abu-abu lalu lock (gambar kunci) dan apabila uBlock belum berwar
 Untuk apakah tutorial di atas ? Pastinya itu akan membuat pengguna dapat memblok background/behind-the-scene ads (advertisement/iklan) agar dapat mempercepat penjelajahan web.<br>
 Jika Anda masih mendapatkan iklan dari website yang Anda sukai, Anda dapat melaporkan kepada kami untuk memblock iklan yang ada di website tersebut.<br>
 Caranya, Buka web lalu tuliskan komentar Anda di : <a href="https://blogforhelpyou.blogspot.co.id/2017/12/uBlockfiltersIndonesia.html">Sini</a> atau di GitHub : <a href="https://github.com/Hakame-kun/uBlock/issues">Di sini</a>
+
+# Hosts
+File ini berguna untuk mengunblock beberapa websites yang terblock internet positif atau sebagainya. Bisa dibilang juga bypass, cara menggunakannya mudah. Cukup copy hosts yang baru didownload lalu paste di C:\Windows\System32\drivers\etc.
+Terkadang, yang sudah dimasukkan ke dalam hosts tetap terblock internet positif. Ini hanyalah alternatif lainnya sebelum menggunakan VPN.
