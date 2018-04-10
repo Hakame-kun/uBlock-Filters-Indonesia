@@ -1,6 +1,7 @@
 ========== URL List ==========
 
 *.*-adnow.com$script,third-party
+35.184.188.211$popup,third-party
 35.188.147.160$popup,third-party
 4youtds.com$popup,third-party
 6c37f8a12dede103bf7.com$third-party
@@ -117,7 +118,7 @@ hh-btr.com$popup,third-party
 hikarinoakariost.info$inline-script
 hitcpm.com$popunder
 hitcpm.com$popup,third-party
-i.imgur.com$third-party,domain=awsubs.co|nanime.org|nontonanime.id
+i.imgur.com$third-party,domain=awsubs.co|nanime.in|nontonanime.id
 i027m.top$third-party
 idsly.com$third-party
 imgclick.net$generichide,important
@@ -167,6 +168,7 @@ preditates.com$popup,third-party
 preditates.com$third-party
 provalist.info$third-party
 puu.sh/xv53n$third-party
+pvclouds.com$third-party,script
 qregation.info$third-party
 r2games.com$domain=behind-the-scene
 rawgit.com$third-party,domain=myanimeindo.net
@@ -246,6 +248,7 @@ restricted$third-party
 /7811552/250x250.gif
 /7813650/paxful.gif
 /abd.interstitial.preroll$script,third-party
+/adaqq160x600.gif
 /adnetwork.js$script,third-party
 /adsbottompagenav.
 /adsleft.
@@ -335,6 +338,9 @@ restricted$third-party
 ----------------------------------------
 @@ad4msan.com$generichide
 @@adf.ly/*.php$popup
+@@ainodorama.web.id$generichide
+@@ainogatget.ga$generichide
+@@ainotechno.ga$generichide
 @@anifiles.org/themes/flow/
 @@ani-share.com$generichide
 @@anisubindo.org$generichide
