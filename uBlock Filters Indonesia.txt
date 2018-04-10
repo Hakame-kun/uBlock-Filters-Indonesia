@@ -1,9 +1,12 @@
 ========== URL List ==========
 
 *.*-adnow.com$script,third-party
+280.jpg$domain=123drakor.org
+285.png$domain=123drakor.org
 35.184.188.211$popup,third-party
 35.188.147.160$popup,third-party
 4youtds.com$popup,third-party
+520.png$domain=123drakor.org
 6c37f8a12dede103bf7.com$third-party
 8lhf65dy.com$third-party
 9xmovie.co$third-party
@@ -46,10 +49,12 @@ arequiry.info$third-party
 areyouahuman.com$third-party
 assets.adobedtm.com$third-party
 ayclinical.com$third-party
+bioskopkeren.club/images/
 bit.ly/PokerQQ$popup,third-party
 boostads.site$third-party
 boudja.com$third-party
-bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|elsfile.org|zonawibu.bid
+bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
+bp.blogspot.com*gif$third-party,domain=123drakor.org|
 c.adsco.re$third-party
 cachefly.net$third-party
 calcch.com$third-party
@@ -130,8 +135,10 @@ inclk.com/itab/sa?cid=$popup,third-party
 ipify.org$third-party
 jerwested.info$third-party
 joneself.com$third-party
+jwpcdn.com/player/v*vast.js$important
 kay-61.com$popup,third-party
 knoacc.org$third-party
+kswid.com$third-party,script
 kuotamurahku.com$third-party
 kuyhaa.me$inline-script
 lazada.co.id$third-party,domain=anoboy.com
@@ -139,7 +146,7 @@ ldtv.co/wp-content/uploads/*.gif
 limaten.info$popunder
 limaten.info$popup,third-party
 limaten.info$third-party
-linkshrink.net$script,third-party
+linkshrink.net$third-party,script
 lonedol.info$popup,third-party
 lonedol.info$third-party
 lucklayed.info$third-party
@@ -152,6 +159,7 @@ ml314.com$third-party
 mmstat.com/v.gif?$third-party
 naenticle.info$third-party
 nephritish.com$third-party
+nonton.drakor-id.com/banner/download.gif
 notifa.info$third-party
 offerenced.com$third-party
 onesignal.com$third-party
@@ -214,6 +222,7 @@ wentshops.xyz$popup,third-party
 whxhegjrqlddko.com$third-party
 wjkwjcmeymu.com$third-party
 wnp.com$third-party
+wp.com*gif$domain=nonton.drakor-id.com
 wyueivwashc.com$third-party
 x.kinja-static.com/assets/packaged-js/dollars.
 xdeyou.com$third-party,script
@@ -354,6 +363,7 @@ restricted$third-party
 @@games.co.id/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
 @@igg-games.com
 @@juragan-anime.net/wp-content/cache
+@@jwpcdn.com/player*jw-icons
 @@jwpltx.com
 @@linkbucks.com/scripts/intermissionLink
 @@meongs.bid
@@ -470,6 +480,7 @@ lenov.ru##.clearfix.rek-but:nth-of-type(1)
 lenov.ru##.clearfix.rek-red.rek-but
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
 myanimelist.net##._unit
+nonton.drakor-id.com##.idmuvi-socialicon-share
 pekalongan-kommuniti.net##.fb-btn-seocips
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
