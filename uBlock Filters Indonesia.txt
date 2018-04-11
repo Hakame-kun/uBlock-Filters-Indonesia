@@ -123,7 +123,7 @@ hh-btr.com$popup,third-party
 hikarinoakariost.info$inline-script
 hitcpm.com$popunder
 hitcpm.com$popup,third-party
-i.imgur.com$third-party,domain=awsubs.co|nanime.in|nontonanime.id
+i.imgur.com$third-party,domain=acefile.co|awsubs.co|nanime.in|nontonanime.id
 i027m.top$third-party
 idsly.com$third-party
 imgclick.net$generichide,important
@@ -132,6 +132,7 @@ img.topddl.net/*gif$third-party
 impactify.io$third-party
 inclk.com/itab/sa?cid=$popunder
 inclk.com/itab/sa?cid=$popup,third-party
+inlink.site/wp-content/uploads/
 ipify.org$third-party
 jerwested.info$third-party
 joneself.com$third-party
@@ -338,6 +339,7 @@ restricted$third-party
 @@/ad_top_bg2.png?
 @@/basement/js
 @@/download^$xmlhttprequest,domain=speedtest.net 
+@@/js/ads.$domain=linkk.bid|payskip.me|shrinklink.co|tunnl.com
 @@/hello^$xmlhttprequest,domain=speedtest.net 
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/Sites/admin/Scripts/md5.min.js
@@ -358,25 +360,20 @@ restricted$third-party
 @@bigspeeds.com/ajax/advertisement.js
 @@clksite.com/static/advertisement.
 @@cloudflare.com$domain=freevpn.us
-@@d.bloggerku.com/safelink/1.0/script.js
 @@freevpn.us$generichide
 @@games.co.id/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
 @@igg-games.com
 @@juragan-anime.net/wp-content/cache
-@@jwpcdn.com/player*jw-icons
-@@jwpltx.com
+@@jwpcdn.com
 @@linkbucks.com/scripts/intermissionLink
 @@meongs.bid
 @@ouo.io$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@pagead2.googlesyndication.com$domain=safelink.top
-@@payskip.me/js/ads.
 @@qualityfilehosting.com$elemhide
 @@qualityfilehosting.com/adframe.
 @@revdepo.com/static/advertisement.js
 @@safelinkconverter.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@safelinku.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
-@@shrinklink.co/js/ads.
-@@tunnl.com/js/ads.js?
 @@uplod.cc*advertisement$script
 
 ========== Custom List ==========
@@ -411,9 +408,10 @@ designmyhomee.com##script:inject(nano-setInterval-booster.js)
 dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
-idsly.bid##script:inject(nano-setInterval-booster.js)
+idsly.*##script:inject(nano-setInterval-booster.js)
 ironime.org##script:inject(abort-current-inline-script.js, addEventListener)
 lenov.ru##script:inject(nano-setInterval-booster.js)
+linkk.bid##script:inject(nano-setInterval-booster.js)
 linkpoi.*##script:inject(abort-current-inline-script.js, addEventListener)
 meownime.com##script:inject(noeval.js)
 oploverz.in##s
@@ -499,6 +497,7 @@ zonawibu.me##.infopost
 ###b300
 ###btm_banner
 ###ctr_banner
+###g207
 ###h237
 ###idblog-adb-enabled
 ###popup
