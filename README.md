@@ -37,3 +37,6 @@ Caranya, Buka web lalu tuliskan komentar Anda di : <a href="https://blogforhelpy
 File ini berguna untuk mengunblock beberapa websites yang terblock internet positif atau sebagainya. Bisa dibilang juga bypass, cara menggunakannya mudah. Cukup copy hosts yang baru didownload lalu paste di C:\Windows\System32\drivers\etc.<br>
 Terkadang, yang sudah dimasukkan ke dalam hosts tetap terblock internet positif. Ini hanyalah alternatif lainnya sebelum menggunakan VPN.<br>
 Ingin ditambahkan lagi hostsnya ? Buka saja <a href="https://github.com/Hakame-kun/uBlock/issues">ini</a> lalu masukkan website yang diinginkan.
+
+# Donasi
+Anda ingin donasi untuk membantu saya ? Caranya mudah, Anda hanya perlu mengklik <a href="http://safelinku.net/054W">link ini</a> dan melewatinya saja. Terima kasih untuk donasinya :)
