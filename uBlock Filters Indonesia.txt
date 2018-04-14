@@ -51,6 +51,8 @@ arequiry.info$third-party
 areyouahuman.com$third-party
 assets.adobedtm.com$third-party
 ayclinical.com$third-party
+bioskop45.com*gif
+bioskopgue.net/wp-content/uploads*gif
 bioskopkeren.club/images/
 bit.ly/PokerQQ$popup,third-party
 boostads.site$third-party
@@ -182,9 +184,11 @@ misslk.com$third-party
 ml314.com$third-party
 mmstat.com/v.gif?$third-party
 movieon21.*/wp-content/uploads*gif
+my188bet.com$third-party
 naenticle.info$third-party
 nephritish.com$third-party
 nonton.drakor-id.com/banner/download.gif
+nontongratis88.com/wp-content/uploads*gif
 nontonsub.com$third-party
 nontonsub.com/wp-content/uploads*gif
 notifa.info$third-party
@@ -210,6 +214,8 @@ puu.sh/xv53n$third-party
 pvclouds.com$third-party,script
 qregation.info$third-party
 r2games.com$domain=behind-the-scene
+ratufilm.com/wp-content/plugins/uji-popup
+ratufilm.com/wp-content/uploads*gif
 rawgit.com$third-party,domain=ambian-movies.blogspot.com|myanimeindo.net
 rtbapi.net$third-party
 runtnc.net$third-party
@@ -218,6 +224,7 @@ safelinku$third-party,script
 safelinku.net/downlaod1.
 safelinku.net/download.
 schillmania.com/projects$third-party
+semixxi.com/wp-content/uploads*gif
 senditcloud.com$popup,third-party
 sendit.cloud$third-party
 serve.popads.net/s?cid=$popup,third-party
@@ -302,7 +309,6 @@ restricted$third-party
 /api/inventory
 /app/assets/js/app_$script
 /autoptimize$domain=oploverz.in
-/autoptimize*autoptimize$script
 /B380x80.
 /blantersafelink.js
 /cdn-cgi/beacon/
@@ -384,7 +390,6 @@ restricted$third-party
 @@/Sites/admin/Scripts/md5.min.js
 @@/themes*js/adsbygoogle.js
 @@/upload^$xmlhttprequest,domain=speedtest.net
-@@/wp-content/cache/autoptimize$domain=belitongekspres.co.id|moviegan.com|pusatfilm21.com
 @@/wp-content/themes/jannah/js
 ----------------------------------------
 @@ad4msan.com$generichide
@@ -408,14 +413,11 @@ restricted$third-party
 @@jwpcdn.com
 @@linkbucks.com/scripts/intermissionLink
 @@meongs.bid
-@@ouo.io$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@pagead2.googlesyndication.com$domain=safelink.top
 @@qualityfilehosting.com$elemhide
 @@qualityfilehosting.com/adframe.
 @@revdepo.com/static/advertisement.js
 @@safebitcoin.info$elemhide
-@@safelinkconverter.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
-@@safelinku.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@uplod.cc*advertisement$script
 
 ========== Custom List ==========
@@ -500,6 +502,7 @@ zippyanime.net##script:inject(nano-setInterval-booster.js)
 ##.gb_g.gb_Tc.gb_ud
 ##.hads
 ##.hitomi-anintager
+##.idmuvi-socialicon-share
 ##.in_up_ad-area
 ##.js.cwv3_dialog
 ##.left.left_bottom_ad.widget
@@ -525,7 +528,6 @@ juraganfiles.com##.no-padding.box.container > center
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
 lebahmovie.com##.idmuvi-floatbanner-footer.idmuvi-floatbanner
-lebahmovie.com,nonton.drakor-id.com##.idmuvi-socialicon-share
 lenov.ru##.clearfix.rek-but:nth-of-type(1)
 lenov.ru##.clearfix.rek-red.rek-but
 lk21.web.id##.row:nth-of-type(3)
@@ -546,6 +548,7 @@ zonawibu.bid##.thumbnail
 zonawibu.me##.infopost
 -------------------------------------
 ###abAlert
+###ads-pop
 ###agegate_content
 ###banner_ikln_tengah
 ###b300
@@ -554,6 +557,7 @@ zonawibu.me##.infopost
 ###g207
 ###h237
 ###idblog-adb-enabled
+###idmuvi-adb-enabled
 ###popup
 ###s141
 ###tevrzbo-blanket
