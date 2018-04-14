@@ -1,6 +1,7 @@
 ========== URL List ==========
 
 *.*-adnow.com$script,third-party
+21moviemania.*/wp-content/uploads*gif
 280.jpg$domain=123drakor.org
 285.png$domain=123drakor.org
 35.184.188.211$popup,third-party
@@ -22,16 +23,17 @@ addtoany.com$third-party
 adexchangecloud.com$popunder
 adexchangecloud.com$popup
 adop.cc$third-party
-adservice.google.*$third-party
 ads.$third-party
 ads.linkshrink.net$popunder
 ads.pubmatic.com$third-party
+adservice.google.*$third-party
 adsdonlot.in/css/ads_donlotin.css
 adsdonlot.in/get-ads-
 adsdonlot.in/js/popup_donlotin.js
 adsoptimal.com$third-party
 adsrv4k.com$third-party
 adtival.com$third-party
+advideo.ru$third-party
 agreemand.com$third-party
 alicdn.com/g/alilog/mlog/aplus_int.js$third-party
 ambient-platform.com$third-party
@@ -52,9 +54,10 @@ ayclinical.com$third-party
 bioskopkeren.club/images/
 bit.ly/PokerQQ$popup,third-party
 boostads.site$third-party
+bosqq.online$third-party
 boudja.com$third-party
 bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
-bp.blogspot.com*gif$third-party,domain=123drakor.org|
+bp.blogspot.com*gif$third-party,domain=123drakor.org|lebahmovie.com|nontonmovie251.com
 c.adsco.re$third-party
 cachefly.net$third-party
 calcch.com$third-party
@@ -89,6 +92,7 @@ digiads.co.id$third-party
 dl.jeodrive.com$popup,domain=jheberg.net
 dorpaahonet-blog.logdown.com
 doubleclick.net$third-party
+downloadmv.com/wp-content/uploads*gif
 dr1.masbro.id/iklan/fob.css
 dr1.masbro.id/js2.js
 dwindly.io$third-party
@@ -96,6 +100,7 @@ earth-111.com/ref?k=$popup
 ecvladelayk.com$third-party
 eiqzyxofsgzel.com$third-party
 elthamely.com$third-party
+eversely.com$third-party
 evidon.com$third-party
 exdynsrv.com$third-party
 eyeota.net$third-party
@@ -106,6 +111,7 @@ firebasestorage.googleapis.com*ABP.js?$third-party
 fourtesy.info$third-party
 freeproxy.io$third-party
 gambar123.com$third-party,domain=46.166.167.16|semprot.com|semprotku.com
+ganool.web.id/wp-content/uploads*gif
 genderfluidsupport.com
 generaed.info$third-party
 genieessp.com$third-party
@@ -123,7 +129,9 @@ hh-btr.com$popup,third-party
 hikarinoakariost.info$inline-script
 hitcpm.com$popunder
 hitcpm.com$popup,third-party
-i.imgur.com$third-party,domain=acefile.co|awsubs.co|nanime.in|nontonanime.id
+hotmuv.com$third-party
+i.imgur.com$third-party,domain=acefile.co|awsubs.co|lk21.blue|movieon21.org|nanime.in|nontonanime.id
+i.makeagif.com$domain=nontonmovie251.com
 i027m.top$third-party
 idsly.com$third-party
 imgclick.net$generichide,important
@@ -132,6 +140,7 @@ img.topddl.net/*gif$third-party
 impactify.io$third-party
 inclk.com/itab/sa?cid=$popunder
 inclk.com/itab/sa?cid=$popup,third-party
+indoxxi.info/rtr/
 inlink.site/wp-content/uploads/
 ipify.org$third-party
 jerwested.info$third-party
@@ -158,6 +167,7 @@ mirrorace.com/themes/ace/assets/img/Jk
 misslk.com$third-party
 ml314.com$third-party
 mmstat.com/v.gif?$third-party
+movieon21.*/wp-content/uploads*gif
 naenticle.info$third-party
 nephritish.com$third-party
 nonton.drakor-id.com/banner/download.gif
@@ -166,6 +176,7 @@ offerenced.com$third-party
 onesignal.com$third-party
 pc2ads.com$third-party
 pgl.yoyo.org$third-party
+pindered.info$third-party
 platinmods.com/deferred.php
 platinmods.com/index.php?chat/refresh
 platinmods.com/js/Siropu/Chat
@@ -175,7 +186,9 @@ poopads.xyz$popup,third-party
 postimg.org$third-party,image,domain=coeg.in|siotong.com|telondasmu.com|thejual.com
 preditates.com$popup,third-party
 preditates.com$third-party
+promodewa.com$third-party
 provalist.info$third-party
+pusatfilm21.com/wp-content/uploads*gif
 puu.sh/xv53n$third-party
 pvclouds.com$third-party,script
 qregation.info$third-party
@@ -215,6 +228,7 @@ trafficsan.com$third-party
 treasuredata.com$third-party
 tuxzictbrqietq.com$third-party
 uadexchange.com$third-party
+ubloger.com/wp-content/uploads*gif
 uzone.id$third-party
 vdztr.bid$popunder
 w55c.net$third-party
@@ -223,7 +237,7 @@ wentshops.xyz$popup,third-party
 whxhegjrqlddko.com$third-party
 wjkwjcmeymu.com$third-party
 wnp.com$third-party
-wp.com*gif$domain=nonton.drakor-id.com
+wp.com*gif$domain=lebahmovie.com|nonton.drakor-id.com
 wyueivwashc.com$third-party
 x.kinja-static.com/assets/packaged-js/dollars.
 xdeyou.com$third-party,script
@@ -269,7 +283,6 @@ restricted$third-party
 /app/assets/js/app_$script
 /autoptimize$domain=oploverz.in
 /autoptimize*autoptimize$script
-/Banner-*.gif
 /cdn-cgi/beacon/
 /cdn-cgi/pe/bag2?r
 /csi_204
@@ -284,6 +297,7 @@ restricted$third-party
 /includes/left_list-ad.php
 /index.php?ajax/ad-action
 /index.php?page=t&f=
+/js/cblock.js
 /js.betterpop.js
 /jserror?
 /JuraganFinal/images/300ads.
@@ -317,6 +331,7 @@ restricted$third-party
 /wp-adblock-
 /wp-content/themes/animeindo/images/blacktr.png
 /wp-content/themes/animeku/iklan/
+/wp-content/uploads*gif$domain=dunia21.top
 /wp-content/uploads/iklan/
 /wp-jw-player/css/popup
 /wp-jw-player/js/popup.js
@@ -339,12 +354,14 @@ restricted$third-party
 @@/ad_top_bg2.png?
 @@/basement/js
 @@/download^$xmlhttprequest,domain=speedtest.net 
+@@/flow/frontend_assets/js/advertisement.js
 @@/js/ads.$domain=linkk.bid|payskip.me|shrinklink.co|tunnl.com
 @@/hello^$xmlhttprequest,domain=speedtest.net 
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/Sites/admin/Scripts/md5.min.js
 @@/themes*js/adsbygoogle.js
 @@/upload^$xmlhttprequest,domain=speedtest.net
+@@/wp-content/cache/autoptimize$domain=pusatfilm21.com
 @@/wp-content/themes/jannah/js
 ----------------------------------------
 @@ad4msan.com$generichide
@@ -372,6 +389,7 @@ restricted$third-party
 @@qualityfilehosting.com$elemhide
 @@qualityfilehosting.com/adframe.
 @@revdepo.com/static/advertisement.js
+@@safebitcoin.info$elemhide
 @@safelinkconverter.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@safelinku.com$domain=blogforhelpyou.blogspot.com|blogforhelpyou.blogspot.co.id|blogforhelpyou.blogspot.de|blogforhelpyou.blogspot.fr|blogforhelpyou.blogspot.kr
 @@uplod.cc*advertisement$script
@@ -379,12 +397,15 @@ restricted$third-party
 ========== Custom List ==========
 
 ========== ## and ### List ==========
-##a[href="/76BMlHexsYA&fix=1"]
 -------------------------------------
-##a[href*="//6c37f8a12dede103bf7.com"]
-##a[href*="http://adserver.adreactor.com"]
-##a[href*="https://adserver.adreactor.com"]
+##a[href*="6c37f8a12dede103bf7.com"]
+##a[href*="/76BMlHexsYA&fix=1"]
+##a[href*="adserver.adreactor.com"]
+##a[href*="bit.ly/2B5aXup"]
 ##a[href*="bit.ly/2fxPTzf"]
+##a[href*="bit.ly/2jR0KYY"]
+##a[href*="bit.ly/2jyrrow"]
+##a[href*="bit.ly/ganoollinks"]
 ##a[href*="earth-111.com"]
 ##a[href*="href.li"]
 ##a[href*="inclk.com"]
@@ -409,6 +430,7 @@ dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
 idsly.*##script:inject(nano-setInterval-booster.js)
+indoxxi.info##script:inject(nano-setInterval-booster.js)
 ironime.org##script:inject(abort-current-inline-script.js, addEventListener)
 lenov.ru##script:inject(nano-setInterval-booster.js)
 linkk.bid##script:inject(nano-setInterval-booster.js)
@@ -458,6 +480,7 @@ zippyanime.net##script:inject(nano-setInterval-booster.js)
 ##.right.right_middle_ad.widget
 ##.right.right_top_ad.widget
 -------------------------------------
+21moviemania.club,lebahmovie.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
 anisubindo.org##.ArevicoModal-bg
@@ -474,11 +497,12 @@ ironime.org##.anon
 juraganfiles.com##.no-padding.box.container > center
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
+lebahmovie.com##.idmuvi-floatbanner-footer.idmuvi-floatbanner
+lebahmovie.com,nonton.drakor-id.com##.idmuvi-socialicon-share
 lenov.ru##.clearfix.rek-but:nth-of-type(1)
 lenov.ru##.clearfix.rek-red.rek-but
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
 myanimelist.net##._unit
-nonton.drakor-id.com##.idmuvi-socialicon-share
 pekalongan-kommuniti.net##.fb-btn-seocips
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
