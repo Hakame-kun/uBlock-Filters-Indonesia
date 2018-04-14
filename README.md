@@ -8,13 +8,14 @@ Anda juga dapat menghemat penggunaan kuota internet atau mempercepat loading web
 
 - My filters<br>
 - uBlock filters<br>
+- Adguard Base Filters<br>
 - Adguard Mobile Filters<br>
+- EasyList<br>
 - Adguard Spyware Filters<br>
 - Adguard’s Annoyance List<br>
-- EasyList<br>
+- Dan Pollock’s hosts file<br>
 - hpHosts’ Ad and tracking servers<br>
 - MVPS HOSTS<br>
-- Peter Lowe’s Ad and tracking server list<br>
 Dan matikan 3rd-party filters yang tidak tertera di atas.
 
 ========== Cara memblokir dan mengunblock website ==========
@@ -31,7 +32,7 @@ Untuk firefox pastikan tetap sama "moz-extension://blablabla/dashboard.html" dan
 Hilangkan tanda abu-abu lalu lock (gambar kunci) dan apabila uBlock belum berwarna biru (nyala), klik 1x sampai berwarna biru.<br>
 Untuk apakah tutorial di atas ? Pastinya itu akan membuat pengguna dapat memblok background/behind-the-scene ads (advertisement/iklan) agar dapat mempercepat penjelajahan web.<br>
 Jika Anda masih mendapatkan iklan dari website yang Anda sukai, Anda dapat melaporkan kepada kami untuk memblock iklan yang ada di website tersebut.<br>
-Caranya, Buka web lalu tuliskan komentar Anda di : <a href="https://blogforhelpyou.blogspot.co.id/2017/12/uBlockfiltersIndonesia.html">Sini</a> atau di GitHub : <a href="https://github.com/Hakame-kun/uBlock/issues">Di sini</a>
+Caranya, Buka web lalu tuliskan komentar Anda di : <a href="https://github.com/Hakame-kun/uBlock/issues">Di sini</a>
 
 # Hosts
 File ini berguna untuk mengunblock beberapa websites yang terblock internet positif atau sebagainya. Bisa dibilang juga bypass, cara menggunakannya mudah. Cukup copy hosts yang baru didownload lalu paste di C:\Windows\System32\drivers\etc.<br>
@@ -39,4 +40,4 @@ Terkadang, yang sudah dimasukkan ke dalam hosts tetap terblock internet positif.
 Ingin ditambahkan lagi hostsnya ? Buka saja <a href="https://github.com/Hakame-kun/uBlock/issues">ini</a> lalu masukkan website yang diinginkan.
 
 # Donasi
-Anda ingin donasi untuk membantu saya ? Caranya mudah, Anda hanya perlu mengklik <a href="http://safelinku.net/054W">link ini</a> dan melewatinya saja. Terima kasih untuk donasinya :)
+Anda ingin donasi untuk membantu saya ? Caranya mudah, Anda hanya perlu mengklik <a href="http://swifttopia.com/DMjm">link ini</a> dan melewatinya saja. Terima kasih untuk donasinya :)
