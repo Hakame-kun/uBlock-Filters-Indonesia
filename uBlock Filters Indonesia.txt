@@ -66,6 +66,7 @@ casterist.info$third-party
 caughinga.info$popup,third-party
 caughinga.info$third-party
 chatango.com$third-party
+cinemaindo.co/wp-content/uploads*gif
 cinemakv21.com/wp-content/uploads*gif
 ciuvo.com$third-party
 climbering.info$third-party
@@ -130,6 +131,7 @@ google.*/async*&async$third-party
 google.*/complete/search?client$third-party
 google.*/pagead$third-party
 gways.net$popup,third-party
+haxhits.com/assets/images/
 hh-btr.com$popunder
 hh-btr.com$popup,third-party
 hikarinoakariost.info$inline-script
@@ -196,7 +198,7 @@ platinmods.com/js/Siropu/Chat
 play.google.com/log$third-party
 plenty.analisis.io$third-party
 poopads.xyz$popup,third-party
-postimg.org$third-party,image,domain=coeg.in|siotong.com|telondasmu.com|thejual.com
+postimg.org$third-party,image,domain=cinemaindo.co|coeg.in|siotong.com|telondasmu.com|thejual.com
 preditates.com$popup,third-party
 preditates.com$third-party
 promodewa.com$third-party
@@ -298,6 +300,7 @@ restricted$third-party
 /app/assets/js/app_$script
 /autoptimize$domain=oploverz.in
 /autoptimize*autoptimize$script
+/B380x80.
 /blantersafelink.js
 /cdn-cgi/beacon/
 /csi_204
@@ -308,6 +311,7 @@ restricted$third-party
 /generate_204
 /hitomi/nutaku/
 /HOKI365.gif
+/hoyajackpot-slider-
 /iklan/728
 /includes/left_list-ad.php
 /index.php?ajax/ad-action
@@ -367,6 +371,7 @@ restricted$third-party
 @@/AC_RunActiveContent
 @@/adimg$image
 @@/ad_top_bg2.png?
+@@/ads.js$first-party,domain=hentaigasm.com
 @@/basement/js
 @@/download^$xmlhttprequest,domain=speedtest.net 
 @@/flow/frontend_assets/js/advertisement.js
@@ -447,6 +452,7 @@ dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
 efx2.com##.pageku:nth-of-type(4)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
+haxhits.com##script:inject(nano-setInterval-booster.js)
 idsly.*##script:inject(nano-setInterval-booster.js)
 indoxxi.info##script:inject(nano-setInterval-booster.js)
 ironime.org##script:inject(abort-current-inline-script.js, addEventListener)
@@ -498,7 +504,7 @@ zippyanime.net##script:inject(nano-setInterval-booster.js)
 ##.right.right_middle_ad.widget
 ##.right.right_top_ad.widget
 -------------------------------------
-21moviemania.club,lebahmovie.com,waktunonton.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
+21moviemania.club,cinemaindo.co,lebahmovie.com,waktunonton.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
 anisubindo.org##.ArevicoModal-bg
