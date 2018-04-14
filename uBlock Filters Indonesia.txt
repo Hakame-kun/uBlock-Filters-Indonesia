@@ -1,4 +1,4 @@
-========== URL List ==========
+! ========== URL List ==========
 
 *.*-adnow.com$script,third-party
 21moviemania.*/wp-content/uploads*gif
@@ -11,7 +11,7 @@
 6c37f8a12dede103bf7.com$third-party
 8lhf65dy.com$third-party
 9xmovie.co$third-party
-------------------------------
+! ------------------------------
 a.admp.io$third-party
 a.props.$third-party
 acorporary.info$third-party
@@ -279,19 +279,19 @@ zenmate.com/api/analyze?
 zonawibu.me/data/no-ads.
 zpfjfwbij.com$third-party
 
-========== ^ List ==========
+! ========== ^ List ==========
 ^restricted
 restricted$third-party
 ^restricted*error=404$popup,third-party
 
-========== & List ==========
+! ========== & List ==========
 &aff_sub2=$popunder
 &aff_sub2=$popup,third-party
 
-========== ? List ==========
+! ========== ? List ==========
 ?r*pagead2.googlesyndication.com$popup,third-party
 
-========== / List ==========
+! ========== / List ==========
 -728x90.
 -728-x-90.
 /?ga_action=googleanalytics_get_script
@@ -367,7 +367,7 @@ restricted$third-party
 /www-static/js/premium/premium-modals.js$important
 /www-static/js/widgets-live-popup.js$important
 
-========== . List ==========
+! ========== . List ==========
 .adskom.com$third-party
 .bid$third-party
 .cc/_Incapsula_Resource?
@@ -375,7 +375,7 @@ restricted$third-party
 .top$third-party,domain=animeindo.net
 .org/lube
 
-========== Unblocked URL List ==========
+! ========== Unblocked URL List ==========
 @@/AC_RunActiveContent
 @@/adimg$image
 @@/ad_top_bg2.png?
@@ -390,7 +390,7 @@ restricted$third-party
 @@/themes*js/adsbygoogle.js
 @@/upload^$xmlhttprequest,domain=speedtest.net
 @@/wp-content/themes/jannah/js
-----------------------------------------
+! ----------------------------------------
 @@ad4msan.com$generichide
 @@adf.ly/*.php$popup
 @@ainodorama.web.id$generichide
@@ -419,10 +419,9 @@ restricted$third-party
 @@safebitcoin.info$elemhide
 @@uplod.cc*advertisement$script
 
-========== Custom List ==========
+! ========== Custom List ==========
 
-========== ## and ### List ==========
--------------------------------------
+! ========== ## and ### List ==========
 ##a[href*="6c37f8a12dede103bf7.com"]
 ##a[href*="/76BMlHexsYA&fix=1"]
 ##a[href*="adserver.adreactor.com"]
@@ -436,11 +435,11 @@ restricted$third-party
 ##a[href*="href.li"]
 ##a[href*="inclk.com"]
 ##a[href*="mellowads.com"]
--------------------------------------
+! -------------------------------------
 ##article:nth-of-type(5) > .clearfix
 ##iframe[src*="/widget.html"]
 ##iframe[src*="servlet/redirect.srv"]
--------------------------------------
+! -------------------------------------
 123link.pw##script:inject(nano-setInterval-booster.js)
 94lauin.com,elsfile.org##script:inject(abort-on-property-read.js, h237)
 94lauin.com,elsfile.org##script:inject(nano-setInterval-booster.js)
@@ -479,7 +478,7 @@ susutinv2.com##p:nth-of-type(6)
 susutinv2.com##p:nth-of-type(7)
 susutinv2.com##p:nth-of-type(8)
 zippyanime.net##script:inject(nano-setInterval-booster.js)
--------------------------------------
+! -------------------------------------
 ##.__b-popup1__.b-modal
 ##.ablkAlert
 ##.adBtn
@@ -508,7 +507,7 @@ zippyanime.net##script:inject(nano-setInterval-booster.js)
 ##.onesuch
 ##.right.right_middle_ad.widget
 ##.right.right_top_ad.widget
--------------------------------------
+! -------------------------------------
 21moviemania.club,cinemaindo.co,lebahmovie.com,waktunonton.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
@@ -545,7 +544,7 @@ zonawibu.bid##.artikel
 zonawibu.bid##h4
 zonawibu.bid##.thumbnail
 zonawibu.me##.infopost
--------------------------------------
+! -------------------------------------
 ###abAlert
 ###ads-pop
 ###agegate_content
@@ -564,7 +563,7 @@ zonawibu.me##.infopost
 ###v3ea
 ###videoad1
 ###z2c7
--------------------------------------
+! -------------------------------------
 androidrepublic.org###siropuChat
 dataid.us###loading
 dewafile.com###download
