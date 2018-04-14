@@ -57,7 +57,7 @@ boostads.site$third-party
 bosqq.online$third-party
 boudja.com$third-party
 bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
-bp.blogspot.com*gif$third-party,domain=123drakor.org|lebahmovie.com|nontonmovie251.com
+bp.blogspot.com*gif$third-party,domain=123drakor.org|cinemakv21.com|lebahmovie.com|nontonmovie251.com
 c.adsco.re$third-party
 cachefly.net$third-party
 calcch.com$third-party
@@ -66,6 +66,7 @@ casterist.info$third-party
 caughinga.info$popup,third-party
 caughinga.info$third-party
 chatango.com$third-party
+cinemakv21.com/wp-content/uploads*gif
 ciuvo.com$third-party
 climbering.info$third-party
 cloudmedia.gdn$third-party
@@ -76,6 +77,7 @@ consoletarget.com$third-party
 cpaoptimizer.com$popunder
 cpaoptimizer.com$popup,third-party
 cpaoptimizer.com$third-party
+critadewasa.com/wp-content/uploads*gif
 croissed.info$third-party
 crypto-loot.com$third-party
 cwv3_bg_image
@@ -106,11 +108,14 @@ exdynsrv.com$third-party
 eyeota.net$third-party
 f0nxxmrm.me$third-party
 facebook.com$popup,domain=bagilagi.com
+filmbioskop21.co/iklan/
+filmseri.com/wp-content/uploads*gif
 firebasestorage.googleapis.com*ABP.css?$third-party
 firebasestorage.googleapis.com*ABP.js?$third-party
 fourtesy.info$third-party
 freeproxy.io$third-party
 gambar123.com$third-party,domain=46.166.167.16|semprot.com|semprotku.com
+ganool.city/iklan
 ganool.web.id/wp-content/uploads*gif
 genderfluidsupport.com
 generaed.info$third-party
@@ -118,6 +123,7 @@ genieessp.com$third-party
 go.*gold.net/id$third-party
 go.oclasrv.com$popup,third-party
 go.onclasrv.com$popup,third-party
+goo.gl/S7vzBu$popup
 google.*/_/chrome/newtab-serviceworker.js
 google.*/api/stats/qoe?$third-party
 google.*/async*&async$third-party
@@ -130,6 +136,7 @@ hikarinoakariost.info$inline-script
 hitcpm.com$popunder
 hitcpm.com$popup,third-party
 hotmuv.com$third-party
+hotmuv.com/wp-content/uploads*gif
 i.imgur.com$third-party,domain=acefile.co|awsubs.co|lk21.blue|movieon21.org|nanime.in|nontonanime.id
 i.makeagif.com$domain=nontonmovie251.com
 i027m.top$third-party
@@ -141,12 +148,14 @@ impactify.io$third-party
 inclk.com/itab/sa?cid=$popunder
 inclk.com/itab/sa?cid=$popup,third-party
 indoxxi.info/rtr/
+indoxxi.ws/wp-content/plugins/uji-popup
 inlink.site/wp-content/uploads/
 ipify.org$third-party
 jerwested.info$third-party
 joneself.com$third-party
 jwpcdn.com/player/v*vast.js$important
 kay-61.com$popup,third-party
+klikfilm.stream/templates/jwplayer/assets/banner.
 knoacc.org$third-party
 kswid.com$third-party,script
 kuotamurahku.com$third-party
@@ -157,6 +166,7 @@ limaten.info$popunder
 limaten.info$popup,third-party
 limaten.info$third-party
 linkshrink.net$third-party,script
+lk21.in/wp-content/uploads*gif
 lonedol.info$popup,third-party
 lonedol.info$third-party
 lucklayed.info$third-party
@@ -171,8 +181,11 @@ movieon21.*/wp-content/uploads*gif
 naenticle.info$third-party
 nephritish.com$third-party
 nonton.drakor-id.com/banner/download.gif
+nontonsub.com$third-party
+nontonsub.com/wp-content/uploads*gif
 notifa.info$third-party
 offerenced.com$third-party
+old.dshe.gov.bd$third-party
 onesignal.com$third-party
 pc2ads.com$third-party
 pgl.yoyo.org$third-party
@@ -193,7 +206,7 @@ puu.sh/xv53n$third-party
 pvclouds.com$third-party,script
 qregation.info$third-party
 r2games.com$domain=behind-the-scene
-rawgit.com$third-party,domain=myanimeindo.net
+rawgit.com$third-party,domain=ambian-movies.blogspot.com|myanimeindo.net
 rtbapi.net$third-party
 runtnc.net$third-party
 safelinkconverter.com$third-party,script
@@ -232,6 +245,8 @@ ubloger.com/wp-content/uploads*gif
 uzone.id$third-party
 vdztr.bid$popunder
 w55c.net$third-party
+waktunonton.com/wp-content/uploads*gif
+wapwon.desi$third-party
 webmine.pro$third-party
 wentshops.xyz$popup,third-party
 whxhegjrqlddko.com$third-party
@@ -283,8 +298,8 @@ restricted$third-party
 /app/assets/js/app_$script
 /autoptimize$domain=oploverz.in
 /autoptimize*autoptimize$script
+/blantersafelink.js
 /cdn-cgi/beacon/
-/cdn-cgi/pe/bag2?r
 /csi_204
 /error_204
 /funcript
@@ -355,13 +370,13 @@ restricted$third-party
 @@/basement/js
 @@/download^$xmlhttprequest,domain=speedtest.net 
 @@/flow/frontend_assets/js/advertisement.js
-@@/js/ads.$domain=linkk.bid|payskip.me|shrinklink.co|tunnl.com
+@@/js/ads.$domain=linkk.bid|payskip.me|shorted.id|shrinklink.co|tunnl.com
 @@/hello^$xmlhttprequest,domain=speedtest.net 
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/Sites/admin/Scripts/md5.min.js
 @@/themes*js/adsbygoogle.js
 @@/upload^$xmlhttprequest,domain=speedtest.net
-@@/wp-content/cache/autoptimize$domain=pusatfilm21.com
+@@/wp-content/cache/autoptimize$domain=belitongekspres.co.id|moviegan.com|pusatfilm21.com
 @@/wp-content/themes/jannah/js
 ----------------------------------------
 @@ad4msan.com$generichide
@@ -374,6 +389,7 @@ restricted$third-party
 @@anisubindo.org$generichide
 @@asr-games.net/newjs
 @@bagilagi.com$generichide
+@@banztegnology.club$generichide
 @@bigspeeds.com/ajax/advertisement.js
 @@clksite.com/static/advertisement.
 @@cloudflare.com$domain=freevpn.us
@@ -405,6 +421,7 @@ restricted$third-party
 ##a[href*="bit.ly/2fxPTzf"]
 ##a[href*="bit.ly/2jR0KYY"]
 ##a[href*="bit.ly/2jyrrow"]
+##a[href*="bit.ly/2qlDa9j"]
 ##a[href*="bit.ly/ganoollinks"]
 ##a[href*="earth-111.com"]
 ##a[href*="href.li"]
@@ -428,6 +445,7 @@ coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com##h2
 designmyhomee.com##script:inject(nano-setInterval-booster.js)
 dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
+efx2.com##.pageku:nth-of-type(4)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
 idsly.*##script:inject(nano-setInterval-booster.js)
 indoxxi.info##script:inject(nano-setInterval-booster.js)
@@ -480,7 +498,7 @@ zippyanime.net##script:inject(nano-setInterval-booster.js)
 ##.right.right_middle_ad.widget
 ##.right.right_top_ad.widget
 -------------------------------------
-21moviemania.club,lebahmovie.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
+21moviemania.club,lebahmovie.com,waktunonton.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
 anisubindo.org##.ArevicoModal-bg
@@ -510,6 +528,7 @@ speedtest.net##.lower-horizontal.ad
 speedtest.net##.notification-container
 speedtest.net##.top-horizontal
 susutinv2.com##.panel-body.panel-default.panel > h3
+waktunonton.com##.idmuvi-topbanner-aftermenu
 zonawibu.bid##.artikel
 zonawibu.bid##h4
 zonawibu.bid##.thumbnail
@@ -527,6 +546,7 @@ zonawibu.me##.infopost
 ###popup
 ###s141
 ###tevrzbo-blanket
+###unblocker
 ###v3ea
 ###videoad1
 ###z2c7
