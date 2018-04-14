@@ -294,7 +294,7 @@ restricted$third-party
 ========== / List ==========
 -728x90.
 -728-x-90.
-/1market.php
+/?ga_action=googleanalytics_get_script
 /296467_712a70a8-97e6-11e4-9eb1-ca992523fab8.jpg
 /7811552/250x250.gif
 /7813650/paxful.gif
@@ -314,7 +314,6 @@ restricted$third-party
 /cdn-cgi/beacon/
 /csi_204
 /error_204
-/funcript
 /gen204
 /gen_204
 /generate_204
