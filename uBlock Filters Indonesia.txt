@@ -142,10 +142,12 @@ hotmuv.com/wp-content/uploads*gif
 i.imgur.com$third-party,domain=acefile.co|awsubs.co|lk21.blue|movieon21.org|nanime.in|nontonanime.id
 i.makeagif.com$domain=nontonmovie251.com
 i027m.top$third-party
+ibb.co$third-party,domain=lk21.web.id
 idsly.com$third-party
+img.akubebas.com/images*gif
+img.topddl.net*gif$third-party
 imgclick.net$generichide,important
 imgu.info$third-party
-img.topddl.net/*gif$third-party
 impactify.io$third-party
 inclk.com/itab/sa?cid=$popunder
 inclk.com/itab/sa?cid=$popup,third-party
@@ -198,7 +200,7 @@ platinmods.com/js/Siropu/Chat
 play.google.com/log$third-party
 plenty.analisis.io$third-party
 poopads.xyz$popup,third-party
-postimg.org$third-party,image,domain=cinemaindo.co|coeg.in|siotong.com|telondasmu.com|thejual.com
+postimg.org$third-party,image,domain=cinemaindo.co|coeg.in|lk21.web.id|siotong.com|telondasmu.com|thejual.com
 preditates.com$popup,third-party
 preditates.com$third-party
 promodewa.com$third-party
@@ -227,6 +229,7 @@ smartphonelist.com$popup,third-party
 smartphoneslist.com$popunder
 smartphoneslist.com$popup,third-party
 strucewe.info$third-party
+sukipli.com*gif$third-party,domain=lk21.web.id
 surgeprice.com$third-party
 tagbucket.cc$third-party
 tango-deg.com$popunder
@@ -525,6 +528,8 @@ lebahmovie.com##.idmuvi-floatbanner-footer.idmuvi-floatbanner
 lebahmovie.com,nonton.drakor-id.com##.idmuvi-socialicon-share
 lenov.ru##.clearfix.rek-but:nth-of-type(1)
 lenov.ru##.clearfix.rek-red.rek-but
+lk21.web.id##.row:nth-of-type(3)
+lk21.web.id##.row:nth-of-type(6)
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
 myanimelist.net##._unit
 pekalongan-kommuniti.net##.fb-btn-seocips
