@@ -22,7 +22,6 @@
 ||adop.cc$third-party
 ||ads.$third-party
 ||ads.linkshrink.net$popunder
-||ads.pubmatic.com$third-party
 ||adservice.google.*$third-party
 ||adsdonlot.in/css/ads_donlotin.css
 ||adsdonlot.in/get-ads-
@@ -567,7 +566,6 @@ dewafile.com###download
 indoxxi.net###extand
 liz.zdonlot.in###close-banner
 pekalongan-kommuniti.net###box-message
-pekalongan-kommuniti.net###s141
 platinmods.com###siropuChat
 revolt.group###category_shoutbox
 tribunnews.com###articleright
