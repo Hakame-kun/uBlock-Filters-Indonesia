@@ -40,4 +40,4 @@ Terkadang, yang sudah dimasukkan ke dalam hosts tetap terblock internet positif.
 Ingin ditambahkan lagi hostsnya ? Buka saja <a href="https://github.com/Hakame-kun/uBlock/issues">ini</a> lalu masukkan website yang diinginkan.
 
 # Donasi
-Anda ingin donasi untuk membantu saya ? Caranya mudah, Anda hanya perlu mengklik <a href="https://ouo.io/APuZKrZ">link ini</a> atau <a href="http://1safe.link/sWzwpdan">link ini</a> melewatinya saja. Terima kasih untuk donasinya :)
+Anda ingin donasi untuk membantu saya ? Caranya mudah, Anda hanya perlu mengklik <a href="https://ouo.io/APuZKrZ">link ini</a> atau <a href="http://1safe.link/sWzwp">link ini</a> dan melewatinya saja. Terima kasih untuk donasinya :)
