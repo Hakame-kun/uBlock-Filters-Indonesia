@@ -48,6 +48,7 @@
 ||areyouahuman.com$third-party
 ||assets.adobedtm.com$third-party
 ||ayclinical.com$third-party
+||bc.vc/js/app.v5.js
 ||bioskop45.com*gif
 ||bioskopgue.net/wp-content/uploads*gif
 ||bioskopkeren.club/images/
@@ -193,6 +194,7 @@
 ||offerenced.com$third-party
 ||old.dshe.gov.bd$third-party
 ||onesignal.com$third-party
+||parding.info$third-party
 ||pc2ads.com$third-party
 ||pgl.yoyo.org$third-party
 ||pindered.info$third-party
@@ -266,7 +268,7 @@
 ||whxhegjrqlddko.com$third-party
 ||wjkwjcmeymu.com$third-party
 ||wnp.com$third-party
-||wp.com*gif$domain=lebahmovie.com|nonton.drakor-id.com
+||wp.com*gif$domain=idxxi.top|lebahmovie.com|nonton.drakor-id.com
 ||wyueivwashc.com$third-party
 ||x.kinja-static.com/assets/packaged-js/dollars.
 ||xdeyou.com$third-party,script
@@ -358,7 +360,6 @@
 /wp-content/uploads/iklan/
 /wp-jw-player/css/popup
 /wp-jw-player/js/popup.js
-/wpad/
 /www-static/css/premium/premium-modals.css$important
 /www-static/js/premium/premium-modals.js$important
 /www-static/js/widgets-live-popup.js$important
@@ -379,7 +380,6 @@
 @@/basement/js
 @@/download^$xmlhttprequest,domain=speedtest.net 
 @@/flow/frontend_assets/js/advertisement.js
-@@/js/ads.$domain=linkk.bid|payskip.me|shorted.id|shrinklink.co|tunnl.com
 @@/hello^$xmlhttprequest,domain=speedtest.net 
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/Sites/admin/Scripts/md5.min.js
@@ -456,6 +456,7 @@ idsly.*##script:inject(nano-setInterval-booster.js)
 indoxxi.info##script:inject(nano-setInterval-booster.js)
 ironime.org##script:inject(abort-current-inline-script.js, addEventListener)
 lenov.ru##script:inject(nano-setInterval-booster.js)
+linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##script:inject(abort-on-property-read.js, app_vars.force_disable_adblock)
 linkk.bid##script:inject(nano-setInterval-booster.js)
 linkpoi.*##script:inject(abort-current-inline-script.js, addEventListener)
 meownime.com##script:inject(noeval.js)
@@ -463,6 +464,8 @@ oploverz.in##s
 oploverz.in##u
 payskip.me##script:inject(nano-setInterval-booster.js)
 platinmods.com##script:inject(bab-defuser.js)
+platinmods.download##script:inject(bab-defuser.js)
+platinmods.download##script:inject(nano-setInterval-booster.js)
 safelinkreviewz.com##script:inject(nano-setInterval-booster.js)
 speedtest.net##script:inject(nano-setInterval-booster.js)
 susutinv2.com##p:nth-of-type(1)
