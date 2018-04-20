@@ -32,6 +32,7 @@
 ||advideo.ru$third-party
 ||agreemand.com$third-party
 ||alicdn.com/g/alilog/mlog/aplus_int.js$third-party
+||allsync.com/img/ad$third-party
 ||ambient-platform.com$third-party
 ||amjadfreesoft.com$third-party
 ||analitits.com$third-party
@@ -89,6 +90,7 @@
 ||d3p2b5qewrnsyv.cloudfront.net$third-party
 ||d3rhktq8uy839j.cloudfront.net$third-party
 ||d3ud741uvs727m.cloudfront.net$third-party
+||d9tnvwv7i2n85.cloudfront.net$third-party
 ||dc08i221b0n8a.cloudfront.net$third-party
 ||dailymotion.com$third-party,domain=mirrorace.com
 ||digiads.co.id$third-party
