@@ -145,6 +145,7 @@
 ||i.makeagif.com$domain=nontonmovie251.com
 ||i027m.top$third-party
 ||ibb.co$third-party,domain=lk21.web.id
+||idfl.*/fancybox
 ||idsly.com$third-party
 ||img.akubebas.com/images*gif
 ||img.topddl.net*gif$third-party
@@ -206,7 +207,7 @@
 ||play.google.com/log$third-party
 ||plenty.analisis.io$third-party
 ||poopads.xyz$popup,third-party
-||postimg.org$third-party,image,domain=cinemaindo.co|coeg.in|lk21.web.id|siotong.com|telondasmu.com|thejual.com
+||postimg.*$third-party,image,domain=cinemaindo.co|coeg.in|idfl.biz|idfl.info|idfl.me|idfl.my.id|lk21.web.id|siotong.com|telondasmu.com|thejual.com
 ||preditates.com$popup,third-party
 ||preditates.com$third-party
 ||promodewa.com$third-party
@@ -251,6 +252,7 @@
 ||tfw-current.s3.amazonaws.com
 ||threadsphere.bid/js/display.js
 ||tidaltv.com$third-party
+||tinypic.com$third-party,domain=idfl.biz|idfl.info|idfl.me|idfl.my.id
 ||tobys.dk$inline-script,domain=tobys.dk
 ||torpsol.com$popunder
 ||torpsol.com$popup,third-party
@@ -568,6 +570,7 @@ zonawibu.me##.infopost
 androidrepublic.org###siropuChat
 dataid.us###loading
 dewafile.com###download
+idfl.*###fancybox-overlay
 indoxxi.net###extand
 liz.zdonlot.in###close-banner
 pekalongan-kommuniti.net###box-message
