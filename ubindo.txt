@@ -144,7 +144,7 @@
 ||i.imgur.com$third-party,domain=acefile.co|awsubs.co|lk21.blue|movieon21.org|nanime.in|nontonanime.id
 ||i.makeagif.com$domain=nontonmovie251.com
 ||i027m.top$third-party
-||ibb.co$third-party,domain=lk21.web.id
+||ibb.co$third-party,domain=lk21.web.id|lk21tv.web.id
 ||idfl.*/fancybox
 ||idsly.com$third-party
 ||img.akubebas.com/images*gif
@@ -207,7 +207,7 @@
 ||play.google.com/log$third-party
 ||plenty.analisis.io$third-party
 ||poopads.xyz$popup,third-party
-||postimg.*$third-party,image,domain=cinemaindo.co|coeg.in|idfl.biz|idfl.info|idfl.me|idfl.my.id|lk21.web.id|siotong.com|telondasmu.com|thejual.com
+||postimg.*$third-party,image,domain=cinemaindo.co|coeg.in|idfl.biz|idfl.info|idfl.me|idfl.my.id|lk21.web.id|lk21tv.web.id|siotong.com|telondasmu.com|thejual.com
 ||preditates.com$popup,third-party
 ||preditates.com$third-party
 ||promodewa.com$third-party
@@ -466,6 +466,7 @@ linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##script:inject(abort-on-
 linkk.bid##script:inject(nano-setInterval-booster.js)
 linkpoi.*##script:inject(abort-current-inline-script.js, addEventListener)
 meownime.com##script:inject(noeval.js)
+nekopoi.*##script:inject(bab-defuser.js)
 oploverz.in##s
 oploverz.in##u
 payskip.me##script:inject(nano-setInterval-booster.js)
