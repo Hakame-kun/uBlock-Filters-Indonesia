@@ -261,6 +261,7 @@
 ||tuxzictbrqietq.com$third-party
 ||uadexchange.com$third-party
 ||ubloger.com/wp-content/uploads*gif
+||userscloud.com/sw.js
 ||uzone.id$third-party
 ||vdztr.bid$popunder
 ||w55c.net$third-party
@@ -406,6 +407,7 @@
 @@clksite.com/static/advertisement.
 @@cloudflare.com$domain=freevpn.us
 @@freevpn.us$generichide
+@@gamehouse.com
 @@games.co.id/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
 @@igg-games.com
 @@juragan-anime.net/wp-content/cache
