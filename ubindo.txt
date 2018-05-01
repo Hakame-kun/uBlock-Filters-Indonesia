@@ -58,7 +58,7 @@
 ||bosqq.online$third-party
 ||boudja.com$third-party
 ||bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
-||bp.blogspot.com*gif$third-party,domain=123drakor.org|cinemakv21.com|lebahmovie.com|nontonmovie251.com
+||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|lebahmovie.com|nontonmovie251.com
 ||c.adsco.re$third-party
 ||cachefly.net$third-party
 ||calcch.com$third-party
@@ -130,7 +130,6 @@
 ||google.*/_/chrome/newtab-serviceworker.js
 ||google.*/api/stats/qoe?$third-party
 ||google.*/async*&async$third-party
-||google.*/complete/search?client$third-party
 ||google.*/pagead$third-party
 ||gways.net$popup,third-party
 ||haxhits.com/assets/images/
@@ -261,7 +260,6 @@
 ||tuxzictbrqietq.com$third-party
 ||uadexchange.com$third-party
 ||ubloger.com/wp-content/uploads*gif
-||userscloud.com/sw.js
 ||uzone.id$third-party
 ||vdztr.bid$popunder
 ||w55c.net$third-party
@@ -302,10 +300,6 @@
 /abd.interstitial.preroll$script,third-party
 /adaqq160x600.gif
 /adnetwork.js$script,third-party
-/adsbottompagenav.
-/adsleft.
-/adsmobilebottom.
-/adsmobiletop.
 /analytics/track.png?q
 /api/inventory
 /api-ads?callback=
@@ -337,6 +331,7 @@
 /log?format=
 /lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
 /mts_ad_sense/js
+/neko/data/*ads*png
 /nontonanime.org/js/ads.js
 /ouo2018$script,third-party
 /popupad$script,third-party
@@ -394,6 +389,7 @@
 ! ----------------------------------------
 @@ad4msan.com$generichide
 @@adf.ly/*.php$popup
+@@adfoc.us$domain=adfoc.us
 @@ainodorama.web.id$generichide
 @@ainogatget.ga$generichide
 @@ainotechno.ga$generichide
