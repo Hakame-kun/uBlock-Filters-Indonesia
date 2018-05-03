@@ -286,9 +286,9 @@
 ||zonawibu.me/data/no-ads.
 ||zpfjfwbij.com$third-party
 
-! ========== & List ==========
-&aff_sub2=$popunder
-&aff_sub2=$popup,third-party
+
+! ========== * List ==========
+*$third-party,domain=exc.10khits.com
 
 ! ========== / List ==========
 -728x90.
@@ -400,12 +400,15 @@
 @@bagilagi.com$generichide
 @@banztegnology.club$generichide
 @@bigspeeds.com/ajax/advertisement.js
+@@bootstrapcdn.com$domain=exc.10khits.com
+@@cashcrate.com
 @@clksite.com/static/advertisement.
 @@cloudflare.com$domain=freevpn.us
 @@freevpn.us$generichide
 @@gamehouse.com
 @@games.co.id/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
 @@igg-games.com
+@@inboxdollars.com
 @@juragan-anime.net/wp-content/cache
 @@jwpcdn.com
 @@linkbucks.com/scripts/intermissionLink
