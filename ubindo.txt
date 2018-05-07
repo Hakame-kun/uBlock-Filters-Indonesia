@@ -205,6 +205,7 @@
 ||platinmods.com/js/Siropu/Chat
 ||play.google.com/log$third-party
 ||plenty.analisis.io$third-party
+||poker99vip.net$popup,third-party
 ||poopads.xyz$popup,third-party
 ||postimg.*$third-party,image,domain=cinemaindo.co|coeg.in|idfl.biz|idfl.info|idfl.me|idfl.my.id|lk21.web.id|lk21tv.web.id|siotong.com|telondasmu.com|thejual.com
 ||preditates.com$popup,third-party
@@ -288,7 +289,9 @@
 
 
 ! ========== * List ==========
+*$third-party,domain=easyhits4u.com
 *$third-party,domain=exc.10khits.com
+*$third-party,domain=startxchange.com
 
 ! ========== / List ==========
 -728x90.
@@ -390,26 +393,31 @@
 @@ad4msan.com$generichide
 @@adf.ly/*.php$popup
 @@adfoc.us$domain=adfoc.us
+@@ads.a-static.com/ads.js
 @@ainodorama.web.id$generichide
 @@ainogatget.ga$generichide
 @@ainotechno.ga$generichide
 @@anifiles.org/themes/flow/
 @@ani-share.com$generichide
 @@anisubindo.org$generichide
+@@apis.google.com$domain=easyhits4u.com
 @@asr-games.net/newjs
 @@bagilagi.com$generichide
 @@banztegnology.club$generichide
 @@bigspeeds.com/ajax/advertisement.js
+@@bitcoinspinner.io/themes
 @@bootstrapcdn.com$domain=exc.10khits.com
 @@cashcrate.com
 @@clksite.com/static/advertisement.
 @@cloudflare.com$domain=freevpn.us
+@@easyhits4u.com$first-party
 @@freevpn.us$generichide
 @@gamehouse.com
 @@games.co.id/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
 @@igg-games.com
 @@inboxdollars.com
 @@juragan-anime.net/wp-content/cache
+@@jquery.com$domain=startxchange.com
 @@jwpcdn.com
 @@linkbucks.com/scripts/intermissionLink
 @@meongs.bid
@@ -418,6 +426,8 @@
 @@qualityfilehosting.com/adframe.
 @@revdepo.com/static/advertisement.js
 @@safebitcoin.info$elemhide
+@@sharethis.com
+@@unpkg.com$domain=easyhits4u.com
 @@uplod.cc*advertisement$script
 
 ! ========== Custom List ==========
@@ -450,6 +460,8 @@ aw-games.net,short.awsubs.co##center:nth-of-type(2)
 aw-games.net,short.awsubs.co##h1
 awsubsco.ga##script:inject(abort-on-property-read.js)
 awsubsco.ga##script:inject(nano-setInterval-booster.js)
+bittube.me##script:inject(nano-setInterval-booster.js)
+clickers.info##script:inject(bab-defuser.js)
 coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com##h2
 designmyhomee.com##script:inject(nano-setInterval-booster.js)
 dynamicssh.com##script:inject(abort-on-property-read.js)
@@ -465,6 +477,7 @@ linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##script:inject(abort-on-
 linkk.bid##script:inject(nano-setInterval-booster.js)
 linkpoi.*##script:inject(abort-current-inline-script.js, addEventListener)
 meownime.com##script:inject(noeval.js)
+multimining.website##script:inject(nano-setInterval-booster.js)
 nekopoi.*##script:inject(bab-defuser.js)
 oploverz.in##s
 oploverz.in##u
@@ -474,6 +487,7 @@ platinmods.download##script:inject(bab-defuser.js)
 platinmods.download##script:inject(nano-setInterval-booster.js)
 safelinkreviewz.com##script:inject(nano-setInterval-booster.js)
 speedtest.net##script:inject(nano-setInterval-booster.js)
+startxchange.com##script:inject(nano-setInterval-booster.js)
 susutinv2.com##p:nth-of-type(1)
 susutinv2.com##p:nth-of-type(2)
 susutinv2.com##p:nth-of-type(3)
