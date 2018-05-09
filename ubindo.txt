@@ -49,6 +49,7 @@
 ||areyouahuman.com$third-party
 ||assets.adobedtm.com$third-party
 ||ayclinical.com$third-party
+||ban-host.ru$third-party
 ||bc.vc/js/app.v5.js
 ||bioskop45.com*gif
 ||bioskopgue.net/wp-content/uploads*gif
@@ -74,6 +75,7 @@
 ||cloudmedia.gdn$third-party
 ||cloudmediacdn.com$third-party
 ||coinhive.com$third-party
+||coinverti.com$third-party
 ||consolebackup.com$third-party
 ||consoletarget.com$third-party
 ||cpaoptimizer.com$popunder
@@ -289,6 +291,7 @@
 
 
 ! ========== * List ==========
+*$third-party,domain=bitcoinsurf.org
 *$third-party,domain=easyhits4u.com
 *$third-party,domain=exc.10khits.com
 *$third-party,domain=startxchange.com
@@ -377,9 +380,11 @@
 
 ! ========== Unblocked URL List ==========
 @@/AC_RunActiveContent
-@@/adimg$image
 @@/ad_top_bg2.png?
+@@/adimg$image
+@@/adframe.$domain=adf.ly|qualityfilehosting.com
 @@/ads.js$first-party,domain=hentaigasm.com
+@@/advertisement.$domain=bigspeeds.com|clksite.com|earnbitcoinsnow.net|games.co.id|revdepo.com|simplesads.com.br|uplod.cc
 @@/basement/js
 @@/download^$xmlhttprequest,domain=speedtest.net 
 @@/flow/frontend_assets/js/advertisement.js
@@ -404,31 +409,30 @@
 @@asr-games.net/newjs
 @@bagilagi.com$generichide
 @@banztegnology.club$generichide
-@@bigspeeds.com/ajax/advertisement.js
 @@bitcoinspinner.io/themes
 @@bootstrapcdn.com$domain=exc.10khits.com
 @@cashcrate.com
-@@clksite.com/static/advertisement.
 @@cloudflare.com$domain=freevpn.us
+@@cointiply.com$elemhide
+@@cointiply.com$first-party
+@@crypto-loot.com$first-party
+@@dircont3.com/nvp.js
 @@easyhits4u.com$first-party
 @@freevpn.us$generichide
 @@gamehouse.com
-@@games.co.id/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
 @@igg-games.com
 @@inboxdollars.com
 @@juragan-anime.net/wp-content/cache
-@@jquery.com$domain=startxchange.com
+@@jquery.com$domain=easyhits4u.com|startxchange.com
 @@jwpcdn.com
 @@linkbucks.com/scripts/intermissionLink
 @@meongs.bid
 @@pagead2.googlesyndication.com$domain=safelink.top
 @@qualityfilehosting.com$elemhide
-@@qualityfilehosting.com/adframe.
-@@revdepo.com/static/advertisement.js
 @@safebitcoin.info$elemhide
 @@sharethis.com
 @@unpkg.com$domain=easyhits4u.com
-@@uplod.cc*advertisement$script
+@@zetabitco.com$elemhide
 
 ! ========== Custom List ==========
 
@@ -460,9 +464,16 @@ aw-games.net,short.awsubs.co##center:nth-of-type(2)
 aw-games.net,short.awsubs.co##h1
 awsubsco.ga##script:inject(abort-on-property-read.js)
 awsubsco.ga##script:inject(nano-setInterval-booster.js)
+bitcoininformation.website##script:inject(nano-setInterval-booster.js)
 bittube.me##script:inject(nano-setInterval-booster.js)
+claimbits.io##script:inject(bab-defuser.js)
+claimfreebtc.win##script:inject(bab-defuser.js)
 clickers.info##script:inject(bab-defuser.js)
+clk.press##script:inject(nano-setInterval-booster.js)
+coingrabr.com##script:inject(bab-defuser.js)
+cryptobro.xyz##script:inject(bab-defuser.js)
 coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com##h2
+darak.me##script:inject(bab-defuser.js)
 designmyhomee.com##script:inject(nano-setInterval-booster.js)
 dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
@@ -487,6 +498,7 @@ platinmods.download##script:inject(bab-defuser.js)
 platinmods.download##script:inject(nano-setInterval-booster.js)
 safelinkreviewz.com##script:inject(nano-setInterval-booster.js)
 speedtest.net##script:inject(nano-setInterval-booster.js)
+starcoins.ws##script:inject(bab-defuser.js)
 startxchange.com##script:inject(nano-setInterval-booster.js)
 susutinv2.com##p:nth-of-type(1)
 susutinv2.com##p:nth-of-type(2)
@@ -496,6 +508,7 @@ susutinv2.com##p:nth-of-type(5)
 susutinv2.com##p:nth-of-type(6)
 susutinv2.com##p:nth-of-type(7)
 susutinv2.com##p:nth-of-type(8)
+zetabitco.com##script:inject(bab-defuser.js)
 zippyanime.net##script:inject(nano-setInterval-booster.js)
 ! -------------------------------------
 ##.__b-popup1__.b-modal
