@@ -1,6 +1,7 @@
 ! ========== URL List ==========
 
 ||*.*-adnow.com$script,third-party
+||1rotator.com$third-party
 ||21moviemania.*/wp-content/uploads*gif
 ||35.184.188.211$popup,third-party
 ||35.188.147.160$popup,third-party
@@ -56,11 +57,13 @@
 ||bioskopgue.net/wp-content/uploads*gif
 ||bioskopkeren.club/images/
 ||bit.ly/PokerQQ$popup,third-party
+||bitcoinad.pro$third-party
 ||boostads.site$third-party
 ||bosqq.online$third-party
 ||boudja.com$third-party
 ||bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
 ||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|lebahmovie.com|nontonmovie251.com
+||brainbux.com$third-party
 ||c.adsco.re$third-party
 ||cachefly.net$third-party
 ||calcch.com$third-party
@@ -85,6 +88,7 @@
 ||cpaoptimizer.com$popunder
 ||cpaoptimizer.com$popup,third-party
 ||cpaoptimizer.com$third-party
+||cproxyer.com$third-party
 ||critadewasa.com/wp-content/uploads*gif
 ||croissed.info$third-party
 ||crypto-loot.com$third-party
@@ -111,6 +115,7 @@
 ||ecvladelayk.com$third-party
 ||eiqzyxofsgzel.com$third-party
 ||elthamely.com$third-party
+||emeraldbux.com$third-party
 ||eversely.com$third-party
 ||evidon.com$third-party
 ||ewparo.ru$third-party
@@ -118,6 +123,7 @@
 ||eyeota.net$third-party
 ||f0nxxmrm.me$third-party
 ||facebook.com$popup,domain=bagilagi.com
+||faucetcollector.info$third-party
 ||filmbioskop21.co/iklan/
 ||filmseri.com/wp-content/uploads*gif
 ||firebasestorage.googleapis.com*ABP.css?$third-party
@@ -133,6 +139,7 @@
 ||go.*gold.net/id$third-party
 ||go.oclasrv.com$popup,third-party
 ||go.onclasrv.com$popup,third-party
+||godfile.info$third-party
 ||goo.gl/S7vzBu$popup
 ||google.*/_/chrome/newtab-serviceworker.js
 ||google.*/api/stats/qoe?$third-party
@@ -202,7 +209,9 @@
 ||notifa.info$third-party
 ||offerenced.com$third-party
 ||old.dshe.gov.bd$third-party
+||orbisbux.com$third-party
 ||onesignal.com$third-party
+||onhandrecipes.com$third-party
 ||parding.info$third-party
 ||pc2ads.com$third-party
 ||pgl.yoyo.org$third-party
@@ -235,6 +244,7 @@
 ||safelinku$third-party,script
 ||safelinku.net/downlaod1.
 ||safelinku.net/download.
+||satoshinet.com$third-party
 ||schillmania.com/projects$third-party
 ||semixxi.com/wp-content/uploads*gif
 ||senditcloud.com$popup,third-party
@@ -251,6 +261,7 @@
 ||strucewe.info$third-party
 ||sukipli.com*gif$third-party,domain=lk21.web.id
 ||surgeprice.com$third-party
+||swiftmining.win$third-party
 ||tagbucket.cc$third-party
 ||tango-deg.com$popunder
 ||tango-deg.com$popup,third-party
@@ -265,6 +276,7 @@
 ||torpsol.com$popup,third-party
 ||trafficsan.com$third-party
 ||treasuredata.com$third-party
+||ttplayer.info$third-party
 ||tuxzictbrqietq.com$third-party
 ||uadexchange.com$third-party
 ||ubloger.com/wp-content/uploads*gif
@@ -290,6 +302,7 @@
 ||xx1.me/sworker.js
 ||xydeyou.com$third-party,script
 ||youtube.com/api/stats/watchtime?$important
+||zcashpool.org$third-party
 ||zenmate.com/api/analyze?
 ||zonawibu.me/data/no-ads.
 ||zpfjfwbij.com$third-party
@@ -644,6 +657,7 @@ zonawibu.me##.infopost
 androidrepublic.org###siropuChat
 dataid.us###loading
 dewafile.com###download
+easyhits4u.com###countDown
 idfl.*###fancybox-overlay
 indoxxi.net###extand
 liz.zdonlot.in###close-banner
