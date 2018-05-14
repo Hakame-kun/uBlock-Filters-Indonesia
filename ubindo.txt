@@ -315,6 +315,7 @@
 *$third-party,domain=kickasstraffic.com
 *$third-party,domain=startxchange.com
 *$third-party,popup,domain=awsubs.co
+*$third-party,popup,domain=olgkzlwln.net
 
 ! ========== / List ==========
 -728x90.
@@ -419,6 +420,7 @@
 @@/upload^$xmlhttprequest,domain=speedtest.net
 @@/wp-content/themes/jannah/js
 ! ----------------------------------------
+@@*$third-party,popup,domain=short.awsubs.co
 @@ad4msan.com$generichide
 @@adf.ly/*.php$popup
 @@adfoc.us$domain=adfoc.us
@@ -459,8 +461,11 @@
 @@jquery.com$domain=easyhits4u.com|startxchange.com
 @@jwpcdn.com
 @@linkbucks.com/scripts/intermissionLink
+@@linkbucks.com/scripts/script-adv.js
+@@linkbucksmedia.com
 @@meongs.bid
 @@neobux.com$first-party
+@@olgkzlwln.net$elemhide
 @@pagead2.googlesyndication.com$domain=directlink.booogle.net|safelink.top|uclick.in
 @@ptcwall.com$domain=kickasstraffic.com
 @@qualityfilehosting.com$elemhide
