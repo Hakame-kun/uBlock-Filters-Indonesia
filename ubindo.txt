@@ -309,11 +309,15 @@
 
 
 ! ========== * List ==========
+*$third-party,domain=247autohits.com
 *$third-party,domain=bitcoinsurf.org
 *$third-party,domain=easyhits4u.com
 *$third-party,domain=exc.10khits.com
+*$third-party,domain=hit4hit.org
 *$third-party,domain=kickasstraffic.com
 *$third-party,domain=startxchange.com
+*$third-party,domain=traffboost.net
+*$third-party,domain=trafficadbar.com
 *$third-party,popup,domain=awsubs.co
 *$third-party,popup,domain=olgkzlwln.net
 
@@ -438,7 +442,7 @@
 @@banztegnology.club$generichide
 @@bitcoinspinner.io/themes
 @@bolaoke.club$popup,domain=awsubs.co
-@@bootstrapcdn.com$domain=exc.10khits.com
+@@bootstrapcdn.com$domain=exc.10khits.com|traffboost.net
 @@cashcrate.com
 @@cloudflare.com$domain=freevpn.us|kickasstraffic.com
 @@cointiply.com$elemhide
@@ -454,6 +458,7 @@
 @@freevpn.us$generichide
 @@gamehouse.com
 @@googleapis.com$domain=kickasstraffic.com
+@@hit4hit.org$first-party
 @@igg-games.com
 @@imasdk.googleapis.com
 @@inboxdollars.com
@@ -471,6 +476,8 @@
 @@qualityfilehosting.com$elemhide
 @@safebitcoin.info$elemhide
 @@sharethis.com
+@@superrewards-offers.com$domain=hit4hit.org
+@@traffboost.net$first-party
 @@unpkg.com$domain=easyhits4u.com
 @@zetabitco.com$elemhide
 
