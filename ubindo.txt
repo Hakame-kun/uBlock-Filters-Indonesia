@@ -226,6 +226,8 @@
 ||postimg.*$third-party,image,domain=cinemaindo.co|coeg.in|idfl.biz|idfl.info|idfl.me|idfl.my.id|lk21.web.id|lk21tv.web.id|siotong.com|telondasmu.com|thejual.com
 ||preditates.com$popup,third-party
 ||preditates.com$third-party
+||privatelink.de/forward/
+||privatelink.de/if/
 ||promodewa.com$third-party
 ||provalist.info$third-party
 ||pusatfilm21.com/wp-content/uploads*gif
@@ -310,11 +312,20 @@
 
 ! ========== * List ==========
 *$third-party,domain=247autohits.com
+*$third-party,domain=adstopay.biz
+*$third-party,domain=adzcash.info
+*$third-party,domain=automoneysurf.com
+*$third-party,domain=basichits4u.com
 *$third-party,domain=bitcoinsurf.org
+*$third-party,domain=cryptofarmer.com
 *$third-party,domain=easyhits4u.com
+*$third-party,domain=ebesucher.com
 *$third-party,domain=exc.10khits.com
+*$third-party,domain=financesurf.net
 *$third-party,domain=hit4hit.org
+*$third-party,domain=infinitytrafficboost.com
 *$third-party,domain=kickasstraffic.com
+*$third-party,domain=realadsurf.site
 *$third-party,domain=startxchange.com
 *$third-party,domain=traffboost.net
 *$third-party,domain=trafficadbar.com
@@ -429,6 +440,7 @@
 @@adf.ly/*.php$popup
 @@adfoc.us$domain=adfoc.us
 @@ads.a-static.com/ads.js
+@@adserver.wir-kaufen.com
 @@ainodorama.web.id$generichide
 @@ainogatget.ga$generichide
 @@ainotechno.ga$generichide
@@ -442,9 +454,9 @@
 @@banztegnology.club$generichide
 @@bitcoinspinner.io/themes
 @@bolaoke.club$popup,domain=awsubs.co
-@@bootstrapcdn.com$domain=exc.10khits.com|traffboost.net
+@@bootstrapcdn.com$domain=cryptofarmer.com|exc.10khits.com|traffboost.net
 @@cashcrate.com
-@@cloudflare.com$domain=freevpn.us|kickasstraffic.com
+@@cloudflare.com$domain=cryptofarmer.com|freevpn.us|kickasstraffic.com
 @@cointiply.com$elemhide
 @@cointiply.com$first-party
 @@crypto-loot.com$first-party
@@ -457,13 +469,15 @@
 @@freebtcn.win$elemhide
 @@freevpn.us$generichide
 @@gamehouse.com
+@@ganzoffen.de
 @@googleapis.com$domain=kickasstraffic.com
 @@hit4hit.org$first-party
+@@hitlink.com$first-party
 @@igg-games.com
 @@imasdk.googleapis.com
 @@inboxdollars.com
 @@juragan-anime.net/wp-content/cache
-@@jquery.com$domain=easyhits4u.com|startxchange.com
+@@jquery.com$domain=cryptofarmer.com|easyhits4u.com|startxchange.com
 @@jwpcdn.com
 @@linkbucks.com/scripts/intermissionLink
 @@linkbucks.com/scripts/script-adv.js
@@ -472,6 +486,7 @@
 @@neobux.com$first-party
 @@olgkzlwln.net$elemhide
 @@pagead2.googlesyndication.com$domain=directlink.booogle.net|safelink.top|uclick.in
+@@privatelink.de$third-party
 @@ptcwall.com$domain=kickasstraffic.com
 @@qualityfilehosting.com$elemhide
 @@safebitcoin.info$elemhide
