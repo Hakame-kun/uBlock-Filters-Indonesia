@@ -72,6 +72,7 @@
 ||casterist.info$third-party
 ||caughinga.info$popup,third-party
 ||caughinga.info$third-party
+||chainads.io$third-party
 ||chatango.com$third-party
 ||chicgar.info$third-party
 ||cinemaindo.co/wp-content/uploads*gif
@@ -174,6 +175,7 @@
 ||javhd.com/stat
 ||jerwested.info$third-party
 ||joneself.com$third-party
+||jquery.com$third-party,domain=anitoki.com
 ||jwpcdn.com/player/v*vast.js$important
 ||kay-61.com$popup,third-party
 ||klikfilm.stream/templates/jwplayer/assets/banner.
@@ -224,6 +226,7 @@
 ||poker99vip.net$popup,third-party
 ||poopads.xyz$popup,third-party
 ||postimg.*$third-party,image,domain=cinemaindo.co|coeg.in|idfl.biz|idfl.info|idfl.me|idfl.my.id|lk21.web.id|lk21tv.web.id|siotong.com|telondasmu.com|thejual.com
+||potioncoin.com$third-party
 ||preditates.com$popup,third-party
 ||preditates.com$third-party
 ||privatelink.de/forward/
@@ -317,6 +320,7 @@
 *$third-party,domain=automoneysurf.com
 *$third-party,domain=basichits4u.com
 *$third-party,domain=bitcoinsurf.org
+*$third-party,domain=criptius.com
 *$third-party,domain=cryptofarmer.com
 *$third-party,domain=easyhits4u.com
 *$third-party,domain=ebesucher.com
@@ -420,7 +424,7 @@
 @@/ad_top_bg2.png?
 @@/adimg$image
 @@/adframe.$domain=adf.ly|claimfreebtc.win|qualityfilehosting.com
-@@/ads.js$first-party,domain=hentaigasm.com
+@@/ads.js$domain=btcmines.club|hentaigasm.com
 @@/advertisement$domain=solidfiles.com
 @@/advertisement.$domain=bagi.co.in|bigspeeds.com|bitcoinflood.com|clksite.com|earnbitcoinsnow.net|games.co.id|goldenfreesatoshi.ru|goodfaucet.ru|revdepo.com|simplesads.com.br|uplod.cc
 @@/advertising.$domain=gamepix.com
@@ -452,6 +456,7 @@
 @@asr-games.net/newjs
 @@bagilagi.com$generichide
 @@banztegnology.club$generichide
+@@bitcoin2019.com$elemhide
 @@bitcoinspinner.io/themes
 @@bolaoke.club$popup,domain=awsubs.co
 @@bootstrapcdn.com$domain=cryptofarmer.com|exc.10khits.com|traffboost.net
@@ -470,7 +475,8 @@
 @@freevpn.us$generichide
 @@gamehouse.com
 @@ganzoffen.de
-@@googleapis.com$domain=kickasstraffic.com
+@@google.com$domain=criptius.com
+@@googleapis.com$domain=criptius.com|kickasstraffic.com
 @@hit4hit.org$first-party
 @@hitlink.com$first-party
 @@igg-games.com
@@ -534,6 +540,7 @@ bitcoinclub.pw##script:inject(bab-defuser.js)
 bitcoinfaucet.fun##script:inject(bab-defuser.js)
 bitcoininformation.website##script:inject(nano-setInterval-booster.js)
 bittube.me##script:inject(nano-setInterval-booster.js)
+btcmines.club##script:inject(bab-defuser.js)
 claimbits.io##script:inject(bab-defuser.js)
 claimfreebtc.win##script:inject(bab-defuser.js)
 claimulike.win##script:inject(bab-defuser.js)
