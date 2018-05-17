@@ -56,7 +56,7 @@
 ||bioskop45.com*gif
 ||bioskopgue.net/wp-content/uploads*gif
 ||bioskopkeren.club/images/
-||bit.ly/PokerQQ$popup,third-party
+||bit.ly$third-party,popup,domain=awsubs.co
 ||bitcoinad.pro$third-party
 ||boostads.site$third-party
 ||bosqq.online$third-party
@@ -333,7 +333,6 @@
 *$third-party,domain=startxchange.com
 *$third-party,domain=traffboost.net
 *$third-party,domain=trafficadbar.com
-*$third-party,popup,domain=awsubs.co
 *$third-party,popup,domain=olgkzlwln.net
 
 ! ========== / List ==========
@@ -433,6 +432,7 @@
 @@/fingerprint2.$domain=faucethub.io
 @@/flow/frontend_assets/js/advertisement.js
 @@/hello^$xmlhttprequest,domain=speedtest.net 
+@@/js/ads$domain=alexamaster.net
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/Sites/admin/Scripts/md5.min.js
 @@/themes*js/adsbygoogle.js
@@ -448,6 +448,7 @@
 @@ainodorama.web.id$generichide
 @@ainogatget.ga$generichide
 @@ainotechno.ga$generichide
+@@alexamaster.net/ads/saturn.
 @@anifiles.org/themes/flow/
 @@ani-share.com$generichide
 @@anisubindo.org$generichide
@@ -461,10 +462,12 @@
 @@bolaoke.club$popup,domain=awsubs.co
 @@bootstrapcdn.com$domain=cryptofarmer.com|exc.10khits.com|traffboost.net
 @@cashcrate.com
+@@clixsense.com
 @@cloudflare.com$domain=cryptofarmer.com|freevpn.us|kickasstraffic.com
 @@cointiply.com$elemhide
 @@cointiply.com$first-party
 @@crypto-loot.com$first-party
+@@csstatic.com
 @@dc.services.visualstudio.com
 @@dircont3.com/nvp.js
 @@easyhits4u.com$first-party
