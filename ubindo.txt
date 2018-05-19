@@ -17,7 +17,6 @@
 ||activex.press$third-party
 ||ad.a-ads.com$third-party
 ||adbitty.com$third-party
-||addthis.com$third-party,important
 ||addtoany.com$third-party
 ||adexchangecloud.com$popunder
 ||adexchangecloud.com$popup
@@ -58,6 +57,7 @@
 ||bioskopkeren.club/images/
 ||bit.ly$third-party,popup,domain=awsubs.co
 ||bitcoinad.pro$third-party
+||bolaoke.club/wp-content/uploads*.jpg
 ||boostads.site$third-party
 ||bosqq.online$third-party
 ||boudja.com$third-party
@@ -150,7 +150,6 @@
 ||haxhits.com/assets/images/
 ||hh-btr.com$popunder
 ||hh-btr.com$popup,third-party
-||hikarinoakariost.info$inline-script
 ||hitcpm.com$popunder
 ||hitcpm.com$popup,third-party
 ||hotmuv.com$third-party
@@ -441,6 +440,10 @@
 ! ----------------------------------------
 @@*$third-party,popup,domain=short.awsubs.co
 @@ad4msan.com$generichide
+@@addthis.com$first-party
+@@addthis.com$third-party
+@@addthiscdn.com$third-party
+@@addthisedge.com$third-party
 @@adf.ly/*.php$popup
 @@adfoc.us$domain=adfoc.us
 @@ads.a-static.com/ads.js
@@ -543,6 +546,7 @@ bitcoinclub.pw##script:inject(bab-defuser.js)
 bitcoinfaucet.fun##script:inject(bab-defuser.js)
 bitcoininformation.website##script:inject(nano-setInterval-booster.js)
 bittube.me##script:inject(nano-setInterval-booster.js)
+bolaoke.club##script:inject(nano-setInterval-booster.js)
 btcmines.club##script:inject(bab-defuser.js)
 claimbits.io##script:inject(bab-defuser.js)
 claimfreebtc.win##script:inject(bab-defuser.js)
@@ -563,6 +567,7 @@ filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
 freebitcoin.win##script:inject(bab-defuser.js)
 gr8.cc##script:inject(bab-defuser.js)
 haxhits.com##script:inject(nano-setInterval-booster.js)
+hikarinoakariost.info##script:inject(nano-setInterval-booster.js)
 idsly.*##script:inject(nano-setInterval-booster.js)
 indoxxi.info##script:inject(nano-setInterval-booster.js)
 ironime.org##script:inject(abort-current-inline-script.js, addEventListener)
@@ -641,6 +646,7 @@ anisubindo.org##.ArevicoModal-bg
 awsubs.co##.fb_iframe_widget.fb-like
 awsubs.co##.minipusat
 awsubs.co##.pusat728
+bolaoke.club##.clearfix.mh-wrapper
 citpekalongan.com##.section.header-right
 coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##.c-message > div:nth-of-type(1)
 coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##.disclaimer
