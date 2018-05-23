@@ -55,14 +55,14 @@
 ||bioskop45.com*gif
 ||bioskopgue.net/wp-content/uploads*gif
 ||bioskopkeren.club/images/
-||bit.ly$third-party,popup,domain=awsubs.co
+||bit.ly$popup,third-party,domain=awsubs.co
 ||bitcoinad.pro$third-party
 ||bolaoke.club/wp-content/uploads*.jpg
 ||boostads.site$third-party
 ||bosqq.online$third-party
 ||boudja.com$third-party
 ||bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
-||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|lebahmovie.com|nontonmovie251.com
+||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|komiku.net|lebahmovie.com|nontonmovie251.com
 ||brainbux.com$third-party
 ||c.adsco.re$third-party
 ||cachefly.net$third-party
@@ -125,6 +125,7 @@
 ||f0nxxmrm.me$third-party
 ||facebook.com$popup,domain=bagilagi.com
 ||faucetcollector.info$third-party
+||file4all.xyz$third-party
 ||filmbioskop21.co/iklan/
 ||filmseri.com/wp-content/uploads*gif
 ||firebasestorage.googleapis.com*ABP.css?$third-party
@@ -154,7 +155,7 @@
 ||hitcpm.com$popup,third-party
 ||hotmuv.com$third-party
 ||hotmuv.com/wp-content/uploads*gif
-||i.imgur.com$third-party,domain=acefile.co|awsubs.co|lk21.blue|movieon21.org|nanime.in|nontonanime.id
+||i.imgur.com$third-party,domain=acefile.co|awsubs.co|lk21.blue|mangaindo.net|movieon21.org|nanime.in|nontonanime.id
 ||i.makeagif.com$domain=nontonmovie251.com
 ||i027m.top$third-party
 ||ibb.co$third-party,domain=lk21.web.id|lk21tv.web.id
@@ -170,6 +171,7 @@
 ||indoxxi.info/rtr/
 ||indoxxi.ws/wp-content/plugins/uji-popup
 ||inlink.site/wp-content/uploads/
+||internetpositif.uzone.id
 ||ipify.org$third-party
 ||javhd.com/stat
 ||jerwested.info$third-party
@@ -203,6 +205,7 @@
 ||my188bet.com$third-party
 ||naenticle.info$third-party
 ||nephritish.com$third-party
+||nikitapoker.net$popup,third-party
 ||nonton.drakor-id.com/banner/download.gif
 ||nontongratis88.com/wp-content/uploads*gif
 ||nontonsub.com$third-party
@@ -223,6 +226,7 @@
 ||play.google.com/log$third-party
 ||plenty.analisis.io$third-party
 ||poker99vip.net$popup,third-party
+||pokergo88.com$popup,third-party
 ||poopads.xyz$popup,third-party
 ||postimg.*$third-party,image,domain=cinemaindo.co|coeg.in|idfl.biz|idfl.info|idfl.me|idfl.my.id|lk21.web.id|lk21tv.web.id|siotong.com|telondasmu.com|thejual.com
 ||potioncoin.com$third-party
@@ -293,6 +297,7 @@
 ||webmine.pro$third-party
 ||wentshops.xyz$popup,third-party
 ||whxhegjrqlddko.com$third-party
+||wikitrade.me/wp-content/uploads*
 ||wjkwjcmeymu.com$third-party
 ||wnp.com$third-party
 ||wp.com*gif$domain=idxxi.top|lebahmovie.com|nonton.drakor-id.com
@@ -332,7 +337,7 @@
 *$third-party,domain=startxchange.com
 *$third-party,domain=traffboost.net
 *$third-party,domain=trafficadbar.com
-*$third-party,popup,domain=olgkzlwln.net
+*$popup,third-party,domain=olgkzlwln.net
 
 ! ========== / List ==========
 -728x90.
@@ -345,6 +350,7 @@
 /abd.interstitial.preroll$script,third-party
 /adaqq160x600.gif
 /adnetwork.js$script,third-party
+/ad-overlay-anything
 /analytics/track.png?q
 /api/inventory
 /api-ads?callback=
@@ -372,6 +378,7 @@
 /JuraganFinal/images/hads.
 /keremiyav4/js/lockscript.js
 /layarkaca21/js/lk21ads.js
+/levelmaxblock.js
 /LkdTwv6o7OAfOMlx2k764u22OX7TgeiSACLcB/s1600/Adblock.
 /log?format=
 /lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
@@ -380,6 +387,7 @@
 /nontonanime.org/js/ads.js
 /ouo2018$script,third-party
 /popupad$script,third-party
+/popup-contact-form$domain=mangaindo.net
 /ppu.js
 /RTwuo4KqfSU0AYIDF9g5Bz8VfSJpXJi7gCLcB/s1600/1.jpg
 /safe.js$domain=ad4msan.com
@@ -438,12 +446,14 @@
 @@/upload^$xmlhttprequest,domain=speedtest.net
 @@/wp-content/themes/jannah/js
 ! ----------------------------------------
-@@*$third-party,popup,domain=short.awsubs.co
+@@*$popup,third-party,domain=short.awsubs.co
+@@#.nz/ads//
 @@ad4msan.com$generichide
 @@addthis.com$first-party
 @@addthis.com$third-party
 @@addthiscdn.com$third-party
 @@addthisedge.com$third-party
+@@adf.ly/js/display.js
 @@adf.ly/*.php$popup
 @@adfoc.us$domain=adfoc.us
 @@ads.a-static.com/ads.js
@@ -465,6 +475,9 @@
 @@bolaoke.club$popup,domain=awsubs.co
 @@bootstrapcdn.com$domain=cryptofarmer.com|exc.10khits.com|traffboost.net
 @@cashcrate.com
+@@cdn.adf.ly/js/link-converter.js
+@@clearwebstats.com$first-party
+@@clicknupload.org$elemhide
 @@clixsense.com
 @@cloudflare.com$domain=cryptofarmer.com|freevpn.us|kickasstraffic.com
 @@cointiply.com$elemhide
@@ -494,6 +507,7 @@
 @@linkbucks.com/scripts/intermissionLink
 @@linkbucks.com/scripts/script-adv.js
 @@linkbucksmedia.com
+@@mangakyo.net$elemhide
 @@meongs.bid
 @@neobux.com$first-party
 @@olgkzlwln.net$elemhide
@@ -503,7 +517,9 @@
 @@qualityfilehosting.com$elemhide
 @@safebitcoin.info$elemhide
 @@sharethis.com
+@@shorte.st$first-party
 @@superrewards-offers.com$domain=hit4hit.org
+@@systweak.com$first-party
 @@traffboost.net$first-party
 @@unpkg.com$domain=easyhits4u.com
 @@zetabitco.com$elemhide
@@ -590,22 +606,19 @@ platinmods.download##script:inject(nano-setInterval-booster.js)
 queenfaucet.website##script:inject(bab-defuser.js)
 safelinkreviewz.com##script:inject(nano-setInterval-booster.js)
 satoshilabs.net##script:inject(bab-defuser.js)
+sitowebinfo.com##script:inject(bab-defuser.js)
 speedtest.net##script:inject(nano-setInterval-booster.js)
 starcoins.ws##script:inject(bab-defuser.js)
 startxchange.com##script:inject(nano-setInterval-booster.js)
-susutinv2.com##p:nth-of-type(1)
-susutinv2.com##p:nth-of-type(2)
-susutinv2.com##p:nth-of-type(3)
-susutinv2.com##p:nth-of-type(4)
-susutinv2.com##p:nth-of-type(5)
-susutinv2.com##p:nth-of-type(6)
-susutinv2.com##p:nth-of-type(7)
-susutinv2.com##p:nth-of-type(8)
+susutinv2.com##p:nth-of-type(n)
+theseotools.net##script:inject(bab-defuser.js)
 topbtc.club##script:inject(bab-defuser.js)
 uclick.in##script:inject(bab-defuser.js)
 vivocoin.com##script:inject(bab-defuser.js)
 want2crypto.com##script:inject(bab-defuser.js)
 warriorfaucet.com##script:inject(bab-defuser.js)
+wikitrade.me##p:nth-of-type(n)
+wikitrade.me##script:inject(nano-setInterval-booster.js)
 zandey.com##script:inject(bab-defuser.js)
 zetabitco.com##script:inject(bab-defuser.js)
 zippyanime.net##script:inject(nano-setInterval-booster.js)
@@ -634,14 +647,18 @@ zippyanime.net##script:inject(nano-setInterval-booster.js)
 ##.idmuvi-socialicon-share
 ##.in_up_ad-area
 ##.js.cwv3_dialog
+##.ke2b2b-hide
 ##.left.left_bottom_ad.widget
 ##.onesuch
 ##.right.right_middle_ad.widget
 ##.right.right_top_ad.widget
+##.swal2-in.swal2-fade.swal2-container
 ! -------------------------------------
 21moviemania.club,cinemaindo.co,lebahmovie.com,waktunonton.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
+altervista.org###ad
+altervista.org###ad_overlay
 anisubindo.org##.ArevicoModal-bg
 awsubs.co##.fb_iframe_widget.fb-like
 awsubs.co##.minipusat
@@ -672,6 +689,11 @@ speedtest.net##.notification-container
 speedtest.net##.top-horizontal
 susutinv2.com##.panel-body.panel-default.panel > h3
 waktunonton.com##.idmuvi-topbanner-aftermenu
+wikitrade.me##.mh-clearfix.entry-header
+wikitrade.me##.mh-clearfix.mh-row.mh-post-nav
+wikitrade.me##.mh-sidebar.mh-widget-col-1
+wikitrade.me##.mh-site-logo
+wikitrade.me##.outboxA.outBox
 zonawibu.bid##.artikel
 zonawibu.bid##h4
 zonawibu.bid##.thumbnail
@@ -681,8 +703,8 @@ zonawibu.me##.infopost
 ###adblock_screen
 ###ads-pop
 ###agegate_content
-###banner_ikln_tengah
 ###b300
+###banner_ikln_tengah
 ###btm_banner
 ###ctr_banner
 ###g207
