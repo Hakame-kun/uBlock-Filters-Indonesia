@@ -1,3 +1,7 @@
+! Title: uBlock Filters Indonesia
+! Last modified: %timestamp%
+! Expires: 4-7 days (update frequency)
+
 ! ========== URL List ==========
 
 ||*.*-adnow.com$script,third-party
@@ -173,6 +177,7 @@
 ||inlink.site/wp-content/uploads/
 ||internetpositif.uzone.id
 ||ipify.org$third-party
+||jackettrain.com$popup,third-party
 ||javhd.com/stat
 ||jerwested.info$third-party
 ||joneself.com$third-party
