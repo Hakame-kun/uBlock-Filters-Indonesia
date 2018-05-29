@@ -108,6 +108,7 @@
 ||d9tnvwv7i2n85.cloudfront.net$third-party
 ||dc08i221b0n8a.cloudfront.net$third-party
 ||dailymotion.com$third-party,domain=mirrorace.com
+||dfgyw.com
 ||digiads.co.id$third-party
 ||dl.jeodrive.com$popup,domain=jheberg.net
 ||dorpaahonet-blog.logdown.com
@@ -210,6 +211,7 @@
 ||my188bet.com$third-party
 ||naenticle.info$third-party
 ||nephritish.com$third-party
+||nererut.com$third-party
 ||nikitapoker.net$popup,third-party
 ||nonton.drakor-id.com/banner/download.gif
 ||nontongratis88.com/wp-content/uploads*gif
@@ -246,9 +248,11 @@
 ||pvclouds.com$third-party,script
 ||qregation.info$third-party
 ||r*pagead2.googlesyndication.com$popup,third-party
+||rasius.pro$popup,third-party
 ||ratufilm.com/wp-content/plugins/uji-popup
 ||ratufilm.com/wp-content/uploads*gif
 ||rawgit.com$third-party,domain=ambian-movies.blogspot.com|myanimeindo.net
+||readvasturked.pro$third-party
 ||restricted$third-party
 ||restricted*error=404$popup,third-party
 ||rtbapi.net$third-party
@@ -263,6 +267,7 @@
 ||senditcloud.com$popup,third-party
 ||sendit.cloud$third-party
 ||serve.popads.net/s?cid=$popup,third-party
+||serving.pixsense.net
 ||sflink.cc$third-party,script
 ||shelljacket.us$third-party
 ||shermore.info$third-party
@@ -271,6 +276,7 @@
 ||smartphonelist.com$popup,third-party
 ||smartphoneslist.com$popunder
 ||smartphoneslist.com$popup,third-party
+||smitionsory.co
 ||strucewe.info$third-party
 ||sukipli.com*gif$third-party,domain=lk21.web.id
 ||surgeprice.com$third-party
@@ -307,6 +313,7 @@
 ||wnp.com$third-party
 ||wp.com*gif$domain=idxxi.top|lebahmovie.com|nonton.drakor-id.com
 ||wyueivwashc.com$third-party
+||wzpec.com
 ||x.kinja-static.com/assets/packaged-js/dollars.
 ||xdeyou.com$third-party,script
 ||xugnzawkrkvu.com$third-party
@@ -382,6 +389,7 @@
 /JuraganFinal/images/300ads.
 /JuraganFinal/images/hads.
 /keremiyav4/js/lockscript.js
+/kita/busa.php
 /layarkaca21/js/lk21ads.js
 /levelmaxblock.js
 /LkdTwv6o7OAfOMlx2k764u22OX7TgeiSACLcB/s1600/Adblock.
@@ -389,6 +397,7 @@
 /lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
 /mts_ad_sense/js
 /neko/data/*ads*png
+/news*/cait.js
 /nontonanime.org/js/ads.js
 /ouo2018$script,third-party
 /popupad$script,third-party
