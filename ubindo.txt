@@ -24,6 +24,7 @@
 ||addtoany.com$third-party
 ||adexchangecloud.com$popunder
 ||adexchangecloud.com$popup
+||adligature.com$third-party
 ||adop.cc$third-party
 ||ads.$third-party
 ||ads.linkshrink.net$popunder
@@ -169,6 +170,9 @@
 ||img.akubebas.com/images*gif
 ||img.topddl.net*gif$third-party
 ||imgclick.net$generichide,important
+||imgtaxi.com/altiframe
+||imgtaxi.com/anex/alt.js
+||imgtaxi.com/ea/fl.js
 ||imgu.info$third-party
 ||impactify.io$third-party
 ||inclk.com/itab/sa?cid=$popunder
@@ -177,6 +181,7 @@
 ||indoxxi.ws/wp-content/plugins/uji-popup
 ||inlink.site/wp-content/uploads/
 ||internetpositif.uzone.id
+||involve.asia$third-party
 ||ipify.org$third-party
 ||jackettrain.com$popup,third-party
 ||javhd.com/stat
@@ -322,6 +327,7 @@
 ||xx1.me/lib
 ||xx1.me/sworker.js
 ||xydeyou.com$third-party,script
+||youtube.com$third-party,domain=oturl.com
 ||youtube.com/api/stats/watchtime?$important
 ||zcashpool.org$third-party
 ||zenmate.com/api/analyze?
@@ -557,6 +563,7 @@
 ! -------------------------------------
 ##article:nth-of-type(5) > .clearfix
 ##iframe[src*="/widget.html"]
+oturl.com##iframe[src*="oturl.com"]
 ##iframe[src*="servlet/redirect.srv"]
 ! -------------------------------------
 123link.pw##script:inject(nano-setInterval-booster.js)
@@ -612,6 +619,7 @@ multimining.website##script:inject(nano-setInterval-booster.js)
 nekopoi.*##script:inject(bab-defuser.js)
 oploverz.in##s
 oploverz.in##u
+oturl.com##script:inject(nano-setInterval-booster.js)
 payskip.me##script:inject(nano-setInterval-booster.js)
 pentafaucet.com##script:inject(bab-defuser.js)
 platinmods.com##script:inject(bab-defuser.js)
@@ -712,6 +720,8 @@ zonawibu.bid##.thumbnail
 zonawibu.me##.infopost
 ! -------------------------------------
 ###abAlert
+###ab_notice1
+###ab_notice2
 ###adblock_screen
 ###ads-pop
 ###agegate_content
