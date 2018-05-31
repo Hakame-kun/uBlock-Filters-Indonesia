@@ -68,10 +68,12 @@
 ||bolaoke.club/wp-content/uploads*.jpg
 ||boostads.site$third-party
 ||bosqq.online$third-party
+||botkano.info$third-party
 ||boudja.com$third-party
 ||bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
 ||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|komiku.net|lebahmovie.com|nontonmovie251.com
 ||brainbux.com$third-party
+||btcmedia.co$third-party
 ||c.adsco.re$third-party
 ||cachefly.net$third-party
 ||calcch.com$third-party
@@ -95,6 +97,7 @@
 ||coinverti.com$third-party
 ||consolebackup.com$third-party
 ||consoletarget.com$third-party
+||contextbar.ru$third-party
 ||cpaoptimizer.com$popunder
 ||cpaoptimizer.com$popup,third-party
 ||cpaoptimizer.com$third-party
@@ -103,6 +106,7 @@
 ||croissed.info$third-party
 ||crypto-loot.com$third-party
 ||cryptomininggame.com/bundles/front/js/disab.js
+||cusok.ru$third-party
 ||cwv3_bg_image
 ||d162nnmwf9bggr.cloudfront.net$third-party
 ||d1nmxiiewlx627.cloudfront.net$third-party
@@ -116,6 +120,7 @@
 ||dailymotion.com$third-party,domain=mirrorace.com
 ||dfgyw.com
 ||digiads.co.id$third-party
+||disqus.com$third-party,domain=bagi.co.in
 ||dl.jeodrive.com$popup,domain=jheberg.net
 ||dorpaahonet-blog.logdown.com
 ||doubleclick.net$third-party
@@ -140,6 +145,7 @@
 ||file4all.xyz$third-party
 ||filmbioskop21.co/iklan/
 ||filmseri.com/wp-content/uploads*gif
+||find-ip.net$third-party
 ||firebasestorage.googleapis.com*ABP.css?$third-party
 ||firebasestorage.googleapis.com*ABP.js?$third-party
 ||fourtesy.info$third-party
@@ -183,6 +189,7 @@
 ||imgtaxi.com/ea/fl.js
 ||imgu.info$third-party
 ||impactify.io$third-party
+||impressionsme.net$third-party
 ||inclk.com/itab/sa?cid=$popunder
 ||inclk.com/itab/sa?cid=$popup,third-party
 ||indoxxi.info/rtr/
@@ -230,6 +237,7 @@
 ||nephritish.com$third-party
 ||nererut.com$third-party
 ||nikitapoker.net$popup,third-party
+||nolix.ru$third-party
 ||nonton.drakor-id.com/banner/download.gif
 ||nontongratis88.com/wp-content/uploads*gif
 ||nontonsub.com$third-party
@@ -301,10 +309,12 @@
 ||surgeprice.com$third-party
 ||swiftmining.win$third-party
 ||tagbucket.cc$third-party
+||talysu.info$third-party
 ||tango-deg.com$popunder
 ||tango-deg.com$popup,third-party
 ||tawk.to$third-party
 ||tcheats.com$inline-script,domain=tcheats.com
+||texto.click$third-party
 ||tfw-current.s3.amazonaws.com
 ||threadsphere.bid/js/display.js
 ||tidaltv.com$third-party
@@ -395,7 +405,7 @@
 /B380x80.
 /blantersafelink.js
 /cdn-cgi/beacon/
-/check.js$domain=agoodprofit.ru|darak.me|goldenfreesatoshi.ru|goodfaucet.ru|topbtcsites.com
+/check.js$domain=agoodprofit.ru|darak.me|goldenfreesatoshi.ru|goodfaucet.ru|topbtcsites.com|xalyava.online
 /csi_204
 /error_204
 /gen204
@@ -471,11 +481,10 @@
 @@/adframe.$domain=adf.ly|claimfreebtc.win|qualityfilehosting.com
 @@/ads.js$domain=btcmines.club|hentaigasm.com
 @@/advertisement$domain=solidfiles.com
-@@/advertisement.$domain=bagi.co.in|bigspeeds.com|bitcoinflood.com|clksite.com|coinsmondo.com|earnbitcoinsnow.net|games.co.id|goldenfreesatoshi.ru|goodfaucet.ru|revdepo.com|simplesads.com.br|speedup-faucet.com|uplod.cc
+@@/advertisement.$domain=alekscoin.com|bagi.co.in|bigspeeds.com|bitcoinflood.com|clksite.com|coinsmondo.com|earnbitcoinsnow.net|games.co.id|goldenfreesatoshi.ru|goodfaucet.ru|hubcoins.xyz|revdepo.com|simplesads.com.br|speedup-faucet.com|uplod.cc
 @@/advertising.$domain=gamepix.com
 @@/basement/js
 @@/download^$xmlhttprequest,domain=speedtest.net
-@@/fingerprint2.$domain=faucethub.io
 @@/flow/frontend_assets/js/advertisement.js
 @@/hello^$xmlhttprequest,domain=speedtest.net 
 @@/js/ads$domain=alexamaster.net
@@ -597,6 +606,7 @@ agoodprofit.ru##script:inject(nano-setInterval-booster.js)
 alekscoin.com##script:inject(bab-defuser.js)
 alinafaucet.win##script:inject(bab-defuser.js)
 anisubindo.org##script:inject(abort-current-inline-script.js, addEventListener)
+autoclaim.win##script:inject(bab-defuser.js)
 aw-games.net,short.awsubs.co##center:nth-of-type(2)
 aw-games.net,short.awsubs.co##h1
 awsubsco.ga##script:inject(abort-on-property-read.js)
@@ -626,7 +636,7 @@ darak.me##script:inject(nano-setInterval-booster.js)
 designmyhomee.com##script:inject(nano-setInterval-booster.js)
 dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
-efx2.com##.pageku:nth-of-type(4)
+expressfaucet.com##script:inject(bab-defuser.js)
 faucet4claim.com##script:inject(bab-defuser.js)
 faucethero.com##script:inject(bab-defuser.js)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
@@ -648,6 +658,7 @@ linkpoi.*##script:inject(abort-current-inline-script.js, addEventListener)
 luckybitco.in##script:inject(bab-defuser.js)
 meownime.com##script:inject(noeval.js)
 melovin.site##script:inject(bab-defuser.js)
+mishangfaucets.com##script:inject(bab-defuser.js)
 multimining.website##script:inject(nano-setInterval-booster.js)
 nekopoi.*##script:inject(bab-defuser.js)
 oploverz.in##s
@@ -720,6 +731,7 @@ bolaoke.club##.clearfix.mh-wrapper
 citpekalongan.com##.section.header-right
 coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##.c-message > div:nth-of-type(1)
 coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##.disclaimer
+efx2.com##.pageku:nth-of-type(4)
 fanbatch.us##.featuredimg
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
