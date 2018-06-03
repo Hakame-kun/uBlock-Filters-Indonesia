@@ -19,6 +19,9 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
+
+# Update frequency is uncertain, if still not found website that has changed ip. This host is made by Microsoft and developed by me
+# https://github.com/Hakame-kun
 119.81.2.142 kumpulbagi.com
 119.81.2.142 kbagi.com
 119.81.2.139 i.kbagi.com
@@ -136,6 +139,7 @@
 202.6.246.29 www.dmm.co.jp
 203.209.152.60 dmm.co.jp
 151.101.32.193 i.imgur.com
+151.101.32.193 s.imgur.com
 151.101.32.193 imgur.com
 172.217.6.19 blog.fapforfun.com
 216.239.34.21 fapforfun.com
