@@ -1,0 +1,153 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+# Update frequency is uncertain, if still not found website that has changed ip. This host is made by Microsoft and developed by me
+# https://github.com/Hakame-kun
+119.81.2.142 kumpulbagi.com
+119.81.2.142 kbagi.com
+119.81.2.139 i.kbagi.com
+119.81.2.141 s1.kbagi.com
+119.81.2.139 s2.kbagi.com
+119.81.2.140 s3.kbagi.com
+209.58.183.2 s200.kbagi.com
+209.58.183.3 s201.kbagi.com
+209.58.183.4 s202.kbagi.com
+209.58.183.5 s203.kbagi.com
+209.58.183.6 s204.kbagi.com
+209.58.183.7 s205.kbagi.com
+209.58.183.8 s206.kbagi.com
+209.58.183.9 s207.kbagi.com
+209.58.183.10 s208.kbagi.com
+209.58.183.1 s209.kbagi.com
+209.58.183.12 s210.kbagi.com
+209.58.183.13 s211.kbagi.com
+209.58.183.14 s212.kbagi.com
+209.58.183.15 s213.kbagi.com
+209.58.183.16 s214.kbagi.com
+209.58.183.17 s215.kbagi.com
+209.58.183.18 s216.kbagi.com
+209.58.183.19 s217.kbagi.com
+209.58.183.20 s218.kbagi.com
+209.58.183.21 s219.kbagi.com
+104.16.164.50 openload.co
+104.16.144.50 oloadcdn.net
+104.16.82.254 oload.info
+104.16.113.22 oload.stream
+104.16.136.15 oload.tv
+104.24.113.61 imgchili.net
+104.24.112.61 t14.imgchili.net
+185.53.178.9 img.yt
+104.24.106.100 linkpoi.in
+104.31.66.84 nekopoi.care
+192.124.249.17 nekopoi.lol
+162.255.119.135 nekopoi.faith
+155.94.243.125 dunjav.com
+104.18.39.24 hdasianporn.com
+104.18.38.249 javdoe.com
+104.31.88.127 jav555.net
+199.80.55.247 javhd.com
+184.175.106.113 javhd.mobi
+104.27.157.165 javhd4k.com
+104.28.2.147 javhd.pro
+104.20.13.58 pron.tv
+216.18.168.16 www.pornhub.com
+216.18.168.16 pornhub.com
+185.88.181.60 www.xnxx.com
+88.208.18.30 xhamster.com
+198.89.127.171 xx1videos.com
+216.18.168.116 youporn.com
+141.101.120.55 nhentai.net
+141.101.120.55 static.nhentai.net
+185.2.83.13 i.nhentai.net
+185.2.83.141 t.nhentai.net
+104.27.177.242 pururin.io
+209.99.64.18 pururin.us
+206.190.133.108 doujins.com
+81.171.20.13 ehgt.org
+104.24.255.11 e-hentai.org
+88.80.20.7 hitomi.la
+192.240.120.10 ltn.hitomi.la
+192.240.120.10 tn.hitomi.la
+104.28.15.98 erogedownload.com
+34.230.170.103 out.reddit.com
+151.101.65.140 reddit.com
+151.101.33.140 www.reddit.com
+192.124.249.12 hentaihaven.org
+198.16.106.42 hh.cx
+37.187.167.53 upload.ee
+217.23.9.157 readhentaimanga.com
+104.25.117.11 hentaifox.com
+198.255.24.11 hcomicbook.com
+104.28.19.40 hbrowse.com
+37.48.78.242 mangafap.com
+85.93.89.81 erolord.com
+104.25.208.16 simply-hentai.com
+194.88.107.211 g6hentai.com
+104.28.21.101 mydoujins.com
+109.236.91.124 doujin.eu
+104.20.62.168 hentai2read.com
+104.20.208.29 fakku.net
+104.20.208.29 t.fakku.net
+104.20.208.29 www.fakku.net
+104.28.20.226 tsumino.com
+104.28.20.226 www.tsumino.com
+94.177.230.54 pornhugo.com
+104.18.48.30 porncomix.site
+104.27.151.110 doujinhentai.net
+198.20.110.104 pichentai.com
+91.121.9.128 hentairider.com
+151.101.129.140 reddit.com
+52.85.147.214 download-dynamic.epicgames.com
+104.25.23.115 www.anime-sharing.com
+104.25.23.115 anime-sharing.com
+216.172.97.222 hongfire.com
+64.210.149.51 nutaku.net
+104.20.23.234 myreadingmanga.info
+104.18.55.46 mangago.me
+109.236.80.38 hentaigasm.com
+104.27.240.171 hanime.tv
+104.28.20.34 animestigma.com
+104.24.127.164 miohentai.com
+104.31.67.66 xanimeporn.com
+104.28.31.15 hentaiplay.net
+104.31.64.180 lk21.web.id
+104.25.235.118 xx1.me
+104.20.19.254 adf.ly
+104.27.182.57 cec18.com
+192.243.53.75 xxnx.video
+104.27.191.250 onlyhgames.com
+104.18.61.63 nyaa.eu
+185.225.17.47 nyaa.si
+192.124.249.155 sukebei.nyaa.si
+185.94.140.20 scoop.it
+202.6.246.29 www.dmm.co.jp
+203.209.152.60 dmm.co.jp
+151.101.32.193 i.imgur.com
+151.101.32.193 s.imgur.com
+151.101.32.193 imgur.com
+172.217.6.19 blog.fapforfun.com
+216.239.34.21 fapforfun.com
+104.25.119.22 mangapark.me
+104.25.208.16 simply-hentai.com
+104.25.208.16 www.simply-hentai.com
+104.18.55.46 www.mangago.me
+178.132.5.31 multporn.net
