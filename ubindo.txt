@@ -1,6 +1,6 @@
 ! Title: uBlock Indo
 ! Last modified: %timestamp%
-! Expires: 4-7 days (update frequency)
+! Expires: 2-4 days (update frequency)
 
 ! ========== URL List ==========
 
@@ -79,6 +79,7 @@
 ||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|komiku.net|lebahmovie.com|nontonmovie251.com
 ||brainbux.com$third-party
 ||btcmedia.co$third-party
+||btc-sites.com/onewebstatic
 ||btctrail.com$third-party
 ||c.adsco.re$third-party
 ||cachefly.net$third-party
@@ -113,6 +114,7 @@
 ||critadewasa.com/wp-content/uploads*gif
 ||croissed.info$third-party
 ||crypto-loot.com$third-party
+||cryptobrowser.site$third-party
 ||cryptomininggame.com/bundles/front/js/disab.js
 ||cusok.ru$third-party
 ||cwv3_bg_image
@@ -157,6 +159,7 @@
 ||firebasestorage.googleapis.com*ABP.css?$third-party
 ||firebasestorage.googleapis.com*ABP.js?$third-party
 ||fourtesy.info$third-party
+||freehostedscripts.net$third-party
 ||freeproxy.io$third-party
 ||gambar123.com$third-party,domain=46.166.167.16|semprot.com|semprotku.com
 ||ganool.city/iklan
@@ -175,6 +178,7 @@
 ||google.*/api/stats/qoe?$third-party
 ||google.*/async*&async$third-party
 ||google.*/pagead$third-party
+||gxqrjjcsyh.com$third-party
 ||gways.net$popup,third-party
 ||haxhits.com/assets/images/
 ||hh-btr.com$popunder
@@ -206,6 +210,7 @@
 ||internetpositif.uzone.id
 ||involve.asia$third-party
 ||ipify.org$third-party
+||iz682noju02ye5.com$popup,third-party
 ||jackettrain.com$popup,third-party
 ||javhd.com/stat
 ||jerwested.info$third-party
@@ -232,6 +237,7 @@
 ||lonedol.info$third-party
 ||lucklayed.info$third-party
 ||lyrical-nonsense.com$inline-script
+||maxcdn.com$domain=alekscoin.com
 ||minishing.com$popup,third-party
 ||minishing.com$third-party
 ||mirrorace.com/themes/ace/assets/img/Jk
@@ -253,6 +259,7 @@
 ||notifa.info$third-party
 ||odnobi.ru$third-party
 ||offerenced.com$third-party
+||olcqpdykme.com$third-party
 ||old.dshe.gov.bd$third-party
 ||orbisbux.com$third-party
 ||onesignal.com$third-party
@@ -281,6 +288,7 @@
 ||pusatfilm21.com/wp-content/uploads*gif
 ||puu.sh/xv53n$third-party
 ||pvclouds.com$third-party,script
+||qpljfpwdpk.com$third-party
 ||qregation.info$third-party
 ||r*pagead2.googlesyndication.com$popup,third-party
 ||rasius.pro$popup,third-party
@@ -361,6 +369,7 @@
 ||wyueivwashc.com$third-party
 ||wzpec.com
 ||x.kinja-static.com/assets/packaged-js/dollars.
+||xalyava.online/libs/button-timer.js
 ||xdeyou.com$third-party,script
 ||xugnzawkrkvu.com$third-party
 ||xx1.me/js/ch.
@@ -374,7 +383,7 @@
 ||zenmate.com/api/analyze?
 ||zonawibu.me/data/no-ads.
 ||zpfjfwbij.com$third-party
-
+||zukxd6fkxqn.com$third-party
 
 ! ========== * List ==========
 *$third-party,domain=247autohits.com
@@ -389,7 +398,9 @@
 *$third-party,domain=automoneysurf.com
 *$third-party,domain=basichits4u.com
 *$third-party,domain=bitcoinsurf.org
+*$third-party,domain=bitverts.io
 *$third-party,domain=blackoshy.cf
+*$third-party,domain=btcvic.com
 *$third-party,domain=clixco.in
 *$third-party,domain=criptius.com
 *$third-party,domain=cryptofarmer.com
@@ -444,17 +455,18 @@
 /check.js$domain=agoodprofit.ru|darak.me|goldenfreesatoshi.ru|goodfaucet.ru|topbtcsites.com|xalyava.online
 /csi_204
 /error_204
-/fuckadblock.js$important
 /gen204
 /gen_204
 /generate_204
 /hitomi/nutaku/
 /HOKI365.gif
 /hoyajackpot-slider-
+/iklan*.gif$domain=nekopoi.care
 /iklan/728
 /includes/left_list-ad.php
 /index.php?ajax/ad-action
 /index.php?page=t&f=
+/script1.js$important,domain=thebestbitcoinfaucet.com
 /js/cblock.js
 /js.betterpop.js
 /jserror?
@@ -487,8 +499,10 @@
 /static/101/site.js?
 /static/js/amvn.js
 /sugoi$script
+/switchery$domain=alekscoin.com
 /tddxj6gi8uq381uajtbj.js
 /themes/*/dist/scripts/main.js
+/toastr.js$domain=alekscoin.com
 /TOTO-300-x-250.
 /videojs.vast.vpaid.min
 /videojs_5.vast.vpaid.min
@@ -519,12 +533,15 @@
 @@/adimg$image
 @@/adframe.$domain=adf.ly|claimfreebtc.win|qualityfilehosting.com
 @@/ads.js$domain=btcmines.club|hentaigasm.com
+@@/ads.min.js$domain=dashfaucet.net
 @@/advertisement$domain=solidfiles.com
-@@/advertisement.$domain=alekscoin.com|bagi.co.in|bigspeeds.com|bitcoinflood.com|clksite.com|coinsmondo.com|crypteddoge.ml|earnbitcoinsnow.net|games.co.id|goldenfreesatoshi.ru|goodfaucet.ru|hubcoins.xyz|revdepo.com|simplesads.com.br|speedup-faucet.com|uplod.cc
+@@/advertisement.$domain=bigspeeds.com|clksite.com|crypteddoge.ml|earnbitcoinsnow.net|games.co.id|revdepo.com|simplesads.com.br|uplod.cc
+@@/advertisement.js$domain=adrianocoins.com|alekscoin.com|bagi.co.in|bitcoinflood.com|coinsmondo.com|goldenfreesatoshi.ru|goodfaucet.ru|hubcoins.xyz|ref-hunters.ch|speedup-faucet.com
 @@/advertising.$domain=gamepix.com
 @@/basement/js
 @@/download^$xmlhttprequest,domain=speedtest.net
 @@/flow/frontend_assets/js/advertisement.js
+@@/fuckadblock.js$domain=advertcoin.space
 @@/hello^$xmlhttprequest,domain=speedtest.net 
 @@/js/ads$domain=alexamaster.net
 @@/ping^$xmlhttprequest,domain=speedtest.net
@@ -546,6 +563,7 @@
 @@adfoc.us$domain=adfoc.us
 @@ads.a-static.com/ads.js
 @@adserver.wir-kaufen.com
+@@advertcoin.space/$document
 @@ainodorama.web.id$generichide
 @@ainogatget.ga$generichide
 @@ainotechno.ga$generichide
@@ -561,7 +579,7 @@
 @@bitcoin2019.com$elemhide
 @@bitcoinspinner.io/themes
 @@bolaoke.club$popup,domain=awsubs.co
-@@bootstrapcdn.com$domain=cryptofarmer.com|exc.10khits.com|traffboost.net
+@@bootstrapcdn.com$domain=btcvic.com|cryptofarmer.com|exc.10khits.com|traffboost.net
 @@cashcrate.com
 @@cdn.adf.ly/js/link-converter.js
 @@clearwebstats.com$first-party
@@ -591,7 +609,7 @@
 @@imasdk.googleapis.com
 @@inboxdollars.com
 @@juragan-anime.net/wp-content/cache
-@@jquery.com$domain=adbtc.top|cryptofarmer.com|easyhits4u.com|startxchange.com
+@@jquery.com$domain=adbtc.top|btcvic.com|cryptofarmer.com|easyhits4u.com|startxchange.com
 @@jwpcdn.com
 @@linkbucks.com/scripts/intermissionLink
 @@linkbucks.com/scripts/script-adv.js
@@ -642,8 +660,11 @@ oturl.com##iframe[src*="oturl.com"]
 94lauin.com,elsfile.org##script:inject(nano-setInterval-booster.js)
 9files.co,addfile.org,qtfile.com,upfile.mobi##a[href*="onamind.com"]
 aalyafaucet.com##script:inject(bab-defuser.js)
+adrianocoins.com##script:inject(bab-defuser.js)
 agoodprofit.ru##script:inject(nano-setInterval-booster.js)
+alekscoin.com##script:inject(abort-on-property-read.js)
 alekscoin.com##script:inject(bab-defuser.js)
+alekscoin.com##script:inject(nano-setInterval-booster.js)
 alinafaucet.win##script:inject(bab-defuser.js)
 anisubindo.org##script:inject(abort-current-inline-script.js, addEventListener)
 autoclaim.win##script:inject(bab-defuser.js)
@@ -657,6 +678,7 @@ bitcoinclub.pw##script:inject(bab-defuser.js)
 bitcoinfaucet.fun##script:inject(bab-defuser.js)
 bitcoininformation.website##script:inject(nano-setInterval-booster.js)
 bittube.me##script:inject(nano-setInterval-booster.js)
+bitverts.io##script:inject(nano-setInterval-booster.js)
 bolaoke.club##script:inject(nano-setInterval-booster.js)
 btcfaucet.design##script:inject(bab-defuser.js)
 btcmines.club##script:inject(bab-defuser.js)
@@ -665,11 +687,14 @@ claimbtc.in##script:inject(bab-defuser.js)
 claimfreebtc.win##script:inject(bab-defuser.js)
 claimfreedoge.win##script:inject(bab-defuser.js)
 claimulike.win##script:inject(bab-defuser.js)
+claimltc.win##script:inject(bab-defuser.js)
 clickers.info##script:inject(bab-defuser.js)
 coindice.win##script:inject(bab-defuser.js)
 coingrabr.com##script:inject(bab-defuser.js)
 coinpot.win##script:inject(bab-defuser.js)
 coinsmondo.com##script:inject(bab-defuser.js)
+captchme.net##script:inject(nano-setInterval-booster.js)
+captchme.net##script:inject(abort-on-property-read.js, app_vars.force_disable_adblock)
 crazysat.ru##script:inject(bab-defuser.js)
 cryptobro.xyz##script:inject(bab-defuser.js)
 cryptofauset.cf##script:inject(bab-defuser.js)
@@ -829,7 +854,6 @@ zonawibu.me##.infopost
 ###banner_ikln_tengah
 ###btm_banner
 ###ctr_banner
-###fab-enabled
 ###g207
 ###h237
 ###idblog-adb-enabled
