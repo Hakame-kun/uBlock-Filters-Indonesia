@@ -345,10 +345,11 @@
 ||torpsol.com$popunder
 ||torpsol.com$popup,third-party
 ||trafficsan.com$third-party
+||translate.google.com$third-party,domain=faucethub.io
 ||tranquilside.com$third-party
-||translate.googleapis.com$third-party,domain=faucethub.io
 ||treasuredata.com$third-party
 ||ttplayer.info$third-party
+||turwik.ru$third-party
 ||tuxzictbrqietq.com$third-party
 ||uadexchange.com$third-party
 ||ubloger.com/wp-content/uploads*gif
@@ -381,6 +382,7 @@
 ||xydeyou.com$third-party,script
 ||youtube.com$third-party,domain=icenter.co|oturl.com|world-mining.net
 ||youtube.com/api/stats/watchtime?$important
+||yukwxqnxwzghxb.com$third-party
 ||zcashpool.org$third-party
 ||zenmate.com/api/analyze?
 ||zonawibu.me/data/no-ads.
@@ -389,6 +391,7 @@
 
 ! ========== * List ==========
 *$third-party,domain=247autohits.com
+*$third-party,domain=6589137.000webhostapp.com
 *$third-party,domain=6974251.000webhostapp.com
 *$third-party,domain=adstopay.biz
 *$third-party,domain=adzcash.info
@@ -407,6 +410,7 @@
 *$third-party,domain=chaos777.000webhostapp.com
 *$third-party,domain=clixco.in
 *$third-party,domain=criptius.com
+*$third-party,domain=cronos777.000webhostapp.com
 *$third-party,domain=cryptofarmer.com
 *$third-party,domain=demeter777.000webhostapp.com
 *$third-party,domain=dione777.000webhostapp.com
@@ -416,11 +420,13 @@
 *$third-party,domain=doris777.000webhostapp.com
 *$third-party,domain=easyhits4u.com
 *$third-party,domain=ebesucher.com
+*$third-party,domain=europe777.000webhostapp.com
 *$third-party,domain=exc.10khits.com
 *$third-party,domain=fast-autos.tk
 *$third-party,domain=financesurf.net
 *$third-party,domain=gaia777.000webhostapp.com
 *$third-party,domain=harmonia777.000webhostapp.com
+*$third-party,domain=hera777.000webhostapp.com
 *$third-party,domain=heracles777.000webhostapp.com
 *$third-party,domain=hit4hit.org
 *$third-party,domain=hypnos777.000webhostapp.com
