@@ -7,6 +7,7 @@
 ||1ea1sley.com$third-party
 ||1ink.cc$third-party
 ||1rotator.com$third-party
+||2mindogecoin.com$third-party
 ||21moviemania.*/wp-content/uploads*gif
 ||35.184.188.211$popup,third-party
 ||35.188.147.160$popup,third-party
@@ -129,8 +130,8 @@
 ||d3rhktq8uy839j.cloudfront.net$third-party
 ||d3ud741uvs727m.cloudfront.net$third-party
 ||d9tnvwv7i2n85.cloudfront.net$third-party
+||dailymotion.com$third-party,domain=bitcoinearnner.com|mirrorace.com
 ||dc08i221b0n8a.cloudfront.net$third-party
-||dailymotion.com$third-party,domain=mirrorace.com
 ||dfgyw.com
 ||digiads.co.id$third-party
 ||disqus.com$third-party,domain=bagi.co.in
@@ -205,6 +206,8 @@
 ||ibb.co$third-party,domain=lk21.web.id|lk21tv.web.id
 ||idfl.*/fancybox
 ||idsly.com$third-party
+||iframedogecoin.com$third-party
+||iframedogecoin.xyz$third-party
 ||iftvlrkyvubnn.com$third-party
 ||img.akubebas.com/images*gif
 ||img.topddl.net*gif$third-party
@@ -378,6 +381,7 @@
 ||uzone.id$third-party
 ||vc-miner.com$third-party
 ||vdztr.bid$popunder
+||videogamebase.net
 ||vktarget.ru$third-party
 ||vuryua.ru$third-party
 ||w55c.net$third-party
@@ -398,6 +402,7 @@
 ||wyueivwashc.com$third-party
 ||wzpec.com
 ||x.kinja-static.com/assets/packaged-js/dollars.
+||xh4ck.com:81$third-party
 ||xdeyou.com$third-party,script
 ||xugnzawkrkvu.com$third-party
 ||xx1.me/js/ch.
@@ -478,6 +483,7 @@
 *$third-party,domain=pluto777.000webhostapp.com
 *$third-party,domain=poseidon777.000webhostapp.com
 *$third-party,domain=potoshy.cf
+*$third-party,domain=randomsatoshi.win
 *$third-party,domain=realadsurf.site
 *$third-party,domain=rhea777.000webhostapp.com
 *$third-party,domain=startxchange.com
@@ -509,7 +515,7 @@
 /autoptimize$domain=oploverz.in
 /B380x80.
 /blantersafelink.js
-/button-timer.js$domain=faucetspro.com|icenter.co|xalyava.online
+/button-timer.js$domain=faucetspro.com|goodfaucet.ru|icenter.co|xalyava.online
 /cdn-cgi/beacon/
 /check.js$domain=agoodprofit.ru|coindows.com|darak.me|digidripz.us|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|ltcbooster.com|topbtcsites.com|treasurebits.net|xalyava.online
 /csi_204
@@ -606,6 +612,7 @@
 @@/hello^$xmlhttprequest,domain=speedtest.net 
 @@/js/ads$domain=alexamaster.net
 @@/ping^$xmlhttprequest,domain=speedtest.net
+@@/showads.js$domain=heliohost.org
 @@/Sites/admin/Scripts/md5.min.js
 @@/themes*js/adsbygoogle.js
 @@/upload^$xmlhttprequest,domain=speedtest.net
@@ -750,6 +757,7 @@ bitcoinclub.pw##script:inject(bab-defuser.js)
 bitcoincore.us##div.form-group:nth-of-type(3) > center
 bitcoincore.us##div.row:nth-of-type(3)
 bitcoincore.us##script:inject(nano-setInterval-booster.js)
+bitcoinearnner.com##script:inject(bab-defuser.js)
 bitcoinfaucet.fun##script:inject(bab-defuser.js)
 bitcoininformation.website##script:inject(nano-setInterval-booster.js)
 bitcoinker.com##script:inject(bab-defuser.js)
@@ -781,6 +789,7 @@ cryptofun.space##script:inject(bab-defuser.js)
 currentcrypto.net##script:inject(bab-defuser.js)
 darak.me##script:inject(bab-defuser.js)
 darak.me##script:inject(nano-setInterval-booster.js)
+dash-faucet.com##script:inject(bab-defuser.js)
 designmyhomee.com##script:inject(nano-setInterval-booster.js)
 dinoving.com##script:inject(bab-defuser.js)
 doge-faucet.com##script:inject(bab-defuser.js)
@@ -789,6 +798,7 @@ dogy.cf##script:inject(bab-defuser.js)
 dogy.cf##script:inject(nano-setInterval-booster.js)
 dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
+earn-url.com#@#.banner-468x60
 earn-url.com##.banner-336x280.banner
 eth-faucet.net##script:inject(bab-defuser.js)
 ethereum-faucet.org##script:inject(bab-defuser.js)
@@ -832,8 +842,10 @@ platinmods.com##script:inject(bab-defuser.js)
 platinmods.download##script:inject(bab-defuser.js)
 platinmods.download##script:inject(nano-setInterval-booster.js)
 potcoin-faucet.com##script:inject(bab-defuser.js)
+potcoinlotto.com##script:inject(bab-defuser.js)
 queenfaucet.website##script:inject(bab-defuser.js)
 qwerofaucet.tk##script:inject(bab-defuser.js)
+randomsatoshi.win##script:inject(bab-defuser.js)
 safelinkreviewz.com##script:inject(nano-setInterval-booster.js)
 satoshilabs.net##script:inject(bab-defuser.js)
 sitowebinfo.com##script:inject(bab-defuser.js)
