@@ -69,6 +69,7 @@
 ||bitcoinad.pro$third-party
 ||bitexchanger.su$third-party
 ||bithash.farm$third-party
+||bitrad.io$third-party
 ||bmst.pw$third-party
 ||bolaoke.club/wp-content/uploads*.jpg
 ||boostads.site$third-party
@@ -160,6 +161,7 @@
 ||find-ip.net$third-party
 ||firebasestorage.googleapis.com*ABP.css?$third-party
 ||firebasestorage.googleapis.com*ABP.js?$third-party
+||fluunrkjjhv.com$third-party
 ||fourtesy.info$third-party
 ||freehostedscripts.net$third-party
 ||freeproxy.io$third-party
@@ -193,6 +195,7 @@
 ||hitcpm.com$popup,third-party
 ||hotmuv.com$third-party
 ||hotmuv.com/wp-content/uploads*gif
+||hqncduqyzgfugo.com$third-party
 ||i.imgur.com$third-party,domain=acefile.co|awsubs.co|cryptostar.tk|faucethero.com|lk21.blue|mangaindo.net|movieon21.org|nanime.in|nontonanime.id
 ||i.makeagif.com$domain=nontonmovie251.com
 ||i027m.top$third-party
@@ -361,6 +364,7 @@
 ||uadexchange.com$third-party
 ||ubloger.com/wp-content/uploads*gif
 ||usstero.com$third-party
+||unxuwvntk.com$third-party
 ||uzone.id$third-party
 ||vc-miner.com$third-party
 ||vdztr.bid$popunder
@@ -375,6 +379,7 @@
 ||wentshops.xyz$popup,third-party
 ||whxhegjrqlddko.com$third-party
 ||wikitrade.me/wp-content/uploads*
+||wizknbrgxuqjo.com$third-party
 ||wjkwjcmeymu.com$third-party
 ||wnp.com$third-party
 ||wp.com*gif$domain=idxxi.top|lebahmovie.com|nonton.drakor-id.com
@@ -388,7 +393,7 @@
 ||xx1.me/lib
 ||xx1.me/sworker.js
 ||xydeyou.com$third-party,script
-||youtube.com$third-party,domain=icenter.co|oturl.com|world-mining.net
+||youtube.com$third-party,domain=alekscoin.com|faucethero.com|icenter.co|oturl.com|world-mining.net
 ||youtube.com/api/stats/watchtime?$important
 ||yukwxqnxwzghxb.com$third-party
 ||zcashpool.org$third-party
@@ -492,9 +497,9 @@
 /autoptimize$domain=oploverz.in
 /B380x80.
 /blantersafelink.js
-/button-timer.js$domain=icenter.co|xalyava.online
+/button-timer.js$domain=faucetspro.com|icenter.co|xalyava.online
 /cdn-cgi/beacon/
-/check.js$domain=agoodprofit.ru|darak.me|digidripz.us|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|topbtcsites.com|xalyava.online
+/check.js$domain=agoodprofit.ru|darak.me|digidripz.us|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|topbtcsites.com|xalyava.online
 /csi_204
 /error_204
 /gen204
@@ -700,6 +705,10 @@
 ##iframe[src*="/widget.html"]
 oturl.com##iframe[src*="oturl.com"]
 ##iframe[src*="servlet/redirect.srv"]
+! Link Shortener Error-----------------
+earnbig.ca#@#script:inject(nano-setInterval-booster.js)
+short2win.com#@#script:inject(nano-setInterval-booster.js)
+wi.cr#@#script:inject(nano-setInterval-booster.js)
 ! -------------------------------------
 123link.pw##script:inject(nano-setInterval-booster.js)
 8raa.com##script:inject(bab-defuser.js)
@@ -866,7 +875,7 @@ awsubs.co##.minipusat
 awsubs.co##.pusat728
 bitcoincore.us##.ablinksgroup > center
 bitcoincore.us##.ba2
-bitcoincore.us##.blog-sidebar.sidebar
+bitcoincore.us##.blog-sidebar.sidebarabout:blank
 bitcoincore.us##.bottom-separator.text-center.col-sm-12
 bolaoke.club##.clearfix.mh-wrapper
 citpekalongan.com##.section.header-right
