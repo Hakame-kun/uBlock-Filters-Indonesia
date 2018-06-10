@@ -31,7 +31,8 @@
 # Block ads
 127.0.0.1 ads.telkomsel.com
 127.0.0.1 ads.telkomsel.com:8004
-# Unblock websites (You must know the real IP from that site then add it's host. ipaddressguide.com/ping << Try this tool, add host e.g. google.com)
+# Unblock websites (You must know the real IP from that site then add it's host. 
+# ipaddressguide.com/ping << Try this tool, add host e.g. google.com)
 119.81.2.142 kumpulbagi.com
 119.81.2.142 kbagi.com
 119.81.2.139 i.kbagi.com
