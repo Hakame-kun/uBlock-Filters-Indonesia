@@ -20,8 +20,18 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
+
 # Update frequency is uncertain, if still not found website that has changed ip. This host is made by Microsoft and developed by me
 # https://github.com/Hakame-kun
+
+# Start
+127.0.0.1 localhost
+127.0.1.1 my-real-hostname
+::1 my-ipv6-addr
+# Block ads
+127.0.0.1 ads.telkomsel.com
+127.0.0.1 ads.telkomsel.com:8004
+# Unblock websites (You must know the real IP from that site then add it's host. ipaddressguide.com/ping << Try this tool, add host e.g. google.com)
 119.81.2.142 kumpulbagi.com
 119.81.2.142 kbagi.com
 119.81.2.139 i.kbagi.com
@@ -169,3 +179,9 @@
 104.16.89.20 cdn.jsdelivr.net
 88.85.84.111 popunder.net
 64.210.149.57 ads.trafficjunky.net
+172.217.7.174 www.google-analytics.com
+172.217.7.164 google-analytics.com
+85.10.194.54 wi.cr
+151.101.34.110 js-agent.newrelic.com
+209.197.3.15 maxcdn.bootstrapcdn.com
+# End
