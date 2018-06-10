@@ -29,8 +29,8 @@
 127.0.1.1 my-real-hostname
 ::1 my-ipv6-addr
 # Block ads
-127.0.0.1 ads.telkomsel.com
-127.0.0.1 ads.telkomsel.com:8004
+# Example, remove "#" to activate
+# 127.0.0.1 ads.telkomsel.com
 # Unblock websites (You must know the real IP from that site then add it's host. 
 # ipaddressguide.com/ping << Try this tool, add host e.g. google.com)
 119.81.2.142 kumpulbagi.com
