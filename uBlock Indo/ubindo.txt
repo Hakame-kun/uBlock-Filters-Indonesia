@@ -490,6 +490,7 @@
 *$third-party,domain=theia777.000webhostapp.com
 *$third-party,domain=traffboost.net
 *$third-party,domain=trafficadbar.com
+*$third-party,domain=turbolevel03.000webhostapp.com
 *$third-party,domain=turbolevel122.000webhostapp.com
 *$third-party,domain=turbolevel123.000webhostapp.com
 *$third-party,domain=turbolvl998.000webhostapp.com
@@ -602,7 +603,7 @@
 @@/ads.min.js$domain=dashfaucet.net
 @@/advertisement$domain=solidfiles.com
 @@/advertisement.$domain=bigspeeds.com|clksite.com|crypteddoge.ml|earnbitcoinsnow.net|games.co.id|revdepo.com|simplesads.com.br|uplod.cc
-@@/advertisement.js$domain=000webhostapp.com|adrianocoins.com|alekscoin.com|bagi.co.in|bitcoincore.us|bitcoinflood.com|coinsmondo.com|cryptojunction.com|digitask.ru|faucets.world|faucetfly.com|freebtcfor.me|goldenfreesatoshi.ru|goodfaucet.ru|hubcoins.xyz|ref-hunters.ch|speedup-faucet.com
+@@/advertisement.js$domain=000webhostapp.com|adrianocoins.com|alekscoin.com|bagi.co.in|bitcoincore.us|bitcoinflood.com|coinsmondo.com|cryptojunction.com|digitask.ru|faucets.world|faucetfly.com|freebtcfor.me|goldenfreesatoshi.ru|goodfaucet.ru|grupoahguial.com|hubcoins.xyz|ref-hunters.ch|speedup-faucet.com
 @@/advertisements.js$domain=1katoshi.com|
 @@/advertising.$domain=gamepix.com
 @@/basement/js
@@ -633,6 +634,7 @@
 @@adf.ly/*.php$popup
 @@adfoc.us$domain=adfoc.us
 @@ads.a-static.com/ads.js
+@@ads.telkomsel.com
 @@adserver.wir-kaufen.com
 @@advertcoin.space/$document
 @@ainodorama.web.id$generichide
