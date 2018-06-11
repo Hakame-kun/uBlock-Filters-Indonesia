@@ -655,6 +655,7 @@
 @@bootstrapcdn.com$domain=btcvic.com|cryptofarmer.com|exc.10khits.com|traffboost.net
 @@cashcrate.com
 @@cdn.adf.ly/js/link-converter.js
+@@cdn.onesignal.com$domain=satoshihero.com
 @@clearwebstats.com$first-party
 @@clicknupload.org$elemhide
 @@clixsense.com
