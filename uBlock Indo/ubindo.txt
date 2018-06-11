@@ -683,7 +683,7 @@
 @@easyhits4u.com$first-party
 @@faucet4claim.com$elemhide
 @@fontawesome.com$domain=kickasstraffic.com
-@@fonts.gstatic.com$domain=adbtc.top|kickasstraffic.com|ptc.cointiply.com
+@@fonts.gstatic.com$domain=adbtc.top|kickasstraffic.com|ptc.cointiply.com|ptcwall.com
 @@freebtcn.win$elemhide
 @@freevpn.us$generichide
 @@fw.adsafeprotected.com$domain=imasdk.googleapis.com|tpc.googlesyndication.com
@@ -692,6 +692,7 @@
 @@ganzoffen.de
 @@google.com$domain=criptius.com
 @@googleapis.com$domain=adbtc.top|clixco.in|criptius.com|kickasstraffic.com|ptc.cointiply.com|ptcwall.com
+@@googletagmanager.com$domain=cointiply.com
 @@hit4hit.org$first-party
 @@hitlink.com$first-party
 @@igg-games.com
@@ -722,7 +723,7 @@
 @@tasks.figure-eight.work/channels/neodev
 @@tinyupload.com/ct/js/ct_adsense.js
 @@traffboost.net$first-party
-@@unpkg.com$domain=easyhits4u.com
+@@unpkg.com$domain=easyhits4u.com|ptcwall.com
 @@zetabitco.com$elemhide
 
 ! ========== Custom List ==========
@@ -751,6 +752,10 @@ oturl.com##iframe[src*="oturl.com"]
 earnbig.ca#@#script:inject(nano-setInterval-booster.js)
 short2win.com#@#script:inject(nano-setInterval-booster.js)
 wi.cr#@#script:inject(nano-setInterval-booster.js)
+! Unblock Elements --------------------
+earn-url.com#@#.banner-468x60
+faucethero.com#@##top-ads
+ptcwall.com#@#.ad-block
 ! -------------------------------------
 123link.pw##script:inject(nano-setInterval-booster.js)
 8raa.com##script:inject(bab-defuser.js)
@@ -819,13 +824,11 @@ dogy.cf##script:inject(bab-defuser.js)
 dogy.cf##script:inject(nano-setInterval-booster.js)
 dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
-earn-url.com#@#.banner-468x60
 earn-url.com##.banner-336x280.banner
 eth-faucet.net##script:inject(bab-defuser.js)
 ethereum-faucet.org##script:inject(bab-defuser.js)
 expressfaucet.com##script:inject(bab-defuser.js)
 faucet4claim.com##script:inject(bab-defuser.js)
-faucethero.com#@##top-ads
 faucethero.com##script:inject(bab-defuser.js)
 faucethub.win##script:inject(bab-defuser.js)
 faucets.world##script:inject(bab-defuser.js)
