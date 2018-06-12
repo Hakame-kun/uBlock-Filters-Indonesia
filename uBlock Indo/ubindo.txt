@@ -28,6 +28,7 @@
 ||adexchangecloud.com$popup
 ||adligature.com$third-party
 ||adop.cc$third-party
+||adright.co$third-party
 ||ads.$third-party
 ||ads.linkshrink.net$popunder
 ||ads-bitco.in$third-party
@@ -81,7 +82,7 @@
 ||botkano.info$third-party
 ||boudja.com$third-party
 ||bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
-||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|komiku.net|lebahmovie.com|nontonmovie251.com|treasurebits.net
+||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|komiku.net|lebahmovie.com|nontonmovie251.com|otakufile.com|treasurebits.net
 ||brainbux.com$third-party
 ||btcmedia.co$third-party
 ||btctrail.com$third-party
@@ -107,6 +108,7 @@
 ||cloudmedia.gdn$third-party
 ||cloudmediacdn.com$third-party
 ||coinhive.com$third-party
+||cointiply.com/api/userads$important
 ||cointiply.com/arrowchat$important
 ||coinverti.com$third-party
 ||consolebackup.com$third-party
@@ -136,7 +138,7 @@
 ||dc08i221b0n8a.cloudfront.net$third-party
 ||dfgyw.com
 ||digiads.co.id$third-party
-||disqus.com$third-party,domain=bagi.co.in
+||disqus.com$third-party,domain=bagi.co.in|komikmama.com|otakufile.com|westmanga.info
 ||dl.jeodrive.com$popup,domain=jheberg.net
 ||dorpaahonet-blog.logdown.com
 ||doubleclick.net$third-party
@@ -157,8 +159,8 @@
 ||eyeota.net$third-party
 ||f0nxxmrm.me$third-party
 ||facebook.com$popup,domain=bagilagi.com
-||facebook.com$third-party,domain=gimmemore.com|quizdelivery.com|quizriddle.com
-||facebook.net$third-party,domain=gimmemore.com|quizdelivery.com|quizriddle.com
+||facebook.com$third-party,domain=gimmemore.com|quizdelivery.com|quizriddle.com|videoquizhero.com
+||facebook.net$third-party,domain=gimmemore.com|quizdelivery.com|quizriddle.com|videoquizhero.com
 ||familybtc.com$third-party
 ||faucetcollector.info$third-party
 ||faucetfly.com/?r=
@@ -197,8 +199,10 @@
 ||gxqrjjcsyh.com$third-party
 ||gways.net$popup,third-party
 ||haxhits.com/assets/images/
+||hexasoft.com.my$third-party
 ||hh-btr.com$popunder
 ||hh-btr.com$popup,third-party
+||hibids10.com$third-party
 ||hitcpm.com$popunder
 ||hitcpm.com$popup,third-party
 ||hotmuv.com$third-party
@@ -307,6 +311,7 @@
 ||poopads.xyz$popup,third-party
 ||postimg.*$third-party,image,domain=cinemaindo.co|coeg.in|faucetfly.com|idfl.biz|idfl.info|idfl.me|idfl.my.id|lk21.web.id|lk21tv.web.id|siotong.com|telondasmu.com|thejual.com
 ||potioncoin.com$third-party
+||predictivdisplay.com$third-party
 ||preditates.com$popup,third-party
 ||preditates.com$third-party
 ||privatelink.de/forward/
@@ -406,15 +411,16 @@
 ||wyueivwashc.com$third-party
 ||wzpec.com
 ||x.kinja-static.com/assets/packaged-js/dollars.
-||xh4ck.com:81$third-party
 ||xdeyou.com$third-party,script
+||xh4ck.com:81$third-party
+||xijgedjgg5f55.com$third-party,popup
 ||xugnzawkrkvu.com$third-party
 ||xx1.me/js/ch.
 ||xx1.me/js/yt.js
 ||xx1.me/lib
 ||xx1.me/sworker.js
 ||xydeyou.com$third-party,script
-||youtube.com$third-party,domain=alekscoin.com|digitask.ru|earn-url.com|earnbig.ca|ekrane.net|faucethero.com|icenter.co|oturl.com|world-mining.net
+||youtube.com$third-party,domain=alekscoin.com|digitask.ru|earn-url.com|earnbig.ca|ekrane.net|faucethero.com|icenter.co|oturl.com|shortit.ca|world-mining.net
 ||youtube.com/api/stats/watchtime?$important
 ||yukwxqnxwzghxb.com$third-party
 ||zcashpool.org$third-party
@@ -589,9 +595,6 @@
 /wp-content/uploads/iklan/
 /wp-jw-player/css/popup
 /wp-jw-player/js/popup.js
-/www-static/css/premium/premium-modals.css$important
-/www-static/js/premium/premium-modals.js$important
-/www-static/js/widgets-live-popup.js$important
 
 ! ========== . List ==========
 .adskom.com$third-party
@@ -669,7 +672,7 @@
 @@cdn.onesignal.com$domain=satoshihero.com
 @@clearwebstats.com$first-party
 @@clicknupload.org$elemhide
-@@clixsense.com
+@@clixsense.com$first-party
 @@cloudflare.com$domain=adbtc.top|cryptofarmer.com|freevpn.us|kickasstraffic.com
 @@coinad.com/ads/show$domain=clixco.in
 @@coinhive.com$domain=btc-miner.online
@@ -677,7 +680,7 @@
 @@cointiply.com$first-party
 @@crypto-loot.com$first-party
 @@csi.gstatic.com$domain=cdn.applixir.com|imasdk.googleapis.com
-@@csstatic.com
+@@csstatic.com$domain=clixsense.com
 @@dc.services.visualstudio.com
 @@dircont3.com/nvp.js
 @@easyhits4u.com$first-party
@@ -981,6 +984,7 @@ zonawibu.me##.infopost
 ###banner_ikln_tengah
 ###btm_banner
 ###ctr_banner
+###eae2
 ###g207
 ###h237
 ###idblog-adb-enabled
