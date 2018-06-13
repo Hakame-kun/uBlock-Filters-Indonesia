@@ -104,10 +104,12 @@
 ||cl5tudale.ru$third-party
 ||clearonclick.com$popunder
 ||climbering.info$third-party
+||clk.press/links/popad$popup
 ||clkfly.pw/ads
 ||cloudmedia.gdn$third-party
 ||cloudmediacdn.com$third-party
 ||coinhive.com$third-party
+||cointiply.com/api/ads*all$important
 ||cointiply.com/api/userads$important
 ||cointiply.com/arrowchat$important
 ||coinverti.com$third-party
@@ -537,7 +539,7 @@
 /blantersafelink.js
 /button-timer.js$domain=faucetspro.com|goodfaucet.ru|icenter.co|xalyava.online
 /cdn-cgi/beacon/
-/check.js$domain=agoodprofit.ru|coindows.com|darak.me|digidripz.us|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|ltcbooster.com|topbtcsites.com|treasurebits.net|xalyava.online
+/check.js$domain=agoodprofit.ru|coindows.com|cryptron.tk|darak.me|digidripz.us|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|ltcbooster.com|topbtcsites.com|treasurebits.net|xalyava.online
 /csi_204
 /error_204
 /gen204
@@ -620,7 +622,7 @@
 @@/advertisement$domain=solidfiles.com
 @@/advertisement.$domain=bigspeeds.com|clksite.com|crypteddoge.ml|earnbitcoinsnow.net|games.co.id|revdepo.com|simplesads.com.br|uplod.cc
 @@/advertisement.js$domain=000webhostapp.com|adrianocoins.com|alekscoin.com|bagi.co.in|bitcoincore.us|bitcoinflood.com|coinsmondo.com|cryptojunction.com|digitask.ru|dogecatch.website|dogecoinfree.win|faucets.world|faucetfly.com|freebtcfor.me|goldenfreesatoshi.ru|goodfaucet.ru|grupoahguial.com|hubcoins.xyz|keran.co|ref-hunters.ch|speedup-faucet.com
-@@/advertisements.js$domain=1katoshi.com|
+@@/advertisements.js$domain=1katoshi.com
 @@/advertising.$domain=gamepix.com
 @@/basement/js
 @@/download^$xmlhttprequest,domain=speedtest.net
