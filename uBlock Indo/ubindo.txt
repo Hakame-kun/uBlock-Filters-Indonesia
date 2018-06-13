@@ -61,7 +61,7 @@
 ||areyouahuman.com$third-party
 ||assets.adobedtm.com$third-party
 ||auplod.com$third-party
-||authedmine.com$third-party,domain=faucethub.io
+||authedmine.com$third-party
 ||ayclinical.com$third-party
 ||ban-host.ru$third-party
 ||bc.vc/js/app.v5.js
@@ -138,8 +138,9 @@
 ||dc08i221b0n8a.cloudfront.net$third-party
 ||dfgyw.com
 ||digiads.co.id$third-party
-||disqus.com$third-party,domain=bagi.co.in|komikmama.com|otakufile.com|westmanga.info
+||disqus.com$third-party,domain=bagi.co.in|keran.co|komikmama.com|otakufile.com|westmanga.info
 ||dl.jeodrive.com$popup,domain=jheberg.net
+||dmxoedcqcb.com$third-party
 ||dorpaahonet-blog.logdown.com
 ||doubleclick.net$third-party
 ||downloadmv.com/wp-content/uploads*gif
@@ -176,6 +177,7 @@
 ||freehostedscripts.net$third-party
 ||freeproxy.io$third-party
 ||fresh-video.com$third-party
+||gafoswegc.com$third-party
 ||gambar123.com$third-party,domain=46.166.167.16|semprot.com|semprotku.com
 ||ganool.city/iklan
 ||ganool.web.id/wp-content/uploads*gif
@@ -208,7 +210,7 @@
 ||hotmuv.com$third-party
 ||hotmuv.com/wp-content/uploads*gif
 ||hqncduqyzgfugo.com$third-party
-||i.imgur.com$third-party,domain=acefile.co|awsubs.co|cryptostar.tk|faucethero.com|lk21.blue|mangaindo.net|movieon21.org|nanime.in|nontonanime.id|treasurebits.net
+||i.imgur.com$third-party,domain=acefile.co|awsubs.co|bitcolife.ru|cryptostar.tk|faucethero.com|lk21.blue|mangaindo.net|movieon21.org|nanime.in|nontonanime.id|treasurebits.net
 ||i.makeagif.com$domain=nontonmovie251.com
 ||i027m.top$third-party
 ||ibb.co$third-party,domain=lk21.web.id|lk21tv.web.id
@@ -282,6 +284,7 @@
 ||nephritish.com$third-party
 ||nererut.com$third-party
 ||nikitapoker.net$popup,third-party
+||nobza.com$third-party
 ||nolix.ru$third-party
 ||nonton.drakor-id.com/banner/download.gif
 ||nontongratis88.com/wp-content/uploads*gif
@@ -309,7 +312,7 @@
 ||poker99vip.net$popup,third-party
 ||pokergo88.com$popup,third-party
 ||poopads.xyz$popup,third-party
-||postimg.*$third-party,image,domain=cinemaindo.co|coeg.in|faucetfly.com|idfl.biz|idfl.info|idfl.me|idfl.my.id|lk21.web.id|lk21tv.web.id|siotong.com|telondasmu.com|thejual.com
+||postimg.*$third-party,image,domain=btcleets.xyz|cinemaindo.co|coeg.in|faucetfly.com|idfl.biz|idfl.info|idfl.me|idfl.my.id|lk21.web.id|lk21tv.web.id|siotong.com|telondasmu.com|thejual.com
 ||potioncoin.com$third-party
 ||predictivdisplay.com$third-party
 ||preditates.com$popup,third-party
@@ -317,6 +320,7 @@
 ||privatelink.de/forward/
 ||privatelink.de/if/
 ||promodewa.com$third-party
+||promotethis.website$third-party
 ||provalist.info$third-party
 ||pusatfilm21.com/wp-content/uploads*gif
 ||puu.sh/xv53n$third-party
@@ -374,6 +378,7 @@
 ||tidaltv.com$third-party
 ||tinypic.com$third-party,domain=faucethero.com|idfl.biz|idfl.info|idfl.me|idfl.my.id
 ||tobys.dk$inline-script,domain=tobys.dk
+||top4top.net$third-party
 ||torpsol.com$popunder
 ||torpsol.com$popup,third-party
 ||trafficsan.com$third-party
@@ -391,6 +396,7 @@
 ||vc-miner.com$third-party
 ||vdztr.bid$popunder
 ||videogamebase.net
+||viral782.com$third-party
 ||vktarget.ru$third-party
 ||vuryua.ru$third-party
 ||w55c.net$third-party
@@ -613,13 +619,13 @@
 @@/ads.min.js$domain=dashfaucet.net
 @@/advertisement$domain=solidfiles.com
 @@/advertisement.$domain=bigspeeds.com|clksite.com|crypteddoge.ml|earnbitcoinsnow.net|games.co.id|revdepo.com|simplesads.com.br|uplod.cc
-@@/advertisement.js$domain=000webhostapp.com|adrianocoins.com|alekscoin.com|bagi.co.in|bitcoincore.us|bitcoinflood.com|coinsmondo.com|cryptojunction.com|digitask.ru|faucets.world|faucetfly.com|freebtcfor.me|goldenfreesatoshi.ru|goodfaucet.ru|grupoahguial.com|hubcoins.xyz|ref-hunters.ch|speedup-faucet.com
+@@/advertisement.js$domain=000webhostapp.com|adrianocoins.com|alekscoin.com|bagi.co.in|bitcoincore.us|bitcoinflood.com|coinsmondo.com|cryptojunction.com|digitask.ru|dogecatch.website|dogecoinfree.win|faucets.world|faucetfly.com|freebtcfor.me|goldenfreesatoshi.ru|goodfaucet.ru|grupoahguial.com|hubcoins.xyz|keran.co|ref-hunters.ch|speedup-faucet.com
 @@/advertisements.js$domain=1katoshi.com|
 @@/advertising.$domain=gamepix.com
 @@/basement/js
 @@/download^$xmlhttprequest,domain=speedtest.net
 @@/flow/frontend_assets/js/advertisement.js
-@@/fuckadblock.js$domain=advertcoin.space
+@@/fuckadblock.js$domain=advertcoin.space|catchcoin.pw
 @@/hello^$xmlhttprequest,domain=speedtest.net 
 @@/js/ads$domain=alexamaster.net
 @@/openx$domain=cointiply.com
@@ -701,7 +707,7 @@
 @@igg-games.com
 @@imasdk.googleapis.com$domain=cdn.applixir.com|cointiply.com
 @@inboxdollars.com
-@@jsdelivr.net$domain=ptc.cointiply.com
+@@jsdelivr.net$domain=catchcoin.pw|ptc.cointiply.com
 @@juragan-anime.net/wp-content/cache
 @@jquery.com$domain=adbtc.top|btcvic.com|cryptofarmer.com|easyhits4u.com|startxchange.com
 @@jwpcdn.com
@@ -717,6 +723,7 @@
 @@privatelink.de$third-party
 @@ptcwall.com$domain=kickasstraffic.com
 @@qualityfilehosting.com$elemhide
+@@raincaptcha.com$domain=catchcoin.pw
 @@safebitcoin.info$elemhide
 @@script.crazyegg.com$domain=asmwall.com
 @@sharethis.com
@@ -749,9 +756,11 @@
 ! -------------------------------------
 ##article:nth-of-type(5) > .clearfix
 ##iframe[src*="/widget.html"]
-oturl.com##iframe[src*="oturl.com"]
 ##iframe[src*="servlet/redirect.srv"]
+oturl.com##iframe[src*="oturl.com"]
 ! Link Shortener Error-----------------
+adsurl.co#@#script:inject(nano-setInterval-booster.js)
+cuon.io##[href*=".com"]
 earnbig.ca#@#script:inject(nano-setInterval-booster.js)
 short2win.com#@#script:inject(nano-setInterval-booster.js)
 wi.cr#@#script:inject(nano-setInterval-booster.js)
@@ -812,9 +821,11 @@ coinrotation.com##script:inject(bab-defuser.js)
 coinsmondo.com##script:inject(bab-defuser.js)
 crazysat.ru##script:inject(bab-defuser.js)
 cryptobro.xyz##script:inject(bab-defuser.js)
+cryptoclaimer.website##script:inject(bab-defuser.js)
 cryptofauset.cf##script:inject(bab-defuser.js)
 cryptofights.com##script:inject(bab-defuser.js)
 cryptofun.space##script:inject(bab-defuser.js)
+cryptoskipad.com##script:inject(nano-setInterval-booster.js)
 currentcrypto.net##script:inject(bab-defuser.js)
 darak.me##script:inject(bab-defuser.js)
 darak.me##script:inject(nano-setInterval-booster.js)
@@ -823,6 +834,8 @@ designmyhomee.com##script:inject(nano-setInterval-booster.js)
 dinoving.com##script:inject(bab-defuser.js)
 doge-faucet.com##script:inject(bab-defuser.js)
 dogecoinfloodgate.ml##script:inject(nano-setInterval-booster.js)
+dogecoinfree.win##script:inject(bab-defuser.js)
+dogecoinfree.win##script:inject(nano-setInterval-booster.js)
 dogy.cf##script:inject(bab-defuser.js)
 dogy.cf##script:inject(nano-setInterval-booster.js)
 dynamicssh.com##script:inject(abort-on-property-read.js)
@@ -838,6 +851,7 @@ faucets.world##script:inject(bab-defuser.js)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
 freebitcoin.win##script:inject(bab-defuser.js)
 freesatoshisfh.us##script:inject(bab-defuser.js)
+furturebitearnmore.xyz##script:inject(bab-defuser.js)
 getdogecoin.website##script:inject(bab-defuser.js)
 goldenfreesatoshi.ru##script:inject(nano-setInterval-booster.js)
 goodfaucet.ru##script:inject(nano-setInterval-booster.js)
@@ -849,8 +863,10 @@ hikarinoakariost.info##script:inject(nano-setInterval-booster.js)
 idsly.*##script:inject(nano-setInterval-booster.js)
 indoxxi.info##script:inject(nano-setInterval-booster.js)
 ironime.org##script:inject(abort-current-inline-script.js, addEventListener)
+itiad.com##script:inject(nano-setInterval-booster.js)
 karimunbits.net##script:inject(bab-defuser.js)
 lenov.ru##script:inject(nano-setInterval-booster.js)
+link4win.com##script:inject(nano-setInterval-booster.js)
 linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##script:inject(abort-on-property-read.js, app_vars.force_disable_adblock)
 linkk.bid##script:inject(nano-setInterval-booster.js)
 linkpoi.*##script:inject(abort-current-inline-script.js, addEventListener)
@@ -889,6 +905,7 @@ varclaim.website##script:inject(bab-defuser.js)
 vivocoin.com##script:inject(bab-defuser.js)
 want2crypto.com##script:inject(bab-defuser.js)
 warriorfaucet.com##script:inject(bab-defuser.js)
+wi.cr##script:inject(nano-setInterval-booster.js)
 wikitrade.me##p:nth-of-type(n)
 wikitrade.me##script:inject(nano-setInterval-booster.js)
 zandey.com##script:inject(bab-defuser.js)
