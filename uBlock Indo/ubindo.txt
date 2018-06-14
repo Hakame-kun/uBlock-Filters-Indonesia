@@ -1,8 +1,8 @@
 ! Title: uBlock Indo
-! Last modified: %timestamp%
+! Last modified: 14 Juni 2018, 23:33:57 WIB
+! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
-
 ||*.*-adnow.com$script,third-party
 ||1ea1sley.com$third-party
 ||1ink.cc$third-party
@@ -125,6 +125,7 @@
 ||croissed.info$third-party
 ||crypto-loot.com$third-party
 ||cryptobrowser.site$third-party
+||cryptofarmer.com$third-party
 ||cryptomininggame.com/bundles/front/js/disab.js
 ||cusok.ru$third-party
 ||cwv3_bg_image
@@ -194,7 +195,7 @@
 ||go.oclasrv.com$popup,third-party
 ||go.onclasrv.com$popup,third-party
 ||godfile.info$third-party
-||goo.gl$domain=way2eth.faucethero.com
+||goo.gl$image,domain=faucethero.com
 ||google.*/_/chrome/newtab-serviceworker.js
 ||google.*/api/stats/qoe?$third-party
 ||google.*/async*&async$third-party
@@ -273,6 +274,7 @@
 ||mirrorace.com/themes/ace/assets/img/Jk
 ||misslk.com$third-party
 ||ml314.com$third-party
+||mmbtcl.ink$third-party
 ||mmstat.com/v.gif?$third-party
 ||money-birds.su$third-party
 ||moonbit.co.in$third-party
@@ -364,6 +366,7 @@
 ||smartphoneslist.com$popunder
 ||smartphoneslist.com$popup,third-party
 ||smitionsory.co
+||static.wixstatic.com$third-party
 ||strucewe.info$third-party
 ||sukipli.com*gif$third-party,domain=lk21.web.id
 ||surgeprice.com$third-party
@@ -528,6 +531,7 @@
 /7813650/paxful.gif
 /abd.interstitial.preroll$script,third-party
 /adaqq160x600.gif
+/addons/banners/?$domain=alinafaucet.win|claimulike.win|furturebitearnmore.xyz
 /adnetwork.js$script,third-party
 /ad-overlay-anything
 /analytics/track.png?q
@@ -540,6 +544,7 @@
 /button-timer.js$domain=faucetspro.com|goodfaucet.ru|icenter.co|xalyava.online
 /cdn-cgi/beacon/
 /check.js$domain=agoodprofit.ru|coindows.com|cryptron.tk|darak.me|digidripz.us|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|ltcbooster.com|topbtcsites.com|treasurebits.net|xalyava.online
+/coinpayments.jpg$domain=alinafaucet.win|furturebitearnmore.xyz
 /csi_204
 /error_204
 /gen204
@@ -759,11 +764,13 @@
 ##article:nth-of-type(5) > .clearfix
 ##iframe[src*="/widget.html"]
 ##iframe[src*="servlet/redirect.srv"]
+alinafaucet.win,claimulike.win,furturebitearnmore.xyz##[src*="/addons/banners"]
 oturl.com##iframe[src*="oturl.com"]
 ! Link Shortener Error-----------------
 adsurl.co#@#script:inject(nano-setInterval-booster.js)
 cuon.io##[href*=".com"]
 earnbig.ca#@#script:inject(nano-setInterval-booster.js)
+link-zero.com#@#script:inject(nano-setInterval-booster.js)
 short2win.com#@#script:inject(nano-setInterval-booster.js)
 wi.cr#@#script:inject(nano-setInterval-booster.js)
 ! Unblock Elements --------------------
@@ -783,6 +790,8 @@ agoodprofit.ru##script:inject(nano-setInterval-booster.js)
 alekscoin.com##script:inject(abort-on-property-read.js)
 alekscoin.com##script:inject(bab-defuser.js)
 alekscoin.com##script:inject(nano-setInterval-booster.js)
+alinafaucet.win##div.form-group:nth-of-type(6)
+alinafaucet.win##.form > center
 alinafaucet.win##script:inject(bab-defuser.js)
 anisubindo.org##script:inject(abort-current-inline-script.js, addEventListener)
 autoclaim.win##script:inject(bab-defuser.js)
@@ -811,6 +820,7 @@ claimbits.io##script:inject(bab-defuser.js)
 claimbtc.in##script:inject(bab-defuser.js)
 claimfreebtc.win##script:inject(bab-defuser.js)
 claimfreedoge.win##script:inject(bab-defuser.js)
+claimulike.win##center:nth-of-type(2) > center > center
 claimulike.win##script:inject(bab-defuser.js)
 claimltc.win##script:inject(bab-defuser.js)
 clickers.info##script:inject(bab-defuser.js)
@@ -1020,6 +1030,7 @@ zonawibu.me##.infopost
 ###y9cc
 ###z2c7
 ! -------------------------------------
+alinafaucet.win,claimulike.win,faucethero.com,furturebitearnmore.xyz###middle-adspace
 altervista.org###ad
 altervista.org###ad_overlay
 androidrepublic.org###siropuChat
