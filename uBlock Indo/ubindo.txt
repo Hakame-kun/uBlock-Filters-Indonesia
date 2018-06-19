@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 Juni 2018, 05:31:44 WIB
+! Last modified: 20 Juni 2018, 05:40:12 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -831,7 +831,6 @@ bittube.me##script:inject(nano-setInterval-booster.js)
 bitverts.io##script:inject(nano-setInterval-booster.js)
 bolaoke.club##script:inject(nano-setInterval-booster.js)
 btcfaucet.design##script:inject(bab-defuser.js)
-btcleets.xyz##center:nth-of-type(n)
 btcmines.club##script:inject(bab-defuser.js)
 claimbits.io##script:inject(bab-defuser.js)
 claimbtc.in##script:inject(bab-defuser.js)
@@ -990,7 +989,7 @@ bitcoincore.us##.ablinksgroup > center
 bitcoincore.us##.ba2
 bitcoincore.us##.blog-sidebar
 bitcoincore.us##.bottom-separator.text-center.col-sm-12
-bolaoke.club##.clearfix.mh-wrapp
+bolaoke.club##.clearfix.mh-wrapper
 btcleets.xyz,coin.mg,onlinebee.in##.banner-captcha.banner
 coin.mg##.box-main > center
 citpekalongan.com##.section.header-right
@@ -1010,6 +1009,7 @@ lenov.ru##.clearfix.rek-but:nth-of-type(1)
 lenov.ru##.clearfix.rek-red.rek-but
 lk21.web.id##.row:nth-of-type(3)
 lk21.web.id##.row:nth-of-type(6)
+luckybits.io##.ads-row.row
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
 myanimelist.net##._unit
 onlinebee.in##.text-left
