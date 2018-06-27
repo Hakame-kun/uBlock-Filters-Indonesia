@@ -1,5 +1,5 @@
 # Install
-Cara menginstallnya cukup mudah, anda hanya perlu klik <a href="abp:subscribe?location=https://github.com/Hakame-kun/uBlock-Filters-Indonesia/raw/master/uBlock%20Indo/ubindo.txt&title=uBlock Indo&requiresLocation=https://easylist-downloads.adblockplus.org/easylist.txt&requiresTitle=Easylist">link ini</a>
+Cara menginstallnya cukup mudah, anda hanya perlu klik <a href="https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html">link ini</a> dan klik Install uBlock Indo
 # Info
 Semua informasi mengenai uBlock Indo dan Windows Host ada di dalam folder
 # Donasi
