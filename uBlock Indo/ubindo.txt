@@ -460,6 +460,7 @@
 ||zukxd6fkxqn.com$third-party
 
 ! ========== * List ==========
+*$third-party,domain=123short.com
 *$third-party,domain=247autohits.com
 *$third-party,domain=6589137.000webhostapp.com
 *$third-party,domain=6974251.000webhostapp.com
@@ -467,6 +468,7 @@
 *$third-party,domain=adstopay.biz
 *$third-party,domain=adwerty.com
 *$third-party,domain=adzcash.info
+*$third-party,domain=alinafaucet.win
 *$third-party,domain=amphitrite777.000webhostapp.com
 *$third-party,domain=anubis777.000webhostapp.com
 *$third-party,domain=aphrodite777.000webhostapp.com
@@ -486,6 +488,7 @@
 *$third-party,domain=btc.ms
 *$third-party,domain=btcvic.com
 *$third-party,domain=chaos777.000webhostapp.com
+*$third-party,domain=claimulike.win
 *$third-party,domain=clixco.in
 *$third-party,domain=clk.press
 *$third-party,domain=criptius.com
@@ -504,6 +507,7 @@
 *$third-party,domain=fast-autos.tk
 *$third-party,domain=fastfreebtc.tk
 *$third-party,domain=financesurf.net
+*$third-party,domain=furturebitearnmore.xyz
 *$third-party,domain=gaia777.000webhostapp.com
 *$third-party,domain=hades777.000webhostapp.com
 *$third-party,domain=harmonia777.000webhostapp.com
@@ -530,6 +534,7 @@
 *$third-party,domain=odin777.000webhostapp.com
 *$third-party,domain=osiris777.000webhostapp.com
 *$third-party,domain=ouranos777.000webhostapp.com
+*$third-party,domain=ourfaucet.ru
 *$third-party,domain=ownbitcoins.net
 *$third-party,domain=philyra777.000webhostapp.com
 *$third-party,domain=phoebe777.000webhostapp.com
@@ -541,6 +546,7 @@
 *$third-party,domain=randomsatoshi.win
 *$third-party,domain=realadsurf.site
 *$third-party,domain=rhea777.000webhostapp.com
+*$third-party,domain=rivayz.info
 *$third-party,domain=ryn.cc
 *$third-party,domain=startxchange.com
 *$third-party,domain=surfbtc.com
@@ -586,7 +592,7 @@
 /blantersafelink.js
 /button-timer.js$domain=fastfreebtc.tk|faucetspro.com|goodfaucet.ru|icenter.co|xalyava.online
 /cdn-cgi/beacon/
-/check.js$domain=agoodprofit.ru|coin4you.win|coindows.com|cryptron.tk|darak.me|digidripz.us|fastfreebtc.tk|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|ltcbooster.com|topbtcsites.com|treasurebits.net|xalyava.online
+/check.js$domain=agoodprofit.ru|coin4you.win|coindows.com|cryptron.tk|darak.me|digidripz.us|fastfreebtc.tk|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|ltcbooster.com|ourfaucet.ru|topbtcsites.com|treasurebits.net|xalyava.online
 /coinpayments.jpg$domain=alinafaucet.win|furturebitearnmore.xyz
 /contador.php?$domain=faucetwhite.com
 /csi_204
@@ -788,7 +794,8 @@
 @@privatelink.de$third-party
 @@ptcwall.com$domain=kickasstraffic.com
 @@qualityfilehosting.com$elemhide
-@@raincaptcha.com$domain=catchcoin.pw
+@@raincaptcha.com/base.js
+@@raincaptcha.com*frame
 @@safebitcoin.info$elemhide
 @@script.crazyegg.com$domain=asmwall.com
 @@sharethis.com
@@ -981,6 +988,7 @@ queenfaucet.website##script:inject(bab-defuser.js)
 qwerofaucet.tk##script:inject(bab-defuser.js)
 randomsatoshi.win##script:inject(bab-defuser.js)
 rivayz.info##script:inject(bab-defuser.js)
+rivayz.info##script:inject(nano-setInterval-booster.js)
 ryn.cc##form > div:nth-of-type(2)
 ryn.cc##form > div:nth-of-type(3)
 ryn.cc##script:inject(bab-defuser.js)
