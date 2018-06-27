@@ -106,7 +106,7 @@
 ||cl5tudale.ru$third-party
 ||clearonclick.com$popunder
 ||climbering.info$third-party
-||clk.press/links/popad$popup
+||clk.press/js/pop.php
 ||clkfly.pw/ads
 ||cloudmedia.gdn$third-party
 ||cloudmediacdn.com$third-party
@@ -329,6 +329,7 @@
 ||poker99vip.net$popup,third-party
 ||pokergo88.com$popup,third-party
 ||poopads.xyz$popup,third-party
+||pop.clkfly.pw
 ||postimg.*$third-party,image,domain=bitcoadz.pw|btcleets.xyz|cinemaindo.co|coeg.in|faucetfly.com|idfl.biz|idfl.info|idfl.me|idfl.my.id|lk21.web.id|lk21tv.web.id|siotong.com|telondasmu.com|thejual.com
 ||potioncoin.com$third-party
 ||predictivdisplay.com$third-party
@@ -349,7 +350,6 @@
 ||ratufilm.com/wp-content/plugins/uji-popup
 ||ratufilm.com/wp-content/uploads*gif
 ||rawgit.com$third-party,domain=ambian-movies.blogspot.com|cryptostar.tk|imroot001.ga|myanimeindo.net
-||rawgit.com*footer-powered-by-000webhost
 ||readvasturked.pro$third-party
 ||restricted$third-party
 ||restricted*error=404$popup,third-party
@@ -411,6 +411,7 @@
 ||tuxzictbrqietq.com$third-party
 ||uadexchange.com$third-party
 ||ubloger.com/wp-content/uploads*gif
+||usocial.pro$third-party,domain=maus-doge.top
 ||usstero.com$third-party
 ||unxuwvntk.com$third-party
 ||uzone.id$third-party
@@ -449,7 +450,7 @@
 ||xx1.me/lib
 ||xx1.me/sworker.js
 ||xydeyou.com$third-party,script
-||youtube.com$third-party,domain=alekscoin.com|digitask.ru|earn-url.com|earnbig.ca|ekrane.net|faucethero.com|icenter.co|oturl.com|shortit.ca|world-mining.net
+||youtube.com$third-party,domain=alekscoin.com|bestbitcoinfaucets.net|btcsafari.com|digitask.ru|earn-url.com|earnbig.ca|ekrane.net|faucethero.com|icenter.co|oturl.com|shortit.ca|want2crypto.com|world-mining.net
 ||youtube.com/api/stats/watchtime?$important
 ||yukwxqnxwzghxb.com$third-party
 ||zcashpool.org$third-party
@@ -476,7 +477,9 @@
 *$third-party,domain=autobits.tk
 *$third-party,domain=automoneysurf.com
 *$third-party,domain=basichits4u.com
+*$third-party,domain=bestbitcoinfaucets.net
 *$third-party,domain=bitcofarm.com
+*$third-party,domain=bitcolife.ru
 *$third-party,domain=bitcoinsurf.org
 *$third-party,domain=bitverts.io
 *$third-party,domain=blackoshy.cf
@@ -484,6 +487,7 @@
 *$third-party,domain=btcvic.com
 *$third-party,domain=chaos777.000webhostapp.com
 *$third-party,domain=clixco.in
+*$third-party,domain=clk.press
 *$third-party,domain=criptius.com
 *$third-party,domain=cronos777.000webhostapp.com
 *$third-party,domain=cryptofarmer.com
@@ -498,6 +502,7 @@
 *$third-party,domain=europe777.000webhostapp.com
 *$third-party,domain=exc.10khits.com
 *$third-party,domain=fast-autos.tk
+*$third-party,domain=fastfreebtc.tk
 *$third-party,domain=financesurf.net
 *$third-party,domain=gaia777.000webhostapp.com
 *$third-party,domain=hades777.000webhostapp.com
@@ -507,9 +512,11 @@
 *$third-party,domain=hit4hit.org
 *$third-party,domain=hypnos777.000webhostapp.com
 *$third-party,domain=infinitytrafficboost.com
+*$third-party,domain=iziwinmoney.info
 *$third-party,domain=japet777.000webhostapp.com
 *$third-party,domain=jupiter777.000webhostapp.com
 *$third-party,domain=kickasstraffic.com
+*$third-party,domain=link4win.com
 *$third-party,domain=loky777.000webhostapp.com
 *$third-party,domain=maia777.000webhostapp.com
 *$third-party,domain=mars777.000webhostapp.com
@@ -523,6 +530,7 @@
 *$third-party,domain=odin777.000webhostapp.com
 *$third-party,domain=osiris777.000webhostapp.com
 *$third-party,domain=ouranos777.000webhostapp.com
+*$third-party,domain=ownbitcoins.net
 *$third-party,domain=philyra777.000webhostapp.com
 *$third-party,domain=phoebe777.000webhostapp.com
 *$third-party,domain=pluto777.000webhostapp.com
@@ -545,9 +553,12 @@
 *$third-party,domain=turbolevel123.000webhostapp.com
 *$third-party,domain=turbolvl998.000webhostapp.com
 *$third-party,domain=venus777.000webhostapp.com
+*$third-party,domain=want2crypto.com
 *$popup,third-party,domain=btcleets.xyz
 *$popup,third-party,domain=claimulike.win
+*$popup,third-party,domain=clk.press
 *$popup,third-party,domain=clik.pw
+*$popup,third-party,domain=dwindly.io
 *$popup,third-party,domain=futureurl.info
 *$popup,third-party,domain=gsul.me
 *$popup,third-party,domain=olgkzlwln.net
@@ -573,9 +584,9 @@
 /autoptimize$domain=oploverz.in
 /B380x80.
 /blantersafelink.js
-/button-timer.js$domain=faucetspro.com|goodfaucet.ru|icenter.co|xalyava.online
+/button-timer.js$domain=fastfreebtc.tk|faucetspro.com|goodfaucet.ru|icenter.co|xalyava.online
 /cdn-cgi/beacon/
-/check.js$domain=agoodprofit.ru|coin4you.win|coindows.com|cryptron.tk|darak.me|digidripz.us|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|ltcbooster.com|topbtcsites.com|treasurebits.net|xalyava.online
+/check.js$domain=agoodprofit.ru|coin4you.win|coindows.com|cryptron.tk|darak.me|digidripz.us|fastfreebtc.tk|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|ltcbooster.com|topbtcsites.com|treasurebits.net|xalyava.online
 /coinpayments.jpg$domain=alinafaucet.win|furturebitearnmore.xyz
 /contador.php?$domain=faucetwhite.com
 /csi_204
@@ -587,9 +598,12 @@
 /hitomi/nutaku/
 /HOKI365.gif
 /hoyajackpot-slider-
+/ifs.$domain=jsfastfreebtc.tk
 /iklan*.gif$domain=nekopoi.care
 /iklan/728
 /images$domain=treasurebits.net
+/img$domain=ownbitcoins.net
+/imgz$domain=fastfreebtc.tk
 /includes/left_list-ad.php
 /index.php?ajax/ad-action
 /index.php?page=t&f=
@@ -608,6 +622,7 @@
 /log?format=
 /lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
 /mining.js$domain=faucethub.io
+/misc.js$domain=bestbitcoinfaucets.net|ownbitcoins.net|want2crypto.com
 /mts_ad_sense/js
 /neko/data/*ads*png
 /news*/cait.js
@@ -704,12 +719,14 @@
 @@ainodorama.web.id$generichide
 @@ainogatget.ga$generichide
 @@ainotechno.ga$generichide
+@@ajax.googleapis.com
 @@alexamaster.net/ads/saturn.
 @@allcoins.pw$elemhide
 @@amazonaws.com$domain=ptc.cointiply.com
 @@anifiles.org/themes/flow/
 @@ani-share.com$generichide
 @@anisubindo.org$generichide
+@@api.solvemedia.com
 @@apis.google.com$domain=easyhits4u.com
 @@applixir.com$domain=applixir.com
 @@asr-games.net/newjs
@@ -718,9 +735,11 @@
 @@bitcoin2019.com$elemhide
 @@bitcoinspinner.io/themes
 @@bolaoke.club$popup,domain=awsubs.co
-@@bootstrapcdn.com$domain=adwerty.com|bitcofarm.com|btcvic.com|cryptofarmer.com|exc.10khits.com|ryn.cc|traffboost.net
+@@btcsafari.com$elemhide
+@@captchme.net
 @@cashcrate.com
 @@cdn.adf.ly/js/link-converter.js
+@@cdn.jsdelivr.net
 @@cdn.onesignal.com$domain=satoshihero.com
 @@clearwebstats.com$first-party
 @@clicknupload.org$elemhide
@@ -738,7 +757,8 @@
 @@easyhits4u.com$first-party
 @@faucet4claim.com$elemhide
 @@fontawesome.com$domain=kickasstraffic.com
-@@fonts.gstatic.com$domain=adbtc.top|bitcofarm.com|kickasstraffic.com|ptc.cointiply.com|ptcwall.com|surfbtc.com|tokenfly.pw
+@@fonts.gstatic.com
+@@fonts.googleapis.com
 @@freebtcn.win$elemhide
 @@freevpn.us$generichide
 @@fw.adsafeprotected.com$domain=imasdk.googleapis.com|tpc.googlesyndication.com
@@ -746,12 +766,11 @@
 @@gamehouse.com
 @@ganzoffen.de
 @@google.com$domain=criptius.com
-@@googleapis.com$domain=adbilty.me|adbtc.top|adwerty.com|btc.ms|clixco.in|criptius.com|kickasstraffic.com|ptc.cointiply.com|ptcwall.com|ryn.cc|surfbtc.com|tokenfly.pw
 @@googletagmanager.com$domain=cointiply.com
 @@hit4hit.org$first-party
 @@hitlink.com$first-party
 @@igg-games.com
-@@imasdk.googleapis.com$domain=cdn.applixir.com|cointiply.com
+@@imasdk.googleapis.com$domain=cdn.applixir.com|cointiply.com|link4win.com
 @@inboxdollars.com
 @@jsdelivr.net$domain=catchcoin.pw|obix.space|ptc.cointiply.com
 @@juragan-anime.net/wp-content/cache
@@ -774,13 +793,13 @@
 @@script.crazyegg.com$domain=asmwall.com
 @@sharethis.com
 @@shorte.st$first-party
-@@solvemedia.com$domain=tokenfly.pw
 @@superrewards-offers.com$domain=hit4hit.org
 @@systweak.com$first-party
 @@tasks.figure-eight.work/channels/neodev
 @@tinyupload.com/ct/js/ct_adsense.js
 @@traffboost.net$first-party
 @@unpkg.com$domain=easyhits4u.com|ptcwall.com
+@@wicr.in$elemhide
 @@zetabitco.com$elemhide
 
 ! ========== Custom List ==========
@@ -801,7 +820,7 @@
 ##a[href*="mellowads.com"]
 ##a[href*="z6naousb.com"]
 ! -------------------------------------
-##[class^="bmadblock-"]
+##[class*="bmadblock-"]
 ##iframe[src*="/widget.html"]
 ##iframe[src*="servlet/redirect.srv"]
 oturl.com##iframe[src*="oturl.com"]
@@ -823,6 +842,7 @@ ptcwall.com#@#.ad-block
 94lauin.com,elsfile.org##script:inject(nano-setInterval-booster.js)
 9files.co,addfile.org,qtfile.com,upfile.mobi##a[href*="onamind.com"]
 aalyafaucet.com##script:inject(bab-defuser.js)
+adbull.cc##script:inject(bab-defuser.js)
 adrianocoins.com##script:inject(bab-defuser.js)
 adwerty.com##script:inject(bab-defuser.js)
 adwerty.com##script:inject(nano-setInterval-booster.js)
@@ -881,9 +901,11 @@ crazysat.ru##script:inject(bab-defuser.js)
 cryptobro.xyz##script:inject(bab-defuser.js)
 cryptoclaimer.website##script:inject(bab-defuser.js)
 cryptofauset.cf##script:inject(bab-defuser.js)
+crypto-flash.com##script:inject(bab-defuser.js)
 cryptofights.com##script:inject(bab-defuser.js)
 cryptofun.space##script:inject(bab-defuser.js)
 cryptoskipad.com##script:inject(nano-setInterval-booster.js)
+cryptothrower.website##script:inject(nano-setInterval-booster.js)
 cryptsly.io##script:inject(bab-defuser.js)
 currentcrypto.net##script:inject(bab-defuser.js)
 darak.me##script:inject(bab-defuser.js)
@@ -947,6 +969,7 @@ obix.space##script:inject(nano-setInterval-booster.js)
 oploverz.in##s
 oploverz.in##u
 oturl.com##script:inject(nano-setInterval-booster.js)
+ownbitcoins.net##script:inject(bab-defuser.js)
 payskip.me##script:inject(nano-setInterval-booster.js)
 pentafaucet.com##script:inject(bab-defuser.js)
 platinmods.com##script:inject(bab-defuser.js)
@@ -980,7 +1003,8 @@ varclaim.website##script:inject(bab-defuser.js)
 vivocoin.com##script:inject(bab-defuser.js)
 want2crypto.com##script:inject(bab-defuser.js)
 warriorfaucet.com##script:inject(bab-defuser.js)
-wi.cr##script:inject(nano-setInterval-booster.js)
+weebly.com##script:inject(bab-defuser.js)
+wicr.in##script:inject(nano-setInterval-booster.js)
 wikitrade.me##p:nth-of-type(n)
 wikitrade.me##script:inject(nano-setInterval-booster.js)
 zandey.com##script:inject(bab-defuser.js)
@@ -1123,6 +1147,7 @@ coin.mg###link-view > div:nth-of-type(4)
 dataid.us###loading
 dewafile.com###download
 easyhits4u.com###countDown
+futureurl.info###Test
 hdtvku.com###mybannerpopup
 idfl.*###fancybox-overlay
 indoxxi.net###extand
