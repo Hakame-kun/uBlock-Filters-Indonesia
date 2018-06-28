@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 27 Juni 2018, 23:18:55 WIB
+! Last modified: 28 Juni 2018, 23:31:40 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -311,9 +311,10 @@
 ||ogondkskyahxa.ru$third-party
 ||olcqpdykme.com$third-party
 ||old.dshe.gov.bd$third-party
-||orbisbux.com$third-party
 ||onesignal.com$third-party
 ||onhandrecipes.com$third-party
+||orbisbux.com$third-party
+||oturl.com$subdocument
 ||p*.intab.xyz$popup,third-party
 ||pampopholf.com$third-party
 ||parding.info$third-party
@@ -488,12 +489,14 @@
 *$third-party,domain=btc.ms
 *$third-party,domain=btcvic.com
 *$third-party,domain=chaos777.000webhostapp.com
+*$third-party,domain=claimbit.top
 *$third-party,domain=claimulike.win
 *$third-party,domain=clixco.in
 *$third-party,domain=clk.press
 *$third-party,domain=criptius.com
 *$third-party,domain=cronos777.000webhostapp.com
 *$third-party,domain=cryptofarmer.com
+*$third-party,domain=cuon.io
 *$third-party,domain=demeter777.000webhostapp.com
 *$third-party,domain=dione777.000webhostapp.com
 *$third-party,domain=dionysos777.000webhostapp.com
@@ -516,6 +519,8 @@
 *$third-party,domain=hit4hit.org
 *$third-party,domain=hypnos777.000webhostapp.com
 *$third-party,domain=infinitytrafficboost.com
+*$third-party,domain=islyce.com
+*$third-party,domain=itiurl.co
 *$third-party,domain=iziwinmoney.info
 *$third-party,domain=japet777.000webhostapp.com
 *$third-party,domain=jupiter777.000webhostapp.com
@@ -548,6 +553,7 @@
 *$third-party,domain=rhea777.000webhostapp.com
 *$third-party,domain=rivayz.info
 *$third-party,domain=ryn.cc
+*$third-party,domain=short2win.com
 *$third-party,domain=startxchange.com
 *$third-party,domain=surfbtc.com
 *$third-party,domain=theia777.000webhostapp.com
@@ -568,6 +574,8 @@
 *$popup,third-party,domain=futureurl.info
 *$popup,third-party,domain=gsul.me
 *$popup,third-party,domain=olgkzlwln.net
+*$popup,third-party,domain=payskip.me
+*$popup,third-party,domain=short2win.com
 
 ! ========== / List ==========
 -728x90.
@@ -579,6 +587,7 @@
 /7813650/paxful.gif
 /abd.interstitial.preroll$script,third-party
 /adaqq160x600.gif
+/addons/alexa$domain=rivayz.info
 /addons/banners/$domain=alinafaucet.win|claimbit.top|claimulike.win|furturebitearnmore.xyz|mmbtcl.ink|multicoinfaucet.website
 /adnetwork.js$script,third-party
 /ad-overlay-anything
@@ -628,7 +637,7 @@
 /log?format=
 /lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
 /mining.js$domain=faucethub.io
-/misc.js$domain=bestbitcoinfaucets.net|ownbitcoins.net|want2crypto.com
+/misc.js$domain=ownbitcoins.net
 /mts_ad_sense/js
 /neko/data/*ads*png
 /news*/cait.js
@@ -903,7 +912,6 @@ coingratisan.com##script:inject(bab-defuser.js)
 coinpot.win##script:inject(bab-defuser.js)
 coinrotation.com##script:inject(bab-defuser.js)
 coinsmondo.com##script:inject(bab-defuser.js)
-cuon.io##[href*=".com"]
 crazysat.ru##script:inject(bab-defuser.js)
 cryptobro.xyz##script:inject(bab-defuser.js)
 cryptoclaimer.website##script:inject(bab-defuser.js)
@@ -1134,6 +1142,7 @@ zonawibu.me##.infopost
 ###y9cc
 ###z2c7
 ! -------------------------------------
+123short.com,clk.press###headlineatas
 aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,faucethero.com,furturebitearnmore.xyz###middle-adspace
 altervista.org###ad
 altervista.org###ad_overlay
@@ -1149,7 +1158,6 @@ bitcoinclub.pw,bitcolife.ru,faucethero.com,mazenbtc.com###captcha-adspace
 bitcolife.ru###top-ads
 btcleets.xyz###link-view > center:nth-of-type(1)
 btcleets.xyz###mainNav
-clk.press###headlineatas
 coin.mg###link-view > div:nth-of-type(2)
 coin.mg###link-view > div:nth-of-type(4)
 dataid.us###loading
