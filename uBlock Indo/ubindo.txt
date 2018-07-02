@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 02 Juli 2018, 10:29:55 WIB
+! Last modified: 02 Juli 2018, 18:29:55 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -72,6 +72,8 @@
 ||bioskopkeren.club/images/
 ||bit.ly$popup,third-party,domain=awsubs.co
 ||bitcoinad.pro$third-party
+||bitformations.website/?p=
+||bitformations.website/wp-content/uploads
 ||bitfun.co$third-party
 ||bitexchanger.su$third-party
 ||bithash.farm$third-party
@@ -486,6 +488,7 @@
 *$third-party,domain=bitcoinmoney.info
 *$third-party,domain=bitcolife.ru
 *$third-party,domain=bitcoinsurf.org
+*$third-party,domain=bitformations.website
 *$third-party,domain=bitverts.io
 *$third-party,domain=blackoshy.cf
 *$third-party,domain=btc.ms
@@ -764,7 +767,9 @@
 @@bagilagi.com$generichide
 @@banztegnology.club$generichide
 @@bitcoin2019.com$elemhide
+@@bitcoininformation.website/wp-content/plugins/soralink
 @@bitcoinspinner.io/themes
+@@bitformations.website$elemhide
 @@bolaoke.club$popup,domain=awsubs.co
 @@btcsafari.com$elemhide
 @@captchme.net
@@ -912,6 +917,7 @@ bitcoinmoney.info##script:inject(nano-setInterval-booster.js)
 bitcoinker.com##script:inject(bab-defuser.js)
 bitcolife.ru,itiad.com##ins.adsbygoogle
 bitdesire.it##script:inject(bab-defuser.js)
+bitformations.website##script:inject(nano-setInterval-booster.js)
 bittube.me##script:inject(nano-setInterval-booster.js)
 bitverts.io##script:inject(nano-setInterval-booster.js)
 bolaoke.club##script:inject(nano-setInterval-booster.js)
@@ -1103,10 +1109,13 @@ bitcoincore.us##.ablinksgroup > center
 bitcoincore.us##.ba2
 bitcoincore.us##.blog-sidebar
 bitcoincore.us##.bottom-separator.text-center.col-sm-12
+bitformations.website##.article
+bitformations.website##.sidebar_list
 bolaoke.club##.clearfix.mh-wrapper
 btcleets.xyz,coin.mg,onlinebee.in##.banner-captcha.banner
 coin.mg##.box-main > center
 citpekalongan.com##.section.header-right
+darak.me##.table-responsive
 earn-url.com##.banner-336x280.banner
 efx2.com##.pageku:nth-of-type(4)
 fanbatch.us##.featuredimg
@@ -1186,6 +1195,9 @@ bitcoininformation.website###site-footer
 bitcoininformation.website###site-header
 bitcoinclub.pw,bitcolife.ru,faucethero.com,mazenbtc.com###captcha-adspace
 bitcolife.ru###top-ads
+bitformations.website###page
+bitformations.website###site-footer
+bitformations.website###site-header
 btcleets.xyz###link-view > center:nth-of-type(1)
 btcleets.xyz###mainNav
 coin.mg###link-view > div:nth-of-type(2)
