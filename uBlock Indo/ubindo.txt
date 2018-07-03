@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 02 Juli 2018, 18:29:55 WIB
+! Last modified: 03 Juli 2018, 09:05:03 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -550,6 +550,7 @@
 *$third-party,domain=obix.space
 *$third-party,domain=odin777.000webhostapp.com
 *$third-party,domain=osiris777.000webhostapp.com
+*$third-party,domain=oturl.com
 *$third-party,domain=ouranos777.000webhostapp.com
 *$third-party,domain=ourfaucet.ru
 *$third-party,domain=ownbitcoins.net
