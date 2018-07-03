@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 03 Juli 2018, 09:05:03 WIB
+! Last modified: 03 Juli 2018, 20:40:51 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -492,6 +492,7 @@
 *$third-party,domain=bitverts.io
 *$third-party,domain=blackoshy.cf
 *$third-party,domain=btc.ms
+*$third-party,domain=btcleets.xyz
 *$third-party,domain=btcvic.com
 *$third-party,domain=chaos777.000webhostapp.com
 *$third-party,domain=claimbit.top
@@ -927,6 +928,7 @@ btcmines.club##script:inject(bab-defuser.js)
 claimbit.top##script:inject(bab-defuser.js)
 claimbits.io##script:inject(bab-defuser.js)
 claimbtc.in##script:inject(bab-defuser.js)
+claimethfree.win##script:inject(bab-defuser.js)
 claimfreebtc.win##script:inject(bab-defuser.js)
 claimfreedoge.win##script:inject(bab-defuser.js)
 claimulike.win##center:nth-of-type(2) > center > center
@@ -1194,7 +1196,7 @@ bitcoincore.us###header
 bitcoininformation.website###page
 bitcoininformation.website###site-footer
 bitcoininformation.website###site-header
-bitcoinclub.pw,bitcolife.ru,faucethero.com,mazenbtc.com###captcha-adspace
+bitcoinclub.pw,bitcolife.ru,claimbit.top,faucethero.com,mazenbtc.com###captcha-adspace
 bitcolife.ru###top-ads
 bitformations.website###page
 bitformations.website###site-footer
