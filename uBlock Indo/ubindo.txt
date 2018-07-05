@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 03 Juli 2018, 20:40:51 WIB
+! Last modified: 05 Juli 2018, 20:22:35 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -185,6 +185,7 @@
 ||firebasestorage.googleapis.com*ABP.css?$third-party
 ||firebasestorage.googleapis.com*ABP.js?$third-party
 ||fluunrkjjhv.com$third-party
+||fortunejackpartners.com$third-party
 ||fourtesy.info$third-party
 ||foxads.io$third-party
 ||freehostedscripts.net$third-party
@@ -464,6 +465,7 @@
 
 ! ========== * List ==========
 *$third-party,domain=123short.com
+*$third-party,domain=1ink.cc
 *$third-party,domain=247autohits.com
 *$third-party,domain=6589137.000webhostapp.com
 *$third-party,domain=6974251.000webhostapp.com
@@ -483,15 +485,19 @@
 *$third-party,domain=autobits.tk
 *$third-party,domain=automoneysurf.com
 *$third-party,domain=basichits4u.com
+*$third-party,domain=bcoin4you.com
 *$third-party,domain=bestbitcoinfaucets.net
 *$third-party,domain=bitcofarm.com
+*$third-party,domain=bitcoinclub.pw
+*$third-party,domain=bitcoinminegame.com
 *$third-party,domain=bitcoinmoney.info
-*$third-party,domain=bitcolife.ru
 *$third-party,domain=bitcoinsurf.org
+*$third-party,domain=bitcolife.ru
 *$third-party,domain=bitformations.website
 *$third-party,domain=bitverts.io
 *$third-party,domain=blackoshy.cf
 *$third-party,domain=btc.ms
+*$third-party,domain=btc-treats.pw
 *$third-party,domain=btcleets.xyz
 *$third-party,domain=btcvic.com
 *$third-party,domain=chaos777.000webhostapp.com
@@ -499,9 +505,11 @@
 *$third-party,domain=claimulike.win
 *$third-party,domain=clixco.in
 *$third-party,domain=clk.press
+*$third-party,domain=clk.sh
 *$third-party,domain=criptius.com
 *$third-party,domain=cronos777.000webhostapp.com
 *$third-party,domain=cryptofarmer.com
+*$third-party,domain=cryptomininggame.com
 *$third-party,domain=cryptoprofits.in.ua
 *$third-party,domain=cuon.io
 *$third-party,domain=demeter777.000webhostapp.com
@@ -519,6 +527,7 @@
 *$third-party,domain=exc.10khits.com
 *$third-party,domain=fast-autos.tk
 *$third-party,domain=fastfreebtc.tk
+*$third-party,domain=faucetfly.com
 *$third-party,domain=financesurf.net
 *$third-party,domain=furturebitearnmore.xyz
 *$third-party,domain=gaia777.000webhostapp.com
@@ -607,7 +616,7 @@
 /abd.interstitial.preroll$script,third-party
 /adaqq160x600.gif
 /addons/alexa$domain=rivayz.info
-/addons/banners/$domain=alinafaucet.win|claimbit.top|claimulike.win|furturebitearnmore.xyz|mmbtcl.ink|multicoinfaucet.website
+/addons/banners/$domain=alinafaucet.win|bitcoinclub.pw|claimbit.top|claimulike.win|furturebitearnmore.xyz|mmbtcl.ink|multicoinfaucet.website
 /adnetwork.js$script,third-party
 /ad-overlay-anything
 /analytics/track.png?q
@@ -618,6 +627,7 @@
 /autoptimize$domain=oploverz.in
 /B380x80.
 /blantersafelink.js
+/bundles/front/images*gif$domain=cryptomininggame.com
 /button-timer.js$domain=fastfreebtc.tk|faucetspro.com|goodfaucet.ru|icenter.co|xalyava.online
 /cdn-cgi/beacon/
 /check.js$domain=agoodprofit.ru|coin4you.win|coindows.com|cryptron.tk|darak.me|digidripz.us|fastfreebtc.tk|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|ltcbooster.com|ourfaucet.ru|tabluebox.ml|topbtcsites.com|treasurebits.net|xalyava.online
@@ -820,6 +830,7 @@
 @@linkbucks.com/scripts/script-adv.js
 @@linkbucksmedia.com
 @@mangakyo.net$elemhide
+@@maxcdn.bootstrapcdn.com
 @@meongs.bid
 @@neobux.com$first-party
 @@obix.space$elemhide
@@ -904,6 +915,7 @@ aw-games.net,short.awsubs.co##h1
 awsubsco.ga##script:inject(abort-on-property-read.js)
 awsubsco.ga##script:inject(nano-setInterval-booster.js)
 babesdoge.tk##script:inject(nano-setInterval-booster.js)
+bcoin4you.com##script:inject(bab-defuser.js)
 bestbitcoinfaucets.net##script:inject(bab-defuser.js)
 bitcofaucet.net##script:inject(bab-defuser.js)
 bitcoin-s.com##script:inject(bab-defuser.js)
