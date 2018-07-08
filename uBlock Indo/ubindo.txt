@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 05 Juli 2018, 20:22:35 WIB
+! Last modified: 08 Juli 2018, 10:10:50 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -584,6 +584,7 @@
 *$third-party,domain=tokenfly.pw
 *$third-party,domain=traffboost.net
 *$third-party,domain=trafficadbar.com
+*$third-party,domain=thunderclix.com
 *$third-party,domain=turbolevel03.000webhostapp.com
 *$third-party,domain=turbolevel122.000webhostapp.com
 *$third-party,domain=turbolevel123.000webhostapp.com
@@ -616,7 +617,7 @@
 /abd.interstitial.preroll$script,third-party
 /adaqq160x600.gif
 /addons/alexa$domain=rivayz.info
-/addons/banners/$domain=alinafaucet.win|bitcoinclub.pw|claimbit.top|claimulike.win|furturebitearnmore.xyz|mmbtcl.ink|multicoinfaucet.website
+/addons/banners/$domain=alinafaucet.win|bitcoinclub.pw|claimbit.top|claimulike.win|furturebitearnmore.xyz|mmbtcl.ink|multicoinfaucet.website|rivayz.info
 /adnetwork.js$script,third-party
 /ad-overlay-anything
 /analytics/track.png?q
@@ -630,7 +631,7 @@
 /bundles/front/images*gif$domain=cryptomininggame.com
 /button-timer.js$domain=fastfreebtc.tk|faucetspro.com|goodfaucet.ru|icenter.co|xalyava.online
 /cdn-cgi/beacon/
-/check.js$domain=agoodprofit.ru|coin4you.win|coindows.com|cryptron.tk|darak.me|digidripz.us|fastfreebtc.tk|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|ltcbooster.com|ourfaucet.ru|tabluebox.ml|topbtcsites.com|treasurebits.net|xalyava.online
+/check.js$domain=agoodprofit.ru|bitmake.club|coin4you.win|coindows.com|cryptron.tk|darak.me|digidripz.us|fastfreebtc.tk|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|ltcbooster.com|ourfaucet.ru|tabluebox.ml|topbtcsites.com|treasurebits.net|xalyava.online
 /coinpayments.jpg$domain=alinafaucet.win|furturebitearnmore.xyz
 /contador.php?$domain=faucetwhite.com
 /csi_204
@@ -850,6 +851,7 @@
 @@superrewards-offers.com$domain=hit4hit.org
 @@systweak.com$first-party
 @@tasks.figure-eight.work/channels/neodev
+@@thunderclix.com$elemhide
 @@tinyupload.com/ct/js/ct_adsense.js
 @@traffboost.net$first-party
 @@unpkg.com$domain=easyhits4u.com|ptcwall.com
@@ -950,6 +952,7 @@ click2shorten.com##script:inject(bab-defuser.js)
 clickers.info##script:inject(bab-defuser.js)
 coin.mg##div.row:nth-of-type(4)
 coin4you.win##script:inject(bab-defuser.js)
+coinclaimers.com##script:inject(bab-defuser.js)
 coindice.win##script:inject(bab-defuser.js)
 coingrabr.com##script:inject(bab-defuser.js)
 coingratisan.com##script:inject(bab-defuser.js)
