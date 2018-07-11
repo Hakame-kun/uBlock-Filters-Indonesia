@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 08 Juli 2018, 10:10:50 WIB
+! Last modified: 11 Juli 2018, 08:57:45 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -470,6 +470,7 @@
 *$third-party,domain=6589137.000webhostapp.com
 *$third-party,domain=6974251.000webhostapp.com
 *$third-party,domain=adbilty.me
+*$third-party,domain=adbtc.top
 *$third-party,domain=adpop.me
 *$third-party,domain=adstopay.biz
 *$third-party,domain=adwerty.com
@@ -487,6 +488,7 @@
 *$third-party,domain=basichits4u.com
 *$third-party,domain=bcoin4you.com
 *$third-party,domain=bestbitcoinfaucets.net
+*$third-party,domain=bitcoadz.pw
 *$third-party,domain=bitcofarm.com
 *$third-party,domain=bitcoinclub.pw
 *$third-party,domain=bitcoinminegame.com
@@ -516,6 +518,7 @@
 *$third-party,domain=dione777.000webhostapp.com
 *$third-party,domain=dionysos777.000webhostapp.com
 *$third-party,domain=doge-coin.top
+*$third-party,domain=dogecoinfaucet.club
 *$third-party,domain=dogecoinfloodgate.ml
 *$third-party,domain=dogecoins.top
 *$third-party,domain=dogy.cf
@@ -593,6 +596,7 @@
 *$third-party,domain=vincryptocoins.com
 *$third-party,domain=want2crypto.com
 *$popup,third-party,domain=adpop.me
+*$popup,third-party,domain=bitcoadz.pw
 *$popup,third-party,domain=bitcolife.ru
 *$popup,third-party,domain=btcleets.xyz
 *$popup,third-party,domain=claimulike.win
@@ -629,9 +633,9 @@
 /B380x80.
 /blantersafelink.js
 /bundles/front/images*gif$domain=cryptomininggame.com
-/button-timer.js$domain=fastfreebtc.tk|faucetspro.com|goodfaucet.ru|icenter.co|xalyava.online
+/button-timer.js$domain=dogecoinfaucet.club|fastfreebtc.tk|faucetspro.com|goodfaucet.ru|icenter.co|xalyava.online
 /cdn-cgi/beacon/
-/check.js$domain=agoodprofit.ru|bitmake.club|coin4you.win|coindows.com|cryptron.tk|darak.me|digidripz.us|fastfreebtc.tk|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|ltcbooster.com|ourfaucet.ru|tabluebox.ml|topbtcsites.com|treasurebits.net|xalyava.online
+/check.js$domain=agoodprofit.ru|bitmake.club|coin4you.win|coindows.com|cryptron.tk|darak.me|digidripz.us|dogecoinfaucet.club|fastfreebtc.tk|faucetspro.com|goldenfreesatoshi.ru|goodfaucet.ru|icenter.co|ltcbooster.com|ourfaucet.ru|tabluebox.ml|topbtcsites.com|treasurebits.net|xalyava.online
 /coinpayments.jpg$domain=alinafaucet.win|furturebitearnmore.xyz
 /contador.php?$domain=faucetwhite.com
 /csi_204
@@ -773,6 +777,7 @@
 @@anifiles.org/themes/flow/
 @@ani-share.com$generichide
 @@anisubindo.org$generichide
+@@api.dmcdn.net
 @@api.solvemedia.com
 @@apis.google.com$domain=easyhits4u.com
 @@applixir.com$domain=applixir.com
@@ -844,6 +849,7 @@
 @@qualityfilehosting.com$elemhide
 @@raincaptcha.com/base.js
 @@raincaptcha.com*frame
+@@s.ytimg.com$domain=bitverts.io
 @@safebitcoin.info$elemhide
 @@script.crazyegg.com$domain=asmwall.com
 @@sharethis.com
@@ -856,6 +862,7 @@
 @@traffboost.net$first-party
 @@unpkg.com$domain=easyhits4u.com|ptcwall.com
 @@wicr.in$elemhide
+@@youtube.com$domain=bitverts.io
 @@zetabitco.com$elemhide
 
 ! ========== Custom List ==========
@@ -971,6 +978,7 @@ cryptoskipad.com##script:inject(nano-setInterval-booster.js)
 cryptothrower.website##script:inject(nano-setInterval-booster.js)
 cryptsly.io##script:inject(bab-defuser.js)
 currentcrypto.net##script:inject(bab-defuser.js)
+darak.me##div.col-md-3.col-xs-6:nth-of-type(3)
 darak.me##script:inject(bab-defuser.js)
 darak.me##script:inject(nano-setInterval-booster.js)
 dash-faucet.com##script:inject(bab-defuser.js)
@@ -988,6 +996,7 @@ dogy.cf##script:inject(bab-defuser.js)
 dogy.cf##script:inject(nano-setInterval-booster.js)
 dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
+earn4cut.com##script:inject(nano-setInterval-booster.js)
 eth-faucet.net##script:inject(bab-defuser.js)
 ethereum-faucet.org##script:inject(bab-defuser.js)
 expressfaucet.com##script:inject(bab-defuser.js)
@@ -1002,6 +1011,7 @@ freesatoshisfh.us##script:inject(bab-defuser.js)
 furturebitearnmore.xyz##div.col-md-6:nth-of-type(3) > center
 furturebitearnmore.xyz##div.form-group:nth-of-type(2) > center
 furturebitearnmore.xyz##script:inject(bab-defuser.js)
+getdoge.win##script:inject(nano-setInterval-booster.js)
 getdogecoin.website##script:inject(bab-defuser.js)
 goldenfreesatoshi.ru##script:inject(nano-setInterval-booster.js)
 goodfaucet.ru##script:inject(nano-setInterval-booster.js)
@@ -1134,6 +1144,7 @@ btcleets.xyz,coin.mg,onlinebee.in##.banner-captcha.banner
 coin.mg##.box-main > center
 citpekalongan.com##.section.header-right
 darak.me##.table-responsive
+darak.me##.text-center.col-md-12
 earn-url.com##.banner-336x280.banner
 efx2.com##.pageku:nth-of-type(4)
 fanbatch.us##.featuredimg
@@ -1166,6 +1177,7 @@ wikitrade.me##.mh-clearfix.mh-row.mh-post-nav
 wikitrade.me##.mh-sidebar.mh-widget-col-1
 wikitrade.me##.mh-site-logo
 wikitrade.me##.outboxA.outBox
+wikitrade.me##.swal2-in.swal2-fade.swal2-container
 zonawibu.bid##.artikel
 zonawibu.bid##h4
 zonawibu.bid##.thumbnail
@@ -1200,7 +1212,7 @@ zonawibu.me##.infopost
 ###z2c7
 ! -------------------------------------
 123short.com,clk.press###headlineatas
-aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,faucethero.com,furturebitearnmore.xyz###middle-adspace
+aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,faucethero.com,furturebitearnmore.xyz,mazenbtc.com###middle-adspace
 altervista.org###ad
 altervista.org###ad_overlay
 androidrepublic.org###siropuChat
