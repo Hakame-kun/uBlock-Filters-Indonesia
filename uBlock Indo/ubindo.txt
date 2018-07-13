@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 13 Juli 2018, 11:19:22 WIB
+! Last modified: 13 Juli 2018, 18:14:07 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -541,6 +541,7 @@
 *$third-party,domain=furturebitearnmore.xyz
 *$third-party,domain=gaia777.000webhostapp.com
 *$third-party,domain=geistlink.com
+*$third-party,domain=gram.im
 *$third-party,domain=hades777.000webhostapp.com
 *$third-party,domain=harmonia777.000webhostapp.com
 *$third-party,domain=hera777.000webhostapp.com
@@ -557,6 +558,7 @@
 *$third-party,domain=kickasstraffic.com
 *$third-party,domain=kuturl.com
 *$third-party,domain=link4win.com
+*$third-party,domain=linktor.io
 *$third-party,domain=loky777.000webhostapp.com
 *$third-party,domain=maia777.000webhostapp.com
 *$third-party,domain=mars777.000webhostapp.com
@@ -620,11 +622,13 @@
 *$popup,third-party,domain=claimulike.win
 *$popup,third-party,domain=clk.press
 *$popup,third-party,domain=clik.pw
+*$popup,third-party,domain=cryptomininggame.com
 *$popup,third-party,domain=dinoving.com
 *$popup,third-party,domain=dwindly.io
 *$popup,third-party,domain=futureurl.info
 *$popup,third-party,domain=gsul.me
 *$popup,third-party,domain=ialphacoins.com
+*$popup,third-party,domain=linktor.io
 *$popup,third-party,domain=olgkzlwln.net
 *$popup,third-party,domain=payskip.me
 *$popup,third-party,domain=royurls.bid
@@ -757,6 +761,7 @@
 @@/advertisements.js$domain=1katoshi.com
 @@/advertising.$domain=gamepix.com
 @@/basement/js
+@@/blockadblock$domain=thunderclix.com
 @@/download^$xmlhttprequest,domain=speedtest.net
 @@/flow/frontend_assets/js/advertisement.js
 @@/fuckadblock.$domain=advertcoin.space|allcoins.pw|catchcoin.pw
