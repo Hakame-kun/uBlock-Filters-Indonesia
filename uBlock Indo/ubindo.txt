@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 13 Juli 2018, 18:14:07 WIB
+! Last modified: 13 Juli 2018, 18:54:10 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -894,6 +894,7 @@
 @@traffboost.net$first-party
 @@unpkg.com$domain=easyhits4u.com|ptcwall.com
 @@wicr.in$elemhide
+@@wnp.com/abc.js$domain=thunderclix.com
 @@youtube.com$domain=bitverts.io
 @@zetabitco.com$elemhide
 
