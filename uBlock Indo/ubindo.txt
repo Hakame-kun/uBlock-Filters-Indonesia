@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 13 Juli 2018, 18:54:10 WIB
+! Last modified: 13 Juli 2018, 19:44:15 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -659,6 +659,7 @@
 /autoptimize$domain=oploverz.in
 /B380x80.
 /blantersafelink.js
+/blockadblock$important,domain=thunderclix.com
 /bundles/front/images*gif$domain=cryptomininggame.com
 /button-timer.js$domain=dogecoinfaucet.club|fastfreebtc.tk|faucetspro.com|goodfaucet.ru|icenter.co|xalyava.online
 /cdn-cgi/beacon/
@@ -761,7 +762,6 @@
 @@/advertisements.js$domain=1katoshi.com
 @@/advertising.$domain=gamepix.com
 @@/basement/js
-@@/blockadblock$domain=thunderclix.com
 @@/download^$xmlhttprequest,domain=speedtest.net
 @@/flow/frontend_assets/js/advertisement.js
 @@/fuckadblock.$domain=advertcoin.space|allcoins.pw|catchcoin.pw
@@ -852,7 +852,7 @@
 @@gamehouse.com
 @@ganzoffen.de
 @@google.com$domain=criptius.com
-@@googletagmanager.com$domain=cointiply.com|thunderclix.com
+@@googletagmanager.com$domain=cointiply.com
 @@hit4hit.org$first-party
 @@hitlink.com$first-party
 @@igg-games.com
@@ -894,7 +894,6 @@
 @@traffboost.net$first-party
 @@unpkg.com$domain=easyhits4u.com|ptcwall.com
 @@wicr.in$elemhide
-@@wnp.com/abc.js$domain=thunderclix.com
 @@youtube.com$domain=bitverts.io
 @@zetabitco.com$elemhide
 
