@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 13 Juli 2018, 19:44:15 WIB
+! Last modified: 14 Juli 2018, 23:58:47 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -475,6 +475,7 @@
 *$third-party,domain=adstopay.biz
 *$third-party,domain=adwerty.com
 *$third-party,domain=adzcash.info
+*$third-party,domain=alekscoin.com
 *$third-party,domain=alinafaucet.win
 *$third-party,domain=amphitrite777.000webhostapp.com
 *$third-party,domain=anubis777.000webhostapp.com
@@ -486,6 +487,7 @@
 *$third-party,domain=athena777.000webhostapp.com
 *$third-party,domain=autobits.tk
 *$third-party,domain=automoneysurf.com
+*$third-party,domain=babesdoge.win
 *$third-party,domain=basichits4u.com
 *$third-party,domain=bcoin4you.com
 *$third-party,domain=bestbitcoinfaucets.net
@@ -510,11 +512,13 @@
 *$third-party,domain=claimcoin24.com
 *$third-party,domain=claimulike.win
 *$third-party,domain=clixco.in
+*$third-party,domain=clixsatoshi.com
 *$third-party,domain=clk.press
 *$third-party,domain=clk.sh
 *$third-party,domain=criptius.com
 *$third-party,domain=cripto-miner.com
 *$third-party,domain=cronos777.000webhostapp.com
+*$third-party,domain=cryptoadz.win
 *$third-party,domain=cryptofarmer.com
 *$third-party,domain=cryptomininggame.com
 *$third-party,domain=cryptoprofits.in.ua
@@ -541,6 +545,7 @@
 *$third-party,domain=furturebitearnmore.xyz
 *$third-party,domain=gaia777.000webhostapp.com
 *$third-party,domain=geistlink.com
+*$third-party,domain=geturl.pro
 *$third-party,domain=gram.im
 *$third-party,domain=hades777.000webhostapp.com
 *$third-party,domain=harmonia777.000webhostapp.com
@@ -555,6 +560,7 @@
 *$third-party,domain=iziwinmoney.info
 *$third-party,domain=japet777.000webhostapp.com
 *$third-party,domain=jupiter777.000webhostapp.com
+*$third-party,domain=keplakneh.com
 *$third-party,domain=kickasstraffic.com
 *$third-party,domain=kuturl.com
 *$third-party,domain=link4win.com
@@ -608,12 +614,15 @@
 *$third-party,domain=turbolevel122.000webhostapp.com
 *$third-party,domain=turbolevel123.000webhostapp.com
 *$third-party,domain=turbolvl998.000webhostapp.com
+*$third-party,domain=u2s.io
 *$third-party,domain=ulne.be
 *$third-party,domain=venus777.000webhostapp.com
 *$third-party,domain=vikingbtc.xyz
 *$third-party,domain=vincryptocoins.com
 *$third-party,domain=want2crypto.com
 *$popup,third-party,domain=adpop.me
+*$popup,third-party,domain=allbitcoinsites.com
+*$popup,third-party,domain=bestpayingfaucets.com
 *$popup,third-party,domain=bit-url.com
 *$popup,third-party,domain=bitcoadz.pw
 *$popup,third-party,domain=bitcolife.ru
@@ -635,6 +644,7 @@
 *$popup,third-party,domain=short2win.com
 *$popup,third-party,domain=shrinkme.in
 *$popup,third-party,domain=tmearn.pro
+*$popup,third-party,domain=warriorfaucet.com
 
 ! ========== / List ==========
 -728x90.
@@ -852,7 +862,6 @@
 @@gamehouse.com
 @@ganzoffen.de
 @@google.com$domain=criptius.com
-@@googletagmanager.com$domain=cointiply.com
 @@hit4hit.org$first-party
 @@hitlink.com$first-party
 @@igg-games.com
@@ -928,9 +937,11 @@ payskip.me#@#script:inject(nano-setInterval-booster.js)
 short2win.com#@#script:inject(nano-setInterval-booster.js)
 wi.cr#@#script:inject(nano-setInterval-booster.js)
 ! Unblock Elements --------------------
+cointiply.com#@#.ad-panel
+cointiply.com#@#.fl-ad-left
 earn-url.com#@#.banner-468x60
-faucethero.com#@##top-ads
 ptcwall.com#@#.ad-block
+faucethero.com#@##top-ads
 ! -------------------------------------
 123link.pw##script:inject(nano-setInterval-booster.js)
 8raa.com##script:inject(bab-defuser.js)
@@ -948,6 +959,7 @@ alekscoin.com##script:inject(bab-defuser.js)
 alekscoin.com##script:inject(nano-setInterval-booster.js)
 alinafaucet.win##div.form-group:nth-of-type(6)
 alinafaucet.win##script:inject(bab-defuser.js)
+allbitcoinsites.com##script:inject(bab-defuser.js)
 allcoins.pw##script:inject(bab-defuser.js)
 anisubindo.org##script:inject(abort-current-inline-script.js, addEventListener)
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com,tetew.info##h2
@@ -959,6 +971,7 @@ awsubsco.ga##script:inject(nano-setInterval-booster.js)
 babesdoge.win##script:inject(nano-setInterval-booster.js)
 bcoin4you.com##script:inject(bab-defuser.js)
 bestbitcoinfaucets.net##script:inject(bab-defuser.js)
+bestpayingfaucets.com##script:inject(bab-defuser.js)
 bitcofaucet.net##script:inject(bab-defuser.js)
 bitcoin-s.com##script:inject(bab-defuser.js)
 bitcoinclub.pw##script:inject(bab-defuser.js)
@@ -1046,6 +1059,7 @@ furturebitearnmore.xyz##div.form-group:nth-of-type(2) > center
 furturebitearnmore.xyz##script:inject(bab-defuser.js)
 getdoge.win##script:inject(nano-setInterval-booster.js)
 getdogecoin.website##script:inject(bab-defuser.js)
+geturl.pro##script:inject(bab-defuser.js)
 goldenfreesatoshi.ru##script:inject(nano-setInterval-booster.js)
 goodfaucet.ru##script:inject(nano-setInterval-booster.js)
 gr8.cc##script:inject(bab-defuser.js)
@@ -1059,6 +1073,7 @@ idsly.*##script:inject(nano-setInterval-booster.js)
 indoxxi.info##script:inject(nano-setInterval-booster.js)
 ironime.org##script:inject(abort-current-inline-script.js, addEventListener)
 karimunbits.net##script:inject(bab-defuser.js)
+keplakneh.com##script:inject(nano-setInterval-booster.js)
 lenov.ru##script:inject(nano-setInterval-booster.js)
 link4win.com##script:inject(nano-setInterval-booster.js)
 linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##script:inject(abort-on-property-read.js, app_vars.force_disable_adblock)
