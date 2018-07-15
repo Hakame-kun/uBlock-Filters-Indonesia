@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 14 Juli 2018, 23:58:47 WIB
+! Last modified: 15 Juli 2018, 22:42:00 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -938,7 +938,7 @@ short2win.com#@#script:inject(nano-setInterval-booster.js)
 wi.cr#@#script:inject(nano-setInterval-booster.js)
 ! Unblock Elements --------------------
 cointiply.com#@#.ad-panel
-cointiply.com#@#.fl-ad-left
+cointiply.com#@#.adsbox
 earn-url.com#@#.banner-468x60
 ptcwall.com#@#.ad-block
 faucethero.com#@##top-ads
