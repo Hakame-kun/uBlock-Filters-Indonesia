@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 Juli 2018, 22:13:12 WIB
+! Last modified: 20 Juli 2018, 22:16:10 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -776,7 +776,7 @@
 @@/advertisement$domain=solidfiles.com
 @@/advertising.$domain=gamepix.com
 @@/basement/js
-@@/coingecko.jsz$domain=coingecko.com
+@@/coingecko.js$domain=coingecko.com
 @@/download^$xmlhttprequest,domain=speedtest.net
 @@/flow/frontend_assets/js/advertisement.js
 @@/fuckadblock.$domain=advertcoin.space|allcoins.pw|catchcoin.pw
