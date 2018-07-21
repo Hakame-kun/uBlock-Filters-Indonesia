@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 21 Juli 2018, 11:42:59 WIB
+! Last modified: 21 Juli 2018, 22:37:51 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -473,6 +473,7 @@
 *$third-party,domain=adbilty.me
 *$third-party,domain=adbtc.top
 *$third-party,domain=adpop.me
+*$third-party,domain=adspuma.com
 *$third-party,domain=adstopay.biz
 *$third-party,domain=adwerty.com
 *$third-party,domain=adzcash.info
@@ -491,6 +492,7 @@
 *$third-party,domain=babesdoge.win
 *$third-party,domain=basichits4u.com
 *$third-party,domain=bcoin4you.com
+*$third-party,domain=beat-doge.tk
 *$third-party,domain=bestbitcoinfaucets.net
 *$third-party,domain=bestfreebitcoin.club
 *$third-party,domain=bit-url.com
@@ -514,10 +516,13 @@
 *$third-party,domain=claimbit.top
 *$third-party,domain=claimcoin24.com
 *$third-party,domain=claimulike.win
+*$third-party,domain=clik.pw
 *$third-party,domain=clixco.in
 *$third-party,domain=clixsatoshi.com
+*$third-party,domain=clixurl.com
 *$third-party,domain=clk.press
 *$third-party,domain=clk.sh
+*$third-party,domain=coinmads.com
 *$third-party,domain=cointalk.club
 *$third-party,domain=criptius.com
 *$third-party,domain=cripto-miner.com
@@ -577,6 +582,7 @@
 *$third-party,domain=mars777.000webhostapp.com
 *$third-party,domain=megaurl.in
 *$third-party,domain=mercury777.000webhostapp.com
+*$third-party,domain=motahrer.com
 *$third-party,domain=moybtc.ru
 *$third-party,domain=mmbtcl.ink
 *$third-party,domain=multicoinfaucet.website
@@ -585,6 +591,7 @@
 *$third-party,domain=neree777.000webhostapp.com
 *$third-party,domain=nike777.000webhostapp.com
 *$third-party,domain=nyx777.000webhostapp.com
+*$third-party,domain=o-bitman.com
 *$third-party,domain=obix.space
 *$third-party,domain=odin777.000webhostapp.com
 *$third-party,domain=osiris777.000webhostapp.com
@@ -592,6 +599,7 @@
 *$third-party,domain=ouo.io
 *$third-party,domain=ouranos777.000webhostapp.com
 *$third-party,domain=ourfaucet.ru
+*$third-party,domain=ourl.io
 *$third-party,domain=ownbitcoins.net
 *$third-party,domain=payskip.me
 *$third-party,domain=philyra777.000webhostapp.com
@@ -626,6 +634,7 @@
 *$third-party,domain=turbolevel123.000webhostapp.com
 *$third-party,domain=turbolvl998.000webhostapp.com
 *$third-party,domain=u2s.io
+*$third-party,domain=uii.io
 *$third-party,domain=ulne.be
 *$third-party,domain=venus777.000webhostapp.com
 *$third-party,domain=vikingbtc.xyz
@@ -789,7 +798,6 @@
 @@/fuckadblock.$domain=advertcoin.space|allcoins.pw|catchcoin.pw
 @@/hello^$xmlhttprequest,domain=speedtest.net 
 @@/js/ads$domain=alexamaster.net
-@@/openx$domain=cointiply.com
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/showads.js$domain=heliohost.org
 @@/Sites/admin/Scripts/md5.min.js
@@ -823,7 +831,6 @@
 @@ajax.googleapis.com
 @@alexamaster.net/ads/saturn.
 @@allcoins.pw$elemhide
-@@amazonaws.com$domain=ptc.cointiply.com
 @@anifiles.org/themes/flow/
 @@ani-share.com$generichide
 @@anisubindo.org$generichide
@@ -855,7 +862,6 @@
 @@coinad.com/ads/show$domain=clixco.in
 @@coinhive.com$domain=btc-miner.online
 @@cointiply.com$elemhide
-@@cointiply.com$first-party
 @@crypto-loot.com$first-party
 @@csi.gstatic.com$domain=cdn.applixir.com|imasdk.googleapis.com
 @@csstatic.com$domain=clixsense.com
@@ -878,9 +884,9 @@
 @@hitlink.com$first-party
 @@igg-games.com
 @@ialphacoins.com$elemhide
-@@imasdk.googleapis.com$domain=cdn.applixir.com|cointiply.com|link4win.com
+@@imasdk.googleapis.com$domain=cdn.applixir.com|link4win.com
 @@inboxdollars.com
-@@jsdelivr.net$domain=catchcoin.pw|obix.space|ptc.cointiply.com
+@@jsdelivr.net
 @@juragan-anime.net/wp-content/cache
 @@jquery.com$domain=adbtc.top|adwerty.com|btcvic.com|cryptofarmer.com|easyhits4u.com|startxchange.com|surfbtc.com
 @@jwpcdn.com
@@ -906,6 +912,7 @@
 @@s.ytimg.com$domain=bitverts.io
 @@safebitcoin.info$elemhide
 @@script.crazyegg.com$domain=asmwall.com
+@@sendit.download
 @@sharethis.com
 @@shorte.st$first-party
 @@superrewards-offers.com$domain=hit4hit.org
@@ -915,6 +922,7 @@
 @@tinyupload.com/ct/js/ct_adsense.js
 @@traffboost.net$first-party
 @@unpkg.com$domain=easyhits4u.com|ptcwall.com
+@@vjs.zencdn.net$domain=sendit.cloud
 @@wicr.in$elemhide
 @@youtube.com$domain=bitverts.io
 @@zetabitco.com$elemhide
@@ -983,6 +991,7 @@ awsubsco.ga##script:inject(abort-on-property-read.js)
 awsubsco.ga##script:inject(nano-setInterval-booster.js)
 babesdoge.win##script:inject(nano-setInterval-booster.js)
 bcoin4you.com##script:inject(bab-defuser.js)
+beat-doge.tk##script:inject(bab-defuser.js)
 bestbitcoinfaucets.net##script:inject(bab-defuser.js)
 bestfreebitcoin.club##script:inject(bab-defuser.js)
 bestpayingfaucets.com##script:inject(bab-defuser.js)
@@ -1023,6 +1032,7 @@ coinclaimers.com##script:inject(bab-defuser.js)
 coindice.win##script:inject(bab-defuser.js)
 coingrabr.com##script:inject(bab-defuser.js)
 coingratisan.com##script:inject(bab-defuser.js)
+coinmads.com##script:inject(bab-defuser.js)
 coinpot.win##script:inject(bab-defuser.js)
 coinrotation.com##script:inject(bab-defuser.js)
 coinsmondo.com##script:inject(bab-defuser.js)
@@ -1068,6 +1078,8 @@ faucethero.com##script:inject(bab-defuser.js)
 faucethub.win##script:inject(bab-defuser.js)
 faucets.world##script:inject(bab-defuser.js)
 faucetwhite.com##script:inject(bab-defuser.js)
+faucetwhite.com##script:inject(nano-setInterval-booster.js)
+febbit.com##script:inject(nano-setInterval-booster.js)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
 freebitcoin.win##script:inject(bab-defuser.js)
 freek.in##script:inject(bab-defuser.js)
@@ -1109,6 +1121,7 @@ mmbtcl.ink##script:inject(bab-defuser.js)
 multicoinfaucet.website##script:inject(bab-defuser.js)
 multimining.website##script:inject(nano-setInterval-booster.js)
 nekopoi.*##script:inject(bab-defuser.js)
+o-bitman.com##script:inject(bab-defuser.js)
 obix.space##script:inject(nano-setInterval-booster.js)
 oploverz.in##s
 oploverz.in##u
@@ -1200,6 +1213,7 @@ anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info
 awsubs.co##.fb_iframe_widget.fb-like
 awsubs.co##.minipusat
 awsubs.co##.pusat728
+beat-doge.tk##.popUpBannerBox
 bestbitcoinfaucets.net##.modal-body > center
 bitcoincore.us##.ablinksgroup > center
 bitcoincore.us##.ba2
