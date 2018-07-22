@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 21 Juli 2018, 22:37:51 WIB
+! Last modified: 22 Juli 2018, 13:16:13 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -607,6 +607,7 @@
 *$third-party,domain=pluto777.000webhostapp.com
 *$third-party,domain=poseidon777.000webhostapp.com
 *$third-party,domain=potoshy.cf
+*$third-party,domain=premiumfaucetnetwork.com
 *$third-party,domain=ptc.cointiply.com
 *$third-party,domain=ptcwall.com
 *$third-party,domain=queenfaucet.website
@@ -789,7 +790,7 @@
 @@/adframe.$domain=aalyafaucet.com|adf.ly|bitcofarm.com|browseandlearn.com|claimfreebtc.win|climbtoread.com|qualityfilehosting.com|readingpapers.com|searchwithout.com|todaypostings.com|topreadarticles.com|upliftingvotes.com|upvotedentries.com|votesofthecentury.com
 @@/ads.js$domain=btcmines.club|hentaigasm.com
 @@/ads.min.js$domain=dashfaucet.net
-@@/advertisement$domain=solidfiles.com
+@@/advertisement$domain=alekscoin.com|solidfiles.com
 @@/advertising.$domain=gamepix.com
 @@/basement/js
 @@/coingecko.js$domain=coingecko.com
@@ -1134,6 +1135,7 @@ platinmods.download##script:inject(bab-defuser.js)
 platinmods.download##script:inject(nano-setInterval-booster.js)
 potcoin-faucet.com##script:inject(bab-defuser.js)
 potcoinlotto.com##script:inject(bab-defuser.js)
+premiumfaucetnetwork.com##script:inject(bab-defuser.js)
 queenfaucet.website##script:inject(bab-defuser.js)
 qwerofaucet.tk##script:inject(bab-defuser.js)
 randomsatoshi.win##script:inject(bab-defuser.js)
