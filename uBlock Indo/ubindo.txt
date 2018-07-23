@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 22 Juli 2018, 13:16:13 WIB
+! Last modified: 23 Juli 2018, 19:37:58 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -472,6 +472,7 @@
 *$third-party,domain=6974251.000webhostapp.com
 *$third-party,domain=adbilty.me
 *$third-party,domain=adbtc.top
+*$third-party,domain=adbull.cc
 *$third-party,domain=adpop.me
 *$third-party,domain=adspuma.com
 *$third-party,domain=adstopay.biz
@@ -557,6 +558,7 @@
 *$third-party,domain=furturebitearnmore.xyz
 *$third-party,domain=gaia777.000webhostapp.com
 *$third-party,domain=geistlink.com
+*$third-party,domain=getlink.pw
 *$third-party,domain=geturl.pro
 *$third-party,domain=gram.im
 *$third-party,domain=hades777.000webhostapp.com
@@ -658,6 +660,7 @@
 *$popup,third-party,domain=dinoving.com
 *$popup,third-party,domain=dwindly.io
 *$popup,third-party,domain=futureurl.info
+*$popup,third-party,domain=getlink.pw
 *$popup,third-party,domain=gsul.me
 *$popup,third-party,domain=ialphacoins.com
 *$popup,third-party,domain=linktor.io
@@ -1080,7 +1083,6 @@ faucethub.win##script:inject(bab-defuser.js)
 faucets.world##script:inject(bab-defuser.js)
 faucetwhite.com##script:inject(bab-defuser.js)
 faucetwhite.com##script:inject(nano-setInterval-booster.js)
-febbit.com##script:inject(nano-setInterval-booster.js)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
 freebitcoin.win##script:inject(bab-defuser.js)
 freek.in##script:inject(bab-defuser.js)
@@ -1090,6 +1092,7 @@ furturebitearnmore.xyz##div.form-group:nth-of-type(2) > center
 furturebitearnmore.xyz##script:inject(bab-defuser.js)
 getdoge.win##script:inject(nano-setInterval-booster.js)
 getdogecoin.website##script:inject(bab-defuser.js)
+getlink.pw##script:inject(bab-defuser.js)
 geturl.pro##script:inject(bab-defuser.js)
 goldenfreesatoshi.ru##script:inject(nano-setInterval-booster.js)
 goodfaucet.ru##script:inject(nano-setInterval-booster.js)
@@ -1100,6 +1103,7 @@ haxhits.com##script:inject(nano-setInterval-booster.js)
 highwaytoco.in##script:inject(bab-defuser.js)
 hikarinoakariost.info##script:inject(nano-setInterval-booster.js)
 hubcoins.xyz##script:inject(nano-setInterval-booster.js)
+icucu.icu##script:inject(bab-defuser.js)
 idsly.*##script:inject(nano-setInterval-booster.js)
 indoxxi.info##script:inject(nano-setInterval-booster.js)
 ironime.org##script:inject(abort-current-inline-script.js, addEventListener)
@@ -1295,7 +1299,7 @@ zonawibu.me##.infopost
 ###y9cc
 ###z2c7
 ! -------------------------------------
-123short.com,clk.press###headlineatas
+123short.com,clk.press,getlink.pw###headlineatas
 aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,faucet.kiwi,faucethero.com,furturebitearnmore.xyz,mazenbtc.com###middle-adspace
 altervista.org###ad
 altervista.org###ad_overlay
