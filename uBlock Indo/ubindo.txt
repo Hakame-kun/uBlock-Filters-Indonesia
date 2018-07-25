@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 23 Juli 2018, 19:37:58 WIB
+! Last modified: 25 Juli 2018, 18:25:00 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -554,6 +554,7 @@
 *$third-party,domain=faucetfly.com
 *$third-party,domain=faucethero.com
 *$third-party,domain=financesurf.net
+*$third-party,domain=freebitcoincore.top
 *$third-party,domain=freek.in
 *$third-party,domain=furturebitearnmore.xyz
 *$third-party,domain=gaia777.000webhostapp.com
@@ -902,6 +903,7 @@
 @@meongs.bid
 @@neobux.com$first-party
 @@obix.space$elemhide
+@@onlinebee.in$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.solvemedia.com
 @@onlinebee.in$elemhide
 @@pagead2.googlesyndication.com$domain=cdn.applixir.com|directlink.booogle.net|imasdk.googleapis.com|safelink.top|uclick.in
 @@pixel.adsafeprotected.com$domain=tpc.googlesyndication.com
@@ -1216,6 +1218,7 @@ alinafaucet.win##.form > center
 anisubindo.org##.ArevicoModal-bg
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.c-message > div:nth-of-type(1)
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.disclaimer
+awcar.icu##.mh-clearfix.mh-wrapper
 awsubs.co##.fb_iframe_widget.fb-like
 awsubs.co##.minipusat
 awsubs.co##.pusat728
