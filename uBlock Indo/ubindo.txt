@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 25 Juli 2018, 18:25:00 WIB
+! Last modified: 29 Juli 2018, 06:17:38 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -514,6 +514,7 @@
 *$third-party,domain=btcvic.com
 *$third-party,domain=cash4url.com
 *$third-party,domain=chaos777.000webhostapp.com
+*$third-party,domain=chopcoin.io
 *$third-party,domain=claimbit.top
 *$third-party,domain=claimcoin24.com
 *$third-party,domain=claimulike.win
@@ -584,6 +585,7 @@
 *$third-party,domain=maia777.000webhostapp.com
 *$third-party,domain=mars777.000webhostapp.com
 *$third-party,domain=megaurl.in
+*$third-party,domain=melovin.site
 *$third-party,domain=mercury777.000webhostapp.com
 *$third-party,domain=motahrer.com
 *$third-party,domain=moybtc.ru
@@ -630,6 +632,8 @@
 *$third-party,domain=tabluebox.ml
 *$third-party,domain=theia777.000webhostapp.com
 *$third-party,domain=tokenfly.pw
+*$third-party,domain=topbtc.club
+*$third-party,domain=topurl.net
 *$third-party,domain=traffboost.net
 *$third-party,domain=trafficadbar.com
 *$third-party,domain=thunderclix.com
@@ -644,6 +648,7 @@
 *$third-party,domain=vikingbtc.xyz
 *$third-party,domain=vincryptocoins.com
 *$third-party,domain=want2crypto.com
+*$third-party,domain=zetabitco.com
 *$popup,third-party,domain=adpop.me
 *$popup,third-party,domain=allbitcoinsites.com
 *$popup,third-party,domain=bestpayingfaucets.com
@@ -673,6 +678,8 @@
 *$popup,third-party,domain=shrinkme.in
 *$popup,third-party,domain=tmearn.pro
 *$popup,third-party,domain=warriorfaucet.com
+*$popup,third-party,domain=wicr.me
+*$popup,third-party,domain=zetabitco.com
 
 ! ========== / List ==========
 -728x90.
@@ -800,7 +807,7 @@
 @@/coingecko.js$domain=coingecko.com
 @@/download^$xmlhttprequest,domain=speedtest.net
 @@/flow/frontend_assets/js/advertisement.js
-@@/fuckadblock.$domain=advertcoin.space|allcoins.pw|catchcoin.pw
+@@/fuckadblock.$important
 @@/hello^$xmlhttprequest,domain=speedtest.net 
 @@/js/ads$domain=alexamaster.net
 @@/ping^$xmlhttprequest,domain=speedtest.net
@@ -855,6 +862,7 @@
 @@captchme.net
 @@cashcrate.com
 @@cdn.adf.ly/js/link-converter.js
+@@cdn.datatables.net
 @@cdn.jsdelivr.net
 @@cdn.onesignal.com$domain=satoshihero.com
 @@cdnjs.cloudflare.com
@@ -1021,6 +1029,7 @@ bitverts.io##script:inject(nano-setInterval-booster.js)
 bolaoke.club##script:inject(nano-setInterval-booster.js)
 btcfaucet.design##script:inject(bab-defuser.js)
 btcmines.club##script:inject(bab-defuser.js)
+chopcoin.io##script:inject(bab-defuser.js)
 claimbit.top##script:inject(bab-defuser.js)
 claimbits.io##script:inject(bab-defuser.js)
 claimbtc.in##script:inject(bab-defuser.js)
@@ -1074,6 +1083,7 @@ dogy.cf##script:inject(nano-setInterval-booster.js)
 dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
 earn4cut.com##script:inject(nano-setInterval-booster.js)
+earnfreebitcoins.xyz##script:inject(nano-setInterval-booster.js)
 eth-faucet.net##script:inject(bab-defuser.js)
 ethereum-faucet.org##script:inject(bab-defuser.js)
 expressfaucet.com##script:inject(bab-defuser.js)
@@ -1082,6 +1092,7 @@ faucet4claim.com##script:inject(bab-defuser.js)
 faucethero.com##body > div:nth-of-type(3)
 faucethero.com##script:inject(bab-defuser.js)
 faucethub.win##script:inject(bab-defuser.js)
+faucetnews.xyz##script:inject(nano-setInterval-booster.js)
 faucets.world##script:inject(bab-defuser.js)
 faucetwhite.com##script:inject(bab-defuser.js)
 faucetwhite.com##script:inject(nano-setInterval-booster.js)
@@ -1102,6 +1113,7 @@ gr8.cc##script:inject(bab-defuser.js)
 greenfaucet.win##script:inject(bab-defuser.js)
 gwei.win##script:inject(bab-defuser.js)
 haxhits.com##script:inject(nano-setInterval-booster.js)
+highpayingfaucet.com##script:inject(nano-setInterval-booster.js)
 highwaytoco.in##script:inject(bab-defuser.js)
 hikarinoakariost.info##script:inject(nano-setInterval-booster.js)
 hubcoins.xyz##script:inject(nano-setInterval-booster.js)
@@ -1164,6 +1176,7 @@ susutinv2.com##p:nth-of-type(n)
 synced-rewards.com##script:inject(bab-defuser.js)
 theseotools.net##script:inject(bab-defuser.js)
 topbtc.club##script:inject(bab-defuser.js)
+treasurebits.net##script:inject(nano-setInterval-booster.js)
 uclick.in##script:inject(bab-defuser.js)
 url-win.com##script:inject(nano-setInterval-booster.js)
 varclaim.website##script:inject(bab-defuser.js)
