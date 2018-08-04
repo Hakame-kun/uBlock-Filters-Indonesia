@@ -92,10 +92,11 @@
 88.208.18.30 xhamster.com
 198.89.127.171 xx1videos.com
 216.18.168.116 youporn.com
-141.101.120.54 nhentai.net
+141.101.120.55 nhentai.net
 141.101.120.55 static.nhentai.net
 185.2.83.141 i.nhentai.net
 185.2.83.141 t.nhentai.net
+185.2.83.13 t.nhentai.net
 104.27.177.242 pururin.io
 209.99.64.18 pururin.us
 206.190.133.108 doujins.com
@@ -108,6 +109,7 @@
 34.230.170.103 out.reddit.com
 151.101.65.140 reddit.com
 151.101.33.140 www.reddit.com
+192.124.249.11 hentaihaven.org
 192.124.249.12 hentaihaven.org
 198.16.106.42 hh.cx
 37.187.167.53 upload.ee
@@ -177,7 +179,8 @@
 # It will bring the website with fast loading speed
 104.20.19.254 adf.ly
 104.20.19.254 cdn.adf.ly
-18.216.255.190 api.solvemedia.com
+8.20.87.9 api-secure.solvemedia.com
+8.20.87.8 api.solvemedia.com
 18.221.49.51 solvemedia.com
 104.17.162.12 mellowads.com
 69.164.223.139 coinzilla.io
@@ -197,6 +200,8 @@
 172.217.7.174 www.google-analytics.com
 172.217.7.164 google-analytics.com
 85.10.194.54 wi.cr
+104.20.18.67 snapengage.com
+172.217.8.19 www.snapengage.com
 151.101.34.110 js-agent.newrelic.com
 209.197.3.15 maxcdn.bootstrapcdn.com
 151.101.128.217 vimeo.com
