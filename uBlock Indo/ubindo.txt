@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 03 Agustus 2018, 20:06:06 WIB
+! Last modified: 04 Agustus 2018, 11:06:55 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -466,6 +466,7 @@
 ||*$third-party,domain=adbtc.top
 *$third-party,domain=123short.com
 *$third-party,domain=1ink.cc
+*$third-party,domain=1ink.info
 *$third-party,domain=247autohits.com
 *$third-party,domain=247cryptonews.com
 *$third-party,domain=adbilty.me
@@ -762,7 +763,7 @@
 @@/adframe.$domain=aalyafaucet.com|adf.ly|bitcofarm.com|browseandlearn.com|claimfreebtc.win|climbtoread.com|qualityfilehosting.com|readingpapers.com|searchwithout.com|todaypostings.com|topreadarticles.com|upliftingvotes.com|upvotedentries.com|votesofthecentury.com
 @@/ads.js$domain=btcmines.club|hentaigasm.com
 @@/ads.min.js$domain=dashfaucet.net
-@@/advertisement$domain=alekscoin.com|solidfiles.com
+@@/advertisement$domain=alekscoin.com|faucetfly.com|solidfiles.com
 @@/advertising.$domain=gamepix.com
 @@/basement/js
 @@/coingecko.js$domain=coingecko.com
@@ -936,6 +937,7 @@ ptcwall.com#@#.ad-block
 faucethero.com#@##top-ads
 ! -------------------------------------
 123link.pw##script:inject(nano-setInterval-booster.js)
+1ink.info##script:inject(nano-setInterval-booster.js)
 8raa.com##script:inject(bab-defuser.js)
 94lauin.com,elsfile.org##script:inject(abort-on-property-read.js, h237)
 94lauin.com,elsfile.org##script:inject(nano-setInterval-booster.js)
@@ -1047,6 +1049,8 @@ ethereum-faucet.org##script:inject(bab-defuser.js)
 expressfaucet.com##script:inject(bab-defuser.js)
 faucet.kiwi##script:inject(bab-defuser.js)
 faucet4claim.com##script:inject(bab-defuser.js)
+faucetfly.com##body > div:nth-of-type(1)
+faucetfly.com##body > div:nth-of-type(2)
 faucethero.com##body > div:nth-of-type(3)
 faucethero.com##script:inject(bab-defuser.js)
 faucethub.win##script:inject(bab-defuser.js)
