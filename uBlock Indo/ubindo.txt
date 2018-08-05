@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 05 Agustus 2018, 14:15:22 WIB
+! Last modified: 05 Agustus 2018, 20:51:41 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -614,6 +614,7 @@
 *$third-party,domain=tabluebox.ml
 *$third-party,domain=telondasmu.com
 *$third-party,domain=tetew.info
+*$third-party,domain=theinsurance.pw
 *$third-party,domain=tokenfly.pw
 *$third-party,domain=topbtc.club
 *$third-party,domain=topurl.net
@@ -726,6 +727,7 @@
 /mining.js$domain=faucethub.io
 /misc.js$domain=ownbitcoins.net
 /mts_ad_sense/js
+/needads.js
 /neko/data/*ads*png
 /neko/data/*iklan
 /news*/cait.js
@@ -1075,6 +1077,7 @@ faucets.world##script:inject(bab-defuser.js)
 faucetwhite.com##script:inject(bab-defuser.js)
 faucetwhite.com##script:inject(nano-setInterval-booster.js)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
+forthtrade.com##script:inject(nano-setInterval-booster.js)
 freebitcoin.win##script:inject(bab-defuser.js)
 freek.in##script:inject(bab-defuser.js)
 freesatoshisfh.us##script:inject(bab-defuser.js)
@@ -1152,6 +1155,7 @@ starcoins.ws##script:inject(bab-defuser.js)
 startxchange.com##script:inject(nano-setInterval-booster.js)
 susutinv2.com##p:nth-of-type(n)
 synced-rewards.com##script:inject(bab-defuser.js)
+theinsurance.pw##script:inject(bab-defuser.js)
 theseotools.net##script:inject(bab-defuser.js)
 topbtc.club##script:inject(bab-defuser.js)
 treasurebits.net##script:inject(nano-setInterval-booster.js)
