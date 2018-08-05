@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 04 Agustus 2018, 11:06:55 WIB
+! Last modified: 05 Agustus 2018, 14:15:22 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -25,6 +25,7 @@
 ||activex.press$third-party
 ||ad.a-ads.com$third-party
 ||adbitty.com$third-party
+||adcoin.click$third-party
 ||addtoany.com$third-party
 ||adexchangecloud.com$popunder
 ||adexchangecloud.com$popup
@@ -479,6 +480,7 @@
 *$third-party,domain=adzcash.info
 *$third-party,domain=alekscoin.com
 *$third-party,domain=alinafaucet.win
+*$third-party,domain=anjay.info
 *$third-party,domain=as2link.com
 *$third-party,domain=autobits.tk
 *$third-party,domain=automoneysurf.com
@@ -517,6 +519,7 @@
 *$third-party,domain=clixurl.com
 *$third-party,domain=clk.press
 *$third-party,domain=clk.sh
+*$third-party,domain=coeg.in
 *$third-party,domain=coinmads.com
 *$third-party,domain=cointalk.club
 *$third-party,domain=criptius.com
@@ -525,6 +528,8 @@
 *$third-party,domain=cryptofarmer.com
 *$third-party,domain=cryptomininggame.com
 *$third-party,domain=cryptoprofits.in.ua
+*$third-party,domain=cut-earn.com
+*$third-party,domain=cutlink.xyz
 *$third-party,domain=cuon.io
 *$third-party,domain=dinoving.com
 *$third-party,domain=doge-coin.top
@@ -533,6 +538,7 @@
 *$third-party,domain=dogecoins.top
 *$third-party,domain=dogy.cf
 *$third-party,domain=dwindly.io
+*$third-party,domain=earnbitcoinsnow.net
 *$third-party,domain=easyhits4u.com
 *$third-party,domain=ebesucher.com
 *$third-party,domain=exc.10khits.com
@@ -541,6 +547,7 @@
 *$third-party,domain=faucet.kiwi
 *$third-party,domain=faucetfly.com
 *$third-party,domain=faucethero.com
+*$third-party,domain=faucetwhite.com
 *$third-party,domain=financesurf.net
 *$third-party,domain=forumcoin.win
 *$third-party,domain=freebitcoincore.top
@@ -550,9 +557,11 @@
 *$third-party,domain=getlink.pw
 *$third-party,domain=geturl.pro
 *$third-party,domain=gram.im
+*$third-party,domain=greget.space
 *$third-party,domain=hit4hit.org
 *$third-party,domain=hubcoins.xyz
 *$third-party,domain=infinitytrafficboost.com
+*$third-party,domain=ioanbtc.com
 *$third-party,domain=islyce.com
 *$third-party,domain=itiurl.co
 *$third-party,domain=iziwinmoney.info
@@ -562,7 +571,9 @@
 *$third-party,domain=kickasstraffic.com
 *$third-party,domain=kuturl.com
 *$third-party,domain=link4win.com
+*$third-party,domain=linkrex.net
 *$third-party,domain=linktor.io
+*$third-party,domain=mazenbtc.com
 *$third-party,domain=megaurl.in
 *$third-party,domain=melovin.site
 *$third-party,domain=motahrer.com
@@ -580,6 +591,7 @@
 *$third-party,domain=payskip.me
 *$third-party,domain=potoshy.cf
 *$third-party,domain=premiumfaucetnetwork.com
+*$third-party,domain=probusinesshub.com
 *$third-party,domain=ptc.cointiply.com
 *$third-party,domain=ptcwall.com
 *$third-party,domain=queenfaucet.website
@@ -593,10 +605,15 @@
 *$third-party,domain=shortedbind.com
 *$third-party,domain=shortlink.live
 *$third-party,domain=shrinkme.in
+*$third-party,domain=siherp.com
+*$third-party,domain=siotong.com
 *$third-party,domain=solo-link.com
 *$third-party,domain=startxchange.com
 *$third-party,domain=surfbtc.com
+*$third-party,domain=susutinv2.com
 *$third-party,domain=tabluebox.ml
+*$third-party,domain=telondasmu.com
+*$third-party,domain=tetew.info
 *$third-party,domain=tokenfly.pw
 *$third-party,domain=topbtc.club
 *$third-party,domain=topurl.net
@@ -1051,7 +1068,6 @@ faucet.kiwi##script:inject(bab-defuser.js)
 faucet4claim.com##script:inject(bab-defuser.js)
 faucetfly.com##body > div:nth-of-type(1)
 faucetfly.com##body > div:nth-of-type(2)
-faucethero.com##body > div:nth-of-type(3)
 faucethero.com##script:inject(bab-defuser.js)
 faucethub.win##script:inject(bab-defuser.js)
 faucetnews.xyz##script:inject(nano-setInterval-booster.js)
