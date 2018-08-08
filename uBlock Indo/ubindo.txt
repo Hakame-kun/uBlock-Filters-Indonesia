@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 05 Agustus 2018, 20:51:41 WIB
+! Last modified: 08 Agustus 2018, 19:33:33 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -473,6 +473,7 @@
 *$third-party,domain=adbilty.me
 *$third-party,domain=adbtc.top
 *$third-party,domain=adbull.cc
+*$third-party,domain=adcoin.me
 *$third-party,domain=adpop.me
 *$third-party,domain=adspuma.com
 *$third-party,domain=adstopay.biz
@@ -869,6 +870,7 @@
 @@g.doubleclick.net$domain=imasdk.googleapis.com
 @@gamehouse.com
 @@ganzoffen.de
+@@getlink.pw$first-party
 @@google.com$domain=criptius.com
 @@hit4hit.org$first-party
 @@hitlink.com$first-party
@@ -896,6 +898,7 @@
 @@popunder.net$popup
 @@popunder.net$elemhide
 @@privatelink.de$third-party
+@@probusinesshub.com$first-party
 @@ptcwall.com$domain=kickasstraffic.com
 @@qualityfilehosting.com$elemhide
 @@raincaptcha.com/base.js
