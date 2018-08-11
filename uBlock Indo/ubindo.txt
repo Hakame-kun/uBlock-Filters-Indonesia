@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 08 Agustus 2018, 19:33:33 WIB
+! Last modified: 11 Agustus 2018, 21:39:33 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -653,6 +653,7 @@
 *$popup,third-party,domain=olgkzlwln.net
 *$popup,third-party,domain=ouo.io
 *$popup,third-party,domain=payskip.me
+*$popup,third-party,domain=premiumfaucetnetwork.com
 *$popup,third-party,domain=royurls.bid
 *$popup,third-party,domain=short2win.com
 *$popup,third-party,domain=shrinkme.in
