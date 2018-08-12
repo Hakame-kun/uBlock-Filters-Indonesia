@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 11 Agustus 2018, 21:39:33 WIB
+! Last modified: 12 Agustus 2018, 22:05:25 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -605,6 +605,7 @@
 *$third-party,domain=short2win.com
 *$third-party,domain=shortedbind.com
 *$third-party,domain=shortlink.live
+*$third-party,domain=shortsman.com
 *$third-party,domain=shrinkme.in
 *$third-party,domain=siherp.com
 *$third-party,domain=siotong.com
@@ -855,6 +856,7 @@
 @@coinhive.com$domain=btc-miner.online
 @@cointiply.com$elemhide
 @@crypto-loot.com$first-party
+@@cryptocoinsad.com$first-party
 @@csi.gstatic.com$domain=cdn.applixir.com|imasdk.googleapis.com
 @@csstatic.com$domain=clixsense.com
 @@dc.services.visualstudio.com
