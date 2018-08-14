@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 12 Agustus 2018, 22:05:25 WIB
+! Last modified: 14 Agustus 2018, 19:42:42 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -470,6 +470,7 @@
 *$third-party,domain=1ink.info
 *$third-party,domain=247autohits.com
 *$third-party,domain=247cryptonews.com
+*$third-party,domain=2shorten.com
 *$third-party,domain=adbilty.me
 *$third-party,domain=adbtc.top
 *$third-party,domain=adbull.cc
@@ -955,6 +956,7 @@ payskip.me#@#script:inject(nano-setInterval-booster.js)
 short2win.com#@#script:inject(nano-setInterval-booster.js)
 wi.cr#@#script:inject(nano-setInterval-booster.js)
 ! Unblock Elements --------------------
+2shorten.com#@#.banner-728x90
 cointiply.com#@#.ad-panel
 cointiply.com#@#.adsbox
 earn-url.com#@#.banner-468x60
