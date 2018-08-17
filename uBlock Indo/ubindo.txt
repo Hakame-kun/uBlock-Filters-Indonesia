@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 14 Agustus 2018, 19:42:42 WIB
+! Last modified: 17 Agustus 2018, 08:29:36 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -514,6 +514,16 @@
 *$third-party,domain=chopcoin.io
 *$third-party,domain=claimbit.top
 *$third-party,domain=claimcoin24.com
+*$third-party,domain=claimethfree.win
+*$third-party,domain=claimfreebch.win
+*$third-party,domain=claimfreeblk.win
+*$third-party,domain=claimfreebtx.win
+*$third-party,domain=claimfreedash.win
+*$third-party,domain=claimfreedoge.win
+*$third-party,domain=claimfreeltc.win
+*$third-party,domain=claimfreepot.win
+*$third-party,domain=claimfreeppc.win
+*$third-party,domain=claimfreexpm.win
 *$third-party,domain=claimulike.win
 *$third-party,domain=clik.pw
 *$third-party,domain=clixco.in
@@ -1021,8 +1031,16 @@ claimbit.top##script:inject(bab-defuser.js)
 claimbits.io##script:inject(bab-defuser.js)
 claimbtc.in##script:inject(bab-defuser.js)
 claimethfree.win##script:inject(bab-defuser.js)
+claimfreebch.win##script:inject(bab-defuser.js)
+claimfreeblk.win##script:inject(bab-defuser.js)
 claimfreebtc.win##script:inject(bab-defuser.js)
+claimfreebtx.win##script:inject(bab-defuser.js)
+claimfreedash.win##script:inject(bab-defuser.js)
 claimfreedoge.win##script:inject(bab-defuser.js)
+claimfreeltc.win##script:inject(bab-defuser.js)
+claimfreepot.win##script:inject(bab-defuser.js)
+claimfreeppc.win##script:inject(bab-defuser.js)
+claimfreexpm.win##script:inject(bab-defuser.js)
 claimulike.win##center:nth-of-type(2) > center > center
 claimulike.win##script:inject(bab-defuser.js)
 claimltc.win##script:inject(bab-defuser.js)
