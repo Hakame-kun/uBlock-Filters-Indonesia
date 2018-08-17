@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 17 Agustus 2018, 08:29:36 WIB
+! Last modified: 17 Agustus 2018, 13:30:51 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -464,7 +464,8 @@
 ||zukxd6fkxqn.com$third-party
 
 ! ========== * List ==========
-||*$third-party,domain=adbtc.top
+*$third-party,domain=adbtc.top
+*$third-party,domain=100doge.win
 *$third-party,domain=123short.com
 *$third-party,domain=1ink.cc
 *$third-party,domain=1ink.info
@@ -508,6 +509,7 @@
 *$third-party,domain=blackoshy.cf
 *$third-party,domain=btc.ms
 *$third-party,domain=btc-treats.pw
+*$third-party,domain=btcfaucet.design
 *$third-party,domain=btcleets.xyz
 *$third-party,domain=btcvic.com
 *$third-party,domain=cash4url.com
@@ -559,6 +561,7 @@
 *$third-party,domain=faucet.kiwi
 *$third-party,domain=faucetfly.com
 *$third-party,domain=faucethero.com
+*$third-party,domain=faucetor.xyz
 *$third-party,domain=faucetwhite.com
 *$third-party,domain=financesurf.net
 *$third-party,domain=forumcoin.win
@@ -647,6 +650,7 @@
 *$popup,third-party,domain=bit-url.com
 *$popup,third-party,domain=bitcoadz.pw
 *$popup,third-party,domain=bitcolife.ru
+*$popup,third-party,domain=btcfaucet.design
 *$popup,third-party,domain=btcleets.xyz
 *$popup,third-party,domain=claimcoin24.com
 *$popup,third-party,domain=claimulike.win
@@ -874,6 +878,7 @@
 @@dircont3.com/nvp.js
 @@easyhits4u.com$first-party
 @@faucet4claim.com$elemhide
+@@faucetfly.com$elemhide
 @@febbit.com$elemhide
 @@fontawesome.com$domain=kickasstraffic.com
 @@fonts.gstatic.com
@@ -1094,8 +1099,6 @@ ethereum-faucet.org##script:inject(bab-defuser.js)
 expressfaucet.com##script:inject(bab-defuser.js)
 faucet.kiwi##script:inject(bab-defuser.js)
 faucet4claim.com##script:inject(bab-defuser.js)
-faucetfly.com##body > div:nth-of-type(1)
-faucetfly.com##body > div:nth-of-type(2)
 faucethero.com##script:inject(bab-defuser.js)
 faucethub.win##script:inject(bab-defuser.js)
 faucetnews.xyz##script:inject(nano-setInterval-booster.js)
