@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 17 Agustus 2018, 13:30:51 WIB
+! Last modified: 18 Agustus 2018, 23:04:30 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -531,7 +531,7 @@
 *$third-party,domain=clixco.in
 *$third-party,domain=clixsatoshi.com
 *$third-party,domain=clixurl.com
-*$third-party,domain=clk.press
+*$third-party,domain=clk.press|cll.press
 *$third-party,domain=clk.sh
 *$third-party,domain=coeg.in
 *$third-party,domain=coinmads.com
@@ -654,7 +654,7 @@
 *$popup,third-party,domain=btcleets.xyz
 *$popup,third-party,domain=claimcoin24.com
 *$popup,third-party,domain=claimulike.win
-*$popup,third-party,domain=clk.press
+*$popup,third-party,domain=clk.press|cll.press
 *$popup,third-party,domain=clik.pw
 *$popup,third-party,domain=cointalk.club
 *$popup,third-party,domain=cryptoadz.win
@@ -1051,6 +1051,7 @@ claimulike.win##script:inject(bab-defuser.js)
 claimltc.win##script:inject(bab-defuser.js)
 click2shorten.com##script:inject(bab-defuser.js)
 clickers.info##script:inject(bab-defuser.js)
+cll.press##script:inject(bab-defuser.js)
 coin.mg##div.row:nth-of-type(4)
 coin4you.win##script:inject(bab-defuser.js)
 coinclaimers.com##script:inject(bab-defuser.js)
@@ -1311,6 +1312,7 @@ zonawibu.me##.infopost
 ###eae2
 ###g207
 ###h237
+###ia6b
 ###idblog-adb-enabled
 ###idmuvi-adb-enabled
 ###mineralt-answer
@@ -1327,7 +1329,7 @@ zonawibu.me##.infopost
 ###z2c7
 ! -------------------------------------
 123short.com,clk.press,getlink.pw###headlineatas
-aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,faucet.kiwi,faucethero.com,furturebitearnmore.xyz,mazenbtc.com###middle-adspace
+aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,cointalk.club,faucet.kiwi,faucethero.com,furturebitearnmore.xyz,mazenbtc.com###middle-adspace
 altervista.org###ad
 altervista.org###ad_overlay
 androidrepublic.org###siropuChat
@@ -1338,8 +1340,8 @@ bitcoincore.us###header
 bitcoininformation.website###page
 bitcoininformation.website###site-footer
 bitcoininformation.website###site-header
-bitcoinclub.pw,bitcolife.ru,claimbit.top,dinoving.com,faucet.kiwi,faucethero.com,greenfaucet.win,mazenbtc.com###captcha-adspace
-bitcolife.ru###top-ads
+bitcoinclub.pw,bitcolife.ru,claimbit.top,cointalk.club,dinoving.com,faucet.kiwi,faucethero.com,greenfaucet.win,mazenbtc.com###captcha-adspace
+bitcolife.ru,cointalk.club###top-ads
 bitformations.website###page
 bitformations.website###site-footer
 bitformations.website###site-header
@@ -1347,6 +1349,8 @@ btcleets.xyz###link-view > center:nth-of-type(1)
 btcleets.xyz###mainNav
 coin.mg###link-view > div:nth-of-type(2)
 coin.mg###link-view > div:nth-of-type(4)
+cointalk.club###left-adspace
+cointalk.club###right-adspace
 dataid.us###loading
 dewafile.com###download
 easyhits4u.com###countDown
