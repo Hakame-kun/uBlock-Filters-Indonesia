@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 19 Agustus 2018, 09:24:51 WIB
+! Last modified: 19 Agustus 2018, 15:06:15 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -551,6 +551,7 @@
 *$third-party,domain=dogecoinfloodgate.ml
 *$third-party,domain=dogecoins.top
 *$third-party,domain=dogy.cf
+*$third-party,domain=dungmak.com
 *$third-party,domain=dwindly.io
 *$third-party,domain=earnbitcoinsnow.net
 *$third-party,domain=easyhits4u.com
@@ -585,6 +586,7 @@
 *$third-party,domain=keplakneh.com
 *$third-party,domain=kickasstraffic.com
 *$third-party,domain=kuturl.com
+*$third-party,domain=link-zero.com
 *$third-party,domain=link4win.com
 *$third-party,domain=linkrex.net
 *$third-party,domain=linktor.io
@@ -604,6 +606,7 @@
 *$third-party,domain=ourl.io
 *$third-party,domain=ownbitcoins.net
 *$third-party,domain=payskip.me
+*$third-party,domain=petty.link
 *$third-party,domain=potoshy.cf
 *$third-party,domain=premiumfaucetnetwork.com
 *$third-party,domain=probusinesshub.com
@@ -617,6 +620,7 @@
 *$third-party,domain=ryn.cc
 *$third-party,domain=sendit.cloud
 *$third-party,domain=short2win.com
+*$third-party,domain=short2win.net
 *$third-party,domain=shortedbind.com
 *$third-party,domain=shortlink.live
 *$third-party,domain=shortsman.com
@@ -672,6 +676,7 @@
 *$popup,third-party,domain=premiumfaucetnetwork.com
 *$popup,third-party,domain=royurls.bid
 *$popup,third-party,domain=short2win.com
+*$popup,third-party,domain=short2win.net
 *$popup,third-party,domain=shrinkme.in
 *$popup,third-party,domain=tmearn.pro
 *$popup,third-party,domain=warriorfaucet.com
@@ -1091,6 +1096,7 @@ dogecoins.top##script:inject(bab-defuser.js)
 dogecoins.top##script:inject(nano-setInterval-booster.js)
 dogy.cf##script:inject(bab-defuser.js)
 dogy.cf##script:inject(nano-setInterval-booster.js)
+dungmak.com##script:inject(bab-defuser.js)
 dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
 earn4cut.com##script:inject(nano-setInterval-booster.js)
