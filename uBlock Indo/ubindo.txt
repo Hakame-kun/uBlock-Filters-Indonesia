@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 19 Agustus 2018, 08:53:12 WIB
+! Last modified: 19 Agustus 2018, 09:24:51 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -800,7 +800,7 @@
 @@/adframe.$domain=aalyafaucet.com|adf.ly|bitcofarm.com|browseandlearn.com|claimfreebtc.win|climbtoread.com|qualityfilehosting.com|readingpapers.com|searchwithout.com|todaypostings.com|topreadarticles.com|upliftingvotes.com|upvotedentries.com|votesofthecentury.com
 @@/ads.js$domain=btcmines.club|hentaigasm.com
 @@/ads.min.js$domain=dashfaucet.net
-@@/advertisement$domain=alekscoin.com|faucetfly.com|solidfiles.com
+@@/advertisement$domain=alekscoin.com|bitcoinmoney.info|cryptoprofits.in.ua|faucetfly.com|hubcoins.xyz|solidfiles.com
 @@/advertising.$domain=gamepix.com
 @@/basement/js
 @@/coingecko.js$domain=coingecko.com
