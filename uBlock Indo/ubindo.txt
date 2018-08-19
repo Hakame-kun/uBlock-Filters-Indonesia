@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 18 Agustus 2018, 23:04:30 WIB
+! Last modified: 19 Agustus 2018, 08:53:12 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
