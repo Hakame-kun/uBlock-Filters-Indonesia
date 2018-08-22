@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 19 Agustus 2018, 15:06:15 WIB
+! Last modified: 22 Agustus 2018, 10:44:44 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -646,7 +646,9 @@
 *$third-party,domain=ulne.be
 *$third-party,domain=vikingbtc.xyz
 *$third-party,domain=vincryptocoins.com
+*$third-party,domain=vivads.net
 *$third-party,domain=want2crypto.com
+*$third-party,domain=weheartbitcoin.com
 *$third-party,domain=zetabitco.com
 *$popup,third-party,domain=adpop.me
 *$popup,third-party,domain=allbitcoinsites.com
@@ -933,6 +935,7 @@
 @@sendit.download
 @@sharethis.com
 @@shorte.st$first-party
+@@stackpathcdn.com$domain=shortlink.live
 @@superrewards-offers.com$domain=hit4hit.org
 @@systweak.com$first-party
 @@tasks.figure-eight.work/channels/neodev
@@ -941,6 +944,7 @@
 @@traffboost.net$first-party
 @@unpkg.com$domain=easyhits4u.com|ptcwall.com
 @@vjs.zencdn.net$domain=sendit.cloud
+@@weheartbitcoin.com$elemhide
 @@wicr.in$elemhide
 @@youtube.com$domain=bitverts.io
 @@zetabitco.com$elemhide
@@ -1204,6 +1208,7 @@ vivocoin.com##script:inject(bab-defuser.js)
 want2crypto.com##script:inject(bab-defuser.js)
 warriorfaucet.com##script:inject(bab-defuser.js)
 weebly.com##script:inject(bab-defuser.js)
+weheartbitcoin.com##script:inject(bab-defuser.js)
 wicr.in##script:inject(nano-setInterval-booster.js)
 wikitrade.me##p:nth-of-type(n)
 wikitrade.me##script:inject(nano-setInterval-booster.js)
@@ -1250,6 +1255,7 @@ anisubindo.org##.ArevicoModal-bg
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.c-message > div:nth-of-type(1)
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.disclaimer
 awcar.icu##.mh-clearfix.mh-wrapper
+awsubs.co##.fb-comments
 awsubs.co##.fb_iframe_widget.fb-like
 awsubs.co##.minipusat
 awsubs.co##.pusat728
