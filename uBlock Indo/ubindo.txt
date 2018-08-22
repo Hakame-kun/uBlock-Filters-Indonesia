@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 22 Agustus 2018, 10:44:44 WIB
+! Last modified: 22 Agustus 2018, 15:24:10 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -491,6 +491,7 @@
 *$third-party,domain=basichits4u.com
 *$third-party,domain=bcoin4you.com
 *$third-party,domain=beat-doge.tk
+*$third-party,domain=best5link.com
 *$third-party,domain=bestbitcoinfaucets.net
 *$third-party,domain=bestfreebitcoin.club
 *$third-party,domain=bit-url.com
@@ -644,6 +645,7 @@
 *$third-party,domain=u2s.io
 *$third-party,domain=uii.io
 *$third-party,domain=ulne.be
+*$third-party,domain=urle.co
 *$third-party,domain=vikingbtc.xyz
 *$third-party,domain=vincryptocoins.com
 *$third-party,domain=vivads.net
@@ -681,6 +683,7 @@
 *$popup,third-party,domain=short2win.net
 *$popup,third-party,domain=shrinkme.in
 *$popup,third-party,domain=tmearn.pro
+*$popup,third-party,domain=urle.co
 *$popup,third-party,domain=warriorfaucet.com
 *$popup,third-party,domain=wicr.me
 *$popup,third-party,domain=zetabitco.com
