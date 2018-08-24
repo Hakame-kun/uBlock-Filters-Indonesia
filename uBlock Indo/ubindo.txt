@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 22 Agustus 2018, 15:24:10 WIB
+! Last modified: 24 Agustus 2018, 20:28:30 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -486,6 +486,7 @@
 *$third-party,domain=anjay.info
 *$third-party,domain=as2link.com
 *$third-party,domain=autobits.tk
+*$third-party,domain=autoclaimbtc.ga|autoclaimfaucet.ga
 *$third-party,domain=automoneysurf.com
 *$third-party,domain=babesdoge.win
 *$third-party,domain=basichits4u.com
@@ -563,6 +564,7 @@
 *$third-party,domain=faucet.kiwi
 *$third-party,domain=faucetfly.com
 *$third-party,domain=faucethero.com
+*$third-party,domain=faucethub.io
 *$third-party,domain=faucetor.xyz
 *$third-party,domain=faucetwhite.com
 *$third-party,domain=financesurf.net
@@ -608,6 +610,7 @@
 *$third-party,domain=ownbitcoins.net
 *$third-party,domain=payskip.me
 *$third-party,domain=petty.link
+*$third-party,domain=play4coin.us
 *$third-party,domain=potoshy.cf
 *$third-party,domain=premiumfaucetnetwork.com
 *$third-party,domain=probusinesshub.com
@@ -636,6 +639,7 @@
 *$third-party,domain=telondasmu.com
 *$third-party,domain=tetew.info
 *$third-party,domain=theinsurance.pw
+*$third-party,domain=time4earn.com
 *$third-party,domain=tokenfly.pw
 *$third-party,domain=topbtc.club
 *$third-party,domain=topurl.net
@@ -677,11 +681,13 @@
 *$popup,third-party,domain=olgkzlwln.net
 *$popup,third-party,domain=ouo.io
 *$popup,third-party,domain=payskip.me
+*$popup,third-party,domain=play4coin.us
 *$popup,third-party,domain=premiumfaucetnetwork.com
 *$popup,third-party,domain=royurls.bid
 *$popup,third-party,domain=short2win.com
 *$popup,third-party,domain=short2win.net
 *$popup,third-party,domain=shrinkme.in
+*$popup,third-party,domain=time4earn.com
 *$popup,third-party,domain=tmearn.pro
 *$popup,third-party,domain=urle.co
 *$popup,third-party,domain=warriorfaucet.com
@@ -1012,6 +1018,7 @@ allcoins.pw##script:inject(bab-defuser.js)
 anisubindo.org##script:inject(abort-current-inline-script.js, addEventListener)
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com,tetew.info##h2
 autoclaim.win##script:inject(bab-defuser.js)
+autoclaimbtc.ga,autoclaimfaucet.ga##script:inject(bab-defuser.js)
 aw-games.net,short.awsubs.co##center:nth-of-type(2)
 aw-games.net,short.awsubs.co##h1
 awsubsco.ga##script:inject(abort-on-property-read.js)
@@ -1175,6 +1182,7 @@ pentafaucet.com##script:inject(bab-defuser.js)
 platinmods.com##script:inject(bab-defuser.js)
 platinmods.download##script:inject(bab-defuser.js)
 platinmods.download##script:inject(nano-setInterval-booster.js)
+play4coin.us##script:inject(bab-defuser.js)
 potcoin-faucet.com##script:inject(bab-defuser.js)
 potcoinlotto.com##script:inject(bab-defuser.js)
 premiumfaucetnetwork.com##script:inject(bab-defuser.js)
@@ -1343,7 +1351,7 @@ zonawibu.me##.infopost
 ###y9cc
 ###z2c7
 ! -------------------------------------
-123short.com,clk.press,getlink.pw###headlineatas
+123short.com,clk.press,getlink.pw,tokenfly.pw###headlineatas
 aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,cointalk.club,faucet.kiwi,faucethero.com,furturebitearnmore.xyz,mazenbtc.com###middle-adspace
 altervista.org###ad
 altervista.org###ad_overlay
