@@ -506,6 +506,7 @@
 *$third-party,domain=bitcolife.ru
 *$third-party,domain=bitformations.website
 *$third-party,domain=bitkoins.online
+*$third-party,domain=bitstarplanet.eu
 *$third-party,domain=bitstlk.com
 *$third-party,domain=bitverts.io
 *$third-party,domain=blackoshy.cf
