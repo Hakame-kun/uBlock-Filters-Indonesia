@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 24 Agustus 2018, 15:37:59 WIB
+! Last modified: 26 Agustus 2018, 20:45:27 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -464,7 +464,6 @@
 ||zukxd6fkxqn.com$third-party
 
 ! ========== * List ==========
-*$third-party,domain=adbtc.top
 *$third-party,domain=100doge.win
 *$third-party,domain=123short.com
 *$third-party,domain=1ink.cc|1ink.info|1ink.live
@@ -487,6 +486,7 @@
 *$third-party,domain=as2link.com
 *$third-party,domain=autobits.tk
 *$third-party,domain=autoclaimbtc.ga|autoclaimfaucet.ga
+*$third-party,domain=autofh.000webhostapp.com|racers-b-king.000webhostapp.com
 *$third-party,domain=automoneysurf.com
 *$third-party,domain=babesdoge.win
 *$third-party,domain=basichits4u.com
@@ -546,6 +546,7 @@
 *$third-party,domain=cryptofarmer.com
 *$third-party,domain=cryptomininggame.com
 *$third-party,domain=cryptoprofits.in.ua
+*$third-party,domain=cryptoskipad.com
 *$third-party,domain=cut-earn.com
 *$third-party,domain=cutlink.xyz
 *$third-party,domain=cuon.io
@@ -691,6 +692,7 @@
 *$popup,third-party,domain=short2win.net
 *$popup,third-party,domain=shrinkme.in
 *$popup,third-party,domain=time4earn.com
+*$popup,third-party,domain=tokenfly.pw
 *$popup,third-party,domain=tmearn.pro
 *$popup,third-party,domain=urle.co
 *$popup,third-party,domain=warriorfaucet.com
