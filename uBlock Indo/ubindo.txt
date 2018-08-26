@@ -1,12 +1,12 @@
 ! Title: uBlock Indo
-! Last modified: 24 Agustus 2018, 20:28:30 WIB
+! Last modified: 24 Agustus 2018, 15:37:59 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
 
 ||*.*-adnow.com$script,third-party
 ||1ea1sley.com$third-party
-||1ink.cc$third-party
+||1ink.*/api/check.php?uid=*&short=$third-party
 ||1rotator.com$third-party
 ||2mindogecoin.com$third-party
 ||21moviemania.*/wp-content/uploads*gif
@@ -467,8 +467,7 @@
 *$third-party,domain=adbtc.top
 *$third-party,domain=100doge.win
 *$third-party,domain=123short.com
-*$third-party,domain=1ink.cc
-*$third-party,domain=1ink.info
+*$third-party,domain=1ink.cc|1ink.info|1ink.live
 *$third-party,domain=247autohits.com
 *$third-party,domain=247cryptonews.com
 *$third-party,domain=2shorten.com
@@ -483,6 +482,7 @@
 *$third-party,domain=adzcash.info
 *$third-party,domain=alekscoin.com
 *$third-party,domain=alinafaucet.win
+*$third-party,domain=altcoinfuture.000webhostapp.com
 *$third-party,domain=anjay.info
 *$third-party,domain=as2link.com
 *$third-party,domain=autobits.tk
@@ -512,6 +512,7 @@
 *$third-party,domain=blackoshy.cf
 *$third-party,domain=btc.ms
 *$third-party,domain=btc-treats.pw
+*$third-party,domain=btcbox.in
 *$third-party,domain=btcfaucet.design
 *$third-party,domain=btcleets.xyz
 *$third-party,domain=btcvic.com
@@ -643,6 +644,7 @@
 *$third-party,domain=time4earn.com
 *$third-party,domain=tokenfly.pw
 *$third-party,domain=topbtc.club
+*$third-party,domain=topfan.info
 *$third-party,domain=topurl.net
 *$third-party,domain=traffboost.net
 *$third-party,domain=trafficadbar.com
@@ -997,6 +999,7 @@ earn-url.com#@#.banner-468x60
 ptcwall.com#@#.ad-block
 faucethero.com#@##top-ads
 ! -------------------------------------
+000webhostapp.com##script:inject(bab-defuser.js)
 123link.pw##script:inject(nano-setInterval-booster.js)
 1ink.info##script:inject(nano-setInterval-booster.js)
 8raa.com##script:inject(bab-defuser.js)
@@ -1016,6 +1019,7 @@ alinafaucet.win##div.form-group:nth-of-type(6)
 alinafaucet.win##script:inject(bab-defuser.js)
 allbitcoinsites.com##script:inject(bab-defuser.js)
 allcoins.pw##script:inject(bab-defuser.js)
+altcoinfuture.000webhostapp.com##body > div
 anisubindo.org##script:inject(abort-current-inline-script.js, addEventListener)
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com,tetew.info##h2
 autoclaim.win##script:inject(bab-defuser.js)
