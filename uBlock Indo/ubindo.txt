@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 26 Agustus 2018, 20:45:27 WIB
+! Last modified: 07 September 2018, 22:09:12 WIB
 ! Expires: 4 days (update frequency)
 
 ! ========== URL List ==========
@@ -8,6 +8,7 @@
 ||1ea1sley.com$third-party
 ||1ink.*/api/check.php?uid=*&short=$third-party
 ||1rotator.com$third-party
+||2hanwriten.com$third-party
 ||2mindogecoin.com$third-party
 ||21moviemania.*/wp-content/uploads*gif
 ||35.184.188.211$popup,third-party
@@ -556,6 +557,7 @@
 *$third-party,domain=dogecoinfloodgate.ml
 *$third-party,domain=dogecoins.top
 *$third-party,domain=dogy.cf
+*$third-party,domain=dripcoin.net
 *$third-party,domain=dungmak.com
 *$third-party,domain=dwindly.io
 *$third-party,domain=earnbitcoinsnow.net
@@ -575,6 +577,7 @@
 *$third-party,domain=freebitcoincore.top
 *$third-party,domain=freek.in
 *$third-party,domain=furturebitearnmore.xyz
+*$third-party,domain=gainslink.com
 *$third-party,domain=geistlink.com
 *$third-party,domain=getlink.pw
 *$third-party,domain=geturl.pro
@@ -1117,6 +1120,7 @@ dogecoins.top##script:inject(bab-defuser.js)
 dogecoins.top##script:inject(nano-setInterval-booster.js)
 dogy.cf##script:inject(bab-defuser.js)
 dogy.cf##script:inject(nano-setInterval-booster.js)
+dripcoin.net##script:inject(bab-defuser.js)
 dungmak.com##script:inject(bab-defuser.js)
 dynamicssh.com##script:inject(abort-on-property-read.js)
 dynamicssh.com##script:inject(nano-setInterval-booster.js)
@@ -1333,6 +1337,7 @@ zonawibu.me##.infopost
 ###ab_notice1
 ###ab_notice2
 ###adblock_screen
+###adblockdetected
 ###ads-pop
 ###agegate_content
 ###b300
