@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 14 September 2018, 12:01:54 WIB
+! Last modified: 09 Oktober 2018, 18:51:43 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -391,6 +391,7 @@
 ||smartphoneslist.com$popup,third-party
 ||smitionsory.co
 ||sparechange.io$third-party
+||speedlinkdown.com$third-party
 ||srlmbvfmvl.com$third-party
 ||strucewe.info$third-party
 ||sukipli.com*gif$third-party,domain=lk21.web.id
@@ -404,6 +405,7 @@
 ||tcheats.com$inline-script,domain=tcheats.com
 ||texto.click$third-party
 ||tfw-current.s3.amazonaws.com
+||tharbadir.com$third-party
 ||threadsphere.bid/js/display.js
 ||tidaltv.com$third-party
 ||tinypic.com$third-party,domain=idfl.biz|idfl.info|idfl.me|idfl.my.id
@@ -545,6 +547,7 @@
 *$third-party,domain=coeg.in
 *$third-party,domain=coinmads.com
 *$third-party,domain=cointalk.club
+*$third-party,domain=coins4claim.com
 *$third-party,domain=criptius.com
 *$third-party,domain=cripto-miner.com
 *$third-party,domain=cryptoadz.win
@@ -552,16 +555,20 @@
 *$third-party,domain=cryptomininggame.com
 *$third-party,domain=cryptoprofits.in.ua
 *$third-party,domain=cryptoskipad.com
+*$third-party,domain=cryptoworld.gq
 *$third-party,domain=cut-earn.com
 *$third-party,domain=cutlink.xyz
 *$third-party,domain=cuon.io
 *$third-party,domain=dinoving.com
 *$third-party,domain=doge-coin.top
+*$third-party,domain=dogeclix.com
 *$third-party,domain=dogecoinfaucet.club
 *$third-party,domain=dogecoinfloodgate.ml
 *$third-party,domain=dogecoins.top
+*$third-party,domain=dogecoins.win
 *$third-party,domain=dogy.cf
 *$third-party,domain=dripcoin.net
+*$third-party,domain=dropjiffy.com
 *$third-party,domain=dungmak.com
 *$third-party,domain=dwindly.io
 *$third-party,domain=earnbitcoinsnow.net
@@ -578,7 +585,9 @@
 *$third-party,domain=faucetwhite.com
 *$third-party,domain=financesurf.net
 *$third-party,domain=forumcoin.win
+*$third-party,domain=free4claim.com
 *$third-party,domain=freebitcoincore.top
+*$third-party,domain=freedoge.bid
 *$third-party,domain=freek.in
 *$third-party,domain=furturebitearnmore.xyz
 *$third-party,domain=gainslink.com
@@ -601,6 +610,7 @@
 *$third-party,domain=kuturl.com
 *$third-party,domain=link-zero.com
 *$third-party,domain=link4win.com
+*$third-party,domain=linkrag.com
 *$third-party,domain=linkrex.net
 *$third-party,domain=linktor.io
 *$third-party,domain=mazenbtc.com
@@ -618,6 +628,7 @@
 *$third-party,domain=ourfaucet.ru
 *$third-party,domain=ourl.io
 *$third-party,domain=ownbitcoins.net
+*$third-party,domain=pay2url.com
 *$third-party,domain=payskip.me
 *$third-party,domain=petty.link
 *$third-party,domain=play4coin.us
@@ -632,6 +643,7 @@
 *$third-party,domain=rhea777.000webhostapp.com
 *$third-party,domain=rivayz.info
 *$third-party,domain=rocketfaucet.win
+*$third-party,domain=rojkmao.com
 *$third-party,domain=ryn.cc
 *$third-party,domain=sendit.cloud
 *$third-party,domain=short2win.com
@@ -665,6 +677,7 @@
 *$third-party,domain=vikingbtc.xyz
 *$third-party,domain=vincryptocoins.com
 *$third-party,domain=vivads.net
+*$third-party,domain=vivebtc.win
 *$third-party,domain=want2crypto.com
 *$third-party,domain=weheartbitcoin.com
 *$third-party,domain=zetabitco.com
@@ -683,6 +696,7 @@
 *$popup,third-party,domain=cointalk.club
 *$popup,third-party,domain=cryptoadz.win
 *$popup,third-party,domain=cryptomininggame.com
+*$popup,third-party,domain=cryptoworld.gq
 *$popup,third-party,domain=dinoving.com
 *$popup,third-party,domain=dwindly.io
 *$popup,third-party,domain=futureurl.info
@@ -705,6 +719,7 @@
 *$popup,third-party,domain=urle.co
 *$popup,third-party,domain=warriorfaucet.com
 *$popup,third-party,domain=wicr.me
+*$popup,third-party,domain=za.gl
 *$popup,third-party,domain=zetabitco.com
 
 ! ========== / List ==========
@@ -822,20 +837,24 @@
 .org/lube
 
 ! ========== Unblocked URL List ==========
+@@*$popup,third-party,domain=short.awsubs.co
 @@.php?adv=$domain=bitcofarm.com
 @@/AC_RunActiveContent
 @@/ad_top_bg2.png?
 @@/adimg$image
 @@/adframe.$domain=aalyafaucet.com|adf.ly|bitcofarm.com|browseandlearn.com|claimfreebtc.win|climbtoread.com|qualityfilehosting.com|readingpapers.com|searchwithout.com|todaypostings.com|topreadarticles.com|upliftingvotes.com|upvotedentries.com|votesofthecentury.com
-@@/ads.js$domain=btcmines.club|hentaigasm.com
+@@/ads.js$domain=btcmines.club|dogeclix.com|hentaigasm.com
 @@/ads.min.js$domain=dashfaucet.net
 @@/advertisement$domain=alekscoin.com|bitcoinmoney.info|cryptoprofits.in.ua|faucetfly.com|hubcoins.xyz|solidfiles.com
 @@/advertising.$domain=gamepix.com
+@@/aff_ad?$popup
+@@/bootstrap$domain=userscloud.com
+@@/click?pid=*&offer$popup
 @@/basement/js
 @@/coingecko.js$domain=coingecko.com
 @@/download^$xmlhttprequest,domain=speedtest.net
 @@/flow/frontend_assets/js/advertisement.js
-@@/fuckadblock.$important
+@@/fuckadblock.js$domain=claimcoins.cc
 @@/hello^$xmlhttprequest,domain=speedtest.net 
 @@/js/ads$domain=alexamaster.net
 @@/ping^$xmlhttprequest,domain=speedtest.net
@@ -845,10 +864,6 @@
 @@/upload^$xmlhttprequest,domain=speedtest.net
 @@/wp-content/themes/jannah/js
 ! ----------------------------------------
-@@/aff_ad?$popup
-@@/click?pid=*&offer$popup
-@@*$popup,third-party,domain=short.awsubs.co
-@@#.nz/ads//
 @@1ink.cc/api/pass.php
 @@1ink.cc/includes/ajax/jquery.js
 @@a-ads.com$first-party
@@ -966,9 +981,11 @@
 @@tinyupload.com/ct/js/ct_adsense.js
 @@traffboost.net$first-party
 @@unpkg.com$domain=easyhits4u.com|ptcwall.com
+@@userscloud.com/?op=login&method=
 @@vjs.zencdn.net$domain=sendit.cloud
 @@weheartbitcoin.com$elemhide
 @@wicr.in$elemhide
+@@www.w3schools.com*css
 @@youtube.com$domain=bitverts.io
 @@zetabitco.com$elemhide
 
@@ -1096,6 +1113,7 @@ coingratisan.com##script:inject(bab-defuser.js)
 coinmads.com##script:inject(bab-defuser.js)
 coinpot.win##script:inject(bab-defuser.js)
 coinrotation.com##script:inject(bab-defuser.js)
+coins4claim.com##script:inject(bab-defuser.js)
 coinsmondo.com##script:inject(bab-defuser.js)
 cointalk.club##script:inject(bab-defuser.js)
 crazysat.ru##script:inject(bab-defuser.js)
@@ -1108,6 +1126,7 @@ cryptofun.space##script:inject(bab-defuser.js)
 cryptoprofits.in.ua##script:inject(nano-setInterval-booster.js)
 cryptoskipad.com##script:inject(nano-setInterval-booster.js)
 cryptothrower.website##script:inject(nano-setInterval-booster.js)
+cryptoworld.gq##script:inject(bab-defuser.js)
 cryptsly.io##script:inject(bab-defuser.js)
 currentcrypto.net##script:inject(bab-defuser.js)
 darak.me##div.col-md-3.col-xs-6:nth-of-type(3)
@@ -1146,12 +1165,14 @@ faucetwhite.com##script:inject(bab-defuser.js)
 faucetwhite.com##script:inject(nano-setInterval-booster.js)
 filecloud.io##script:inject(abort-on-property-read.js, FuckAdBlock)
 forthtrade.com##script:inject(nano-setInterval-booster.js)
+free4claim.com##script:inject(bab-defuser.js)
 freebitcoin.win##script:inject(bab-defuser.js)
 freek.in##script:inject(bab-defuser.js)
 freesatoshisfh.us##script:inject(bab-defuser.js)
 furturebitearnmore.xyz##div.col-md-6:nth-of-type(3) > center
 furturebitearnmore.xyz##div.form-group:nth-of-type(2) > center
 furturebitearnmore.xyz##script:inject(bab-defuser.js)
+gameinfo.pw##script:inject(bab-defuser.js)
 getdoge.win##script:inject(nano-setInterval-booster.js)
 getdogecoin.website##script:inject(bab-defuser.js)
 getlink.pw##script:inject(bab-defuser.js)
@@ -1221,6 +1242,12 @@ shortit.pw##script:inject(nano-setInterval-booster.js)
 sitowebinfo.com##script:inject(bab-defuser.js)
 speedtest.net##script:inject(nano-setInterval-booster.js)
 speedup-faucet.com##script:inject(bab-defuser.js)
+speedup-faucet.com##td:nth-of-type(3) > center:nth-of-type(2)
+speedup-faucet.com##td:nth-of-type(5)
+speedup-faucet.com##tr:nth-of-type(3) > td > table
+speedup-faucet.com##tr:nth-of-type(4) > td > center
+speedup-faucet.com##tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(1) > td
+speedup-faucet.com##tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(2) > td
 starcoins.ws##script:inject(bab-defuser.js)
 startxchange.com##script:inject(nano-setInterval-booster.js)
 susutinv2.com##p:nth-of-type(n)
@@ -1372,7 +1399,7 @@ zonawibu.me##.infopost
 ###z2c7
 ! -------------------------------------
 123short.com,clk.press,getlink.pw,tokenfly.pw###headlineatas
-aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,cointalk.club,faucet.kiwi,faucethero.com,furturebitearnmore.xyz,mazenbtc.com###middle-adspace
+aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,cointalk.club,faucet.kiwi,faucethero.com,free4claim.com,furturebitearnmore.xyz,mazenbtc.com###middle-adspace
 altervista.org###ad
 altervista.org###ad_overlay
 androidrepublic.org###siropuChat
@@ -1383,7 +1410,7 @@ bitcoincore.us###header
 bitcoininformation.website###page
 bitcoininformation.website###site-footer
 bitcoininformation.website###site-header
-bitcoinclub.pw,bitcolife.ru,claimbit.top,cointalk.club,dinoving.com,faucet.kiwi,faucethero.com,greenfaucet.win,mazenbtc.com###captcha-adspace
+bitcoinclub.pw,bitcolife.ru,claimbit.top,coins4claim.com,cointalk.club,dinoving.com,faucet.kiwi,faucethero.com,free4claim.com,greenfaucet.win,mazenbtc.com###captcha-adspace
 bitcolife.ru,cointalk.club###top-ads
 bitformations.website###page
 bitformations.website###site-footer
@@ -1392,6 +1419,8 @@ btcleets.xyz###link-view > center:nth-of-type(1)
 btcleets.xyz###mainNav
 coin.mg###link-view > div:nth-of-type(2)
 coin.mg###link-view > div:nth-of-type(4)
+coins4claim.com,free4claim.com###mydiv
+coins4claim.com,free4claim.com###mydiv1
 cointalk.club###left-adspace
 cointalk.club###right-adspace
 dataid.us###loading
@@ -1407,5 +1436,6 @@ platinmods.com###siropuChat
 revolt.group###category_shoutbox
 ryn.cc###main > div:nth-of-type(1)
 ryn.cc###main > div:nth-of-type(2)
+speedup-faucet.com###mainbody > center:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
 tribunnews.com###articleright
 webtoons.com###footer
