@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 09 Oktober 2018, 18:51:43 WIB
+! Last modified: 16 Oktober 2018, 02:21:52 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -1403,6 +1403,7 @@ aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,coint
 altervista.org###ad
 altervista.org###ad_overlay
 androidrepublic.org###siropuChat
+awsubs.co###floatcenter
 bestbitcoinfaucets.net,links4cash.com,want2crypto.com###Floater-Left-3
 bestbitcoinfaucets.net,want2crypto.com###Floater-Middle-3
 bestbitcoinfaucets.net,links4cash.com,want2crypto.com###Floater-Right-3
