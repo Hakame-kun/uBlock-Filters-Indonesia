@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 16 Oktober 2018, 02:21:52 WIB
+! Last modified: 19 Oktober 2018, 20:35:42 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -391,6 +391,7 @@
 ||smartphoneslist.com$popup,third-party
 ||smitionsory.co
 ||sparechange.io$third-party
+||speedcar.club/wp-content/uploads*.jpg
 ||speedlinkdown.com$third-party
 ||srlmbvfmvl.com$third-party
 ||strucewe.info$third-party
@@ -785,6 +786,7 @@
 /LkdTwv6o7OAfOMlx2k764u22OX7TgeiSACLcB/s1600/Adblock.
 /LRfun88.jpg
 /log?format=
+/logo/*.$domain=nwanime.tv
 /lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
 /mining.js$domain=faucethub.io
 /misc.js$domain=ownbitcoins.net
@@ -1311,7 +1313,7 @@ alinafaucet.win##.form > center
 anisubindo.org##.ArevicoModal-bg
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.c-message > div:nth-of-type(1)
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.disclaimer
-awcar.icu##.mh-clearfix.mh-wrapper
+awcar.icu,speedcar.club##.mh-clearfix.mh-wrapper
 awsubs.co##.fb-comments
 awsubs.co##.fb_iframe_widget.fb-like
 awsubs.co##.minipusat
