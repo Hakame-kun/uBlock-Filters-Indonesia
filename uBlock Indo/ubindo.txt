@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 19 Oktober 2018, 20:35:42 WIB
+! Last modified: 28 Oktober 2018, 20:31:01 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -88,7 +88,7 @@
 ||botkano.info$third-party
 ||boudja.com$third-party
 ||bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
-||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|hdtvku.com|komiku.net|lebahmovie.com|nontonmovie251.com|otakufile.com|treasurebits.net
+||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|hdtvku.com|juragan-anime.net|komiku.net|lebahmovie.com|nontonmovie251.com|otakufile.com|treasurebits.net
 ||brainbux.com$third-party
 ||btcmedia.co$third-party
 ||btctrail.com$third-party
@@ -285,6 +285,7 @@
 ||lqrlhmdwy.com$third-party
 ||lyrical-nonsense.com$inline-script
 ||maxcdn.com$domain=alekscoin.com
+||mediaonspot.com$third-party
 ||minishing.com$popup,third-party
 ||minishing.com$third-party
 ||mirrorace.com/themes/ace/assets/img/Jk
@@ -600,6 +601,7 @@
 *$third-party,domain=hit4hit.org
 *$third-party,domain=hubcoins.xyz
 *$third-party,domain=infinitytrafficboost.com
+*$third-party,domain=iceimg.net|imgfile.net
 *$third-party,domain=ioanbtc.com
 *$third-party,domain=islyce.com
 *$third-party,domain=itiurl.co
@@ -684,6 +686,7 @@
 *$third-party,domain=zetabitco.com
 *$popup,third-party,domain=adpop.me
 *$popup,third-party,domain=allbitcoinsites.com
+*$popup,third-party,domain=anibatch.me
 *$popup,third-party,domain=bestpayingfaucets.com
 *$popup,third-party,domain=bit-url.com
 *$popup,third-party,domain=bitcoadz.pw
@@ -745,6 +748,7 @@
 /app/assets/js/app_$script
 /autoptimize$domain=oploverz.in
 /B380x80.
+/banner*$domain=neonime.com
 /blantersafelink.js
 /blockadblock$important,domain=thunderclix.com
 /bundles/front/images*gif$domain=cryptomininggame.com
@@ -862,6 +866,7 @@
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/showads.js$domain=heliohost.org
 @@/Sites/admin/Scripts/md5.min.js
+@@/themes$domain=fortstore.net|iceimg.net|imgfile.net
 @@/themes*js/adsbygoogle.js
 @@/upload^$xmlhttprequest,domain=speedtest.net
 @@/wp-content/themes/jannah/js
@@ -988,6 +993,7 @@
 @@weheartbitcoin.com$elemhide
 @@wicr.in$elemhide
 @@www.w3schools.com*css
+@@xydeyou.com$popup
 @@youtube.com$domain=bitverts.io
 @@zetabitco.com$elemhide
 
@@ -1028,6 +1034,8 @@ cointiply.com#@#.adsbox
 earn-url.com#@#.banner-468x60
 ptcwall.com#@#.ad-block
 faucethero.com#@##top-ads
+modapi.survivetheforest.net#@##cookie-accept
+modapi.survivetheforest.net#@##cookie-dialog
 ! -------------------------------------
 000webhostapp.com##script:inject(bab-defuser.js)
 123link.pw##script:inject(nano-setInterval-booster.js)
@@ -1313,7 +1321,7 @@ alinafaucet.win##.form > center
 anisubindo.org##.ArevicoModal-bg
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.c-message > div:nth-of-type(1)
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.disclaimer
-awcar.icu,speedcar.club##.mh-clearfix.mh-wrapper
+awcar.icu,speedcar.club,xydeyou.com##.mh-clearfix.mh-wrapper
 awsubs.co##.fb-comments
 awsubs.co##.fb_iframe_widget.fb-like
 awsubs.co##.minipusat
@@ -1442,3 +1450,4 @@ ryn.cc###main > div:nth-of-type(2)
 speedup-faucet.com###mainbody > center:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
 tribunnews.com###articleright
 webtoons.com###footer
+xydeyou.com###gc2f
