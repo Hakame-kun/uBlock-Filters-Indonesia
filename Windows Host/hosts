@@ -65,6 +65,13 @@
 104.16.112.22 oload.stream
 104.16.137.15 oload.tv
 # Adult Contents/Websites
+210.155.150.166 www.getchu.com
+210.155.150.166 getchu.com
+185.66.142.130 www.iceimg.net
+185.66.142.130 iceimg.net
+185.66.142.130 www.imgfile.net
+185.66.142.130 imgfile.net
+185.66.142.130 www.fortstore.net
 104.24.113.61 imgchili.net
 104.24.112.61 t14.imgchili.net
 185.53.178.9 img.yt
@@ -179,8 +186,8 @@
 192.124.249.158 nyaa.si
 192.124.249.155 sukebei.nyaa.si
 185.94.140.20 scoop.it
-202.6.246.29 www.dmm.co.jp
-203.209.152.60 dmm.co.jp
+157.112.85.173 www.dmm.co.jp
+202.6.246.32 dmm.co.jp
 151.101.32.193 i.imgur.com
 151.101.32.193 s.imgur.com
 151.101.56.193 imgur.com
@@ -193,7 +200,11 @@
 194.88.107.207 myhentai.tv
 104.18.55.46 www.mangago.me
 178.132.5.31 multporn.net
-66.114.49.139 www.dlsite.com
+52.192.120.153 dlsite.com
+115.127.250.114 media.dlsite.com
+52.198.168.62 ch.dlsite.com
+13.114.220.112 ssl.dlsite.com
+115.127.243.98 www.dlsite.com
 # Dropped domains by Some Internet Providers
 # It will bring the website with fast loading speed
 216.21.13.12 popads.net
