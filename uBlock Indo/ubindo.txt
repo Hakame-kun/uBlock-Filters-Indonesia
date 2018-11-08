@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 28 Oktober 2018, 20:31:01 WIB
+! Last modified: 8 November 2018, 23:32:59 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -54,6 +54,7 @@
 ||analitits.com$third-party
 ||ani-share.com/wp-content/uploads/
 ||androidrepublic.org/js/siropu/chat
+||anibatch.me*gif
 ||anime21.co/content/template/images/
 ||animeindo.net/wp-content/themes/animeindo/chat.php
 ||animeindo.net/wp-content/uploads/*.gif
@@ -321,6 +322,7 @@
 ||onesignal.com$third-party
 ||onhandrecipes.com$third-party
 ||orbisbux.com$third-party
+||orgalso.com$third-party
 ||oturl.com$subdocument
 ||p*.intab.xyz$popup,third-party
 ||pampopholf.com$third-party
@@ -386,6 +388,7 @@
 ||shortit.pw/out.php?w=$popup
 ||shrinklink.co$third-party,script
 ||sillyscrew.com$third-party
+||siterdm.com$third-party
 ||smartphonelist.com$popunder
 ||smartphonelist.com$popup,third-party
 ||smartphoneslist.com$popunder
@@ -720,6 +723,7 @@
 *$popup,third-party,domain=time4earn.com
 *$popup,third-party,domain=tokenfly.pw
 *$popup,third-party,domain=tmearn.pro
+*$popup,third-party,domain=urltrim.us
 *$popup,third-party,domain=urle.co
 *$popup,third-party,domain=warriorfaucet.com
 *$popup,third-party,domain=wicr.me
@@ -1070,6 +1074,7 @@ babesdoge.win##script:inject(nano-setInterval-booster.js)
 bcoin4you.com##script:inject(bab-defuser.js)
 beat-doge.tk##script:inject(bab-defuser.js)
 bestbitcoinfaucets.net##script:inject(bab-defuser.js)
+bestbitcoinfaucetslist.com##script:inject(bab-defuser.js)
 bestfreebitcoin.club##script:inject(bab-defuser.js)
 bestpayingfaucets.com##script:inject(bab-defuser.js)
 bitcofaucet.net##script:inject(bab-defuser.js)
@@ -1442,6 +1447,7 @@ hdtvku.com###mybannerpopup
 idfl.*###fancybox-overlay
 indoxxi.net###extand
 liz.zdonlot.in###close-banner
+mediafire.com###abnotify
 pekalongan-kommuniti.net###box-message
 platinmods.com###siropuChat
 revolt.group###category_shoutbox
