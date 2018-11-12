@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 8 November 2018, 23:32:59 WIB
+! Last modified: 12 November 2018, 18:49:54 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -80,6 +80,7 @@
 ||bitfun.co$third-party
 ||bitexchanger.su$third-party
 ||bithash.farm$third-party
+||bitpopunder.com$third-party
 ||bitrad.io$third-party
 ||bmst.pw$third-party
 ||bolaoke.club/wp-content/uploads*.jpg
@@ -270,7 +271,6 @@
 ||kswid.com$third-party,script
 ||kuturl.com$third-party
 ||kuotamurahku.com$third-party
-||kuyhaa.me$inline-script
 ||lazada.co.id$third-party,domain=anoboy.com
 ||ldtv.co/wp-content/uploads/*.gif
 ||limaten.info$popunder
@@ -796,6 +796,7 @@
 /log?format=
 /logo/*.$domain=nwanime.tv
 /lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
+/meongvpn.js$domain=kuyhaa.me
 /mining.js$domain=faucethub.io
 /misc.js$domain=ownbitcoins.net
 /mts_ad_sense/js
@@ -865,7 +866,7 @@
 @@/download^$xmlhttprequest,domain=speedtest.net
 @@/flow/frontend_assets/js/advertisement.js
 @@/fuckadblock.js$domain=claimcoins.cc
-@@/hello^$xmlhttprequest,domain=speedtest.net 
+@@/hello^$xmlhttprequest,domain=speedtest.net
 @@/js/ads$domain=alexamaster.net
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/showads.js$domain=heliohost.org
@@ -1035,7 +1036,7 @@ wi.cr#@#script:inject(nano-setInterval-booster.js)
 2shorten.com#@#.banner-728x90
 cointiply.com#@#.ad-panel
 cointiply.com#@#.adsbox
-earn-url.com#@#.banner-468x60
+earn-url.com,pay2url.co#@#.banner-468x60
 ptcwall.com#@#.ad-block
 faucethero.com#@##top-ads
 modapi.survivetheforest.net#@##cookie-accept
@@ -1363,6 +1364,7 @@ lk21.web.id##.row:nth-of-type(6)
 luckybits.io##.ads-row.row
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
 myanimelist.net##._unit
+neonime.com##.block-player
 onlinebee.in##.text-left
 pekalongan-kommuniti.net##.fb-btn-seocips
 solidfiles.com##.premium-promo.box
