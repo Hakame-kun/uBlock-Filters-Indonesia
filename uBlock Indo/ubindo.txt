@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 11 Desember 2018, 22:30:04 WIB
+! Last modified: 11 Desember 2018, 22:40:48 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -60,6 +60,7 @@
 ||animeindo.net/wp-content/uploads/*.gif
 ||animeindo.video/area.js
 ||anoboy.com/lompatin
+||app.pegel.pw/wp-content/uploads
 ||apps.drakor.id/images/yu/2.jpg
 ||arenabetting.cc$third-party
 ||arequiry.info$third-party
@@ -200,6 +201,7 @@
 ||gambar123.com$third-party,domain=46.166.167.16|semprot.com|semprotku.com
 ||ganool.city/iklan
 ||ganool.web.id/wp-content/uploads*gif
+||gdriveplayer.us/ads.
 ||genderfluidsupport.com
 ||generaed.info$third-party
 ||genieessp.com$third-party
@@ -250,8 +252,6 @@
 ||impressionsme.net$third-party
 ||inclk.com/itab/sa?cid=$popunder
 ||inclk.com/itab/sa?cid=$popup,third-party
-||idxxi.co/rtr/
-||idxxi.co/wp-content/plugins/uji-popup
 ||idxxi.co/wp-content/uploads/*gif
 ||inlink.site/wp-content/uploads/
 ||instant-smo.com$third-party
@@ -1449,7 +1449,6 @@ easyhits4u.com###countDown
 futureurl.info###Test
 hdtvku.com###mybannerpopup
 idfl.*###fancybox-overlay
-idxxi.co###extand
 liz.zdonlot.in###close-banner
 mediafire.com###abnotify
 pekalongan-kommuniti.net###box-message
