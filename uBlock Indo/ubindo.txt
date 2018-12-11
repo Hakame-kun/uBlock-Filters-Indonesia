@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 11 Desember 2018, 23:05:12 WIB
+! Last modified: 11 Desember 2018, 23:09:54 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -753,7 +753,6 @@
 /api-ads?callback=
 /app.min.css$domain=gimmemore.com
 /app/assets/js/app_$script
-/autoptimize$domain=oploverz.in
 /B380x80.
 /banner*$domain=neonime.com|neonime.net
 /blantersafelink.js
@@ -1201,6 +1200,7 @@ gr8.cc##script:inject(bab-defuser.js)
 greenfaucet.win##script:inject(bab-defuser.js)
 gwei.win##script:inject(bab-defuser.js)
 haxhits.com##script:inject(nano-setInterval-booster.js)
+hexafile.net##script:inject(nano-setInterval-booster.js)
 highpayingfaucet.com##script:inject(nano-setInterval-booster.js)
 highwaytoco.in##script:inject(bab-defuser.js)
 hikarinoakariost.info##script:inject(nano-setInterval-booster.js)
