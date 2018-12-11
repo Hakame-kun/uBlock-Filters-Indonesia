@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 11 Desember 2018, 22:40:48 WIB
+! Last modified: 11 Desember 2018, 22:47:45 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -20,6 +20,7 @@
 ! ------------------------------
 ||a.admp.io$third-party
 ||a.props.$third-party
+||aabmxezph.com$third-party
 ||aalyafaucet.com$third-party,domain=onlinebee.in
 ||acorporary.info$third-party
 ||acroscow.com$third-party
@@ -221,6 +222,7 @@
 ||gxqrjjcsyh.com$third-party
 ||gways.net$popup,third-party
 ||haxhits.com/assets/images/
+||hfubvezyoyqs.com$third-party
 ||hexasoft.com.my$third-party
 ||hh-btr.com$popunder
 ||hh-btr.com$popup,third-party
