@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 12 November 2018, 18:49:54 WIB
+! Last modified: 11 Desember 2018, 22:30:04 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -90,7 +90,7 @@
 ||botkano.info$third-party
 ||boudja.com$third-party
 ||bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
-||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|hdtvku.com|juragan-anime.net|komiku.net|lebahmovie.com|nontonmovie251.com|otakufile.com|treasurebits.net
+||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|hdtvku.com|idxxi.co|juragan-anime.net|komiku.net|lebahmovie.com|nontonmovie251.com|otakufile.com|treasurebits.net
 ||brainbux.com$third-party
 ||btcmedia.co$third-party
 ||btctrail.com$third-party
@@ -250,8 +250,9 @@
 ||impressionsme.net$third-party
 ||inclk.com/itab/sa?cid=$popunder
 ||inclk.com/itab/sa?cid=$popup,third-party
-||indoxxi.info/rtr/
-||indoxxi.ws/wp-content/plugins/uji-popup
+||idxxi.co/rtr/
+||idxxi.co/wp-content/plugins/uji-popup
+||idxxi.co/wp-content/uploads/*gif
 ||inlink.site/wp-content/uploads/
 ||instant-smo.com$third-party
 ||internetpositif.uzone.id
@@ -314,6 +315,7 @@
 ||nontonsub.com$third-party
 ||nontonsub.com/wp-content/uploads*gif
 ||notifa.info$third-party
+||nt1.co$third-party
 ||odnobi.ru$third-party
 ||offerenced.com$third-party
 ||ogondkskyahxa.ru$third-party
@@ -752,7 +754,7 @@
 /app/assets/js/app_$script
 /autoptimize$domain=oploverz.in
 /B380x80.
-/banner*$domain=neonime.com
+/banner*$domain=neonime.com|neonime.net
 /blantersafelink.js
 /blockadblock$important,domain=thunderclix.com
 /bundles/front/images*gif$domain=cryptomininggame.com
@@ -1205,7 +1207,7 @@ hikarinoakariost.info##script:inject(nano-setInterval-booster.js)
 hubcoins.xyz##script:inject(nano-setInterval-booster.js)
 icucu.icu##script:inject(bab-defuser.js)
 idsly.*##script:inject(nano-setInterval-booster.js)
-indoxxi.info##script:inject(nano-setInterval-booster.js)
+idxxi.co##script:inject(nano-setInterval-booster.js)
 ironime.org##script:inject(abort-current-inline-script.js, addEventListener)
 karimunbits.net##script:inject(bab-defuser.js)
 keplakneh.com##script:inject(nano-setInterval-booster.js)
@@ -1364,7 +1366,7 @@ lk21.web.id##.row:nth-of-type(6)
 luckybits.io##.ads-row.row
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
 myanimelist.net##._unit
-neonime.com##.block-player
+neonime.*##.block-player
 onlinebee.in##.text-left
 pekalongan-kommuniti.net##.fb-btn-seocips
 solidfiles.com##.premium-promo.box
@@ -1447,7 +1449,7 @@ easyhits4u.com###countDown
 futureurl.info###Test
 hdtvku.com###mybannerpopup
 idfl.*###fancybox-overlay
-indoxxi.net###extand
+idxxi.co###extand
 liz.zdonlot.in###close-banner
 mediafire.com###abnotify
 pekalongan-kommuniti.net###box-message
