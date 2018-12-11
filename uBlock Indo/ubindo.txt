@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 11 Desember 2018, 22:47:45 WIB
+! Last modified: 11 Desember 2018, 23:05:12 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -92,7 +92,7 @@
 ||botkano.info$third-party
 ||boudja.com$third-party
 ||bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
-||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|hdtvku.com|idxxi.co|juragan-anime.net|komiku.net|lebahmovie.com|nontonmovie251.com|otakufile.com|treasurebits.net
+||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|hdtvku.com|idxxi.co|juragan-anime.net|komiku.net|lebahmovie.com|neonime.net|nontonmovie251.com|otakufile.com|treasurebits.net
 ||brainbux.com$third-party
 ||btcmedia.co$third-party
 ||btctrail.com$third-party
@@ -178,7 +178,6 @@
 ||exdynsrv.com$third-party
 ||eyeota.net$third-party
 ||f0nxxmrm.me$third-party
-||facebook.com$popup,domain=bagilagi.com
 ||facebook.com$third-party,domain=gimmemore.com|quizdelivery.com|quizriddle.com|videoquizhero.com
 ||facebook.net$third-party,domain=gimmemore.com|quizdelivery.com|quizriddle.com|videoquizhero.com
 ||familybtc.com$third-party
@@ -906,7 +905,6 @@
 @@apis.google.com$domain=easyhits4u.com
 @@applixir.com$domain=applixir.com
 @@asr-games.net/newjs
-@@bagilagi.com$generichide
 @@banztegnology.club$generichide
 @@bitcoin2019.com$elemhide
 @@bitcoininformation.website/wp-content/plugins/soralink
@@ -1336,6 +1334,8 @@ awsubs.co##.fb-comments
 awsubs.co##.fb_iframe_widget.fb-like
 awsubs.co##.minipusat
 awsubs.co##.pusat728
+bagilagi.com##.adsora
+bagilagi.com##.gmr-single.gmr-box-content
 beat-doge.tk##.popUpBannerBox
 bestbitcoinfaucets.net##.modal-body > center
 bitcoincore.us##.ablinksgroup > center
@@ -1425,6 +1425,7 @@ altervista.org###ad
 altervista.org###ad_overlay
 androidrepublic.org###siropuChat
 awsubs.co###floatcenter
+bagilagi.com###secondary
 bestbitcoinfaucets.net,links4cash.com,want2crypto.com###Floater-Left-3
 bestbitcoinfaucets.net,want2crypto.com###Floater-Middle-3
 bestbitcoinfaucets.net,links4cash.com,want2crypto.com###Floater-Right-3
