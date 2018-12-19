@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 11 Desember 2018, 23:09:54 WIB
+! Last modified: 19 Desember 2018, 19:48:55 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -288,6 +288,7 @@
 ||lqrlhmdwy.com$third-party
 ||lyrical-nonsense.com$inline-script
 ||maxcdn.com$domain=alekscoin.com
+||mediafire.com/dynamic/track_adblock
 ||mediaonspot.com$third-party
 ||minishing.com$popup,third-party
 ||minishing.com$third-party
@@ -941,6 +942,7 @@
 @@fontawesome.com$domain=kickasstraffic.com
 @@fonts.gstatic.com
 @@fonts.googleapis.com
+@@fortstore.net$domain=imgfile.net
 @@freebtcn.win$elemhide
 @@freevpn.us$generichide
 @@fw.adsafeprotected.com$domain=imasdk.googleapis.com|tpc.googlesyndication.com
@@ -993,6 +995,7 @@
 @@thunderclix.com$elemhide
 @@tinyupload.com/ct/js/ct_adsense.js
 @@traffboost.net$first-party
+@@unlockapk.com/ads.js
 @@unpkg.com$domain=easyhits4u.com|ptcwall.com
 @@userscloud.com/?op=login&method=
 @@vjs.zencdn.net$domain=sendit.cloud
@@ -1220,8 +1223,9 @@ luckybitco.in##script:inject(bab-defuser.js)
 luckybits.io##script:inject(bab-defuser.js)
 luckybits.io##script:inject(nano-setInterval-booster.js)
 mazenbtc.com##script:inject(bab-defuser.js)
-meownime.com##script:inject(noeval.js)
+mediafire.com##.on.lightbox
 melovin.site##script:inject(bab-defuser.js)
+meownime.com##script:inject(noeval.js)
 mishangfaucets.com##script:inject(bab-defuser.js)
 mixfaucetsbrasil.com.br##script:inject(bab-defuser.js)
 mmbtcl.ink##script:inject(bab-defuser.js)
