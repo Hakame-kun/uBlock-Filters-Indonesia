@@ -857,8 +857,8 @@
 @@/ad_top_bg2.png?
 @@/adimg$image
 @@/adframe.$domain=aalyafaucet.com|adf.ly|bitcofarm.com|browseandlearn.com|claimfreebtc.win|climbtoread.com|qualityfilehosting.com|readingpapers.com|searchwithout.com|todaypostings.com|topreadarticles.com|upliftingvotes.com|upvotedentries.com|votesofthecentury.com
-@@/ads.js$domain=btcmines.club|dogeclix.com|hentaigasm.com
-@@/ads.min.js$domain=dashfaucet.net
+@@/ads.js$domain,important=btcmines.club|dogeclix.com|hentaigasm.com
+@@/ads.min.js,important$domain=dashfaucet.net
 @@/advertisement$domain=alekscoin.com|bitcoinmoney.info|cryptoprofits.in.ua|faucetfly.com|hubcoins.xyz|solidfiles.com
 @@/advertising.$domain=gamepix.com
 @@/aff_ad?$popup
@@ -995,7 +995,7 @@
 @@thunderclix.com$elemhide
 @@tinyupload.com/ct/js/ct_adsense.js
 @@traffboost.net$first-party
-@@unlockapk.com/ads.js
+@@unlockapk.com/ads.js$script,first-party,important
 @@unpkg.com$domain=easyhits4u.com|ptcwall.com
 @@userscloud.com/?op=login&method=
 @@vjs.zencdn.net$domain=sendit.cloud
