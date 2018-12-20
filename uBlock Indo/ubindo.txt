@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 19 Desember 2018, 19:48:55 WIB
+! Last modified: 20 Desember 2018, 21:28:08 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -92,7 +92,7 @@
 ||botkano.info$third-party
 ||boudja.com$third-party
 ||bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
-||bp.blogspot.com*gif$third-party,domain=123drakor.org|awsubs.co|cinemakv21.com|hdtvku.com|idxxi.co|juragan-anime.net|komiku.net|lebahmovie.com|neonime.net|nontonmovie251.com|otakufile.com|treasurebits.net
+||bp.blogspot.com*gif$third-party,domain=123drakor.org|acefile.co|awsubs.co|cinemakv21.com|hdtvku.com|idxxi.co|juragan-anime.net|komiku.net|lebahmovie.com|neonime.net|nontonmovie251.com|otakufile.com|treasurebits.net
 ||brainbux.com$third-party
 ||btcmedia.co$third-party
 ||btctrail.com$third-party
@@ -327,6 +327,7 @@
 ||onhandrecipes.com$third-party
 ||orbisbux.com$third-party
 ||orgalso.com$third-party
+||osg777id.com$popup
 ||oturl.com$subdocument
 ||p*.intab.xyz$popup,third-party
 ||pampopholf.com$third-party
@@ -1429,6 +1430,7 @@ altervista.org###ad
 altervista.org###ad_overlay
 androidrepublic.org###siropuChat
 awsubs.co###floatcenter
+awsubs.co###overplay
 bagilagi.com###secondary
 bestbitcoinfaucets.net,links4cash.com,want2crypto.com###Floater-Left-3
 bestbitcoinfaucets.net,want2crypto.com###Floater-Middle-3
