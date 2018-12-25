@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 Desember 2018, 21:39:29 WIB
+! Last modified: 25 Desember 2018, 18:52:37 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -853,7 +853,7 @@
 .org/lube
 
 ! ========== Unblocked URL List ==========
-@@*$popup,third-party,domain=short.awsubs.co
+@@*$popup,third-party,domain=short.awsubs.co|stt.awsubs.co
 @@.php?adv=$domain=bitcofarm.com
 @@/AC_RunActiveContent
 @@/ad_top_bg2.png?
@@ -936,6 +936,7 @@
 @@csstatic.com$domain=clixsense.com
 @@dc.services.visualstudio.com
 @@dircont3.com/nvp.js
+@@disingkat.in/js/advertisement.js$script,first-party
 @@easyhits4u.com$first-party
 @@faucet4claim.com$elemhide
 @@faucetfly.com$elemhide
