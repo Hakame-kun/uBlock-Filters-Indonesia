@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 27 Desember 2018, 21:50:55 WIB
+! Last modified: 28 Desember 2018, 00:40:45 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -1463,6 +1463,7 @@ easyhits4u.com###countDown
 futureurl.info###Test
 hdtvku.com###mybannerpopup
 idfl.*###fancybox-overlay
+idsly.org###m813
 liz.zdonlot.in###close-banner
 mediafire.com###abnotify
 pekalongan-kommuniti.net###box-message
