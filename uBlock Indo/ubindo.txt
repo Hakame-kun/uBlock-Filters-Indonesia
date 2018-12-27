@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 25 Desember 2018, 18:52:37 WIB
+! Last modified: 27 Desember 2018, 21:50:55 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -22,6 +22,7 @@
 ||a.props.$third-party
 ||aabmxezph.com$third-party
 ||aalyafaucet.com$third-party,domain=onlinebee.in
+||acefile.club/asset/rev
 ||acorporary.info$third-party
 ||acroscow.com$third-party
 ||activex.press$third-party
@@ -488,6 +489,7 @@
 *$third-party,domain=247autohits.com
 *$third-party,domain=247cryptonews.com
 *$third-party,domain=2shorten.com
+*$third-party,domain=acefile.co
 *$third-party,domain=adbilty.me
 *$third-party,domain=adbtc.top
 *$third-party,domain=adbull.cc
@@ -885,6 +887,7 @@
 @@1ink.cc/includes/ajax/jquery.js
 @@a-ads.com$first-party
 @@about:blank$domain=adbtc.top
+@@aceservice.club$domain=acefile.co
 @@ad4msan.com$generichide
 @@adf.ly/js/display.js
 @@adf.ly/*.php$popup
