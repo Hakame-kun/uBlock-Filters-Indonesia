@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 28 Desember 2018, 00:40:45 WIB
+! Last modified: 30 Desember 2018, 11:49:45 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -48,6 +48,7 @@
 ||advideo.ru$third-party
 ||agreemand.com$third-party
 ||alicdn.com/g/alilog/mlog/aplus_int.js$third-party
+||alinafaucet.win*banners
 ||allcoins.pw$third-party
 ||allsync.com/img/ad$third-party
 ||alphamrkt.com$third-party
@@ -83,6 +84,7 @@
 ||bitfun.co$third-party
 ||bitexchanger.su$third-party
 ||bithash.farm$third-party
+||bitpaste.info*banners
 ||bitpopunder.com$third-party
 ||bitrad.io$third-party
 ||bmst.pw$third-party
@@ -761,7 +763,7 @@
 /B380x80.
 /banner*$domain=neonime.com|neonime.net
 /blantersafelink.js
-/blockadblock$important,domain=thunderclix.com
+/blockadblock.js$important
 /bundles/front/images*gif$domain=cryptomininggame.com
 /button-timer.js
 /cdn-cgi/beacon/
@@ -995,6 +997,7 @@
 @@sharethis.com
 @@shorte.st$first-party
 @@stackpathcdn.com$domain=shortlink.live
+@@stackpath.bootstrapcdn.com/bootstrap
 @@superrewards-offers.com$domain=hit4hit.org
 @@systweak.com$first-party
 @@tasks.figure-eight.work/channels/neodev
@@ -1069,7 +1072,7 @@ alekscoin.com##script:inject(abort-on-property-read.js)
 alekscoin.com##script:inject(bab-defuser.js)
 alekscoin.com##script:inject(nano-setInterval-booster.js)
 alinafaucet.win##div.form-group:nth-of-type(6)
-alinafaucet.win##script:inject(bab-defuser.js)
+alinafaucet.win##+js(set-constant.js, adBlockDetected, noopFunc)
 allbitcoinsites.com##script:inject(bab-defuser.js)
 allcoins.pw##script:inject(bab-defuser.js)
 altcoinfuture.000webhostapp.com##body > div
@@ -1104,6 +1107,8 @@ bitcoinmoney.info##script:inject(nano-setInterval-booster.js)
 bitcolife.ru,itiad.com##ins.adsbygoogle
 bitdesire.it##script:inject(bab-defuser.js)
 bitformations.website##script:inject(nano-setInterval-booster.js)
+bitpaste.info##+js(set-constant.js, adBlockDetected, noopFunc)
+bitpaste.info##+js(bab-defuser.js)
 bittube.me##script:inject(nano-setInterval-booster.js)
 bitverts.io##script:inject(nano-setInterval-booster.js)
 bolaoke.club##script:inject(nano-setInterval-booster.js)
