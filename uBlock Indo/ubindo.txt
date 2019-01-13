@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 30 Desember 2018, 12:00:40 WIB
+! Last modified: 13 Januari 2019, 17:36:39 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -378,8 +378,6 @@
 ||rzbsvyigbwip.com$third-party
 ||safelinkconverter.com$third-party,script
 ||safelinku$third-party,script
-||safelinku.net/downlaod1.
-||safelinku.net/download.
 ||satanicfaucetlist.com$third-party,domain=faucethub.io
 ||satoshinet.com$third-party
 ||schillmania.com/projects$third-party
@@ -496,6 +494,7 @@
 *$third-party,domain=adbtc.top
 *$third-party,domain=adbull.cc
 *$third-party,domain=adcoin.me
+*$third-party,domain=adlinkfly.me
 *$third-party,domain=adpop.me
 *$third-party,domain=adspuma.com
 *$third-party,domain=adstopay.biz
@@ -637,6 +636,7 @@
 *$third-party,domain=mmbtcl.ink
 *$third-party,domain=multicoinfaucet.website
 *$third-party,domain=neobux.com
+*$third-party,domain=nowfor.net|probusinesshub.com
 *$third-party,domain=o-bitman.com
 *$third-party,domain=obix.space
 *$third-party,domain=oturl.com
@@ -650,7 +650,6 @@
 *$third-party,domain=play4coin.us
 *$third-party,domain=potoshy.cf
 *$third-party,domain=premiumfaucetnetwork.com
-*$third-party,domain=probusinesshub.com
 *$third-party,domain=ptc.cointiply.com
 *$third-party,domain=ptcwall.com
 *$third-party,domain=queenfaucet.website
@@ -666,6 +665,7 @@
 *$third-party,domain=short2win.net
 *$third-party,domain=shortedbind.com
 *$third-party,domain=shortlink.live
+*$third-party,domain=shortlink.win
 *$third-party,domain=shortsman.com
 *$third-party,domain=shrinkme.in
 *$third-party,domain=siherp.com
@@ -697,6 +697,7 @@
 *$third-party,domain=want2crypto.com
 *$third-party,domain=weheartbitcoin.com
 *$third-party,domain=zetabitco.com
+*$popunder,third-party,domain=coinpou.com
 *$popup,third-party,domain=adpop.me
 *$popup,third-party,domain=allbitcoinsites.com
 *$popup,third-party,domain=anibatch.me
@@ -773,6 +774,7 @@
 /contador.php?$domain=faucetwhite.com
 /csi_204
 /demo.js$domain=payskip.me
+/download.$domain=idsly.org|safelinku.net
 /error_204
 /fortunejack$domain=treasurebits.net
 /gen204
@@ -963,7 +965,9 @@
 @@hitlink.com$first-party
 @@igg-games.com
 @@ialphacoins.com$elemhide
+@@idsly.org$elemhide
 @@imasdk.googleapis.com$domain=cdn.applixir.com|link4win.com
+@@imgfile.net$domain=iceimg.net
 @@inboxdollars.com
 @@jsdelivr.net
 @@juragan-anime.net/wp-content/cache
@@ -976,6 +980,7 @@
 @@maxcdn.bootstrapcdn.com
 @@meongs.bid
 @@neobux.com$first-party
+@@nowfor.net,probusinesshub.com$first-party
 @@obix.space$elemhide
 @@onlinebee.in$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.solvemedia.com
 @@onlinebee.in$elemhide
@@ -985,7 +990,6 @@
 @@popunder.net$popup
 @@popunder.net$elemhide
 @@privatelink.de$third-party
-@@probusinesshub.com$first-party
 @@ptcwall.com$domain=kickasstraffic.com
 @@qualityfilehosting.com$elemhide
 @@raincaptcha.com/base.js
@@ -1065,6 +1069,7 @@ modapi.survivetheforest.net#@##cookie-dialog
 aalyafaucet.com##+js(bab-defuser.js)
 adbull.cc##+js(bab-defuser.js)
 adrianocoins.com##+js(bab-defuser.js)
+adspuma.com##a[href*="psoaghie.net"]
 adwerty.com##+js(bab-defuser.js)
 adwerty.com##+js(nano-setInterval-booster.js)
 agoodprofit.ru##+js(nano-setInterval-booster.js)
@@ -1150,11 +1155,12 @@ coins4claim.com##+js(bab-defuser.js)
 coinsmondo.com##+js(bab-defuser.js)
 cointalk.club##+js(bab-defuser.js)
 crazysat.ru##+js(bab-defuser.js)
+crypto-flash.com##+js(bab-defuser.js)
 cryptobro.xyz##+js(bab-defuser.js)
 cryptoclaimer.website##+js(bab-defuser.js)
 cryptofauset.cf##+js(bab-defuser.js)
-crypto-flash.com##+js(bab-defuser.js)
 cryptofights.com##+js(bab-defuser.js)
+cryptoforcemaster.website##+js(bab-defuser.js)
 cryptofun.space##+js(bab-defuser.js)
 cryptoprofits.in.ua##+js(nano-setInterval-booster.js)
 cryptoskipad.com##+js(nano-setInterval-booster.js)
@@ -1200,6 +1206,7 @@ filecloud.io##+js(abort-on-property-read.js, FuckAdBlock)
 forthtrade.com##+js(nano-setInterval-booster.js)
 free4claim.com##+js(bab-defuser.js)
 freebitcoin.win##+js(bab-defuser.js)
+freefaucet.eu##+js(abort-on-property-read.js, admiral)
 freek.in##+js(bab-defuser.js)
 freesatoshisfh.us##+js(bab-defuser.js)
 furturebitearnmore.xyz##div.col-md-6:nth-of-type(3) > center
@@ -1239,12 +1246,14 @@ mazenbtc.com##+js(bab-defuser.js)
 mediafire.com##.on.lightbox
 melovin.site##+js(bab-defuser.js)
 meownime.com##+js(noeval.js)
+midiavip.com##+js(bab-defuser.js)
 mishangfaucets.com##+js(bab-defuser.js)
 mixfaucetsbrasil.com.br##+js(bab-defuser.js)
 mmbtcl.ink##+js(bab-defuser.js)
 multicoinfaucet.website##+js(bab-defuser.js)
 multimining.website##+js(nano-setInterval-booster.js)
 nekopoi.*##+js(bab-defuser.js)
+nowfor.net##+js(bab-defuser.js)
 o-bitman.com##+js(bab-defuser.js)
 obix.space##+js(nano-setInterval-booster.js)
 oploverz.in##s
@@ -1473,6 +1482,7 @@ idfl.*###fancybox-overlay
 idsly.org###m813
 liz.zdonlot.in###close-banner
 mediafire.com###abnotify
+oploverz.in###btm_banner
 pekalongan-kommuniti.net###box-message
 platinmods.com###siropuChat
 revolt.group###category_shoutbox
