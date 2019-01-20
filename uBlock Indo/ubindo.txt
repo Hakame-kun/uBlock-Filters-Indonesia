@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 13 Januari 2019, 17:36:39 WIB
+! Last modified: 20 Januari 2019, 08:50:44 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -764,12 +764,10 @@
 /B380x80.
 /banner*$domain=neonime.com|neonime.net
 /blantersafelink.js
-/blockadblock.js$important
 /bundles/front/images*gif$domain=cryptomininggame.com
 /button-timer.js
 /cdn-cgi/beacon/
 /check.js
-/cookieconsent.min.$important
 /coinpayments.jpg$domain=alinafaucet.win|furturebitearnmore.xyz
 /contador.php?$domain=faucetwhite.com
 /csi_204
@@ -865,8 +863,8 @@
 @@/ad_top_bg2.png?
 @@/adimg$image
 @@/adframe.$domain=aalyafaucet.com|adf.ly|bitcofarm.com|browseandlearn.com|claimfreebtc.win|climbtoread.com|qualityfilehosting.com|readingpapers.com|searchwithout.com|todaypostings.com|topreadarticles.com|upliftingvotes.com|upvotedentries.com|votesofthecentury.com
-@@/ads.js$important,domain=btcmines.club|dogeclix.com|hentaigasm.com
-@@/ads.min.js$important,domain=dashfaucet.net
+@@/ads.js$domain=btcmines.club|dogeclix.com|hentaigasm.com
+@@/ads.min.js$domain=dashfaucet.net
 @@/advertisement$domain=alekscoin.com|bitcoinmoney.info|cryptoprofits.in.ua|douploads.com|faucetfly.com|file-up.org|hubcoins.xyz|solidfiles.com
 @@/advertising.$domain=gamepix.com
 @@/aff_ad?$popup
@@ -927,7 +925,8 @@
 @@cdn.datatables.net
 @@cdn.jsdelivr.net
 @@cdn.onesignal.com$domain=satoshihero.com
-@@cdnjs.cloudflare.com
+@@cdnjs.cloudflare.com/ajax/libs*css
+@@cdnjs.cloudflare.com/ajax/libs*blockadblock$domain=starcoins.ws
 @@claimcoin24.com$elemhide
 @@clearwebstats.com$first-party
 @@clicknupload.org$elemhide
@@ -942,6 +941,7 @@
 @@csi.gstatic.com$domain=cdn.applixir.com|imasdk.googleapis.com
 @@csstatic.com$domain=clixsense.com
 @@dc.services.visualstudio.com
+@@dc4in.com$elemhide
 @@dircont3.com/nvp.js
 @@disingkat.in/js/advertisement.js$script,first-party
 @@easyhits4u.com$first-party
@@ -1002,13 +1002,14 @@
 @@shorte.st$first-party
 @@stackpathcdn.com$domain=shortlink.live
 @@stackpath.bootstrapcdn.com/bootstrap
+@@starcoins.ws$elemhide
 @@superrewards-offers.com$domain=hit4hit.org
 @@systweak.com$first-party
 @@tasks.figure-eight.work/channels/neodev
 @@thunderclix.com$elemhide
 @@tinyupload.com/ct/js/ct_adsense.js
 @@traffboost.net$first-party
-@@unlockapk.com/ads.js$script,first-party,important
+@@unlockapk.com/ads.js
 @@unpkg.com$domain=easyhits4u.com|ptcwall.com
 @@userscloud.com/?op=login&method=
 @@vjs.zencdn.net$domain=sendit.cloud
@@ -1231,6 +1232,7 @@ hubcoins.xyz##+js(nano-setInterval-booster.js)
 icucu.icu##+js(bab-defuser.js)
 idsly.*##+js(nano-setInterval-booster.js)
 idxxi.co##+js(nano-setInterval-booster.js)
+infaucet.site##+js(bab-defuser.js)
 ironime.org##+js(abort-current-inline-script.js, addEventListener)
 karimunbits.net##+js(bab-defuser.js)
 keplakneh.com##+js(nano-setInterval-booster.js)
@@ -1258,7 +1260,6 @@ o-bitman.com##+js(bab-defuser.js)
 obix.space##+js(nano-setInterval-booster.js)
 oploverz.in##s
 oploverz.in##u
-oturl.com##+js(nano-setInterval-booster.js)
 ownbitcoins.net##+js(bab-defuser.js)
 payskip.me##+js(nano-setInterval-booster.js)
 pentafaucet.com##+js(bab-defuser.js)
@@ -1479,9 +1480,10 @@ easyhits4u.com###countDown
 futureurl.info###Test
 hdtvku.com###mybannerpopup
 idfl.*###fancybox-overlay
-idsly.org###m813
+idsly.net,idsly.org###m813
 liz.zdonlot.in###close-banner
 mediafire.com###abnotify
+opengapps.org###donatebox
 oploverz.in###btm_banner
 pekalongan-kommuniti.net###box-message
 platinmods.com###siropuChat
