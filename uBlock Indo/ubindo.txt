@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 21 Januari 2019, 17:48:02 WIB
+! Last modified: 21 Januari 2019, 20:43:30 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -247,7 +247,6 @@
 ||imageshack.host$third-party
 ||img.akubebas.com/images*gif
 ||img.topddl.net*gif$third-party
-||imgclick.net$generichide,important
 ||imgtaxi.com/altiframe
 ||imgtaxi.com/anex/alt.js
 ||imgtaxi.com/ea/fl.js
@@ -925,6 +924,7 @@
 @@cdn.jsdelivr.net
 @@cdn.onesignal.com$domain=satoshihero.com
 @@cdnjs.cloudflare.com/ajax/libs*css
+@@cdnjs.cloudflare.com/ajax/libs*js$domain=faucethub.io
 @@cdnjs.cloudflare.com/ajax/libs*blockadblock$domain=starcoins.ws
 @@claimcoin24.com$elemhide
 @@clearwebstats.com$first-party
@@ -964,6 +964,7 @@
 @@hitlink.com$first-party
 @@igg-games.com
 @@ialphacoins.com$elemhide
+@@idsly.net$elemhide
 @@idsly.org$elemhide
 @@imasdk.googleapis.com$domain=cdn.applixir.com|link4win.com
 @@imgfile.net$domain=iceimg.net
