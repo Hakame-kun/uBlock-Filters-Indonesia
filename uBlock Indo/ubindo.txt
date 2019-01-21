@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 Januari 2019, 08:50:44 WIB
+! Last modified: 21 Januari 2019, 17:48:02 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -109,7 +109,6 @@
 ||caughinga.info$third-party
 ||chainads.io$third-party
 ||changer.com$third-party
-||chatango.com$third-party
 ||chicgar.info$third-party
 ||cinemaindo.co/wp-content/uploads*gif
 ||cinemakv21.com/wp-content/uploads*gif
