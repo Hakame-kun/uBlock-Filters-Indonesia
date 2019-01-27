@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 27 Januari 2019, 07:37:20 WIB
+! Last modified: 27 Januari 2019, 21:38:54 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -672,6 +672,7 @@
 *$third-party,domain=shrinkme.in
 *$third-party,domain=siherp.com
 *$third-party,domain=siotong.com
+*$third-party,domain=skipurls.com
 *$third-party,domain=solo-link.com
 *$third-party,domain=startxchange.com
 *$third-party,domain=surfbtc.com
@@ -698,6 +699,7 @@
 *$third-party,domain=vivebtc.win
 *$third-party,domain=want2crypto.com
 *$third-party,domain=weheartbitcoin.com
+*$third-party,domain=wly.us
 *$third-party,domain=zetabitco.com
 *$popunder,third-party,domain=coinpou.com
 *$popup,third-party,domain=adpop.me
@@ -993,6 +995,7 @@
 @@onlinebee.in$elemhide
 @@pagead2.googlesyndication.com$domain=cdn.applixir.com|directlink.booogle.net|herokuapp.com|imasdk.googleapis.com|safelink.top|uclick.in
 @@pixel.adsafeprotected.com$domain=tpc.googlesyndication.com
+@@probusinesshub.com$first-party
 @@popunder.net$first-party
 @@popunder.net$popup
 @@popunder.net$elemhide
@@ -1148,6 +1151,7 @@ claimulike.win##+js(bab-defuser.js)
 claimltc.win##+js(bab-defuser.js)
 click2shorten.com##+js(bab-defuser.js)
 clickers.info##+js(bab-defuser.js)
+clik.pw##a[href^="http://mob1ledev1ces.com/r/"]
 cll.press##+js(bab-defuser.js)
 coin.mg##div.row:nth-of-type(4)
 coin4you.win##+js(bab-defuser.js)
@@ -1164,6 +1168,7 @@ coinsmondo.com##+js(bab-defuser.js)
 cointalk.club##+js(bab-defuser.js)
 crazysat.ru##+js(bab-defuser.js)
 crypto-flash.com##+js(bab-defuser.js)
+cryptobite.site##+js(bab-defuser.js)
 cryptobro.xyz##+js(bab-defuser.js)
 cryptoclaimer.website##+js(bab-defuser.js)
 cryptofauset.cf##+js(bab-defuser.js)
@@ -1322,6 +1327,7 @@ weheartbitcoin.com##+js(bab-defuser.js)
 wicr.in##+js(nano-setInterval-booster.js)
 wikitrade.me##p:nth-of-type(n)
 wikitrade.me##+js(nano-setInterval-booster.js)
+wolf-faucet.win##+js(bab-defuser.js)
 zandey.com##+js(bab-defuser.js)
 zetabitco.com##+js(bab-defuser.js)
 zippyanime.net##+js(nano-setInterval-booster.js)
