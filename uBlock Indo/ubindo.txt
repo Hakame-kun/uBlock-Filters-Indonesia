@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 21 Januari 2019, 20:43:30 WIB
+! Last modified: 27 Januari 2019, 07:37:20 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -432,9 +432,10 @@
 ||tuxzictbrqietq.com$third-party
 ||uadexchange.com$third-party
 ||ubloger.com/wp-content/uploads*gif
+||unxuwvntk.com$third-party
 ||usocial.pro$third-party,domain=maus-doge.top
 ||usstero.com$third-party
-||unxuwvntk.com$third-party
+||util.simply-hentai.com
 ||uzone.id$third-party
 ||vc-miner.com$third-party
 ||vdztr.bid$popunder
@@ -563,6 +564,7 @@
 *$third-party,domain=criptius.com
 *$third-party,domain=cripto-miner.com
 *$third-party,domain=cryptoadz.win
+*$third-party,domain=cryptobase.space
 *$third-party,domain=cryptofarmer.com
 *$third-party,domain=cryptomininggame.com
 *$third-party,domain=cryptoprofits.in.ua
@@ -648,6 +650,7 @@
 *$third-party,domain=play4coin.us
 *$third-party,domain=potoshy.cf
 *$third-party,domain=premiumfaucetnetwork.com
+*$third-party,domain=prourl.win
 *$third-party,domain=ptc.cointiply.com
 *$third-party,domain=ptcwall.com
 *$third-party,domain=queenfaucet.website
@@ -658,6 +661,7 @@
 *$third-party,domain=rocketfaucet.win
 *$third-party,domain=rojkmao.com
 *$third-party,domain=ryn.cc
+*$third-party,domain=sato-link.com
 *$third-party,domain=sendit.cloud
 *$third-party,domain=short2win.com
 *$third-party,domain=short2win.net
@@ -749,11 +753,12 @@
 /7811552/250x250.gif
 /7813650/paxful.gif
 /abd.interstitial.preroll$script,third-party
+/ad-overlay-anything
 /adaqq160x600.gif
 /addons/alexa$domain=rivayz.info
 /addons/banners/$domain=alinafaucet.win|bitcoinclub.pw|claimbit.top|claimulike.win|furturebitearnmore.xyz|mmbtcl.ink|multicoinfaucet.website|rivayz.info
 /adnetwork.js$script,third-party
-/ad-overlay-anything
+/ads$domain=vinaurl.in
 /analytics/track.png?q
 /api/inventory
 /api-ads?callback=
@@ -923,9 +928,11 @@
 @@cdn.datatables.net
 @@cdn.jsdelivr.net
 @@cdn.onesignal.com$domain=satoshihero.com
-@@cdnjs.cloudflare.com/ajax/libs*css
-@@cdnjs.cloudflare.com/ajax/libs*js$domain=faucethub.io
 @@cdnjs.cloudflare.com/ajax/libs*blockadblock$domain=starcoins.ws
+@@cdnjs.cloudflare.com/ajax/libs*css
+@@cdnjs.cloudflare.com/ajax/libs*js$domain=faucethub.io|randomsatoshi.win
+@@cdnjs.cloudflare.com/ajax/libs/sceditor
+@@cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
 @@claimcoin24.com$elemhide
 @@clearwebstats.com$first-party
 @@clicknupload.org$elemhide
@@ -1033,7 +1040,6 @@
 ##a[href*="bit.ly/2qlDa9j"]
 ##a[href*="bit.ly/ganoollinks"]
 ##a[href*="earth-111.com"]
-##a[href*="href.li"]
 ##a[href*="inclk.com"]
 ##a[href*="mellowads.com"]
 ##a[href*="z6naousb.com"]
@@ -1049,6 +1055,7 @@ earnbig.ca#@#+js(nano-setInterval-booster.js)
 link-zero.com#@#+js(nano-setInterval-booster.js)
 payskip.me#@#+js(nano-setInterval-booster.js)
 short2win.com#@#+js(nano-setInterval-booster.js)
+vinaurl.in#@#.adsbygoogle
 wi.cr#@#+js(nano-setInterval-booster.js)
 ! Unblock Elements --------------------
 2shorten.com#@#.banner-728x90
@@ -1237,6 +1244,7 @@ ironime.org##+js(abort-current-inline-script.js, addEventListener)
 karimunbits.net##+js(bab-defuser.js)
 keplakneh.com##+js(nano-setInterval-booster.js)
 lenov.ru##+js(nano-setInterval-booster.js)
+li-nkz.com##+js(bab-defuser.js)
 link4win.com##+js(nano-setInterval-booster.js)
 linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 linkk.bid##+js(nano-setInterval-booster.js)
