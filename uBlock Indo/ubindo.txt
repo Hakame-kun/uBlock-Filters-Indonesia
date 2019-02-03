@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 27 Januari 2019, 21:38:54 WIB
+! Last modified: 03 Februari 2019, 14:07:23 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -508,6 +508,7 @@
 *$third-party,domain=autoclaimbtc.ga|autoclaimfaucet.ga
 *$third-party,domain=autofh.000webhostapp.com|racers-b-king.000webhostapp.com
 *$third-party,domain=automoneysurf.com
+*$third-party,domain=autoo-car.com
 *$third-party,domain=babesdoge.win
 *$third-party,domain=basichits4u.com
 *$third-party,domain=bcoin4you.com
@@ -622,6 +623,7 @@
 *$third-party,domain=jupiter777.000webhostapp.com
 *$third-party,domain=keplakneh.com
 *$third-party,domain=kickasstraffic.com
+*$third-party,domain=kimotech3.com
 *$third-party,domain=kuturl.com
 *$third-party,domain=link-zero.com
 *$third-party,domain=link4win.com
@@ -678,6 +680,7 @@
 *$third-party,domain=surfbtc.com
 *$third-party,domain=susutinv2.com
 *$third-party,domain=tabluebox.ml
+*$third-party,domain=technologyone.news
 *$third-party,domain=telondasmu.com
 *$third-party,domain=tetew.info
 *$third-party,domain=theinsurance.pw
@@ -688,16 +691,19 @@
 *$third-party,domain=topurl.net
 *$third-party,domain=traffboost.net
 *$third-party,domain=trafficadbar.com
+*$third-party,domain=thehugemarket.com
 *$third-party,domain=thunderclix.com
 *$third-party,domain=u2s.io
 *$third-party,domain=uii.io
 *$third-party,domain=ulne.be
 *$third-party,domain=urle.co
+*$third-party,domain=urlsamo.com
 *$third-party,domain=vikingbtc.xyz
 *$third-party,domain=vincryptocoins.com
 *$third-party,domain=vivads.net
 *$third-party,domain=vivebtc.win
 *$third-party,domain=want2crypto.com
+*$third-party,domain=web4top.win
 *$third-party,domain=weheartbitcoin.com
 *$third-party,domain=wly.us
 *$third-party,domain=zetabitco.com
@@ -922,6 +928,7 @@
 @@bitcoininformation.website/wp-content/plugins/soralink
 @@bitcoinspinner.io/themes
 @@bitformations.website$elemhide
+@@blockadblock.com/js/colorpicker
 @@bolaoke.club$popup,domain=awsubs.co
 @@btcsafari.com$elemhide
 @@captchme.net
@@ -1128,6 +1135,7 @@ bitpaste.info##+js(set-constant.js, adBlockDetected, noopFunc)
 bitpaste.info##+js(bab-defuser.js)
 bittube.me##+js(nano-setInterval-booster.js)
 bitverts.io##+js(nano-setInterval-booster.js)
+blockadblock.com##+js(bab-defuser.js)
 bolaoke.club##+js(nano-setInterval-booster.js)
 btcfaucet.design##+js(bab-defuser.js)
 btcmines.club##+js(bab-defuser.js)
