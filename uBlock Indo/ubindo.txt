@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 03 Februari 2019, 14:07:23 WIB
+! Last modified: 05 Februari 2019, 09:58:56 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -1079,6 +1079,7 @@ modapi.survivetheforest.net#@##cookie-dialog
 ! -------------------------------------
 000webhostapp.com##+js(bab-defuser.js)
 123link.pw##+js(nano-setInterval-booster.js)
+1idsly.com##+js(nano-setInterval-booster.js)
 1ink.info##+js(nano-setInterval-booster.js)
 8raa.com##+js(bab-defuser.js)
 94lauin.com,elsfile.org##+js(abort-on-property-read.js, h237)
@@ -1250,6 +1251,7 @@ highwaytoco.in##+js(bab-defuser.js)
 hikarinoakariost.info##+js(nano-setInterval-booster.js)
 hubcoins.xyz##+js(nano-setInterval-booster.js)
 icucu.icu##+js(bab-defuser.js)
+idsht.me##+js(nano-setInterval-booster.js)
 idsly.*##+js(nano-setInterval-booster.js)
 idxxi.co##+js(nano-setInterval-booster.js)
 infaucet.site##+js(bab-defuser.js)
@@ -1303,6 +1305,7 @@ ryn.cc##+js(bab-defuser.js)
 safelinkreviewz.com##+js(nano-setInterval-booster.js)
 satoshikingdom.com##+js(bab-defuser.js)
 satoshilabs.net##+js(bab-defuser.js)
+sfile.mobi##+js(nano-setInterval-booster.js)
 shortit.pw##+js(bab-defuser.js)
 shortit.pw##+js(nano-setInterval-booster.js)
 sitowebinfo.com##+js(bab-defuser.js)
