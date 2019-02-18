@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 05 Februari 2019, 09:58:56 WIB
+! Last modified: 18 Februari 2019, 18:07:25 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -269,6 +269,7 @@
 ||jquery.com$third-party,domain=anitoki.com
 ||jwpcdn.com/player/v*vast.js$important
 ||kay-61.com$popup,third-party
+||kelris.pw$third-party
 ||klikfilm.stream/templates/jwplayer/assets/banner.
 ||knoacc.org$third-party
 ||ksloibpah.com$third-party
@@ -484,6 +485,7 @@
 ! ========== * List ==========
 *$third-party,domain=100doge.win
 *$third-party,domain=123short.com
+*$third-party,domain=1idsly.com
 *$third-party,domain=1ink.cc|1ink.info|1ink.live
 *$third-party,domain=247autohits.com
 *$third-party,domain=247cryptonews.com
@@ -646,6 +648,7 @@
 *$third-party,domain=ourfaucet.ru
 *$third-party,domain=ourl.io
 *$third-party,domain=ownbitcoins.net
+*$third-party,domain=pantsu.cat
 *$third-party,domain=pay2url.com
 *$third-party,domain=payskip.me
 *$third-party,domain=petty.link
@@ -834,11 +837,13 @@
 /safe.js$domain=ad4msan.com
 /safelink$script,third-party
 /safelink-indolinker
+/scr$domain=pantsu.cat
 /scripts/x.js?
 /siropu/am/core.
 /sl.js$domain=ad4msan.com
 /smart$domain=faucetwhite.com
 /sora$script,third-party
+/src$domain=pantsu.cat
 /static/101/site.js?
 /static/js/amvn.js
 /sugoi$script
@@ -937,6 +942,7 @@
 @@cdn.datatables.net
 @@cdn.jsdelivr.net
 @@cdn.onesignal.com$domain=satoshihero.com
+@@cdn.rawgit.com$domain=1idsly.com|idsly.net|safelinku.net
 @@cdnjs.cloudflare.com/ajax/libs*blockadblock$domain=starcoins.ws
 @@cdnjs.cloudflare.com/ajax/libs*css
 @@cdnjs.cloudflare.com/ajax/libs*js$domain=faucethub.io|randomsatoshi.win
@@ -1458,6 +1464,7 @@ zonawibu.me##.infopost
 ###ia6b
 ###idblog-adb-enabled
 ###idmuvi-adb-enabled
+###ignielAdBlock
 ###mineralt-answer
 ###MGV3
 ###popup
