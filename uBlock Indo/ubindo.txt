@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 18 Februari 2019, 18:07:25 WIB
+! Last modified: 20 Februari 2019, 18:45:31 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -767,7 +767,8 @@
 /ad-overlay-anything
 /adaqq160x600.gif
 /addons/alexa$domain=rivayz.info
-/addons/banners/$domain=alinafaucet.win|bitcoinclub.pw|claimbit.top|claimulike.win|furturebitearnmore.xyz|mmbtcl.ink|multicoinfaucet.website|rivayz.info
+/addons/banners$domain=alinafaucet.win|bitcoinclub.pw|claimbit.top|claimulike.win|furturebitearnmore.xyz|mmbtcl.ink|multicoinfaucet.website|rivayz.info
+/addons1/banners$domain=alinafaucet.win|bitcoinclub.pw|claimbit.top|claimulike.win|furturebitearnmore.xyz|mmbtcl.ink|multicoinfaucet.website|rivayz.info
 /adnetwork.js$script,third-party
 /ads$domain=vinaurl.in
 /analytics/track.png?q
@@ -943,12 +944,13 @@
 @@cdn.jsdelivr.net
 @@cdn.onesignal.com$domain=satoshihero.com
 @@cdn.rawgit.com$domain=1idsly.com|idsly.net|safelinku.net
-@@cdnjs.cloudflare.com/ajax/libs*blockadblock$domain=starcoins.ws
+@@cdnjs.cloudflare.com/ajax/libs*blockadblock
 @@cdnjs.cloudflare.com/ajax/libs*css
 @@cdnjs.cloudflare.com/ajax/libs*js$domain=faucethub.io|randomsatoshi.win
 @@cdnjs.cloudflare.com/ajax/libs/sceditor
 @@cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
 @@claimcoin24.com$elemhide
+@@claimulike.win$elemhide
 @@clearwebstats.com$first-party
 @@clicknupload.org$elemhide
 @@clixsense.com$first-party
@@ -982,6 +984,7 @@
 @@ganzoffen.de
 @@getlink.pw$first-party
 @@google.com$domain=criptius.com
+@@greenfaucet.win$elemhide
 @@hit4hit.org$first-party
 @@hitlink.com$first-party
 @@igg-games.com
@@ -1015,6 +1018,7 @@
 @@privatelink.de$third-party
 @@ptcwall.com$domain=kickasstraffic.com
 @@qualityfilehosting.com$elemhide
+@@queenfaucet.website$elemhide
 @@raincaptcha.com/base.js
 @@raincaptcha.com*frame
 @@s.ytimg.com$domain=bitverts.io
@@ -1161,7 +1165,6 @@ claimfreeltc.win##+js(bab-defuser.js)
 claimfreepot.win##+js(bab-defuser.js)
 claimfreeppc.win##+js(bab-defuser.js)
 claimfreexpm.win##+js(bab-defuser.js)
-claimulike.win##center:nth-of-type(2) > center > center
 claimulike.win##+js(bab-defuser.js)
 claimltc.win##+js(bab-defuser.js)
 click2shorten.com##+js(bab-defuser.js)
@@ -1429,6 +1432,7 @@ myanimelist.net##._unit
 neonime.*##.block-player
 onlinebee.in##.text-left
 pekalongan-kommuniti.net##.fb-btn-seocips
+siherp.com##.c-message > div:nth-of-type(2)
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
 speedtest.net##.lower-horizontal.ad
@@ -1523,6 +1527,7 @@ revolt.group###category_shoutbox
 ryn.cc###main > div:nth-of-type(1)
 ryn.cc###main > div:nth-of-type(2)
 speedup-faucet.com###mainbody > center:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+tokenfly.pw###cookie-pop
 tribunnews.com###articleright
 webtoons.com###footer
 xydeyou.com###gc2f
