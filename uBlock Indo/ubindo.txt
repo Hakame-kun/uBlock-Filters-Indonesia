@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 Februari 2019, 18:45:31 WIB
+! Last modified: 23 Februari 2019, 23:19:33 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -126,6 +126,7 @@
 ||cointiply.com/api/userads$important
 ||cointiply.com/arrowchat$important
 ||coinverti.com$third-party
+||consensu.org$third-party
 ||consolebackup.com$third-party
 ||consoletarget.com$third-party
 ||contextbar.ru$third-party
@@ -490,6 +491,7 @@
 *$third-party,domain=247autohits.com
 *$third-party,domain=247cryptonews.com
 *$third-party,domain=2shorten.com
+*$third-party,domain=7link.us
 *$third-party,domain=acefile.co
 *$third-party,domain=adbilty.me
 *$third-party,domain=adbtc.top
@@ -573,9 +575,11 @@
 *$third-party,domain=cryptoprofits.in.ua
 *$third-party,domain=cryptoskipad.com
 *$third-party,domain=cryptoworld.gq
+*$third-party,domain=cuon.io
 *$third-party,domain=cut-earn.com
 *$third-party,domain=cutlink.xyz
-*$third-party,domain=cuon.io
+*$third-party,domain=cutads.win
+*$third-party,domain=cuturl.in
 *$third-party,domain=dinoving.com
 *$third-party,domain=doge-coin.top
 *$third-party,domain=dogeclix.com
@@ -600,12 +604,14 @@
 *$third-party,domain=faucethub.io
 *$third-party,domain=faucetor.xyz
 *$third-party,domain=faucetwhite.com
+*$third-party,domain=faucety.cc
 *$third-party,domain=financesurf.net
 *$third-party,domain=forumcoin.win
 *$third-party,domain=free4claim.com
 *$third-party,domain=freebitcoincore.top
 *$third-party,domain=freedoge.bid
 *$third-party,domain=freek.in
+*$third-party,domain=ftafet.com
 *$third-party,domain=furturebitearnmore.xyz
 *$third-party,domain=gainslink.com
 *$third-party,domain=geistlink.com
@@ -635,6 +641,7 @@
 *$third-party,domain=mazenbtc.com
 *$third-party,domain=megaurl.in
 *$third-party,domain=melovin.site
+*$third-party,domain=modwanaty.com
 *$third-party,domain=motahrer.com
 *$third-party,domain=moybtc.ru
 *$third-party,domain=mmbtcl.ink
@@ -1011,11 +1018,11 @@
 @@onlinebee.in$elemhide
 @@pagead2.googlesyndication.com$domain=cdn.applixir.com|directlink.booogle.net|herokuapp.com|imasdk.googleapis.com|safelink.top|uclick.in
 @@pixel.adsafeprotected.com$domain=tpc.googlesyndication.com
-@@probusinesshub.com$first-party
 @@popunder.net$first-party
 @@popunder.net$popup
 @@popunder.net$elemhide
 @@privatelink.de$third-party
+@@probusinesshub.com$first-party
 @@ptcwall.com$domain=kickasstraffic.com
 @@qualityfilehosting.com$elemhide
 @@queenfaucet.website$elemhide
@@ -1059,9 +1066,13 @@
 ##a[href*="bit.ly/2jyrrow"]
 ##a[href*="bit.ly/2qlDa9j"]
 ##a[href*="bit.ly/ganoollinks"]
+##a[href*="chidsimp.com"]
 ##a[href*="earth-111.com"]
+##a[href*="glumtitu.net"]
 ##a[href*="inclk.com"]
 ##a[href*="mellowads.com"]
+##a[href*="oupushee.com"]
+##a[href*="wedeegut.net"]
 ##a[href*="z6naousb.com"]
 ! -------------------------------------
 ##[class*="bmadblock-"]
@@ -1388,7 +1399,7 @@ zippyanime.net##+js(nano-setInterval-booster.js)
 46.166.167.16,semprot.com,semprotku.com##.warning
 alinafaucet.win##.form > center
 anisubindo.org##.ArevicoModal-bg
-anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.c-message > div:nth-of-type(1)
+anjay.info,coeg.in,siherp.com,siotong.com,telondasmu.com,tetew.info##.c-message > div:nth-of-type(1)
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.disclaimer
 awcar.icu,speedcar.club,xydeyou.com##.mh-clearfix.mh-wrapper
 awsubs.co##.fb-comments
@@ -1416,6 +1427,7 @@ efx2.com##.pageku:nth-of-type(4)
 fanbatch.us##.featuredimg
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
+greget.space, siherp.com##.c-message > div:nth-of-type(2)
 hdtvku.com##.banner-clicked
 ironime.org##.anon
 juraganfiles.com##.no-padding.box.container > center
@@ -1432,7 +1444,6 @@ myanimelist.net##._unit
 neonime.*##.block-player
 onlinebee.in##.text-left
 pekalongan-kommuniti.net##.fb-btn-seocips
-siherp.com##.c-message > div:nth-of-type(2)
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
 speedtest.net##.lower-horizontal.ad
