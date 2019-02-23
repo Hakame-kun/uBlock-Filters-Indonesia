@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 23 Februari 2019, 23:19:33 WIB
+! Last modified: 24 Februari 2019, 01:24:03 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -591,6 +591,7 @@
 *$third-party,domain=dripcoin.net
 *$third-party,domain=dropjiffy.com
 *$third-party,domain=dungmak.com
+*$third-party,domain=dutchycorp.space
 *$third-party,domain=dwindly.io
 *$third-party,domain=earnbitcoinsnow.net
 *$third-party,domain=easyhits4u.com
@@ -684,6 +685,7 @@
 *$third-party,domain=shrinkme.in
 *$third-party,domain=siherp.com
 *$third-party,domain=siotong.com
+*$third-party,domain=skip-urls.com
 *$third-party,domain=skipurls.com
 *$third-party,domain=solo-link.com
 *$third-party,domain=startxchange.com
@@ -959,6 +961,7 @@
 @@claimcoin24.com$elemhide
 @@claimulike.win$elemhide
 @@clearwebstats.com$first-party
+@@click2btc.com$elemhide
 @@clicknupload.org$elemhide
 @@clixsense.com$first-party
 @@cloudflare.com$domain=adbtc.top|cryptofarmer.com|freevpn.us|kickasstraffic.com
@@ -1235,6 +1238,7 @@ earnfreebitcoins.xyz##+js(nano-setInterval-booster.js)
 eth-faucet.net##+js(bab-defuser.js)
 ethereum-faucet.org##+js(bab-defuser.js)
 expressfaucet.com##+js(bab-defuser.js)
+fapcoin.cc##+js(bab-defuser.js)
 faucet.kiwi##+js(bab-defuser.js)
 faucet4claim.com##+js(bab-defuser.js)
 faucet4coin.com##+js(bab-defuser.js)
