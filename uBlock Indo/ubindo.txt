@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 1 Maret 2019, 23:40:05 WIB
+! Last modified: 5 Maret 2019, 19:33:03 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -1434,7 +1434,7 @@ efx2.com##.pageku:nth-of-type(4)
 fanbatch.us##.featuredimg
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
-greget.space, siherp.com##.c-message > div:nth-of-type(2)
+greget.space##.c-message > div:nth-of-type(2)
 hdtvku.com##.banner-clicked
 ironime.org##.anon
 juraganfiles.com##.no-padding.box.container > center
