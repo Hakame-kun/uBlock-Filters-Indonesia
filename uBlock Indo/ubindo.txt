@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 5 Maret 2019, 19:33:03 WIB
+! Last modified: 18 Maret 2019, 14:55:10 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -77,7 +77,7 @@
 ||bioskop45.com*gif
 ||bioskopgue.net/wp-content/uploads*gif
 ||bioskopkeren.club/images/
-||bit.ly$popup,third-party,domain=awsubs.co
+||bit.ly$popup,third-party,domain=awsubs.tv
 ||bitcoinad.pro$third-party
 ||bitformations.website/?p=
 ||bitformations.website/wp-content/uploads
@@ -95,7 +95,7 @@
 ||botkano.info$third-party
 ||boudja.com$third-party
 ||bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
-||bp.blogspot.com*gif$third-party,domain=123drakor.org|acefile.co|aceservice.club|awsubs.co|cinemakv21.com|hdtvku.com|idxxi.co|juragan-anime.net|komiku.net|lebahmovie.com|neonime.net|nontonmovie251.com|otakufile.com|treasurebits.net
+||bp.blogspot.com*gif$third-party,domain=123drakor.org|acefile.co|aceservice.club|awsubs.tv|cinemakv21.com|hdtvku.com|idxxi.co|juragan-anime.net|komiku.net|lebahmovie.com|neonime.net|nontonmovie251.com|otakufile.com|treasurebits.net
 ||brainbux.com$third-party
 ||btcmedia.co$third-party
 ||btctrail.com$third-party
@@ -235,7 +235,7 @@
 ||hotmuv.com$third-party
 ||hotmuv.com/wp-content/uploads*gif
 ||hqncduqyzgfugo.com$third-party
-||i.imgur.com$third-party,domain=acefile.co|aceservice.club|awsubs.co|bitcolife.ru|cryptostar.tk|lk21.blue|mangaindo.net|movieon21.org|nanime.in|nontonanime.id|treasurebits.net
+||i.imgur.com$third-party,domain=acefile.co|aceservice.club|awsubs.tv|bitcolife.ru|cryptostar.tk|lk21.blue|mangaindo.net|movieon21.org|nanime.in|nontonanime.id|treasurebits.net
 ||i.makeagif.com$domain=nontonmovie251.com
 ||i027m.top$third-party
 ||ibb.co$third-party,domain=lk21.web.id|lk21tv.web.id
@@ -513,6 +513,7 @@
 *$third-party,domain=autofh.000webhostapp.com|racers-b-king.000webhostapp.com
 *$third-party,domain=automoneysurf.com
 *$third-party,domain=autoo-car.com
+*$third-party,domain=awsubs.tv
 *$third-party,domain=babesdoge.win
 *$third-party,domain=basichits4u.com
 *$third-party,domain=bcoin4you.com
@@ -708,6 +709,7 @@
 *$third-party,domain=u2s.io
 *$third-party,domain=uii.io
 *$third-party,domain=ulne.be
+*$third-party,domain=updatetribun.org
 *$third-party,domain=urle.co
 *$third-party,domain=urlsamo.com
 *$third-party,domain=vikingbtc.xyz
@@ -723,6 +725,7 @@
 *$popup,third-party,domain=adpop.me
 *$popup,third-party,domain=allbitcoinsites.com
 *$popup,third-party,domain=anibatch.me
+*$popup,third-party,domain=awsubs.tv
 *$popup,third-party,domain=bestpayingfaucets.com
 *$popup,third-party,domain=bit-url.com
 *$popup,third-party,domain=bitcoadz.pw
@@ -747,6 +750,7 @@
 *$popup,third-party,domain=linktor.io
 *$popup,third-party,domain=olgkzlwln.net
 *$popup,third-party,domain=ouo.io
+*$popup,third-party,domain=p4link.com
 *$popup,third-party,domain=payskip.me
 *$popup,third-party,domain=play4coin.us
 *$popup,third-party,domain=premiumfaucetnetwork.com
@@ -884,7 +888,7 @@
 .org/lube
 
 ! ========== Unblocked URL List ==========
-@@*$popup,third-party,domain=short.awsubs.co|stt.awsubs.co
+@@*$popup,third-party,domain=short.awsubs.tv|stt.awsubs.tv
 @@.php?adv=$domain=bitcofarm.com
 @@/AC_RunActiveContent
 @@/ad_top_bg2.png?
@@ -917,6 +921,7 @@
 @@1ink.cc/includes/ajax/jquery.js
 @@a-ads.com$first-party
 @@about:blank$domain=adbtc.top
+@@acefile.co$domain=awsubs.tv
 @@aceservice.club$domain=acefile.co
 @@ad4msan.com$generichide
 @@adf.ly/js/display.js
@@ -946,7 +951,8 @@
 @@bitcoinspinner.io/themes
 @@bitformations.website$elemhide
 @@blockadblock.com/js/colorpicker
-@@bolaoke.club$popup,domain=awsubs.co
+@@bolaoke.club$popup,domain=awsubs.tv
+@@bp.blogspot.com*png$domain=awsubs.tv
 @@btcsafari.com$elemhide
 @@captchme.net
 @@cashcrate.com
@@ -958,6 +964,7 @@
 @@cdnjs.cloudflare.com/ajax/libs*blockadblock
 @@cdnjs.cloudflare.com/ajax/libs*css
 @@cdnjs.cloudflare.com/ajax/libs*js$domain=faucethub.io|randomsatoshi.win
+@@cdnjs.cloudflare.com/ajax/libs/jquery$domain=acefile.co
 @@cdnjs.cloudflare.com/ajax/libs/sceditor
 @@cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
 @@claimcoin24.com$elemhide
@@ -971,6 +978,7 @@
 @@coinad.com/ads/show$domain=clixco.in
 @@coinhive.com$domain=btc-miner.online
 @@cointiply.com$elemhide
+@@content.jwplatform.com$domain=acefile.co
 @@crypto-loot.com$first-party
 @@cryptocoinsad.com$first-party
 @@csi.gstatic.com$domain=cdn.applixir.com|imasdk.googleapis.com
@@ -979,6 +987,7 @@
 @@dc4in.com$elemhide
 @@dircont3.com/nvp.js
 @@disingkat.in/js/advertisement.js$script,first-party
+@@drive.google.com/thumbnail$domain=acefile.co
 @@easyhits4u.com$first-party
 @@faucet4claim.com$elemhide
 @@faucetfly.com$elemhide
@@ -996,6 +1005,8 @@
 @@ganzoffen.de
 @@getlink.pw$first-party
 @@google.com$domain=criptius.com
+@@googleapis.com/drive$domain=acefile.co
+@@googleusercontent.com$domain=acefile.co
 @@greenfaucet.win$elemhide
 @@hit4hit.org$first-party
 @@hitlink.com$first-party
@@ -1035,6 +1046,7 @@
 @@raincaptcha.com*frame
 @@s.ytimg.com$domain=bitverts.io
 @@safebitcoin.info$elemhide
+@@satoshisera.com$elemhide
 @@script.crazyegg.com$domain=asmwall.com
 @@sendit.download
 @@sharethis.com
@@ -1055,6 +1067,7 @@
 @@want2crypto.com$elemhide
 @@weheartbitcoin.com$elemhide
 @@wicr.in$elemhide
+@@wp.com$domain=awsubs.tv
 @@www.w3schools.com*css
 @@xydeyou.com$popup
 @@youtube.com$domain=bitverts.io
@@ -1132,8 +1145,8 @@ anisubindo.org##+js(abort-current-inline-script.js, addEventListener)
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com,tetew.info##h2
 autoclaim.win##+js(bab-defuser.js)
 autoclaimbtc.ga,autoclaimfaucet.ga##+js(bab-defuser.js)
-aw-games.net,short.awsubs.co##center:nth-of-type(2)
-aw-games.net,short.awsubs.co##h1
+aw-games.net,short.awsubs.tv##center:nth-of-type(2)
+aw-games.net,short.awsubs.tv##h1
 awsubsco.ga##+js(abort-on-property-read.js)
 awsubsco.ga##+js(nano-setInterval-booster.js)
 babesdoge.win##+js(nano-setInterval-booster.js)
@@ -1353,6 +1366,7 @@ theseotools.net##+js(bab-defuser.js)
 topbtc.club##+js(bab-defuser.js)
 treasurebits.net##+js(nano-setInterval-booster.js)
 uclick.in##+js(bab-defuser.js)
+updatetribun.org##+js(nano-setInterval-booster.js)
 url-win.com##+js(nano-setInterval-booster.js)
 varclaim.website##+js(bab-defuser.js)
 vikingbtc.xyz##+js(bab-defuser.js)
@@ -1409,10 +1423,10 @@ anisubindo.org##.ArevicoModal-bg
 anjay.info,coeg.in,siherp.com,siotong.com,telondasmu.com,tetew.info##.c-message > div:nth-of-type(1)
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.disclaimer
 awcar.icu,speedcar.club,xydeyou.com##.mh-clearfix.mh-wrapper
-awsubs.co##.fb-comments
-awsubs.co##.fb_iframe_widget.fb-like
-awsubs.co##.minipusat
-awsubs.co##.pusat728
+awsubs.tv##.fb-comments
+awsubs.tv##.fb_iframe_widget.fb-like
+awsubs.tv##.minipusat
+awsubs.tv##.pusat728
 bagilagi.com##.adsora
 bagilagi.com##.gmr-single.gmr-box-content
 beat-doge.tk##.popUpBannerBox
@@ -1505,8 +1519,8 @@ aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,coint
 altervista.org###ad
 altervista.org###ad_overlay
 androidrepublic.org###siropuChat
-awsubs.co###floatcenter
-awsubs.co###overplay
+awsubs.tv###floatcenter
+awsubs.tv###overplay
 bagilagi.com###secondary
 bestbitcoinfaucets.net,links4cash.com,want2crypto.com###Floater-Left-3
 bestbitcoinfaucets.net,want2crypto.com###Floater-Middle-3
@@ -1534,7 +1548,7 @@ easyhits4u.com###countDown
 futureurl.info###Test
 hdtvku.com###mybannerpopup
 idfl.*###fancybox-overlay
-idsly.net,idsly.org###m813
+idsly.net,idsly.org,updatetribun.org###m813
 liz.zdonlot.in###close-banner
 mediafire.com###abnotify
 opengapps.org###donatebox
