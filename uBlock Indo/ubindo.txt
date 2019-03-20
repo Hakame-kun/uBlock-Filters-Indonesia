@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 Maret 2019, 18:12:56 WIB
+! Last modified: 20 Maret 2019, 18:18:35 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -266,6 +266,7 @@
 ||jackettrain.com$popup,third-party
 ||javhd.com/stat
 ||jerwested.info$third-party
+||jomys.xyz$third-party
 ||joneself.com$third-party
 ||jquery.com$third-party,domain=anitoki.com
 ||jwpcdn.com/player/v*vast.js$important
