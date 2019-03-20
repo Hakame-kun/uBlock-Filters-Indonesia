@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 18 Maret 2019, 14:55:10 WIB
+! Last modified: 20 Maret 2019, 18:12:56 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -635,6 +635,7 @@
 *$third-party,domain=kickasstraffic.com
 *$third-party,domain=kimotech3.com
 *$third-party,domain=kuturl.com
+*$third-party,domain=kuyhaa.me
 *$third-party,domain=link-zero.com
 *$third-party,domain=link4win.com
 *$third-party,domain=linkrag.com
@@ -952,7 +953,7 @@
 @@bitformations.website$elemhide
 @@blockadblock.com/js/colorpicker
 @@bolaoke.club$popup,domain=awsubs.tv
-@@bp.blogspot.com*png$domain=awsubs.tv
+@@bp.blogspot.com*png$domain=awsubs.tv|kuyhaa.me
 @@btcsafari.com$elemhide
 @@captchme.net
 @@cashcrate.com
@@ -1062,6 +1063,7 @@
 @@traffboost.net$first-party
 @@unlockapk.com/ads.js
 @@unpkg.com$domain=easyhits4u.com|ptcwall.com
+@@updatetribun.org$popup,domain=awsubs.tv
 @@userscloud.com/?op=login&method=
 @@vjs.zencdn.net$domain=sendit.cloud
 @@want2crypto.com$elemhide
