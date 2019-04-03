@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 Maret 2019, 18:18:35 WIB
+! Last modified: 03 April 2019, 20:30:58 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -632,6 +632,7 @@
 *$third-party,domain=iziwinmoney.info
 *$third-party,domain=japet777.000webhostapp.com
 *$third-party,domain=jupiter777.000webhostapp.com
+*$third-party,domain=juragan-anime.net
 *$third-party,domain=keplakneh.com
 *$third-party,domain=kickasstraffic.com
 *$third-party,domain=kimotech3.com
