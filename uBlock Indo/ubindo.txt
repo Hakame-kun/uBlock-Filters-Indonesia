@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 03 April 2019, 20:30:58 WIB
+! Last modified: 08 April 2019, 09:09:18 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -68,6 +68,7 @@
 ||arenabetting.cc$third-party
 ||arequiry.info$third-party
 ||areyouahuman.com$third-party
+||asiatoday.online$third-party
 ||assets.adobedtm.com$third-party
 ||auplod.com$third-party
 ||authedmine.com$third-party
@@ -309,6 +310,7 @@
 ||moondoge.co.in$third-party
 ||moonliteco.in$third-party
 ||movieon21.*/wp-content/uploads*gif
+||moviesave.net$third-party
 ||mp4upload.com$third-party,domain=kondeesite.com
 ||my188bet.com$third-party
 ||naenticle.info$third-party
@@ -881,6 +883,7 @@
 /wp-content/uploads/iklan/
 /wp-jw-player/css/popup
 /wp-jw-player/js/popup.js
+/wpsafelink.js
 
 ! ========== . List ==========
 .adskom.com$third-party
@@ -1426,13 +1429,14 @@ alinafaucet.win##.form > center
 anisubindo.org##.ArevicoModal-bg
 anjay.info,coeg.in,siherp.com,siotong.com,telondasmu.com,tetew.info##.c-message > div:nth-of-type(1)
 anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.disclaimer
-awcar.icu,speedcar.club,xydeyou.com##.mh-clearfix.mh-wrapper
+awcar.icu,davinsurance.com,developinsurance.me,speedcar.club,xydeyou.com##.mh-clearfix.mh-wrapper
 awsubs.tv##.fb-comments
 awsubs.tv##.fb_iframe_widget.fb-like
 awsubs.tv##.minipusat
 awsubs.tv##.pusat728
 bagilagi.com##.adsora
 bagilagi.com##.gmr-single.gmr-box-content
+bagilagi.com##.rurasafe-ads
 beat-doge.tk##.popUpBannerBox
 bestbitcoinfaucets.net##.modal-body > center
 bitcoincore.us##.ablinksgroup > center
@@ -1443,8 +1447,10 @@ bitformations.website##.article
 bitformations.website##.sidebar_list
 bolaoke.club##.clearfix.mh-wrapper
 btcleets.xyz,coin.mg,onlinebee.in##.banner-captcha.banner
-coin.mg##.box-main > center
 citpekalongan.com##.section.header-right
+coin.mg##.box-main > center
+crimesagainsttheelderly.com##.ads
+crimesagainsttheelderly.com##.banner3
 darak.me##.table-responsive
 darak.me##.text-center.col-md-12
 earn-url.com##.banner-336x280.banner
@@ -1455,6 +1461,7 @@ gigapurbalingga.net##.code-block-2.code-block
 greget.space##.c-message > div:nth-of-type(2)
 hdtvku.com##.banner-clicked
 ironime.org##.anon
+juragan-anime.net##.ads
 juraganfiles.com##.no-padding.box.container > center
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
