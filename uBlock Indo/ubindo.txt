@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 08 April 2019, 09:09:18 WIB
+! Last modified: 14 April 2019, 23:34:24 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -62,7 +62,6 @@
 ||animeindo.net/wp-content/themes/animeindo/chat.php
 ||animeindo.net/wp-content/uploads/*.gif
 ||animeindo.video/area.js
-||anoboy.com/lompatin
 ||app.pegel.pw/wp-content/uploads
 ||apps.drakor.id/images/yu/2.jpg
 ||arenabetting.cc$third-party
@@ -279,7 +278,6 @@
 ||kswid.com$third-party,script
 ||kuturl.com$third-party
 ||kuotamurahku.com$third-party
-||lazada.co.id$third-party,domain=anoboy.com
 ||ldtv.co/wp-content/uploads/*.gif
 ||limaten.info$popunder
 ||limaten.info$popup,third-party
@@ -915,6 +913,7 @@
 @@/hello^$xmlhttprequest,domain=speedtest.net
 @@/js/ads$domain=alexamaster.net
 @@/ping^$xmlhttprequest,domain=speedtest.net
+@@/safelink$domain=detikbintang.blogspot.com
 @@/showads.js$domain=heliohost.org
 @@/Sites/admin/Scripts/md5.min.js
 @@/themes$domain=fortstore.net|iceimg.net|imgfile.net
@@ -1366,6 +1365,7 @@ speedup-faucet.com##tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(1) >
 speedup-faucet.com##tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(2) > td
 starcoins.ws##+js(bab-defuser.js)
 startxchange.com##+js(nano-setInterval-booster.js)
+suarankri.me##+js(nano-setInterval-booster.js)
 susutinv2.com##p:nth-of-type(n)
 synced-rewards.com##+js(bab-defuser.js)
 theinsurance.pw##+js(bab-defuser.js)
