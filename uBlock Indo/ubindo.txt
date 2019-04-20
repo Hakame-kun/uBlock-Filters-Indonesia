@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 14 April 2019, 23:34:24 WIB
+! Last modified: 20 April 2019, 21:51:08 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -755,6 +755,7 @@
 *$popup,third-party,domain=ouo.io
 *$popup,third-party,domain=p4link.com
 *$popup,third-party,domain=payskip.me
+*$popup,third-party,domain=picbaron.com
 *$popup,third-party,domain=play4coin.us
 *$popup,third-party,domain=premiumfaucetnetwork.com
 *$popup,third-party,domain=royurls.bid
@@ -1038,6 +1039,8 @@
 @@onlinebee.in$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.solvemedia.com
 @@onlinebee.in$elemhide
 @@pagead2.googlesyndication.com$domain=cdn.applixir.com|directlink.booogle.net|herokuapp.com|imasdk.googleapis.com|safelink.top|uclick.in
+@@picbaron.com$csp=script-src 'self'
+@@picbaron.com/img
 @@pixel.adsafeprotected.com$domain=tpc.googlesyndication.com
 @@popunder.net$first-party
 @@popunder.net$popup
@@ -1317,6 +1320,7 @@ mazenbtc.com##+js(bab-defuser.js)
 mediafire.com##.on.lightbox
 melovin.site##+js(bab-defuser.js)
 meownime.com##+js(noeval.js)
+merdekaid.online##+js(nano-setInterval-booster.js)
 midiavip.com##+js(bab-defuser.js)
 mishangfaucets.com##+js(bab-defuser.js)
 mixfaucetsbrasil.com.br##+js(bab-defuser.js)
@@ -1559,7 +1563,7 @@ easyhits4u.com###countDown
 futureurl.info###Test
 hdtvku.com###mybannerpopup
 idfl.*###fancybox-overlay
-idsly.net,idsly.org,updatetribun.org###m813
+idsly.net,idsly.org,merdekaid.online,updatetribun.org###m813
 liz.zdonlot.in###close-banner
 mediafire.com###abnotify
 opengapps.org###donatebox
