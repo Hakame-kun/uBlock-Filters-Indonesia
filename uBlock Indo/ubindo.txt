@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 April 2019, 21:51:08 WIB
+! Last modified: 1 May 2019, 17:03:46 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -330,10 +330,13 @@
 ||old.dshe.gov.bd$third-party
 ||onesignal.com$third-party
 ||onhandrecipes.com$third-party
+||onlyhgames.com/fdload
 ||orbisbux.com$third-party
 ||orgalso.com$third-party
 ||osg777id.com$popup,third-party
 ||oturl.com$subdocument
+||ouo.io/images/b1.png
+||ouo.io/images/b2.png
 ||p*.intab.xyz$popup,third-party
 ||pampopholf.com$third-party
 ||parding.info$third-party
@@ -446,6 +449,7 @@
 ||videogamebase.net
 ||viral782.com$third-party
 ||vktarget.ru$third-party
+||vouceeco.com$third-party
 ||vuryua.ru$third-party
 ||w55c.net$third-party
 ||waktunonton.com/wp-content/uploads*gif
@@ -475,6 +479,7 @@
 ||xx1.me/lib
 ||xx1.me/sworker.js
 ||xydeyou.com$third-party,script
+||xymtglljft.com$third-party
 ||youtube.com$third-party,domain=alekscoin.com|bestbitcoinfaucets.net|btcsafari.com|digitask.ru|earn-url.com|earnbig.ca|ekrane.net|icenter.co|oturl.com|shortit.ca|want2crypto.com|world-mining.net
 ||youtube.com/api/stats/watchtime?$important
 ||yukwxqnxwzghxb.com$third-party
@@ -545,6 +550,7 @@
 *$third-party,domain=btcvic.com
 *$third-party,domain=cash4url.com
 *$third-party,domain=chopcoin.io
+*$third-party,domain=ckk.ai
 *$third-party,domain=claimbit.top
 *$third-party,domain=claimcoin24.com
 *$third-party,domain=claimethfree.win
@@ -618,6 +624,7 @@
 *$third-party,domain=furturebitearnmore.xyz
 *$third-party,domain=gainslink.com
 *$third-party,domain=geistlink.com
+*$third-party,domain=get4links.xyz
 *$third-party,domain=getlink.pw
 *$third-party,domain=geturl.pro
 *$third-party,domain=gram.im
@@ -660,6 +667,7 @@
 *$third-party,domain=ourfaucet.ru
 *$third-party,domain=ourl.io
 *$third-party,domain=ownbitcoins.net
+*$third-party,domain=paid4link.xyz
 *$third-party,domain=pantsu.cat
 *$third-party,domain=pay2url.com
 *$third-party,domain=payskip.me
@@ -747,6 +755,7 @@
 *$popup,third-party,domain=dwindly.io
 *$popup,third-party,domain=esy.es
 *$popup,third-party,domain=futureurl.info
+*$popup,third-party,domain=get4links.xyz
 *$popup,third-party,domain=getlink.pw
 *$popup,third-party,domain=gsul.me
 *$popup,third-party,domain=ialphacoins.com
@@ -754,6 +763,7 @@
 *$popup,third-party,domain=olgkzlwln.net
 *$popup,third-party,domain=ouo.io
 *$popup,third-party,domain=p4link.com
+*$popup,third-party,domain=paid4link.xyz
 *$popup,third-party,domain=payskip.me
 *$popup,third-party,domain=picbaron.com
 *$popup,third-party,domain=play4coin.us
@@ -1141,6 +1151,7 @@ adspuma.com##a[href*="psoaghie.net"]
 adwerty.com##+js(bab-defuser.js)
 adwerty.com##+js(nano-setInterval-booster.js)
 agoodprofit.ru##+js(nano-setInterval-booster.js)
+agradarpan.com##+js(bab-defuser.js)
 alekscoin.com##+js(abort-on-property-read.js)
 alekscoin.com##+js(bab-defuser.js)
 alekscoin.com##+js(nano-setInterval-booster.js)
@@ -1294,6 +1305,7 @@ gr8.cc##+js(bab-defuser.js)
 greenfaucet.win##+js(bab-defuser.js)
 gwei.win##+js(bab-defuser.js)
 haxhits.com##+js(nano-setInterval-booster.js)
+healthykk.com##+js(bab-defuser.js)
 hexafile.net##+js(nano-setInterval-booster.js)
 highpayingfaucet.com##+js(nano-setInterval-booster.js)
 highwaytoco.in##+js(bab-defuser.js)
@@ -1305,6 +1317,7 @@ idsly.*##+js(nano-setInterval-booster.js)
 idxxi.co##+js(nano-setInterval-booster.js)
 infaucet.site##+js(bab-defuser.js)
 ironime.org##+js(abort-current-inline-script.js, addEventListener)
+jelajahinternet.me##+js(nano-setInterval-booster.js)
 karimunbits.net##+js(bab-defuser.js)
 keplakneh.com##+js(nano-setInterval-booster.js)
 lenov.ru##+js(nano-setInterval-booster.js)
@@ -1391,6 +1404,7 @@ wicr.in##+js(nano-setInterval-booster.js)
 wikitrade.me##p:nth-of-type(n)
 wikitrade.me##+js(nano-setInterval-booster.js)
 wolf-faucet.win##+js(bab-defuser.js)
+yasinews.xyz##+js(bab-defuser.js)
 zandey.com##+js(bab-defuser.js)
 zetabitco.com##+js(bab-defuser.js)
 zippyanime.net##+js(nano-setInterval-booster.js)
@@ -1479,6 +1493,7 @@ mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-s
 myanimelist.net##._unit
 neonime.*##.block-player
 onlinebee.in##.text-left
+ouo.io##.text-center > div
 pekalongan-kommuniti.net##.fb-btn-seocips
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
@@ -1563,7 +1578,7 @@ easyhits4u.com###countDown
 futureurl.info###Test
 hdtvku.com###mybannerpopup
 idfl.*###fancybox-overlay
-idsly.net,idsly.org,merdekaid.online,updatetribun.org###m813
+idsly.net,idsly.org,jelajahinternet.me,merdekaid.online,updatetribun.org###m813
 liz.zdonlot.in###close-banner
 mediafire.com###abnotify
 opengapps.org###donatebox
