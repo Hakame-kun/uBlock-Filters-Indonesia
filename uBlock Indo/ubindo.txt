@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 1 May 2019, 17:03:46 WIB
+! Last modified: 2 May 2019, 11:39:56 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -1478,6 +1478,7 @@ gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
 greget.space##.c-message > div:nth-of-type(2)
 hdtvku.com##.banner-clicked
+indoxxi.*##.jwseed
 ironime.org##.anon
 juragan-anime.net##.ads
 juraganfiles.com##.no-padding.box.container > center
@@ -1593,3 +1594,5 @@ tokenfly.pw###cookie-pop
 tribunnews.com###articleright
 webtoons.com###footer
 xydeyou.com###gc2f
+
+
