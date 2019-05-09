@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 9 May 2019, 23:41:49 WIB
+! Last modified: 9 May 2019, 23:57:35 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -1035,7 +1035,9 @@
 @@ialphacoins.com$elemhide
 @@idsly.net$elemhide
 @@idsly.org$elemhide
+@@imagetwist.com$image,first-party
 @@imasdk.googleapis.com$domain=cdn.applixir.com|link4win.com
+@@imgdrive.net$image,first-party
 @@imgfile.net*ads.js
 @@imgfile.net$domain=iceimg.net
 @@imgfrost.net$domain=imgfile.net
