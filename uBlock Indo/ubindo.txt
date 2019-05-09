@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 2 May 2019, 11:39:56 WIB
+! Last modified: 9 May 2019, 23:41:49 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -248,6 +248,7 @@
 ||imageshack.host$third-party
 ||img.akubebas.com/images*gif
 ||img.topddl.net*gif$third-party
+||imgfile.net/vip/serve
 ||imgtaxi.com/altiframe
 ||imgtaxi.com/anex/alt.js
 ||imgtaxi.com/ea/fl.js
@@ -759,6 +760,7 @@
 *$popup,third-party,domain=getlink.pw
 *$popup,third-party,domain=gsul.me
 *$popup,third-party,domain=ialphacoins.com
+*$popup,third-party,domain=imgfile.net
 *$popup,third-party,domain=linktor.io
 *$popup,third-party,domain=olgkzlwln.net
 *$popup,third-party,domain=ouo.io
@@ -893,6 +895,7 @@
 /wp-jw-player/css/popup
 /wp-jw-player/js/popup.js
 /wpsafelink.js
+/zler.js
 
 ! ========== . List ==========
 .adskom.com$third-party
@@ -1009,6 +1012,8 @@
 @@faucetfly.com$elemhide
 @@faucethut.tk$elemhide
 @@febbit.com$elemhide
+@@fiyar.live$domain=imgfile.net
+@@fiyar.live$popup,domain=imgfile.net
 @@fontawesome.com$domain=kickasstraffic.com
 @@fonts.gstatic.com
 @@fonts.googleapis.com
@@ -1031,7 +1036,10 @@
 @@idsly.net$elemhide
 @@idsly.org$elemhide
 @@imasdk.googleapis.com$domain=cdn.applixir.com|link4win.com
+@@imgfile.net*ads.js
 @@imgfile.net$domain=iceimg.net
+@@imgfrost.net$domain=imgfile.net
+@@imgfrost.net$popup,domain=imgfile.net
 @@inboxdollars.com
 @@jsdelivr.net
 @@juragan-anime.net/wp-content/cache
@@ -1316,6 +1324,7 @@ idsht.me##+js(nano-setInterval-booster.js)
 idsly.*##+js(nano-setInterval-booster.js)
 idxxi.co##+js(nano-setInterval-booster.js)
 infaucet.site##+js(bab-defuser.js)
+infotrendy.me##+js(nano-setInterval-booster.js)
 ironime.org##+js(abort-current-inline-script.js, addEventListener)
 jelajahinternet.me##+js(nano-setInterval-booster.js)
 karimunbits.net##+js(bab-defuser.js)
@@ -1546,6 +1555,7 @@ zonawibu.me##.infopost
 ###z2c7
 ! -------------------------------------
 123short.com,clk.press,getlink.pw,tokenfly.pw###headlineatas
+a-ads.com###news_feed
 aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,cointalk.club,faucet.kiwi,faucethero.com,free4claim.com,furturebitearnmore.xyz,mazenbtc.com###middle-adspace
 altervista.org###ad
 altervista.org###ad_overlay
@@ -1578,6 +1588,7 @@ dewafile.com###download
 easyhits4u.com###countDown
 futureurl.info###Test
 hdtvku.com###mybannerpopup
+healthproper.blogspot.com###adb
 idfl.*###fancybox-overlay
 idsly.net,idsly.org,jelajahinternet.me,merdekaid.online,updatetribun.org###m813
 liz.zdonlot.in###close-banner
@@ -1594,5 +1605,3 @@ tokenfly.pw###cookie-pop
 tribunnews.com###articleright
 webtoons.com###footer
 xydeyou.com###gc2f
-
-
