@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 9 May 2019, 23:57:35 WIB
+! Last modified: 12 May 2019, 00:08:44 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -246,8 +246,11 @@
 ||iframedogecoin.xyz$third-party
 ||iftvlrkyvubnn.com$third-party
 ||imageshack.host$third-party
+||imagespublic.tk/dung
 ||img.akubebas.com/images*gif
 ||img.topddl.net*gif$third-party
+||imgadult.com/anex
+||imgadult.com/ea
 ||imgfile.net/vip/serve
 ||imgtaxi.com/altiframe
 ||imgtaxi.com/anex/alt.js
@@ -734,6 +737,7 @@
 *$third-party,domain=wly.us
 *$third-party,domain=zetabitco.com
 *$popunder,third-party,domain=coinpou.com
+*$popunder,third-party,domain=imgrock.pw
 *$popup,third-party,domain=adpop.me
 *$popup,third-party,domain=allbitcoinsites.com
 *$popup,third-party,domain=anibatch.me
@@ -1037,6 +1041,7 @@
 @@idsly.org$elemhide
 @@imagetwist.com$image,first-party
 @@imasdk.googleapis.com$domain=cdn.applixir.com|link4win.com
+@@imgblaze.net$domain=imgfile.net
 @@imgdrive.net$image,first-party
 @@imgfile.net*ads.js
 @@imgfile.net$domain=iceimg.net
@@ -1259,6 +1264,7 @@ cryptothrower.website##+js(nano-setInterval-booster.js)
 cryptoworld.gq##+js(bab-defuser.js)
 cryptsly.io##+js(bab-defuser.js)
 currentcrypto.net##+js(bab-defuser.js)
+damimage.com##body > div:nth-of-type(5)
 darak.me##div.col-md-3.col-xs-6:nth-of-type(3)
 darak.me##+js(bab-defuser.js)
 darak.me##+js(nano-setInterval-booster.js)
