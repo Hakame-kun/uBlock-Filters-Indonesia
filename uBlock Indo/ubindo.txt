@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 12 May 2019, 00:08:44 WIB
+! Last modified: 12 May 2019, 14:18:05 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -33,11 +33,13 @@
 ||adexchangecloud.com$popunder
 ||adexchangecloud.com$popup
 ||adligature.com$third-party
+||admediatex.net$third-party
 ||adop.cc$third-party
 ||adright.co$third-party
 ||ads.$third-party
 ||ads.linkshrink.net$popunder
 ||ads-bitco.in$third-party
+||adsaturn.com$third-party
 ||adservice.google.*$third-party
 ||adsdonlot.in/css/ads_donlotin.css
 ||adsdonlot.in/get-ads-
@@ -379,6 +381,7 @@
 ||ratufilm.com/wp-content/uploads*gif
 ||rawgit.com$third-party,domain=ambian-movies.blogspot.com|cryptostar.tk|imroot001.ga|myanimeindo.net
 ||readvasturked.pro$third-party
+||regionads.ru$third-party
 ||restricted$third-party
 ||restricted*error=404$popup,third-party
 ||rtbapi.net$third-party
@@ -433,6 +436,7 @@
 ||top4top.net$third-party
 ||torpsol.com$popunder
 ||torpsol.com$popup,third-party
+||trafadsense.ru$third-party
 ||trafficsan.com$third-party
 ||translate.google.com$third-party,domain=faucethub.io
 ||tranquilside.com$third-party
@@ -1389,6 +1393,7 @@ sfile.mobi##+js(nano-setInterval-booster.js)
 shortit.pw##+js(bab-defuser.js)
 shortit.pw##+js(nano-setInterval-booster.js)
 sitowebinfo.com##+js(bab-defuser.js)
+sivitechno.com##+js(bab-defuser.js)
 speedtest.net##+js(nano-setInterval-booster.js)
 speedup-faucet.com##+js(bab-defuser.js)
 speedup-faucet.com##td:nth-of-type(3) > center:nth-of-type(2)
