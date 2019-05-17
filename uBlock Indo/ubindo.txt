@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 12 May 2019, 14:18:05 WIB
+! Last modified: 17 May 2019, 18:48:48 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -825,7 +825,7 @@
 /contador.php?$domain=faucetwhite.com
 /csi_204
 /demo.js$domain=payskip.me
-/download.$domain=idsly.org|safelinku.net
+/download$domain=idsly.org|muhammadyoga.me|safelinku.net
 /error_204
 /fortunejack$domain=treasurebits.net
 /gen204
@@ -1052,6 +1052,7 @@
 @@imgfrost.net$domain=imgfile.net
 @@imgfrost.net$popup,domain=imgfile.net
 @@inboxdollars.com
+@@ipeenk.com$elemhide
 @@jsdelivr.net
 @@juragan-anime.net/wp-content/cache
 @@jquery.com$domain=adbtc.top|adwerty.com|btcvic.com|cryptofarmer.com|easyhits4u.com|startxchange.com|surfbtc.com
@@ -1603,7 +1604,7 @@ futureurl.info###Test
 hdtvku.com###mybannerpopup
 healthproper.blogspot.com###adb
 idfl.*###fancybox-overlay
-idsly.net,idsly.org,jelajahinternet.me,merdekaid.online,updatetribun.org###m813
+idsly.net,idsly.org,jelajahinternet.me,merdekaid.online,muhammadyoga.me,updatetribun.org###m813
 liz.zdonlot.in###close-banner
 mediafire.com###abnotify
 opengapps.org###donatebox
