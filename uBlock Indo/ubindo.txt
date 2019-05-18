@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 18 May 2019, 10:34:20 WIB
+! Last modified: 18 May 2019, 10:42:50 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -1065,6 +1065,7 @@
 @@maxcdn.bootstrapcdn.com
 @@meongs.bid
 @@neobux.com$first-party
+@@njiir.com$elemhide
 @@nowfor.net,probusinesshub.com$first-party
 @@obix.space$elemhide
 @@onlinebee.in$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.solvemedia.com
@@ -1366,6 +1367,7 @@ muhammadyoga.me##+js(nano-setInterval-booster.js)
 multicoinfaucet.website##+js(bab-defuser.js)
 multimining.website##+js(nano-setInterval-booster.js)
 nekopoi.*##+js(bab-defuser.js)
+njiir.com##div.iklan
 njiir.com##+js(nano-setInterval-booster.js)
 nowfor.net##+js(bab-defuser.js)
 o-bitman.com##+js(bab-defuser.js)
