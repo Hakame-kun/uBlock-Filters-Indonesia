@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 17 May 2019, 18:48:48 WIB
+! Last modified: 18 May 2019, 10:34:20 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -1010,6 +1010,7 @@
 @@cryptocoinsad.com$first-party
 @@csi.gstatic.com$domain=cdn.applixir.com|imasdk.googleapis.com
 @@csstatic.com$domain=clixsense.com
+@@d.bloggerku.com/safelink$domain=www.njiir.com
 @@dc.services.visualstudio.com
 @@dc4in.com$elemhide
 @@dircont3.com/nvp.js
@@ -1069,6 +1070,7 @@
 @@onlinebee.in$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.solvemedia.com
 @@onlinebee.in$elemhide
 @@pagead2.googlesyndication.com$domain=cdn.applixir.com|directlink.booogle.net|herokuapp.com|imasdk.googleapis.com|safelink.top|uclick.in
+@@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=njiir.com
 @@picbaron.com$csp=script-src 'self'
 @@picbaron.com/img
 @@pixel.adsafeprotected.com$domain=tpc.googlesyndication.com
@@ -1360,14 +1362,17 @@ midiavip.com##+js(bab-defuser.js)
 mishangfaucets.com##+js(bab-defuser.js)
 mixfaucetsbrasil.com.br##+js(bab-defuser.js)
 mmbtcl.ink##+js(bab-defuser.js)
+muhammadyoga.me##+js(nano-setInterval-booster.js)
 multicoinfaucet.website##+js(bab-defuser.js)
 multimining.website##+js(nano-setInterval-booster.js)
 nekopoi.*##+js(bab-defuser.js)
+njiir.com##+js(nano-setInterval-booster.js)
 nowfor.net##+js(bab-defuser.js)
 o-bitman.com##+js(bab-defuser.js)
 obix.space##+js(nano-setInterval-booster.js)
 oploverz.in##s
 oploverz.in##u
+oploverzhome.com##+js(nano-setInterval-booster.js)
 ownbitcoins.net##+js(bab-defuser.js)
 payskip.me##+js(nano-setInterval-booster.js)
 pentafaucet.com##+js(bab-defuser.js)
@@ -1516,6 +1521,8 @@ luckybits.io##.ads-row.row
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
 myanimelist.net##._unit
 neonime.*##.block-player
+njiir.com##.bagi > .isi
+njiir.com##.separator
 onlinebee.in##.text-left
 ouo.io##.text-center > div
 pekalongan-kommuniti.net##.fb-btn-seocips
@@ -1607,6 +1614,8 @@ idfl.*###fancybox-overlay
 idsly.net,idsly.org,jelajahinternet.me,merdekaid.online,muhammadyoga.me,updatetribun.org###m813
 liz.zdonlot.in###close-banner
 mediafire.com###abnotify
+njiir.com###Blog1 > .title
+njiir.com###post
 opengapps.org###donatebox
 oploverz.in###btm_banner
 pekalongan-kommuniti.net###box-message
