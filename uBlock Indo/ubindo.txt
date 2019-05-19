@@ -1542,6 +1542,7 @@ wikitrade.me##.mh-sidebar.mh-widget-col-1
 wikitrade.me##.mh-site-logo
 wikitrade.me##.outboxA.outBox
 wikitrade.me##.swal2-in.swal2-fade.swal2-container
+zippyshare.com##.slickbox > .center
 zonawibu.bid##.artikel
 zonawibu.bid##h4
 zonawibu.bid##.thumbnail
@@ -1631,3 +1632,4 @@ tokenfly.pw###cookie-pop
 tribunnews.com###articleright
 webtoons.com###footer
 xydeyou.com###gc2f
+zippyshare.com###qrCode
