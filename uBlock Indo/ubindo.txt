@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 27 May 2019, 02:12:15 WIB
+! Last modified: 27 May 2019, 03:32:37 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -615,6 +615,7 @@
 *$third-party,domain=dutchycorp.ovh|dutchycorp.space
 *$third-party,domain=dwindly.io
 *$third-party,domain=earnbitcoinsnow.net
+*$third-party,domain=earnwithshortlink.com
 *$third-party,domain=easyhits4u.com
 *$third-party,domain=ebesucher.com
 *$third-party,domain=exc.10khits.com
@@ -710,6 +711,7 @@
 *$third-party,domain=shortlink.live
 *$third-party,domain=shortlink.win
 *$third-party,domain=shortsman.com
+*$third-party,domain=shrink.icu
 *$third-party,domain=shrinkme.in
 *$third-party,domain=siherp.com
 *$third-party,domain=siotong.com
@@ -742,6 +744,7 @@
 *$third-party,domain=urlsamo.com
 *$third-party,domain=vikingbtc.xyz
 *$third-party,domain=vincryptocoins.com
+*$third-party,domain=vipshort.com
 *$third-party,domain=vivads.net
 *$third-party,domain=vivebtc.win
 *$third-party,domain=want2crypto.com
@@ -1006,11 +1009,14 @@
 @@cdnjs.cloudflare.com/ajax/libs*css
 @@cdnjs.cloudflare.com/ajax/libs*js$domain=faucethub.io|randomsatoshi.win
 @@cdnjs.cloudflare.com/ajax/libs/blockadblock
+@@cdnjs.cloudflare.com/ajax/libs/fuckadblock
 @@cdnjs.cloudflare.com/ajax/libs/jquery$domain=acefile.co|btcleets.xyz
 @@cdnjs.cloudflare.com/ajax/libs/materialize$domain=firefaucet.win
 @@cdnjs.cloudflare.com/ajax/libs/sceditor
 @@cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
+@@claimbtc.in$elemhide
 @@claimcoin24.com$elemhide
+@@claimcoins.cc$elemhide
 @@claimulike.win$elemhide
 @@clearwebstats.com$first-party
 @@click2btc.com$elemhide
@@ -1080,6 +1086,7 @@
 @@juragan-anime.net/wp-content/cache
 @@jquery.com$domain=adbtc.top|adwerty.com|btcvic.com|cryptofarmer.com|easyhits4u.com|startxchange.com|surfbtc.com
 @@jwpcdn.com
+@@karimunbits.net$elemhide
 @@linkbucks.com/scripts/intermissionLink
 @@linkbucks.com/scripts/script-adv.js
 @@linkbucksmedia.com
@@ -1392,6 +1399,7 @@ midiavip.com##+js(bab-defuser.js)
 mishangfaucets.com##+js(bab-defuser.js)
 mixfaucetsbrasil.com.br##+js(bab-defuser.js)
 mmbtcl.ink##+js(bab-defuser.js)
+mtofficial.com##+js(bab-defuser.js)
 muhammadyoga.me##+js(nano-setInterval-booster.js)
 multicoinfaucet.website##+js(bab-defuser.js)
 multimining.website##+js(nano-setInterval-booster.js)
@@ -1542,6 +1550,7 @@ indoxxi.*##.jwseed
 ironime.org##.anon
 juragan-anime.net##.ads
 juraganfiles.com##.no-padding.box.container > center
+karimunbits.net##.iklan-kiri
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
 lebahmovie.com##.idmuvi-floatbanner-footer.idmuvi-floatbanner
@@ -1551,6 +1560,7 @@ lk21.web.id##.row:nth-of-type(3)
 lk21.web.id##.row:nth-of-type(6)
 luckybits.io##.ads-row.row
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
+mtofficial.com##.iklan-kiri
 myanimelist.net##._unit
 neonime.*##.block-player
 njiir.com##.ADS
@@ -1572,6 +1582,7 @@ wikitrade.me##.mh-sidebar.mh-widget-col-1
 wikitrade.me##.mh-site-logo
 wikitrade.me##.outboxA.outBox
 wikitrade.me##.swal2-in.swal2-fade.swal2-container
+zapme.top##.overlay
 zippyshare.com##.slickbox > .center
 zonawibu.bid##.artikel
 zonawibu.bid##h4
