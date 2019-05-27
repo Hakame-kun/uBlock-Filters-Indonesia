@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 27 May 2019, 03:32:37 WIB
+! Last modified: 27 May 2019, 15:11:27 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -90,6 +90,8 @@
 ||bitpaste.info*banners
 ||bitpopunder.com$third-party
 ||bitrad.io$third-party
+||bit-url.com/ffvllvpcvohw
+||bit-url.com/special08
 ||bmst.pw$third-party
 ||bolaoke.club/wp-content/uploads*.jpg
 ||bonusbitcoin.co$third-party
@@ -601,6 +603,7 @@
 *$third-party,domain=cutlink.xyz
 *$third-party,domain=cutads.win
 *$third-party,domain=cuturl.in
+*$third-party,domain=digitask.ru
 *$third-party,domain=dinoving.com
 *$third-party,domain=doge-coin.top
 *$third-party,domain=dogeclix.com
@@ -770,6 +773,7 @@
 *$popup,third-party,domain=claimulike.win
 *$popup,third-party,domain=clk.press|cll.press
 *$popup,third-party,domain=clik.pw
+*$popup,third-party,domain=coindows.com
 *$popup,third-party,domain=cointalk.club
 *$popup,third-party,domain=cryptoadz.win
 *$popup,third-party,domain=cryptomininggame.com
@@ -841,14 +845,9 @@
 /check.js
 /coinpayments.jpg$domain=alinafaucet.win|furturebitearnmore.xyz
 /contador.php?$domain=faucetwhite.com
-/csi_204
 /demo.js$domain=payskip.me
 /download$domain=idsly.org|muhammadyoga.me|safelinku.net
-/error_204
 /fortunejack$domain=treasurebits.net
-/gen204
-/gen_204
-/generate_204
 /hitomi/nutaku/
 /HOKI365.gif
 /hoyajackpot-slider-
@@ -1044,6 +1043,7 @@
 @@faucet4claim.com$elemhide
 @@faucetfly.com$elemhide
 @@faucethut.tk$elemhide
+@@faucetspro.com$elemhide
 @@febbit.com$elemhide
 @@firefaucet.win$elemhide
 @@fiyar.live$domain=imgfile.net
@@ -1087,9 +1087,11 @@
 @@jquery.com$domain=adbtc.top|adwerty.com|btcvic.com|cryptofarmer.com|easyhits4u.com|startxchange.com|surfbtc.com
 @@jwpcdn.com
 @@karimunbits.net$elemhide
+@@keycaptcha.com
 @@linkbucks.com/scripts/intermissionLink
 @@linkbucks.com/scripts/script-adv.js
 @@linkbucksmedia.com
+@@linkdows.pw$elemhide
 @@mangakyo.net$elemhide
 @@maxcdn.bootstrapcdn.com
 @@meongs.bid
@@ -1143,6 +1145,7 @@
 @@www.w3schools.com*css
 @@xydeyou.com$popup
 @@youtube.com$domain=bitverts.io
+@@youtube.com/ad_data$domain=linkdows.pw
 @@zetabitco.com$elemhide
 
 ! ========== Custom List ==========
@@ -1163,6 +1166,7 @@
 ##a[href*="inclk.com"]
 ##a[href*="mellowads.com"]
 ##a[href*="oupushee.com"]
+##a[href*="pegloang.com"]
 ##a[href*="wedeegut.net"]
 ##a[href*="z6naousb.com"]
 ! -------------------------------------
@@ -1262,6 +1266,7 @@ claimfreebch.win##+js(bab-defuser.js)
 claimfreeblk.win##+js(bab-defuser.js)
 claimfreebtc.win##+js(bab-defuser.js)
 claimfreebtx.win##+js(bab-defuser.js)
+claimfreecoins.io##+js(bab-defuser.js)
 claimfreedash.win##+js(bab-defuser.js)
 claimfreedoge.win##+js(bab-defuser.js)
 claimfreeltc.win##+js(bab-defuser.js)
@@ -1464,6 +1469,7 @@ varclaim.website##+js(bab-defuser.js)
 vikingbtc.xyz##+js(bab-defuser.js)
 vikingbtc.xyz##+js(nano-setInterval-booster.js)
 vivocoin.com##+js(bab-defuser.js)
+voxc.org##h4
 want2crypto.com##+js(bab-defuser.js)
 warriorfaucet.com##+js(bab-defuser.js)
 weebly.com##+js(bab-defuser.js)
@@ -1535,6 +1541,8 @@ bolaoke.club##.clearfix.mh-wrapper
 btcleets.xyz,coin.mg,onlinebee.in##.banner-captcha.banner
 citpekalongan.com##.section.header-right
 coin.mg##.box-main > center
+coindows.com##.banner-inner
+coindows.com##.floater
 crimesagainsttheelderly.com##.ads
 crimesagainsttheelderly.com##.banner3
 darak.me##.table-responsive
@@ -1542,6 +1550,7 @@ darak.me##.text-center.col-md-12
 earn-url.com##.banner-336x280.banner
 efx2.com##.pageku:nth-of-type(4)
 fanbatch.us##.featuredimg
+flaz.link##.blog-item
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
 greget.space##.c-message > div:nth-of-type(2)
@@ -1575,6 +1584,9 @@ speedtest.net##.lower-horizontal.ad
 speedtest.net##.notification-container
 speedtest.net##.top-horizontal
 susutinv2.com##.panel-body.panel-default.panel > h3
+tokenfly.pw##.banner-captcha.banner
+tokenfly.pw##.box-main > center:nth-of-type(1)
+tokenfly.pw##.box-main > p
 waktunonton.com##.idmuvi-topbanner-aftermenu
 wikitrade.me##.mh-clearfix.entry-header
 wikitrade.me##.mh-clearfix.mh-row.mh-post-nav
@@ -1653,6 +1665,7 @@ dataid.us###loading
 dewafile.com###download
 dutchycorp.space###boxes
 easyhits4u.com###countDown
+faucetspro.com,firefaucet.win###sad-1
 futureurl.info###Test
 grabmylink.xyz###gb
 hdtvku.com###mybannerpopup
@@ -1670,6 +1683,7 @@ platinmods.com###siropuChat
 revolt.group###category_shoutbox
 ryn.cc###main > div:nth-of-type(1)
 ryn.cc###main > div:nth-of-type(2)
+short.pe###dfp
 speedup-faucet.com###mainbody > center:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
 tokenfly.pw###cookie-pop
 tribunnews.com###articleright
