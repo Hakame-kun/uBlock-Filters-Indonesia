@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 27 May 2019, 15:11:27 WIB
+! Last modified: 27 May 2019, 15:27:25 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -145,6 +145,7 @@
 ||crypto-loot.com$third-party
 ||cryptobrowser.site$third-party
 ||cryptofarmer.com$third-party
+||crypto-fun.cf/trafic
 ||cryptomarketcap.pw$third-party
 ||cryptomininggame.com/bundles/front/js/disab.js
 ||cusok.ru$third-party
@@ -664,6 +665,7 @@
 *$third-party,domain=kimotech3.com
 *$third-party,domain=kuturl.com
 *$third-party,domain=kuyhaa.me
+*$third-party,domain=crypto-fun.cf
 *$third-party,domain=link-zero.com
 *$third-party,domain=link4win.com
 *$third-party,domain=linkrag.com
@@ -1257,6 +1259,7 @@ blockadblock.com##+js(bab-defuser.js)
 bolaoke.club##+js(nano-setInterval-booster.js)
 btcfaucet.design##+js(bab-defuser.js)
 btcmines.club##+js(bab-defuser.js)
+btc.ms##div.col-md-12:nth-of-type(1)
 chopcoin.io##+js(bab-defuser.js)
 claimbit.top##+js(bab-defuser.js)
 claimbits.io##+js(bab-defuser.js)
@@ -1384,6 +1387,7 @@ infaucet.site##+js(bab-defuser.js)
 infotrendy.me##+js(nano-setInterval-booster.js)
 ironime.org##+js(abort-current-inline-script.js, addEventListener)
 jelajahinternet.me##+js(nano-setInterval-booster.js)
+justlikeyojna.com##center:nth-of-type(1) > strong
 karimunbits.net##+js(bab-defuser.js)
 keplakneh.com##+js(nano-setInterval-booster.js)
 lenov.ru##+js(nano-setInterval-booster.js)
@@ -1538,13 +1542,17 @@ bitcoincore.us##.bottom-separator.text-center.col-sm-12
 bitformations.website##.article
 bitformations.website##.sidebar_list
 bolaoke.club##.clearfix.mh-wrapper
-btcleets.xyz,coin.mg,onlinebee.in##.banner-captcha.banner
+btcleets.xyz,coin.mg,onlinebee.in,techcraze.online##.banner-captcha.banner
 citpekalongan.com##.section.header-right
 coin.mg##.box-main > center
-coindows.com##.banner-inner
+coindows.com,crabcut.net##.banner-inner
 coindows.com##.floater
 crimesagainsttheelderly.com##.ads
 crimesagainsttheelderly.com##.banner3
+cu5.io##.col-md-8
+cu5.io##.faq
+cu5.io##.link > .container > .row > .text-center.col-md-12
+cu5.io##.short
 darak.me##.table-responsive
 darak.me##.text-center.col-md-12
 earn-url.com##.banner-336x280.banner
@@ -1559,6 +1567,7 @@ indoxxi.*##.jwseed
 ironime.org##.anon
 juragan-anime.net##.ads
 juraganfiles.com##.no-padding.box.container > center
+justlikeyojna.com##.text-left
 karimunbits.net##.iklan-kiri
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
