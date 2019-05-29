@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 27 May 2019, 15:27:25 WIB
+! Last modified: 30 May 2019, 02:15:41 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -248,6 +248,7 @@
 ||ibb.co$third-party,domain=lk21.web.id|lk21tv.web.id
 ||idfl.*/fancybox
 ||idsly.com$third-party
+||idxxi.co/wp-content/uploads/*gif
 ||iewsaprgerkjny.com$third-party
 ||iframedogecoin.com$third-party
 ||iframedogecoin.xyz$third-party
@@ -267,9 +268,9 @@
 ||impressionsme.net$third-party
 ||inclk.com/itab/sa?cid=$popunder
 ||inclk.com/itab/sa?cid=$popup,third-party
-||idxxi.co/wp-content/uploads/*gif
 ||inlink.site/wp-content/uploads/
 ||instant-smo.com$third-party
+||internetdefenseleague.org$third-party
 ||internetpositif.uzone.id
 ||involve.asia$third-party
 ||ipify.org$third-party
@@ -941,7 +942,7 @@
 @@/adframe.$domain=aalyafaucet.com|adf.ly|bitcofarm.com|browseandlearn.com|claimfreebtc.win|climbtoread.com|qualityfilehosting.com|readingpapers.com|searchwithout.com|todaypostings.com|topreadarticles.com|upliftingvotes.com|upvotedentries.com|votesofthecentury.com
 @@/ads.js$domain=btcmines.club|dogeclix.com|hentaigasm.com
 @@/ads.min.js$domain=dashfaucet.net
-@@/advertisement$domain=alekscoin.com|bitcoinmoney.info|cryptoprofits.in.ua|douploads.com|faucetfly.com|file-up.org|hubcoins.xyz|solidfiles.com
+@@/advertisement$domain=4miner.me|alekscoin.com|bitcoinmoney.info|cryptoprofits.in.ua|douploads.com|faucetfly.com|file-up.org|hubcoins.xyz|solidfiles.com
 @@/advertising.$domain=gamepix.com
 @@/aff_ad?$popup
 @@/bootstrap$domain=userscloud.com
@@ -954,7 +955,7 @@
 @@/hello^$xmlhttprequest,domain=speedtest.net
 @@/js/ads$domain=alexamaster.net
 @@/ping^$xmlhttprequest,domain=speedtest.net
-@@/safelink$domain=detikbintang.blogspot.com
+@@/safelink$domain=detikbintang.blogspot.com|safelink-49.blogspot.com
 @@/showads.js$domain=heliohost.org
 @@/Sites/admin/Scripts/md5.min.js
 @@/themes$domain=fortstore.net|iceimg.net|imgfile.net
@@ -969,7 +970,7 @@
 @@about:blank$domain=adbtc.top
 @@acefile.co$domain=awsubs.tv
 @@aceservice.club$domain=acefile.co
-@@ad4msan.com$generichide
+@@ad4msan.com$elemhide
 @@adf.ly/js/display.js
 @@adf.ly/*.php$popup
 @@adfoc.us$domain=adfoc.us
@@ -1030,6 +1031,7 @@
 @@coinhive.com$domain=btc-miner.online
 @@cointiply.com$elemhide
 @@content.jwplatform.com$domain=acefile.co
+@@crypto-all.com$elemhide
 @@crypto-loot.com$first-party
 @@cryptocoinsad.com$first-party
 @@csi.gstatic.com$domain=cdn.applixir.com|imasdk.googleapis.com
@@ -1045,6 +1047,7 @@
 @@faucet4claim.com$elemhide
 @@faucetfly.com$elemhide
 @@faucethut.tk$elemhide
+@@faucetworld.in$elemhide
 @@faucetspro.com$elemhide
 @@febbit.com$elemhide
 @@firefaucet.win$elemhide
@@ -1198,6 +1201,7 @@ modapi.survivetheforest.net#@##cookie-dialog
 123link.pw##+js(nano-setInterval-booster.js)
 1idsly.com##+js(nano-setInterval-booster.js)
 1ink.info##+js(nano-setInterval-booster.js)
+4miner.me##+js(noeval.js)
 8raa.com##+js(bab-defuser.js)
 94lauin.com,elsfile.org##+js(abort-on-property-read.js, h237)
 94lauin.com,elsfile.org##+js(nano-setInterval-booster.js)
@@ -1298,6 +1302,7 @@ coinsmondo.com##+js(bab-defuser.js)
 cointalk.club##+js(bab-defuser.js)
 crazysat.ru##+js(bab-defuser.js)
 crypto-flash.com##+js(bab-defuser.js)
+crypto-all.com,faucetworld.in##div.hide-on-med-and-down.l3.col
 cryptobite.site##+js(bab-defuser.js)
 cryptobro.xyz##+js(bab-defuser.js)
 cryptoclaimer.website##+js(bab-defuser.js)
@@ -1330,6 +1335,7 @@ dogy.cf##+js(bab-defuser.js)
 dogy.cf##+js(nano-setInterval-booster.js)
 dripcoin.net##+js(bab-defuser.js)
 dungmak.com##+js(bab-defuser.js)
+dutchycorp.ovh,dutchycorp.space##div.hide-on-small-only
 dynamicssh.com##+js(abort-on-property-read.js)
 dynamicssh.com##+js(nano-setInterval-booster.js)
 earn4cut.com##+js(nano-setInterval-booster.js)
@@ -1521,6 +1527,7 @@ zippyanime.net##+js(nano-setInterval-booster.js)
 21moviemania.club,cinemaindo.co,lebahmovie.com,waktunonton.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
+adsrt.me##.rounded_shape2.rounded_shape
 alinafaucet.win##.form > center
 anisubindo.org##.ArevicoModal-bg
 anjay.info,coeg.in,siherp.com,siotong.com,telondasmu.com,tetew.info##.c-message > div:nth-of-type(1)
@@ -1633,6 +1640,7 @@ zonawibu.me##.infopost
 ###popup
 ###popup_main_video
 ###s141
+###sad-1
 ###tevrzbo-blanket
 ###unblocker
 ###v3ea
@@ -1670,11 +1678,11 @@ coins4claim.com,free4claim.com###mydiv
 coins4claim.com,free4claim.com###mydiv1
 cointalk.club###left-adspace
 cointalk.club###right-adspace
+crypto-all.com,faucetworld.in,faucetspro.com,firefaucet.win###sad-1
 dataid.us###loading
 dewafile.com###download
 dutchycorp.space###boxes
 easyhits4u.com###countDown
-faucetspro.com,firefaucet.win###sad-1
 futureurl.info###Test
 grabmylink.xyz###gb
 hdtvku.com###mybannerpopup
