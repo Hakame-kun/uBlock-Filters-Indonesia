@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 30 May 2019, 02:15:41 WIB
+! Last modified: 01 June 2019, 11:33:48 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -260,6 +260,7 @@
 ||imgadult.com/anex
 ||imgadult.com/ea
 ||imgfile.net/vip/serve
+||imgrock.pw/nxhjez
 ||imgtaxi.com/altiframe
 ||imgtaxi.com/anex/alt.js
 ||imgtaxi.com/ea/fl.js
@@ -809,6 +810,7 @@
 *$popup,third-party,domain=time4earn.com
 *$popup,third-party,domain=tokenfly.pw
 *$popup,third-party,domain=tmearn.pro
+*$popup,third-party,domain=upload.ee
 *$popup,third-party,domain=urltrim.us
 *$popup,third-party,domain=urle.co
 *$popup,third-party,domain=voxc.org
@@ -849,7 +851,7 @@
 /coinpayments.jpg$domain=alinafaucet.win|furturebitearnmore.xyz
 /contador.php?$domain=faucetwhite.com
 /demo.js$domain=payskip.me
-/download$domain=idsly.org|muhammadyoga.me|safelinku.net
+/download$domain=idsly.org|jelajahinternet.me|muhammadyoga.me|safelinku.net
 /fortunejack$domain=treasurebits.net
 /hitomi/nutaku/
 /HOKI365.gif
@@ -1159,6 +1161,7 @@
 ##a[href*="6c37f8a12dede103bf7.com"]
 ##a[href*="/76BMlHexsYA&fix=1"]
 ##a[href*="adserver.adreactor.com"]
+##a[href*="baipagid.com"]
 ##a[href*="bit.ly/2B5aXup"]
 ##a[href*="bit.ly/2fxPTzf"]
 ##a[href*="bit.ly/2jR0KYY"]
