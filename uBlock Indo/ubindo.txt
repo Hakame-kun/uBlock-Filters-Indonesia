@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 01 June 2019, 11:33:48 WIB
+! Last modified: 13 June 2019, 20:17:58 WIB
 ! Expires: 7 days (update frequency)
 
 ! ========== URL List ==========
@@ -973,6 +973,7 @@
 @@acefile.co$domain=awsubs.tv
 @@aceservice.club$domain=acefile.co
 @@ad4msan.com$elemhide
+@@ad4msan.win$elemhide
 @@adf.ly/js/display.js
 @@adf.ly/*.php$popup
 @@adfoc.us$domain=adfoc.us
@@ -1175,6 +1176,7 @@
 ##a[href*="mellowads.com"]
 ##a[href*="oupushee.com"]
 ##a[href*="pegloang.com"]
+##a[href*="psoashee.net"]
 ##a[href*="wedeegut.net"]
 ##a[href*="z6naousb.com"]
 ! -------------------------------------
@@ -1210,6 +1212,8 @@ modapi.survivetheforest.net#@##cookie-dialog
 94lauin.com,elsfile.org##+js(nano-setInterval-booster.js)
 9files.co,addfile.org,qtfile.com,upfile.mobi##a[href*="onamind.com"]
 aalyafaucet.com##+js(bab-defuser.js)
+ad4msan.win##center > p:nth-of-type(2)
+ad4msan.win##p:nth-of-type(3)
 adbull.cc##+js(bab-defuser.js)
 adrianocoins.com##+js(bab-defuser.js)
 adspuma.com##a[href*="psoaghie.net"]
@@ -1530,6 +1534,8 @@ zippyanime.net##+js(nano-setInterval-booster.js)
 21moviemania.club,cinemaindo.co,lebahmovie.com,waktunonton.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
+ad4msan.win##.adsbygoogle
+ad4msan.win##.entry-content > p
 adsrt.me##.rounded_shape2.rounded_shape
 alinafaucet.win##.form > center
 anisubindo.org##.ArevicoModal-bg
@@ -1655,6 +1661,7 @@ zonawibu.me##.infopost
 123short.com,clk.press,getlink.pw,tokenfly.pw###headlineatas
 a-ads.com###news_feed
 aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,cointalk.club,faucet.kiwi,faucethero.com,free4claim.com,furturebitearnmore.xyz,mazenbtc.com###middle-adspace
+ad4msan.win###secondary
 altervista.org###ad
 altervista.org###ad_overlay
 androidrepublic.org###siropuChat
