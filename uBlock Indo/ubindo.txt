@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 07 July 2019, 20:24:58 WIB
+! Last modified: 07 July 2019, 20:43:43 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -1421,7 +1421,9 @@ luckybitco.in##+js(bab-defuser.js)
 luckybits.io##+js(bab-defuser.js)
 luckybits.io##+js(nano-setInterval-booster.js)
 mazenbtc.com##+js(bab-defuser.js)
-mediafire.com##.on.lightbox
+mediakita.blog##center:nth-of-type(2)
+mediakita.blog##div.col-lg-4:nth-of-type(2) > center
+mediakita.blog##+js(nano-setInterval-booster.js)
 melovin.site##+js(bab-defuser.js)
 meownime.com##+js(noeval.js)
 merdekaid.online##+js(nano-setInterval-booster.js)
@@ -1602,6 +1604,7 @@ lenov.ru##.clearfix.rek-red.rek-but
 lk21.web.id##.row:nth-of-type(3)
 lk21.web.id##.row:nth-of-type(6)
 luckybits.io##.ads-row.row
+mediafire.com##.on.lightbox
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
 mtofficial.com##.iklan-kiri
 myanimelist.net##._unit
