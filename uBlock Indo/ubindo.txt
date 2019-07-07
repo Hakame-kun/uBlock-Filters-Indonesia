@@ -1,6 +1,6 @@
 ! Title: uBlock Indo
-! Last modified: 13 June 2019, 20:17:58 WIB
-! Expires: 7 days (update frequency)
+! Last modified: 07 July 2019, 20:24:58 WIB
+! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
 
@@ -181,6 +181,7 @@
 ||emeraldbux.com$third-party
 ||enrilov.info$third-party
 ||envo.co$third-party
+||erxalim.xyz$third-party
 ||eversely.com$third-party
 ||evidon.com$third-party
 ||ewparo.ru$third-party
@@ -357,6 +358,7 @@
 ||paripartners55.com$third-party
 ||pc2ads.com$third-party
 ||pgl.yoyo.org$third-party
+||picbaron.com/test.php
 ||pindered.info$third-party
 ||platinmods.com/deferred.php
 ||platinmods.com/index.php?chat/refresh
@@ -792,6 +794,7 @@
 *$popup,third-party,domain=grabmylink.xyz
 *$popup,third-party,domain=gsul.me
 *$popup,third-party,domain=ialphacoins.com
+*$popup,third-party,domain=imgbaron.com
 *$popup,third-party,domain=imgfile.net
 *$popup,third-party,domain=linktor.io
 *$popup,third-party,domain=olgkzlwln.net
@@ -965,6 +968,7 @@
 @@/upload^$xmlhttprequest,domain=speedtest.net
 @@/wp-content/themes/jannah/js
 ! ----------------------------------------
+@@159.65.130.32$elemhide
 @@1ink.cc$elemhide
 @@1ink.cc/api/pass.php
 @@1ink.cc/includes/ajax/jquery.js
@@ -1070,6 +1074,7 @@
 @@getlink.pw$first-party
 @@google.com$domain=criptius.com
 @@googleapis.com/drive$domain=acefile.co
+@@googletagmanager.com$domain=jd.id
 @@googleusercontent.com$domain=acefile.co
 @@grabmylink.xyz$elemhide
 @@greenfaucet.win$elemhide
@@ -1145,10 +1150,12 @@
 @@unpkg.com$domain=btcleets.xyz|easyhits4u.com|firefaucet.win|ptcwall.com
 @@updatetribun.org$popup,domain=awsubs.tv
 @@userscloud.com/?op=login&method=
+@@vizury.com$domain=jd.id
 @@vjs.zencdn.net$domain=sendit.cloud
 @@want2crypto.com$elemhide
 @@weheartbitcoin.com$elemhide
 @@wicr.in$elemhide
+@@wl.jd.com
 @@wp.com$domain=awsubs.tv
 @@www.w3schools.com*css
 @@xydeyou.com$popup
@@ -1190,6 +1197,7 @@ earnbig.ca#@#+js(nano-setInterval-booster.js)
 link-zero.com#@#+js(nano-setInterval-booster.js)
 payskip.me#@#+js(nano-setInterval-booster.js)
 short2win.com#@#+js(nano-setInterval-booster.js)
+solidfiles.com#@#div[class^="bnr-"]
 vinaurl.in#@#.adsbygoogle
 wi.cr#@#+js(nano-setInterval-booster.js)
 ! Unblock Elements --------------------
@@ -1425,6 +1433,7 @@ mtofficial.com##+js(bab-defuser.js)
 muhammadyoga.me##+js(nano-setInterval-booster.js)
 multicoinfaucet.website##+js(bab-defuser.js)
 multimining.website##+js(nano-setInterval-booster.js)
+mytreep.icu##+js(bab-defuser.js)
 nekopoi.*##+js(bab-defuser.js)
 njiir.com##div.iklan
 njiir.com##+js(nano-setInterval-booster.js)
@@ -1699,6 +1708,7 @@ hdtvku.com###mybannerpopup
 healthproper.blogspot.com###adb
 idfl.*###fancybox-overlay
 idsly.net,idsly.org,jelajahinternet.me,merdekaid.online,muhammadyoga.me,updatetribun.org###m813
+imgbaron.com###iframe-fb
 liz.zdonlot.in###close-banner
 mediafire.com###abnotify
 njiir.com###Blog1 > .title
