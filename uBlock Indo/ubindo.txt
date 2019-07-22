@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 23 July 2019, 01:41:03 WIB
+! Last modified: 23 July 2019, 02:00:40 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -40,10 +40,11 @@
 ||ads.linkshrink.net$popunder
 ||ads-bitco.in$third-party
 ||adsaturn.com$third-party
-||adservice.google.*$third-party
+||adsdime.com$third-party
 ||adsdonlot.in/css/ads_donlotin.css
 ||adsdonlot.in/get-ads-
 ||adsdonlot.in/js/popup_donlotin.js
+||adservice.google.*$third-party
 ||adsoptimal.com$third-party
 ||adsrv4k.com$third-party
 ||adtival.com$third-party
@@ -629,6 +630,7 @@
 *$third-party,domain=easyhits4u.com
 *$third-party,domain=ebesucher.com
 *$third-party,domain=exc.10khits.com
+*$third-party,domain=f2link.online
 *$third-party,domain=fast-autos.tk
 *$third-party,domain=fastfreebtc.tk
 *$third-party,domain=faucet.kiwi
@@ -787,6 +789,7 @@
 *$popup,third-party,domain=cryptomininggame.com
 *$popup,third-party,domain=cryptoworld.gq
 *$popup,third-party,domain=dinoving.com
+*$popup,third-party,domain=dutchycorp.ovh
 *$popup,third-party,domain=dwindly.io
 *$popup,third-party,domain=esy.es
 *$popup,third-party,domain=futureurl.info
@@ -798,6 +801,7 @@
 *$popup,third-party,domain=ialphacoins.com
 *$popup,third-party,domain=imgbaron.com
 *$popup,third-party,domain=imgfile.net
+*$popup,third-party,domain=linksapk.com
 *$popup,third-party,domain=linktor.io
 *$popup,third-party,domain=olgkzlwln.net
 *$popup,third-party,domain=ouo.io
@@ -1108,6 +1112,7 @@
 @@linkbucks.com/scripts/script-adv.js
 @@linkbucksmedia.com
 @@linkdows.pw$elemhide
+@@linksapk.com$elemhide
 @@luckybits.io/static/ads/popunder.js
 @@mangakyo.net$elemhide
 @@maxcdn.bootstrapcdn.com
