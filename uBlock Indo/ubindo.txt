@@ -71,6 +71,7 @@
 ||arequiry.info$third-party
 ||areyouahuman.com$third-party
 ||asiatoday.online$third-party
+||assampant.club$third-party
 ||assets.adobedtm.com$third-party
 ||auplod.com$third-party
 ||authedmine.com$third-party
@@ -345,7 +346,7 @@
 ||old.dshe.gov.bd$third-party
 ||onesignal.com$third-party
 ||onhandrecipes.com$third-party
-||onlyhgames.com/fdload
+||onlyhgames.com/balo
 ||orbisbux.com$third-party
 ||orgalso.com$third-party
 ||osg777id.com$popup,third-party
@@ -477,6 +478,7 @@
 ||webminepool.com$third-party
 ||wentshops.xyz$popup,third-party
 ||whxhegjrqlddko.com$third-party
+||wi.cr/bn.png$image
 ||wikitrade.me/wp-content/uploads*
 ||wistia.com$third-party
 ||wizknbrgxuqjo.com$third-party
@@ -991,8 +993,9 @@
 @@ajax.googleapis.com
 @@alexamaster.net/ads/saturn.
 @@allcoins.pw$elemhide
-@@anifiles.org/themes/flow/
 @@ani-share.com$generichide
+@@anibatch.me$generichide
+@@anifiles.org/themes/flow/
 @@anisubindo.org$generichide
 @@api.dmcdn.net
 @@api.solvemedia.com
@@ -1078,7 +1081,7 @@
 @@googleusercontent.com$domain=acefile.co
 @@grabmylink.xyz$elemhide
 @@greenfaucet.win$elemhide
-@@hcaptcha.com$third-party,domain=firefaucet.win
+@@hcaptcha.com
 @@hit4hit.org$first-party
 @@hitlink.com$first-party
 @@igg-games.com
@@ -1105,6 +1108,7 @@
 @@linkbucks.com/scripts/script-adv.js
 @@linkbucksmedia.com
 @@linkdows.pw$elemhide
+@@luckybits.io/static/ads/popunder.js
 @@mangakyo.net$elemhide
 @@maxcdn.bootstrapcdn.com
 @@meongs.bid
@@ -1139,6 +1143,7 @@
 @@stackpathcdn.com$domain=shortlink.live
 @@stackpath.bootstrapcdn.com/bootstrap
 @@starcoins.ws$elemhide
+@@sturl.pw$elemhide
 @@superrewards-offers.com$domain=hit4hit.org
 @@systweak.com$first-party
 @@tasks.figure-eight.work/channels/neodev
@@ -1162,6 +1167,7 @@
 @@youtube.com$domain=bitverts.io
 @@youtube.com/ad_data$domain=linkdows.pw
 @@zetabitco.com$elemhide
+@@zippyshare.com$elemhide
 
 ! ========== Custom List ==========
 
@@ -1197,10 +1203,11 @@ earnbig.ca#@#+js(nano-setInterval-booster.js)
 link-zero.com#@#+js(nano-setInterval-booster.js)
 payskip.me#@#+js(nano-setInterval-booster.js)
 short2win.com#@#+js(nano-setInterval-booster.js)
-solidfiles.com#@#div[class^="bnr-"]
 vinaurl.in#@#.adsbygoogle
 wi.cr#@#+js(nano-setInterval-booster.js)
 ! Unblock Elements --------------------
+solidfiles.com#@#div[class^="bnr-"]
+queenfaucet.website#@#+js(addEventListener-defuser, click, trigger)
 2shorten.com#@#.banner-728x90
 cointiply.com#@#.ad-panel
 cointiply.com#@#.adsbox
@@ -1357,6 +1364,7 @@ earn4cut.com##+js(nano-setInterval-booster.js)
 earnfreebitcoins.xyz##+js(nano-setInterval-booster.js)
 eth-faucet.net##+js(bab-defuser.js)
 ethereum-faucet.org##+js(bab-defuser.js)
+expressbulletin.in##+js(bab-defuser.js)
 expressfaucet.com##+js(bab-defuser.js)
 fapcoin.cc##+js(bab-defuser.js)
 faucet.kiwi##+js(bab-defuser.js)
@@ -1404,6 +1412,7 @@ icucu.icu##+js(bab-defuser.js)
 idsht.me##+js(nano-setInterval-booster.js)
 idsly.*##+js(nano-setInterval-booster.js)
 idxxi.co##+js(nano-setInterval-booster.js)
+indiamartoffers.com##+js(bab-defuser.js)
 infaucet.site##+js(bab-defuser.js)
 infotrendy.me##+js(nano-setInterval-booster.js)
 ironime.org##+js(abort-current-inline-script.js, addEventListener)
@@ -1420,6 +1429,7 @@ linkpoi.*##+js(abort-current-inline-script.js, addEventListener)
 luckybitco.in##+js(bab-defuser.js)
 luckybits.io##+js(bab-defuser.js)
 luckybits.io##+js(nano-setInterval-booster.js)
+maxfaucet.com##+js(abort-on-property-read.js, FuckAdBlock)
 mazenbtc.com##+js(bab-defuser.js)
 mediakita.blog##center:nth-of-type(2)
 mediakita.blog##div.col-lg-4:nth-of-type(2) > center
@@ -1472,6 +1482,7 @@ shortit.pw##+js(bab-defuser.js)
 shortit.pw##+js(nano-setInterval-booster.js)
 sitowebinfo.com##+js(bab-defuser.js)
 sivitechno.com##+js(bab-defuser.js)
+sova.network##+js(abort-on-property-read.js, FuckAdBlock)
 speedtest.net##+js(nano-setInterval-booster.js)
 speedup-faucet.com##+js(bab-defuser.js)
 speedup-faucet.com##td:nth-of-type(3) > center:nth-of-type(2)
@@ -1482,6 +1493,7 @@ speedup-faucet.com##tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(1) >
 speedup-faucet.com##tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(2) > td
 starcoins.ws##+js(bab-defuser.js)
 startxchange.com##+js(nano-setInterval-booster.js)
+sturl.pw##+js(bab-defuser.js)
 suarankri.me##+js(nano-setInterval-booster.js)
 susutinv2.com##p:nth-of-type(n)
 synced-rewards.com##+js(bab-defuser.js)
@@ -1506,6 +1518,7 @@ wicr.in##+js(nano-setInterval-booster.js)
 wikitrade.me##p:nth-of-type(n)
 wikitrade.me##+js(nano-setInterval-booster.js)
 wolf-faucet.win##+js(bab-defuser.js)
+xcolander.com##+js(abort-on-property-read.js, FuckAdBlock)
 yasinews.xyz##+js(bab-defuser.js)
 zandey.com##+js(bab-defuser.js)
 zetabitco.com##+js(bab-defuser.js)
@@ -1615,6 +1628,7 @@ njiir.com##.separator
 onlinebee.in##.text-left
 ouo.io##.text-center > div
 pekalongan-kommuniti.net##.fb-btn-seocips
+queenfaucet.website##.modal
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
 speedtest.net##.lower-horizontal.ad
@@ -1676,6 +1690,7 @@ aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,coint
 ad4msan.win###secondary
 altervista.org###ad
 altervista.org###ad_overlay
+amber-tron.cf###bg_popup
 androidrepublic.org###siropuChat
 awsubs.tv###floatcenter
 awsubs.tv###overplay
