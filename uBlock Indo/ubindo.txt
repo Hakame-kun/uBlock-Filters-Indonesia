@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 07 July 2019, 20:43:43 WIB
+! Last modified: 23 July 2019, 01:41:03 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
