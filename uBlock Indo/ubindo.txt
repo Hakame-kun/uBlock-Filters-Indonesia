@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 23 July 2019, 02:00:40 WIB
+! Last modified: 23 July 2019, 20:00:20 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -138,6 +138,7 @@
 ||consoletarget.com$third-party
 ||contextbar.ru$third-party
 ||cooster.ru$third-party
+||coothupu.net$third-party
 ||cpaoptimizer.com$popunder
 ||cpaoptimizer.com$popup,third-party
 ||cpaoptimizer.com$third-party
@@ -767,6 +768,7 @@
 *$third-party,domain=zapme.top
 *$third-party,domain=zetabitco.com
 *$popunder,third-party,domain=coinpou.com
+*$popunder,third-party,domain=faucet.gold
 *$popunder,third-party,domain=grabmylink.xyz
 *$popunder,third-party,domain=imgrock.pw
 *$popup,third-party,domain=adpop.me
@@ -792,6 +794,7 @@
 *$popup,third-party,domain=dutchycorp.ovh
 *$popup,third-party,domain=dwindly.io
 *$popup,third-party,domain=esy.es
+*$popup,third-party,domain=faucet.gold
 *$popup,third-party,domain=futureurl.info
 *$popup,third-party,domain=get4links.xyz
 *$popup,third-party,domain=getlink.pw
@@ -1148,6 +1151,7 @@
 @@stackpathcdn.com$domain=shortlink.live
 @@stackpath.bootstrapcdn.com/bootstrap
 @@starcoins.ws$elemhide
+@@statically.io$domain=siherp.com
 @@sturl.pw$elemhide
 @@superrewards-offers.com$domain=hit4hit.org
 @@systweak.com$first-party
@@ -1209,6 +1213,7 @@ link-zero.com#@#+js(nano-setInterval-booster.js)
 payskip.me#@#+js(nano-setInterval-booster.js)
 short2win.com#@#+js(nano-setInterval-booster.js)
 vinaurl.in#@#.adsbygoogle
+vivads.net#@#+js(nano-setInterval-booster.js)
 wi.cr#@#+js(nano-setInterval-booster.js)
 ! Unblock Elements --------------------
 solidfiles.com#@#div[class^="bnr-"]
@@ -1372,6 +1377,7 @@ ethereum-faucet.org##+js(bab-defuser.js)
 expressbulletin.in##+js(bab-defuser.js)
 expressfaucet.com##+js(bab-defuser.js)
 fapcoin.cc##+js(bab-defuser.js)
+faucet.gold##+js(bab-defuser.js)
 faucet.kiwi##+js(bab-defuser.js)
 faucet4claim.com##+js(bab-defuser.js)
 faucet4coin.com##+js(bab-defuser.js)
@@ -1485,6 +1491,7 @@ satoshilabs.net##+js(bab-defuser.js)
 sfile.mobi##+js(nano-setInterval-booster.js)
 shortit.pw##+js(bab-defuser.js)
 shortit.pw##+js(nano-setInterval-booster.js)
+siherp.com##+js(nano-setInterval-booster.js)
 sitowebinfo.com##+js(bab-defuser.js)
 sivitechno.com##+js(bab-defuser.js)
 sova.network##+js(abort-on-property-read.js, FuckAdBlock)
@@ -1666,6 +1673,7 @@ zonawibu.me##.infopost
 ###agegate_content
 ###b300
 ###banner_ikln_tengah
+###bg_popup
 ###btm_banner
 ###ctr_banner
 ###eae2
@@ -1695,7 +1703,6 @@ aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,coint
 ad4msan.win###secondary
 altervista.org###ad
 altervista.org###ad_overlay
-amber-tron.cf###bg_popup
 androidrepublic.org###siropuChat
 awsubs.tv###floatcenter
 awsubs.tv###overplay
