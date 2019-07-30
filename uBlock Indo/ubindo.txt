@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 23 July 2019, 20:00:20 WIB
+! Last modified: 31 July 2019, 01:13:00 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -317,6 +317,7 @@
 ||misslk.com$third-party
 ||ml314.com$third-party
 ||mm1.ink/addons
+||mm1.ink/zer0.php
 ||mmbtcl.ink$third-party
 ||mmstat.com/v.gif?$third-party
 ||money-birds.su$third-party
@@ -553,6 +554,7 @@
 *$third-party,domain=bit-url.com
 *$third-party,domain=bitcoadz.pw
 *$third-party,domain=bitcofarm.com
+*$third-party,domain=bitcofaucet.com
 *$third-party,domain=bitcoin-trading.pw
 *$third-party,domain=bitcoinclub.pw
 *$third-party,domain=bitcoinminegame.com
@@ -569,6 +571,7 @@
 *$third-party,domain=btc-treats.pw
 *$third-party,domain=btcbox.in
 *$third-party,domain=btcfaucet.design
+*$third-party,domain=btcforcaptcha.ml
 *$third-party,domain=btcleets.xyz
 *$third-party,domain=btcvic.com
 *$third-party,domain=cash4url.com
@@ -593,6 +596,7 @@
 *$third-party,domain=clixurl.com
 *$third-party,domain=clk.ink|clk.press|cll.press
 *$third-party,domain=clk.sh
+*$third-party,domain=clx.icu
 *$third-party,domain=coeg.in
 *$third-party,domain=coinmads.com
 *$third-party,domain=cointalk.club
@@ -903,6 +907,7 @@
 /noadblock.js
 /nontonanime.org/js/ads.js
 /ouo2018$script,third-party
+/pops.js
 /popupad$script,third-party
 /popup-contact-form$domain=mangaindo.net
 /ppu.js
@@ -959,6 +964,7 @@
 @@/advertisement$domain=4miner.me|alekscoin.com|bitcoinmoney.info|cryptoprofits.in.ua|douploads.com|faucetfly.com|file-up.org|hubcoins.xyz|solidfiles.com
 @@/advertising.$domain=gamepix.com
 @@/aff_ad?$popup
+@@/blockadblock.$domain=bitcofaucet.com
 @@/bootstrap$domain=userscloud.com
 @@/click?pid=*&offer$popup
 @@/basement/js
@@ -1009,7 +1015,8 @@
 @@apis.google.com$domain=easyhits4u.com
 @@applixir.com$domain=applixir.com
 @@asr-games.net/newjs
-@@banztegnology.club$generichide
+@@banztegnology.club$elemhide
+@@bitcofaucet.com$elemhide
 @@bitcoin2019.com$elemhide
 @@bitcoininformation.website/wp-content/plugins/soralink
 @@bitcoinspinner.io/themes
@@ -1058,6 +1065,7 @@
 @@dc4in.com$elemhide
 @@dircont3.com/nvp.js
 @@disingkat.in/js/advertisement.js$script,first-party
+@@drive.ad4msan.win$elemhide
 @@drive.google.com/thumbnail$domain=acefile.co
 @@dutchycorp.ovh$elemhide
 @@easyhits4u.com$first-party
@@ -1271,6 +1279,7 @@ bestbitcoinfaucetslist.com##+js(bab-defuser.js)
 bestfreebitcoin.club##+js(bab-defuser.js)
 bestpayingfaucets.com##+js(bab-defuser.js)
 bitcofaucet.net##+js(bab-defuser.js)
+bitcofaucet.com##+js(nano-setInterval-booster.js)
 bitcoin-s.com##+js(bab-defuser.js)
 bitcoin-trading.pw##+js(bab-defuser.js)
 bitcoinclub.pw##+js(bab-defuser.js)
@@ -1293,9 +1302,11 @@ bittube.me##+js(nano-setInterval-booster.js)
 bitverts.io##+js(nano-setInterval-booster.js)
 blockadblock.com##+js(bab-defuser.js)
 bolaoke.club##+js(nano-setInterval-booster.js)
-btcfaucet.design##+js(bab-defuser.js)
-btcmines.club##+js(bab-defuser.js)
 btc.ms##div.col-md-12:nth-of-type(1)
+btcfaucet.design##+js(bab-defuser.js)
+btcforcaptcha.ml##+js(nano-setInterval-booster.js)
+btcmines.club##+js(bab-defuser.js)
+btcnewz.com##+js(bab-defuser.js)
 chopcoin.io##+js(bab-defuser.js)
 claimbit.top##+js(bab-defuser.js)
 claimbits.io##+js(bab-defuser.js)
@@ -1366,7 +1377,11 @@ dogecoins.top##+js(nano-setInterval-booster.js)
 dogy.cf##+js(bab-defuser.js)
 dogy.cf##+js(nano-setInterval-booster.js)
 dripcoin.net##+js(bab-defuser.js)
+drive.ad4msan.win##+js(bab-defuser.js)
 dungmak.com##+js(bab-defuser.js)
+dutchycorp.ovh,dutchycorp.space##[id*="ScriptRoot"]
+dutchycorp.ovh,dutchycorp.space##center:nth-of-type(2)
+dutchycorp.ovh,dutchycorp.space##center:nth-of-type(3)
 dutchycorp.ovh,dutchycorp.space##div.hide-on-small-only
 dynamicssh.com##+js(abort-on-property-read.js)
 dynamicssh.com##+js(nano-setInterval-booster.js)
@@ -1378,9 +1393,12 @@ expressbulletin.in##+js(bab-defuser.js)
 expressfaucet.com##+js(bab-defuser.js)
 fapcoin.cc##+js(bab-defuser.js)
 faucet.gold##+js(bab-defuser.js)
+faucet.gold##+js(nano-setInterval-booster.js)
 faucet.kiwi##+js(bab-defuser.js)
 faucet4claim.com##+js(bab-defuser.js)
 faucet4coin.com##+js(bab-defuser.js)
+faucetcrypto.com##+js(abort-on-property-read.js
+faucetcrypto.com##+js(nano-setInterval-booster.js)
 faucethero.com##+js(bab-defuser.js)
 faucethub.win##+js(bab-defuser.js)
 faucetnews.xyz##+js(nano-setInterval-booster.js)
@@ -1493,6 +1511,8 @@ shortit.pw##+js(bab-defuser.js)
 shortit.pw##+js(nano-setInterval-booster.js)
 siherp.com##+js(nano-setInterval-booster.js)
 sitowebinfo.com##+js(bab-defuser.js)
+situsbaru.me##+js(nano-setInterval-booster.js)
+situsbaru.me##p:nth-of-type(n)
 sivitechno.com##+js(bab-defuser.js)
 sova.network##+js(abort-on-property-read.js, FuckAdBlock)
 speedtest.net##+js(nano-setInterval-booster.js)
@@ -1570,7 +1590,6 @@ zippyanime.net##+js(nano-setInterval-booster.js)
 21moviemania.club,cinemaindo.co,lebahmovie.com,waktunonton.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
-ad4msan.win##.adsbygoogle
 ad4msan.win##.entry-content > p
 adsrt.me##.rounded_shape2.rounded_shape
 alinafaucet.win##.form > center
@@ -1607,6 +1626,7 @@ cu5.io##.link > .container > .row > .text-center.col-md-12
 cu5.io##.short
 darak.me##.table-responsive
 darak.me##.text-center.col-md-12
+dutchycorp.ovh##.row > center:nth-of-type(1)
 earn-url.com##.banner-336x280.banner
 efx2.com##.pageku:nth-of-type(4)
 fanbatch.us##.featuredimg
@@ -1641,6 +1661,13 @@ onlinebee.in##.text-left
 ouo.io##.text-center > div
 pekalongan-kommuniti.net##.fb-btn-seocips
 queenfaucet.website##.modal
+rollercoin.com##.adBlock-banner
+situsbaru.me##.entry-content > h4:nth-of-type(n)
+situsbaru.me##.entry-header
+situsbaru.me##.hm-authorbox
+situsbaru.me##.hm-related-posts
+situsbaru.me##.image-link
+situsbaru.me##.post-navigation.navigation
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
 speedtest.net##.lower-horizontal.ad
@@ -1751,6 +1778,10 @@ revolt.group###category_shoutbox
 ryn.cc###main > div:nth-of-type(1)
 ryn.cc###main > div:nth-of-type(2)
 short.pe###dfp
+situsbaru.me###colophon
+situsbaru.me###comments
+situsbaru.me###masthead
+situsbaru.me###secondary
 speedup-faucet.com###mainbody > center:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
 tokenfly.pw###cookie-pop
 tribunnews.com###articleright
