@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 31 July 2019, 01:13:00 WIB
+! Last modified: 06 August 2019, 03:01:36 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -957,10 +957,10 @@
 @@.php?adv=$domain=bitcofarm.com
 @@/AC_RunActiveContent
 @@/ad_top_bg2.png?
-@@/adimg$image
-@@/adframe.$domain=aalyafaucet.com|adf.ly|bitcofarm.com|browseandlearn.com|claimfreebtc.win|climbtoread.com|qualityfilehosting.com|readingpapers.com|searchwithout.com|todaypostings.com|topreadarticles.com|upliftingvotes.com|upvotedentries.com|votesofthecentury.com
 @@/ads.js$domain=btcmines.club|dogeclix.com|hentaigasm.com
 @@/ads.min.js$domain=dashfaucet.net
+@@/adimg$image
+@@/adframe.$domain=aalyafaucet.com|adf.ly|bitcofarm.com|browseandlearn.com|claimfreebtc.win|climbtoread.com|qualityfilehosting.com|readingpapers.com|searchwithout.com|todaypostings.com|topreadarticles.com|upliftingvotes.com|upvotedentries.com|votesofthecentury.com
 @@/advertisement$domain=4miner.me|alekscoin.com|bitcoinmoney.info|cryptoprofits.in.ua|douploads.com|faucetfly.com|file-up.org|hubcoins.xyz|solidfiles.com
 @@/advertising.$domain=gamepix.com
 @@/aff_ad?$popup
@@ -971,7 +971,6 @@
 @@/coingecko.js$domain=coingecko.com
 @@/download^$xmlhttprequest,domain=speedtest.net
 @@/flow/frontend_assets/js/advertisement.js
-@@/fuckadblock.js$domain=claimcoins.cc
 @@/hello^$xmlhttprequest,domain=speedtest.net
 @@/js/ads$domain=alexamaster.net
 @@/ping^$xmlhttprequest,domain=speedtest.net
@@ -1034,8 +1033,6 @@
 @@cdn.rawgit.com$domain=1idsly.com|idsly.net|safelinku.net
 @@cdnjs.cloudflare.com/ajax/libs*css
 @@cdnjs.cloudflare.com/ajax/libs*js$domain=faucethub.io|randomsatoshi.win
-@@cdnjs.cloudflare.com/ajax/libs/blockadblock
-@@cdnjs.cloudflare.com/ajax/libs/fuckadblock
 @@cdnjs.cloudflare.com/ajax/libs/jquery$domain=acefile.co|btcleets.xyz
 @@cdnjs.cloudflare.com/ajax/libs/materialize$domain=firefaucet.win
 @@cdnjs.cloudflare.com/ajax/libs/sceditor
@@ -1781,6 +1778,7 @@ short.pe###dfp
 situsbaru.me###colophon
 situsbaru.me###comments
 situsbaru.me###masthead
+situsbaru.me###primary
 situsbaru.me###secondary
 speedup-faucet.com###mainbody > center:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
 tokenfly.pw###cookie-pop
