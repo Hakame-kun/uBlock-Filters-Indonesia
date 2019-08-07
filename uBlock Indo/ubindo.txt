@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 07 August 2019, 15:53:18 WIB
+! Last modified: 07 August 2019, 16:42:00 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -1088,6 +1088,7 @@
 @@ganzoffen.de
 @@getlink.pw$first-party
 @@google.com$domain=criptius.com
+@@google-analytics.$domain=reevown.com
 @@googleapis.com/drive$domain=acefile.co
 @@googletagmanager.com$domain=jd.id
 @@googleusercontent.com$domain=acefile.co
@@ -1228,7 +1229,6 @@ cointiply.com#@#.ad-panel
 cointiply.com#@#.adsbox
 earn-url.com,pay2url.co#@#.banner-468x60
 ptcwall.com#@#.ad-block
-/jquery-ie.js?domain=reevown.com
 faucethero.com#@##top-ads
 modapi.survivetheforest.net#@##cookie-accept
 modapi.survivetheforest.net#@##cookie-dialog
@@ -1661,6 +1661,7 @@ onlinebee.in##.text-left
 ouo.io##.text-center > div
 pekalongan-kommuniti.net##.fb-btn-seocips
 queenfaucet.website##.modal
+reevown.com##.adsbygoogle
 rollercoin.com##.adBlock-banner
 situsbaru.me##.entry-content > h4:nth-of-type(n)
 situsbaru.me##.entry-header
