@@ -8,11 +8,11 @@ Anda juga dapat menghemat penggunaan kuota internet atau mempercepat loading web
 
 - My filters<br>
 - uBlock filters<br>
-- Adguard Base Filters<br>
-- Adguard Mobile Filters<br>
 - EasyList<br>
-- Adguard Spyware Filters<br>
-- Adguard’s Annoyance List<br>
+- AdGuard Tracking Protection<br>
+- EasyPrivacy<br>
+- Malware domains<br>
+- Spam404<br>
 - Dan Pollock’s hosts file<br>
 - hpHosts’ Ad and tracking servers<br>
 - MVPS HOSTS<br>
