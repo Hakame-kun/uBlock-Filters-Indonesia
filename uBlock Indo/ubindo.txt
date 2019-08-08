@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 07 August 2019, 16:42:00 WIB
+! Last modified: 08 August 2019, 23:05:34 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -20,6 +20,7 @@
 ! ------------------------------
 ||a.admp.io$third-party
 ||a.props.$third-party
+||aa24h.com$third-party
 ||aabmxezph.com$third-party
 ||aalyafaucet.com$third-party,domain=onlinebee.in
 ||acefile.club/asset/rev
@@ -74,6 +75,7 @@
 ||asiatoday.online$third-party
 ||assampant.club$third-party
 ||assets.adobedtm.com$third-party
+||aud3g.com$third-party
 ||auplod.com$third-party
 ||authedmine.com$third-party
 ||ayclinical.com$third-party
@@ -194,6 +196,7 @@
 ||fabrkrup.com$third-party
 ||facebook.com$third-party,domain=gimmemore.com|quizdelivery.com|quizriddle.com|videoquizhero.com
 ||facebook.net$third-party,domain=gimmemore.com|quizdelivery.com|quizriddle.com|videoquizhero.com
+||fail24h.com$third-party
 ||familybtc.com$third-party
 ||faucetcollector.info$third-party
 ||faucetfly.com/?r=
@@ -222,6 +225,7 @@
 ||genieessp.com$third-party
 ||getbootstrap.com$third-party
 ||getcryptotab.com$third-party
+||gitoku.com$third-party
 ||gla6at2k1aklsl1n3n211.cf
 ||gla6at2k1aklsl1n3n211.ml
 ||go.*gold.net/id$third-party
@@ -973,6 +977,7 @@
 @@/flow/frontend_assets/js/advertisement.js
 @@/hello^$xmlhttprequest,domain=speedtest.net
 @@/js/ads$domain=alexamaster.net
+
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/safelink$domain=detikbintang.blogspot.com|safelink-49.blogspot.com
 @@/showads.js$domain=heliohost.org
@@ -980,6 +985,7 @@
 @@/themes$domain=fortstore.net|iceimg.net|imgfile.net
 @@/themes*js/adsbygoogle.js
 @@/upload^$xmlhttprequest,domain=speedtest.net
+@@/video-slider.js$domain=imgsky.net
 @@/wp-content/themes/jannah/js
 ! ----------------------------------------
 @@159.65.130.32$elemhide
@@ -1011,6 +1017,7 @@
 @@anisubindo.org$generichide
 @@api.dmcdn.net
 @@api.solvemedia.com
+@@api-secure.solvemedia.com
 @@apis.google.com$domain=easyhits4u.com
 @@applixir.com$domain=applixir.com
 @@asr-games.net/newjs
@@ -1033,6 +1040,7 @@
 @@cdn.rawgit.com$domain=1idsly.com|idsly.net|safelinku.net
 @@cdnjs.cloudflare.com/ajax/libs*css
 @@cdnjs.cloudflare.com/ajax/libs*js$domain=faucethub.io|randomsatoshi.win
+@@cdnjs.cloudflare.com/ajax/libs/font-awesome
 @@cdnjs.cloudflare.com/ajax/libs/jquery$domain=acefile.co|btcleets.xyz
 @@cdnjs.cloudflare.com/ajax/libs/materialize$domain=firefaucet.win
 @@cdnjs.cloudflare.com/ajax/libs/sceditor
@@ -1439,6 +1447,7 @@ icucu.icu##+js(bab-defuser.js)
 idsht.me##+js(nano-setInterval-booster.js)
 idsly.*##+js(nano-setInterval-booster.js)
 idxxi.co##+js(nano-setInterval-booster.js)
+imgsky.net##+js(nano-setInterval-booster.js)
 indiamartoffers.com##+js(bab-defuser.js)
 infaucet.site##+js(bab-defuser.js)
 infotrendy.me##+js(nano-setInterval-booster.js)
@@ -1614,6 +1623,7 @@ bitformations.website##.sidebar_list
 bolaoke.club##.clearfix.mh-wrapper
 btcleets.xyz,coin.mg,onlinebee.in,techcraze.online##.banner-captcha.banner
 citpekalongan.com##.section.header-right
+clickbits.io##._fa7cdd4c68507744
 coin.mg##.box-main > center
 coindows.com,crabcut.net##.banner-inner
 coindows.com##.floater
@@ -1634,6 +1644,7 @@ gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
 greget.space##.c-message > div:nth-of-type(2)
 hdtvku.com##.banner-clicked
+imgsky.net##.content-box > div
 indoxxi.*##.jwseed
 ironime.org##.anon
 juragan-anime.net##.ads
