@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 08 August 2019, 23:05:34 WIB
+! Last modified: 11 August 2019, 00:43:05 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -286,6 +286,7 @@
 ||iz682noju02ye5.com$popup,third-party
 ||jackettrain.com$popup,third-party
 ||javhd.com/stat
+||jeeshapi.net$third-party
 ||jerwested.info$third-party
 ||jomys.xyz$third-party
 ||joneself.com$third-party
@@ -391,6 +392,7 @@
 ||pusatfilm21.com/wp-content/uploads*gif
 ||puu.sh/xv53n$third-party
 ||pvclouds.com$third-party,script
+||pyrin.org/images$popup
 ||qpljfpwdpk.com$third-party
 ||qregation.info$third-party
 ||r*pagead2.googlesyndication.com$popup,third-party
@@ -779,6 +781,7 @@
 *$popunder,third-party,domain=faucet.gold
 *$popunder,third-party,domain=grabmylink.xyz
 *$popunder,third-party,domain=imgrock.pw
+*$popunder,third-party,domain=pyrin.org
 *$popup,third-party,domain=adpop.me
 *$popup,third-party,domain=allbitcoinsites.com
 *$popup,third-party,domain=anibatch.me
@@ -822,6 +825,7 @@
 *$popup,third-party,domain=picbaron.com
 *$popup,third-party,domain=play4coin.us
 *$popup,third-party,domain=premiumfaucetnetwork.com
+*$popup,third-party,domain=pyrin.org
 *$popup,third-party,domain=royurls.bid
 *$popup,third-party,domain=short2win.com
 *$popup,third-party,domain=short2win.net
@@ -975,9 +979,9 @@
 @@/coingecko.js$domain=coingecko.com
 @@/download^$xmlhttprequest,domain=speedtest.net
 @@/flow/frontend_assets/js/advertisement.js
+@@/fuckadblock.$domain=claimcoins.cc|pyrin.org
 @@/hello^$xmlhttprequest,domain=speedtest.net
 @@/js/ads$domain=alexamaster.net
-
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/safelink$domain=detikbintang.blogspot.com|safelink-49.blogspot.com
 @@/showads.js$domain=heliohost.org
@@ -1329,8 +1333,8 @@ claimfreeltc.win##+js(bab-defuser.js)
 claimfreepot.win##+js(bab-defuser.js)
 claimfreeppc.win##+js(bab-defuser.js)
 claimfreexpm.win##+js(bab-defuser.js)
-claimulike.win##+js(bab-defuser.js)
 claimltc.win##+js(bab-defuser.js)
+claimulike.win##+js(bab-defuser.js)
 click2shorten.com##+js(bab-defuser.js)
 clickers.info##+js(bab-defuser.js)
 clik.pw##a[href^="http://mob1ledev1ces.com/r/"]
@@ -1502,6 +1506,7 @@ play4coin.us##+js(bab-defuser.js)
 potcoin-faucet.com##+js(bab-defuser.js)
 potcoinlotto.com##+js(bab-defuser.js)
 premiumfaucetnetwork.com##+js(bab-defuser.js)
+pyrin.org##+js(abort-on-property-read.js, FuckAdBlock)
 queenfaucet.website##+js(bab-defuser.js)
 qwerofaucet.tk##+js(bab-defuser.js)
 randomsatoshi.win##+js(bab-defuser.js)
@@ -1627,6 +1632,7 @@ clickbits.io##._fa7cdd4c68507744
 coin.mg##.box-main > center
 coindows.com,crabcut.net##.banner-inner
 coindows.com##.floater
+cointiply.com##.fl-ad-left
 crimesagainsttheelderly.com##.ads
 crimesagainsttheelderly.com##.banner3
 cu5.io##.col-md-8
