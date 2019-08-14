@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 11 August 2019, 00:43:05 WIB
+! Last modified: 14 August 2019, 12:29:15 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -427,6 +427,7 @@
 ||shrinklink.co$third-party,script
 ||sillyscrew.com$third-party
 ||siterdm.com$third-party
+||situsbaru.me/wp-content/uploads/$image
 ||smartphonelist.com$popunder
 ||smartphonelist.com$popup,third-party
 ||smartphoneslist.com$popunder
@@ -1525,7 +1526,7 @@ shortit.pw##+js(nano-setInterval-booster.js)
 siherp.com##+js(nano-setInterval-booster.js)
 sitowebinfo.com##+js(bab-defuser.js)
 situsbaru.me##+js(nano-setInterval-booster.js)
-situsbaru.me##p:nth-of-type(n)
+situsbaru.me##p
 sivitechno.com##+js(bab-defuser.js)
 sova.network##+js(abort-on-property-read.js, FuckAdBlock)
 speedtest.net##+js(nano-setInterval-booster.js)
@@ -1680,11 +1681,9 @@ pekalongan-kommuniti.net##.fb-btn-seocips
 queenfaucet.website##.modal
 reevown.com##.adsbygoogle
 rollercoin.com##.adBlock-banner
-situsbaru.me##.entry-content > h4:nth-of-type(n)
 situsbaru.me##.entry-header
 situsbaru.me##.hm-authorbox
 situsbaru.me##.hm-related-posts
-situsbaru.me##.image-link
 situsbaru.me##.post-navigation.navigation
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
@@ -1797,9 +1796,7 @@ ryn.cc###main > div:nth-of-type(1)
 ryn.cc###main > div:nth-of-type(2)
 short.pe###dfp
 situsbaru.me###colophon
-situsbaru.me###comments
 situsbaru.me###masthead
-situsbaru.me###primary
 situsbaru.me###secondary
 speedup-faucet.com###mainbody > center:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
 tokenfly.pw###cookie-pop
