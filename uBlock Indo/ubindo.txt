@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 August 2019, 10:13:38 WIB
+! Last modified: 20 August 2019, 10:19:02 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -1035,7 +1035,7 @@
 @@bitformations.website$elemhide
 @@blockadblock.com/js/colorpicker
 @@bolaoke.club$popup,domain=awsubs.tv
-@@bp.blogspot.com*png$domain=awsubs.tv|kuyhaa.me
+@@bp.blogspot.com*png$domain=awsubs.tv|kuyhaa.me|wegner.tech
 @@btcsafari.com$elemhide
 @@captchme.net
 @@cashcrate.com
