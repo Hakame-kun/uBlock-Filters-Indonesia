@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 August 2019, 10:09:33 WIB
+! Last modified: 20 August 2019, 10:13:38 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -1187,6 +1187,7 @@
 @@vizury.com$domain=jd.id
 @@vjs.zencdn.net$domain=sendit.cloud
 @@want2crypto.com$elemhide
+@@wegner.tech$elemhide
 @@wegner.tech/js/ads.js
 @@weheartbitcoin.com$elemhide
 @@wicr.in$elemhide
