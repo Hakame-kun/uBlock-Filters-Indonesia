@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 August 2019, 10:06:25 WIB
+! Last modified: 20 August 2019, 10:09:33 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -671,6 +671,7 @@
 *$third-party,domain=greget.space
 *$third-party,domain=hit4hit.org
 *$third-party,domain=hubcoins.xyz
+*$third-party,domain=in11.site|infosehatku.club|semawur.com
 *$third-party,domain=infinitytrafficboost.com
 *$third-party,domain=iceimg.net|imgfile.net
 *$third-party,domain=ioanbtc.com
@@ -729,7 +730,6 @@
 *$third-party,domain=rojkmao.com
 *$third-party,domain=ryn.cc
 *$third-party,domain=sato-link.com
-*$third-party,domain=semawur.com
 *$third-party,domain=sendit.cloud
 *$third-party,domain=short2win.com
 *$third-party,domain=short2win.net
@@ -1043,7 +1043,7 @@
 @@cdn.datatables.net
 @@cdn.jsdelivr.net
 @@cdn.onesignal.com$domain=satoshihero.com
-@@cdn.rawgit.com$domain=1idsly.com|idsly.net|safelinku.net|semawur.com
+@@cdn.rawgit.com$domain=1idsly.com|idsly.net|in11.site|infosehatku.club|safelinku.net|semawur.com
 @@cdnjs.cloudflare.com/ajax/libs*css
 @@cdnjs.cloudflare.com/ajax/libs*js$domain=faucethub.io|randomsatoshi.win
 @@cdnjs.cloudflare.com/ajax/libs/font-awesome
@@ -1455,6 +1455,7 @@ idsht.me##+js(nano-setInterval-booster.js)
 idsly.*##+js(nano-setInterval-booster.js)
 idxxi.co##+js(nano-setInterval-booster.js)
 imgsky.net##+js(nano-setInterval-booster.js)
+in11.site,infosehatku.club,semawur.com##+js(nano-setInterval-booster.js)
 indiamartoffers.com##+js(bab-defuser.js)
 infaucet.site##+js(bab-defuser.js)
 infotrendy.me##+js(nano-setInterval-booster.js)
@@ -1522,7 +1523,6 @@ ryn.cc##+js(bab-defuser.js)
 safelinkreviewz.com##+js(nano-setInterval-booster.js)
 satoshikingdom.com##+js(bab-defuser.js)
 satoshilabs.net##+js(bab-defuser.js)
-semawur.com##+js(nano-setInterval-booster.js)
 sfile.mobi##+js(nano-setInterval-booster.js)
 shortit.pw##+js(bab-defuser.js)
 shortit.pw##+js(nano-setInterval-booster.js)
