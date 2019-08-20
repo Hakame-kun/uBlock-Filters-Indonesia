@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 August 2019, 10:19:02 WIB
+! Last modified: 20 August 2019, 10:32:25 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -794,6 +794,7 @@
 *$popup,third-party,domain=bitcolife.ru
 *$popup,third-party,domain=btcfaucet.design
 *$popup,third-party,domain=btcleets.xyz
+*$popup,third-party,domain=ceklink.co
 *$popup,third-party,domain=claimcoin24.com
 *$popup,third-party,domain=claimulike.win
 *$popup,third-party,domain=clk.press|cll.press
@@ -1051,6 +1052,7 @@
 @@cdnjs.cloudflare.com/ajax/libs/materialize$domain=firefaucet.win
 @@cdnjs.cloudflare.com/ajax/libs/sceditor
 @@cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
+@@ceklink.co/js/ads.js
 @@claimbtc.in$elemhide
 @@claimcoin24.com$elemhide
 @@claimcoins.cc$elemhide
