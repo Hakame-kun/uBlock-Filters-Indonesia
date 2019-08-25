@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 August 2019, 10:32:25 WIB
+! Last modified: 24 August 2019, 08:38:26 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -1280,7 +1280,7 @@ allbitcoinsites.com##+js(bab-defuser.js)
 allcoins.pw##+js(bab-defuser.js)
 altcoinfuture.000webhostapp.com##body > div
 anisubindo.org##+js(abort-current-inline-script.js, addEventListener)
-anjay.info,coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com,tetew.info##h2
+anjay.info##+js(nano-setInterval-booster.js)
 autoclaim.win##+js(bab-defuser.js)
 autoclaimbtc.ga,autoclaimfaucet.ga##+js(bab-defuser.js)
 aw-games.net,short.awsubs.tv##center:nth-of-type(2)
@@ -1345,6 +1345,7 @@ click2shorten.com##+js(bab-defuser.js)
 clickers.info##+js(bab-defuser.js)
 clik.pw##a[href^="http://mob1ledev1ces.com/r/"]
 cll.press##+js(bab-defuser.js)
+coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com,tetew.info##h2
 coin.mg##div.row:nth-of-type(4)
 coin4you.win##+js(bab-defuser.js)
 coinclaimers.com##+js(bab-defuser.js)
@@ -1614,8 +1615,11 @@ ad4msan.win##.entry-content > p
 adsrt.me##.rounded_shape2.rounded_shape
 alinafaucet.win##.form > center
 anisubindo.org##.ArevicoModal-bg
-anjay.info,coeg.in,siherp.com,siotong.com,telondasmu.com,tetew.info##.c-message > div:nth-of-type(1)
-anjay.info,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.disclaimer
+anjay.info##.clearfix.mh-wrapper
+anjay.info##.mh-copyright-wrap
+anjay.info##.mh-header
+anjay.info##.mh-preheader
+anjay.info##.mh-subheader
 awcar.icu,davinsurance.com,developinsurance.me,speedcar.club,xydeyou.com##.mh-clearfix.mh-wrapper
 awsubs.tv##.fb-comments
 awsubs.tv##.fb_iframe_widget.fb-like
@@ -1636,6 +1640,8 @@ bolaoke.club##.clearfix.mh-wrapper
 btcleets.xyz,coin.mg,onlinebee.in,techcraze.online##.banner-captcha.banner
 citpekalongan.com##.section.header-right
 clickbits.io##._fa7cdd4c68507744
+coeg.in,siherp.com,siotong.com,telondasmu.com,tetew.info##.c-message > div:nth-of-type(1)
+coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.disclaimer
 coin.mg##.box-main > center
 coindows.com,crabcut.net##.banner-inner
 coindows.com##.floater
