@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 24 August 2019, 08:38:26 WIB
+! Last modified: 26 August 2019, 12:05:42 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -984,7 +984,7 @@
 @@/flow/frontend_assets/js/advertisement.js
 @@/fuckadblock.$domain=claimcoins.cc|pyrin.org
 @@/hello^$xmlhttprequest,domain=speedtest.net
-@@/js/ads$domain=alexamaster.net
+@@/js/ads$domain=alexamaster.net|ceklink.co|maswiki.net|wegner.tech
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/safelink$domain=detikbintang.blogspot.com|safelink-49.blogspot.com
 @@/showads.js$domain=heliohost.org
@@ -1052,7 +1052,6 @@
 @@cdnjs.cloudflare.com/ajax/libs/materialize$domain=firefaucet.win
 @@cdnjs.cloudflare.com/ajax/libs/sceditor
 @@cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
-@@ceklink.co/js/ads.js
 @@claimbtc.in$elemhide
 @@claimcoin24.com$elemhide
 @@claimcoins.cc$elemhide
@@ -1126,6 +1125,7 @@
 @@imgfrost.net$domain=imgfile.net
 @@imgfrost.net$popup,domain=imgfile.net
 @@inboxdollars.com
+@@indozone.me$elemhide
 @@ipeenk.com$elemhide
 @@jsdelivr.net
 @@juragan-anime.net/wp-content/cache
@@ -1190,7 +1190,6 @@
 @@vjs.zencdn.net$domain=sendit.cloud
 @@want2crypto.com$elemhide
 @@wegner.tech$elemhide
-@@wegner.tech/js/ads.js
 @@weheartbitcoin.com$elemhide
 @@wicr.in$elemhide
 @@wl.jd.com
@@ -1664,6 +1663,7 @@ gigapurbalingga.net##.code-block-2.code-block
 greget.space##.c-message > div:nth-of-type(2)
 hdtvku.com##.banner-clicked
 imgsky.net##.content-box > div
+indozone.me##.adsbygoogle
 indoxxi.*##.jwseed
 ironime.org##.anon
 juragan-anime.net##.ads
@@ -1809,6 +1809,7 @@ ryn.cc###main > div:nth-of-type(2)
 short.pe###dfp
 situsbaru.me###colophon
 situsbaru.me###masthead
+situsbaru.me###primary
 situsbaru.me###secondary
 speedup-faucet.com###mainbody > center:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
 tokenfly.pw###cookie-pop
