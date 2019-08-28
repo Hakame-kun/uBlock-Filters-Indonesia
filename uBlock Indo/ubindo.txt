@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 26 August 2019, 12:05:42 WIB
+! Last modified: 28 August 2019, 23:23:22 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -58,6 +58,7 @@
 ||alphamrkt.com$third-party
 ||ambient-platform.com$third-party
 ||amjadfreesoft.com$third-party
+||amparcaim.club$third-party
 ||analitits.com$third-party
 ||anews.today$third-party
 ||ani-share.com/wp-content/uploads/
@@ -818,6 +819,8 @@
 *$popup,third-party,domain=ialphacoins.com
 *$popup,third-party,domain=imgbaron.com
 *$popup,third-party,domain=imgfile.net
+*$popup,third-party,domain=kabarviral.blog
+*$popup,third-party,domain=lewat.club
 *$popup,third-party,domain=linksapk.com
 *$popup,third-party,domain=linktor.io
 *$popup,third-party,domain=olgkzlwln.net
@@ -984,9 +987,9 @@
 @@/flow/frontend_assets/js/advertisement.js
 @@/fuckadblock.$domain=claimcoins.cc|pyrin.org
 @@/hello^$xmlhttprequest,domain=speedtest.net
-@@/js/ads$domain=alexamaster.net|ceklink.co|maswiki.net|wegner.tech
+@@/js/ads$domain=alexamaster.net|ceklink.co|kabarviral.blog|maswiki.net|wegner.tech
 @@/ping^$xmlhttprequest,domain=speedtest.net
-@@/safelink$domain=detikbintang.blogspot.com|safelink-49.blogspot.com
+@@/safelink$domain=detikbintang.blogspot.com|razorlink.us|safelink-49.blogspot.com
 @@/showads.js$domain=heliohost.org
 @@/Sites/admin/Scripts/md5.min.js
 @@/themes$domain=fortstore.net|iceimg.net|imgfile.net
@@ -1116,6 +1119,7 @@
 @@ialphacoins.com$elemhide
 @@idsly.net$elemhide
 @@idsly.org$elemhide
+@@idzone.site$elemhide
 @@imagetwist.com$image,first-party
 @@imasdk.googleapis.com$domain=cdn.applixir.com|link4win.com
 @@imgblaze.net$domain=imgfile.net
@@ -1163,6 +1167,7 @@
 @@queenfaucet.website$elemhide
 @@raincaptcha.com/base.js
 @@raincaptcha.com*frame
+@@recaptcha.net
 @@s.ytimg.com$domain=bitverts.io
 @@safebitcoin.info$elemhide
 @@satoshisera.com$elemhide
@@ -1452,11 +1457,13 @@ hexafile.net##+js(nano-setInterval-booster.js)
 highpayingfaucet.com##+js(nano-setInterval-booster.js)
 highwaytoco.in##+js(bab-defuser.js)
 hikarinoakariost.info##+js(nano-setInterval-booster.js)
+hokiciki.org##+js(nano-setInterval-booster.js)
 hubcoins.xyz##+js(nano-setInterval-booster.js)
 icucu.icu##+js(bab-defuser.js)
 idsht.me##+js(nano-setInterval-booster.js)
 idsly.*##+js(nano-setInterval-booster.js)
 idxxi.co##+js(nano-setInterval-booster.js)
+idzone.site##center
 imgsky.net##+js(nano-setInterval-booster.js)
 in11.site,infosehatku.club,semawur.com##+js(nano-setInterval-booster.js)
 indiamartoffers.com##+js(bab-defuser.js)
@@ -1465,11 +1472,14 @@ infotrendy.me##+js(nano-setInterval-booster.js)
 ironime.org##+js(abort-current-inline-script.js, addEventListener)
 jelajahinternet.me##+js(nano-setInterval-booster.js)
 justlikeyojna.com##center:nth-of-type(1) > strong
+kabarviral.blog##center:nth-of-type(2)
 karimunbits.net##+js(bab-defuser.js)
 keplakneh.com##+js(nano-setInterval-booster.js)
 lenov.ru##+js(nano-setInterval-booster.js)
+lewat.club##center:nth-of-type(2)
 li-nkz.com##+js(bab-defuser.js)
 link4win.com##+js(nano-setInterval-booster.js)
+linkduit.net##+js(nano-setInterval-booster.js)
 linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 linkk.bid##+js(nano-setInterval-booster.js)
 linkpoi.*##+js(abort-current-inline-script.js, addEventListener)
@@ -1662,6 +1672,7 @@ gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
 greget.space##.c-message > div:nth-of-type(2)
 hdtvku.com##.banner-clicked
+idzone.site##.adsbygoogle
 imgsky.net##.content-box > div
 indozone.me##.adsbygoogle
 indoxxi.*##.jwseed
@@ -1707,6 +1718,7 @@ tokenfly.pw##.banner-captcha.banner
 tokenfly.pw##.box-main > center:nth-of-type(1)
 tokenfly.pw##.box-main > p
 waktunonton.com##.idmuvi-topbanner-aftermenu
+wegner.tech##.adsbygoogle
 wikitrade.me##.mh-clearfix.entry-header
 wikitrade.me##.mh-clearfix.mh-row.mh-post-nav
 wikitrade.me##.mh-sidebar.mh-widget-col-1
