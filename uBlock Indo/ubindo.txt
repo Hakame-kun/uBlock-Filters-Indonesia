@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 28 August 2019, 23:39:30 WIB
+! Last modified: 28 August 2019, 23:43:23 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -1650,6 +1650,7 @@ bolaoke.club##.clearfix.mh-wrapper
 btcleets.xyz,coin.mg,onlinebee.in,techcraze.online##.banner-captcha.banner
 citpekalongan.com##.section.header-right
 clickbits.io##._fa7cdd4c68507744
+clk.ink##.banner-inner
 coeg.in,siherp.com,siotong.com,telondasmu.com,tetew.info##.c-message > div:nth-of-type(1)
 coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.disclaimer
 coin.mg##.box-main > center
