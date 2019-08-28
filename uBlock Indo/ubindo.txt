@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 28 August 2019, 23:23:22 WIB
+! Last modified: 28 August 2019, 23:39:30 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -1031,6 +1031,7 @@
 @@apis.google.com$domain=easyhits4u.com
 @@applixir.com$domain=applixir.com
 @@asr-games.net/newjs
+@@bagilagi.com$elemhide
 @@banztegnology.club$elemhide
 @@bitcofaucet.com$elemhide
 @@bitcoin2019.com$elemhide
@@ -1634,7 +1635,7 @@ awsubs.tv##.fb-comments
 awsubs.tv##.fb_iframe_widget.fb-like
 awsubs.tv##.minipusat
 awsubs.tv##.pusat728
-bagilagi.com##.adsora
+bagilagi.com##.klnsora
 bagilagi.com##.gmr-single.gmr-box-content
 bagilagi.com##.rurasafe-ads
 beat-doge.tk##.popUpBannerBox
@@ -1774,6 +1775,7 @@ altervista.org###ad_overlay
 androidrepublic.org###siropuChat
 awsubs.tv###floatcenter
 awsubs.tv###overplay
+bagilagi.com###comments
 bagilagi.com###secondary
 bestbitcoinfaucets.net,links4cash.com,want2crypto.com###Floater-Left-3
 bestbitcoinfaucets.net,want2crypto.com###Floater-Middle-3
