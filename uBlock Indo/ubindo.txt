@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 29 August 2019, 14:27:59 WIB
+! Last modified: 30 August 2019, 01:00:24 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -40,6 +40,7 @@
 ||ads.$third-party
 ||ads.linkshrink.net$popunder
 ||ads-bitco.in$third-party
+||adsafelink.com/js/webscript.js$third-party
 ||adsaturn.com$third-party
 ||adsdime.com$third-party
 ||adsdonlot.in/css/ads_donlotin.css
@@ -176,6 +177,7 @@
 ||dogecoinfaucets.info$third-party
 ||dorpaahonet-blog.logdown.com
 ||doubleclick.net$third-party
+||downloadbatch.com*gif
 ||downloadmv.com/wp-content/uploads*gif
 ||dr1.masbro.id/iklan/fob.css
 ||dr1.masbro.id/js2.js
@@ -938,6 +940,7 @@
 /sl.js$domain=ad4msan.com
 /smart$domain=faucetwhite.com
 /sora$script,third-party
+/soralink.js$domain=anitoki.com|maxnime.com
 /src$domain=pantsu.cat
 /static/101/site.js?
 /static/js/amvn.js
@@ -1669,6 +1672,7 @@ cu5.io##.link > .container > .row > .text-center.col-md-12
 cu5.io##.short
 darak.me##.table-responsive
 darak.me##.text-center.col-md-12
+downloadbatch.com##.idblog-topbanner-aftermenu
 dutchycorp.ovh##.row > center:nth-of-type(1)
 earn-url.com##.banner-336x280.banner
 efx2.com##.pageku:nth-of-type(4)
@@ -1805,6 +1809,7 @@ cointalk.club###right-adspace
 crypto-all.com,faucetworld.in,faucetspro.com,firefaucet.win###sad-1
 dataid.us###loading
 dewafile.com###download
+downloadbatch.com###text-48
 dutchycorp.space###boxes
 easyhits4u.com###countDown
 futureurl.info###Test
