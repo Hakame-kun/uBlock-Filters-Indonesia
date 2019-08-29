@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 28 August 2019, 23:43:23 WIB
+! Last modified: 29 August 2019, 14:26:55 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -169,6 +169,7 @@
 ||demand.supply$third-party
 ||dfgyw.com
 ||digiads.co.id$third-party
+||dingrigoguter.pro$third-party
 ||disqus.com$third-party,domain=bagi.co.in|keran.co|komikmama.com|otakufile.com|westmanga.info
 ||dl.jeodrive.com$popup,domain=jheberg.net
 ||dmxoedcqcb.com$third-party
@@ -397,6 +398,7 @@
 ||qpljfpwdpk.com$third-party
 ||qregation.info$third-party
 ||r*pagead2.googlesyndication.com$popup,third-party
+||rappenedstoric.info$third-party
 ||rasius.pro$popup,third-party
 ||ratufilm.com/wp-content/plugins/uji-popup
 ||ratufilm.com/wp-content/uploads*gif
@@ -1563,6 +1565,7 @@ synced-rewards.com##+js(bab-defuser.js)
 technoresults.xyz##+js(nano-setInterval-booster.js)
 theinsurance.pw##+js(bab-defuser.js)
 theseotools.net##+js(bab-defuser.js)
+tips.atv.pw##center:nth-of-type(2)
 topbtc.club##+js(bab-defuser.js)
 treasurebits.net##+js(nano-setInterval-booster.js)
 uclick.in##+js(bab-defuser.js)
