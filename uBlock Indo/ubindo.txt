@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 29 August 2019, 14:26:55 WIB
+! Last modified: 29 August 2019, 14:27:59 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -840,6 +840,7 @@
 *$popup,third-party,domain=shrinkme.in
 *$popup,third-party,domain=techcraze.online
 *$popup,third-party,domain=time4earn.com
+*$popup,third-party,domain=tips.atv.pw
 *$popup,third-party,domain=tokenfly.pw
 *$popup,third-party,domain=tmearn.pro
 *$popup,third-party,domain=upload.ee
