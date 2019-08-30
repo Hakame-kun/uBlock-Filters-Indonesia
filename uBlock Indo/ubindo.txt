@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 30 August 2019, 23:26:36 WIB
+! Last modified: 30 August 2019, 23:31:07 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -66,6 +66,7 @@
 ||androidrepublic.org/js/siropu/chat
 ||anibatch.me*gif
 ||anime21.co/content/template/images/
+||animebatch.web.id*gif
 ||animeindo.net/wp-content/themes/animeindo/chat.php
 ||animeindo.net/wp-content/uploads/*.gif
 ||animeindo.video/area.js
@@ -107,7 +108,7 @@
 ||botkano.info$third-party
 ||boudja.com$third-party
 ||bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
-||bp.blogspot.com*gif$third-party,domain=123drakor.org|acefile.co|aceservice.club|awsubs.tv|cinemakv21.com|filmindo21.tv|hdtvku.com|idxxi.co|juragan-anime.net|kawanfilm21.online|komiku.net|lebahmovie.com|neonime.net|netnot21.com|nontonmovie251.com|otakufile.com|oujanime.com|senimovie.co|treasurebits.net
+||bp.blogspot.com*gif$third-party,domain=123drakor.org|acefile.co|aceservice.club|awsubs.tv|cinemakv21.com|filmindo21.tv|hdtvku.com|idxxi.co|juragan-anime.net|kawanfilm21.online|komiku.net|lebahmovie.com|lk21id.com|neonime.net|netnot21.com|nontonmovie251.com|otakufile.com|oujanime.com|senimovie.co|treasurebits.net
 ||brainbux.com$third-party
 ||btcmedia.co$third-party
 ||btctrail.com$third-party
@@ -1732,6 +1733,7 @@ lk21c.fun##.gmr-single.gmr-box-content > table:nth-of-type(1)
 lk21c.fun##.gmr-single.gmr-box-content > table:nth-of-type(2)
 lk21c.fun##.ns-right
 lk21c.fun##.row > table
+lk21id.com##.idmuvi-floatbanner
 luckybits.io##.ads-row.row
 mediafire.com##.on.lightbox
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
