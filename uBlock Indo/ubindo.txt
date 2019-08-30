@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 30 August 2019, 13:25:14 WIB
+! Last modified: 30 August 2019, 23:26:36 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -242,6 +242,7 @@
 ||go.oclasrv.com$popup,third-party
 ||go.onclasrv.com$popup,third-party
 ||godfile.info$third-party
+||gomentod.com*sora
 ||google.*/_/chrome/newtab-serviceworker.js
 ||google.*/api/stats/qoe?$third-party
 ||google.*/async*&async$third-party
@@ -506,6 +507,7 @@
 ||vuryua.ru$third-party
 ||w55c.net$third-party
 ||waktunonton.com/wp-content/uploads*gif
+||wanhealth.me*soralink
 ||wapwon.desi$third-party
 ||watchxxxfree.me$popup,third-party
 ||webmine.pro$third-party
