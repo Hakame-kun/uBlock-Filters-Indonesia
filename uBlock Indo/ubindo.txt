@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 30 August 2019, 01:00:24 WIB
+! Last modified: 30 August 2019, 13:15:16 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -86,6 +86,7 @@
 ||bioskop45.com*gif
 ||bioskopgue.net/wp-content/uploads*gif
 ||bioskopkeren.club/images/
+||bisabuka.net*$popup,domain=idfl.me
 ||bit.ly$popup,third-party,domain=awsubs.tv
 ||bitcoinad.pro$third-party
 ||bitformations.website/?p=
@@ -106,10 +107,11 @@
 ||botkano.info$third-party
 ||boudja.com$third-party
 ||bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
-||bp.blogspot.com*gif$third-party,domain=123drakor.org|acefile.co|aceservice.club|awsubs.tv|cinemakv21.com|hdtvku.com|idxxi.co|juragan-anime.net|komiku.net|lebahmovie.com|neonime.net|nontonmovie251.com|otakufile.com|treasurebits.net
+||bp.blogspot.com*gif$third-party,domain=123drakor.org|acefile.co|aceservice.club|awsubs.tv|cinemakv21.com|filmindo21.tv|hdtvku.com|idxxi.co|juragan-anime.net|kawanfilm21.online|komiku.net|lebahmovie.com|neonime.net|netnot21.com|nontonmovie251.com|otakufile.com|oujanime.com|senimovie.co|treasurebits.net
 ||brainbux.com$third-party
 ||btcmedia.co$third-party
 ||btctrail.com$third-party
+||bucket.id*gif$third-party,domain=idfl.me
 ||c.adsco.re$third-party
 ||cachefly.net$third-party
 ||calcch.com$third-party
@@ -122,6 +124,7 @@
 ||changer.com$third-party
 ||chicgar.info$third-party
 ||cinemaindo.co/wp-content/uploads*gif
+||cinemaindo21.org*gif
 ||cinemakv21.com/wp-content/uploads*gif
 ||ciuvo.com$third-party
 ||cl5tudale.ru$third-party
@@ -205,7 +208,10 @@
 ||faucetcollector.info$third-party
 ||faucetfly.com/?r=
 ||ferma-rostok.ru$third-party
+||fethungi.com$third-party
 ||file4all.xyz$third-party
+||filmapik.eu*banner*gif
+||filmbioskop21.cc*gif
 ||filmbioskop21.co/iklan/
 ||filmseri.com/wp-content/uploads*gif
 ||find-ip.net$third-party
@@ -223,7 +229,7 @@
 ||gambar123.com$third-party,domain=46.166.167.16|semprot.com|semprotku.com
 ||ganool.city/iklan
 ||ganool.web.id/wp-content/uploads*gif
-||gdriveplayer.us/ads.
+||gdriveplayer.*ads.
 ||genderfluidsupport.com
 ||generaed.info$third-party
 ||genieessp.com$third-party
@@ -240,6 +246,7 @@
 ||google.*/api/stats/qoe?$third-party
 ||google.*/async*&async$third-party
 ||google.*/pagead$third-party
+||lh3.googleusercontent.com$domain=enthus1ast.com
 ||gra4.com$third-party
 ||gxqrjjcsyh.com$third-party
 ||gways.net$popup,third-party
@@ -258,7 +265,8 @@
 ||i.makeagif.com$domain=nontonmovie251.com
 ||i027m.top$third-party
 ||ibb.co$third-party,domain=lk21.web.id|lk21tv.web.id
-||idfl.*/fancybox
+||ibb.co*gif$domain=idfl.me
+||idfl.*/fancy
 ||idsly.com$third-party
 ||idxxi.co/wp-content/uploads/*gif
 ||iewsaprgerkjny.com$third-party
@@ -281,6 +289,7 @@
 ||impressionsme.net$third-party
 ||inclk.com/itab/sa?cid=$popunder
 ||inclk.com/itab/sa?cid=$popup,third-party
+||indo168.club*gif
 ||inlink.site/wp-content/uploads/
 ||instant-smo.com$third-party
 ||internetdefenseleague.org$third-party
@@ -297,6 +306,7 @@
 ||jquery.com$third-party,domain=anitoki.com
 ||jwpcdn.com/player/v*vast.js$important
 ||kay-61.com$popup,third-party
+||keepimg.com*gif$domain=idfl.me
 ||kelris.pw$third-party
 ||klikfilm.stream/templates/jwplayer/assets/banner.
 ||knoacc.org$third-party
@@ -304,12 +314,17 @@
 ||kswid.com$third-party,script
 ||kuturl.com$third-party
 ||kuotamurahku.com$third-party
+||layarkacaxxi.id*gif
 ||ldtv.co/wp-content/uploads/*.gif
 ||limaten.info$popunder
 ||limaten.info$popup,third-party
 ||limaten.info$third-party
 ||linkshrink.net$third-party,script
+||littitte.online$third-party
 ||lk21.in/wp-content/uploads*gif
+||lk21.red*gif
+||lk21c.fun*gif
+||lk21s.fun*gif
 ||lkalite.info$third-party
 ||lonedol.info$popup,third-party
 ||lonedol.info$third-party
@@ -317,6 +332,7 @@
 ||lh5lg.top$third-party
 ||lqrlhmdwy.com$third-party
 ||lyrical-nonsense.com$inline-script
+||magrie.pw$third-party
 ||maxcdn.com$domain=alekscoin.com
 ||mediafire.com/dynamic/track_adblock
 ||mediaonspot.com$third-party
@@ -338,6 +354,7 @@
 ||movieon21.*/wp-content/uploads*gif
 ||moviesave.net$third-party
 ||mp4upload.com$third-party,domain=kondeesite.com
+||mwh.asia$third-party
 ||my188bet.com$third-party
 ||naenticle.info$third-party
 ||nephritish.com$third-party
@@ -363,6 +380,7 @@
 ||orgalso.com$third-party
 ||osg777id.com$popup,third-party
 ||oturl.com$subdocument
+||oujanime.com*gif
 ||ouo.io/images/b1.png
 ||ouo.io/images/b2.png
 ||p*.intab.xyz$popup,third-party
@@ -470,6 +488,7 @@
 ||ttplayer.info$third-party
 ||turwik.ru$third-party
 ||tuxzictbrqietq.com$third-party
+||tvku21.com*gif
 ||uadexchange.com$third-party
 ||ubloger.com/wp-content/uploads*gif
 ||unxuwvntk.com$third-party
@@ -500,7 +519,7 @@
 ||wjkwjcmeymu.com$third-party
 ||wmrynlxngdai.com$third-party
 ||wnp.com$third-party
-||wp.com*gif$domain=idxxi.top|lebahmovie.com|nonton.drakor-id.com
+||wp.com*gif$domain=idxxi.top|lebahmovie.com|nonton.drakor-id.com|pusatfilm21.com
 ||wyueivwashc.com$third-party
 ||wzpec.com
 ||x.kinja-static.com/assets/packaged-js/dollars.
@@ -515,6 +534,7 @@
 ||xx1.me/sworker.js
 ||xydeyou.com$third-party,script
 ||xymtglljft.com$third-party
+||y-image.com$third-party
 ||youtube.com$third-party,domain=alekscoin.com|bestbitcoinfaucets.net|btcsafari.com|digitask.ru|earn-url.com|earnbig.ca|ekrane.net|icenter.co|oturl.com|shortit.ca|want2crypto.com|world-mining.net
 ||youtube.com/api/stats/watchtime?$important
 ||yukwxqnxwzghxb.com$third-party
@@ -788,6 +808,7 @@
 *$popunder,third-party,domain=faucet.gold
 *$popunder,third-party,domain=grabmylink.xyz
 *$popunder,third-party,domain=imgrock.pw
+*$popunder,third-party,domain=indo168.club
 *$popunder,third-party,domain=pyrin.org
 *$popup,third-party,domain=adpop.me
 *$popup,third-party,domain=allbitcoinsites.com
@@ -814,6 +835,7 @@
 *$popup,third-party,domain=dwindly.io
 *$popup,third-party,domain=esy.es
 *$popup,third-party,domain=faucet.gold
+*$popup,third-party,domain=filmapik.eu
 *$popup,third-party,domain=futureurl.info
 *$popup,third-party,domain=get4links.xyz
 *$popup,third-party,domain=getlink.pw
@@ -950,8 +972,6 @@
 /themes/*/dist/scripts/main.js
 /toastr.js$domain=alekscoin.com
 /TOTO-300-x-250.
-/videojs.vast.vpaid.min
-/videojs_5.vast.vpaid.min
 /widgets/www.hiqqu$third-party
 /win728x90_2x.
 /wp-adblock-
@@ -1228,6 +1248,7 @@
 ##a[href*="bit.ly/ganoollinks"]
 ##a[href*="chidsimp.com"]
 ##a[href*="earth-111.com"]
+##a[href*="filmapik.eu/iklan"]
 ##a[href*="glumtitu.net"]
 ##a[href*="inclk.com"]
 ##a[href*="mellowads.com"]
@@ -1490,6 +1511,7 @@ linkduit.net##+js(nano-setInterval-booster.js)
 linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 linkk.bid##+js(nano-setInterval-booster.js)
 linkpoi.*##+js(abort-current-inline-script.js, addEventListener)
+lk21c.fun##table:nth-of-type(3)
 luckybitco.in##+js(bab-defuser.js)
 luckybits.io##+js(bab-defuser.js)
 luckybits.io##+js(nano-setInterval-booster.js)
@@ -1677,6 +1699,8 @@ dutchycorp.ovh##.row > center:nth-of-type(1)
 earn-url.com##.banner-336x280.banner
 efx2.com##.pageku:nth-of-type(4)
 fanbatch.us##.featuredimg
+filmbioskop21.cc##.ns-left
+filmbioskop21.cc##.ns-right
 flaz.link##.blog-item
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
@@ -1691,6 +1715,9 @@ juragan-anime.net##.ads
 juraganfiles.com##.no-padding.box.container > center
 justlikeyojna.com##.text-left
 karimunbits.net##.iklan-kiri
+kawanfilm21.online##.downloadlink
+kawanfilm21.online##.idmuvi-floatbanner
+kawanfilm21.online##.idmuvi-topbanner
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
 lebahmovie.com##.idmuvi-floatbanner-footer.idmuvi-floatbanner
@@ -1698,6 +1725,10 @@ lenov.ru##.clearfix.rek-but:nth-of-type(1)
 lenov.ru##.clearfix.rek-red.rek-but
 lk21.web.id##.row:nth-of-type(3)
 lk21.web.id##.row:nth-of-type(6)
+lk21c.fun##.gmr-single.gmr-box-content > table:nth-of-type(1)
+lk21c.fun##.gmr-single.gmr-box-content > table:nth-of-type(2)
+lk21c.fun##.ns-right
+lk21c.fun##.row > table
 luckybits.io##.ads-row.row
 mediafire.com##.on.lightbox
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
@@ -1714,6 +1745,8 @@ pekalongan-kommuniti.net##.fb-btn-seocips
 queenfaucet.website##.modal
 reevown.com##.adsbygoogle
 rollercoin.com##.adBlock-banner
+senimovie.co##.header-top-banner
+senimovie.co##.rsABlock
 situsbaru.me##.entry-header
 situsbaru.me##.hm-authorbox
 situsbaru.me##.hm-related-posts
@@ -1812,15 +1845,27 @@ dewafile.com###download
 downloadbatch.com###text-48
 dutchycorp.space###boxes
 easyhits4u.com###countDown
+filmbioskop21.cc###fbawah
 futureurl.info###Test
 grabmylink.xyz###gb
 hdtvku.com###mybannerpopup
 healthproper.blogspot.com###adb
+idfl.*###ad_global_below_navbar
 idfl.*###fancybox-overlay
 idsly.net,idsly.org,jelajahinternet.me,merdekaid.online,muhammadyoga.me,updatetribun.org###m813
 imgbaron.com###iframe-fb
+indo168.club###bioskop-kanan
+indo168.club###bioskop-kiri
+indoxxi.men###content-embed > center
+kawanfilm21.online###content > div.container:nth-of-type(1)
+kawanfilm21.online###floating_banner_top1
 liz.zdonlot.in###close-banner
+lk21c.fun###flobwh
+lk21c.fun###tengah
+lk21c.fun###text-12
 mediafire.com###abnotify
+netnot21.com###kiri
+netnot21.com###ngisor
 njiir.com###Blog1 > .title
 njiir.com###post
 opengapps.org###donatebox
@@ -1830,6 +1875,7 @@ platinmods.com###siropuChat
 revolt.group###category_shoutbox
 ryn.cc###main > div:nth-of-type(1)
 ryn.cc###main > div:nth-of-type(2)
+senimovie.co###sidebar
 short.pe###dfp
 situsbaru.me###colophon
 situsbaru.me###masthead
