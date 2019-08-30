@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 30 August 2019, 13:15:16 WIB
+! Last modified: 30 August 2019, 13:25:14 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -962,7 +962,7 @@
 /sl.js$domain=ad4msan.com
 /smart$domain=faucetwhite.com
 /sora$script,third-party
-/soralink.js$domain=anitoki.com|maxnime.com
+/soralink.js$domain=anitoki.com|batch.id|maxnime.com
 /src$domain=pantsu.cat
 /static/101/site.js?
 /static/js/amvn.js
@@ -1667,6 +1667,7 @@ awsubs.tv##.pusat728
 bagilagi.com##.klnsora
 bagilagi.com##.gmr-single.gmr-box-content
 bagilagi.com##.rurasafe-ads
+batch.id##.klan300
 beat-doge.tk##.popUpBannerBox
 bestbitcoinfaucets.net##.modal-body > center
 bitcoincore.us##.ablinksgroup > center
