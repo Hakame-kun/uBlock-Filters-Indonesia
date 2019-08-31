@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 30 August 2019, 23:31:07 WIB
+! Last modified: 31 August 2019, 15:33:11 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -1752,6 +1752,7 @@ reevown.com##.adsbygoogle
 rollercoin.com##.adBlock-banner
 senimovie.co##.header-top-banner
 senimovie.co##.rsABlock
+siherp.com##.c-message > div:nth-of-type(2)
 situsbaru.me##.entry-header
 situsbaru.me##.hm-authorbox
 situsbaru.me##.hm-related-posts
