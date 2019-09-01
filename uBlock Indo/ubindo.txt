@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 01 August 2019, 12:28:55 WIB
+! Last modified: 01 August 2019, 20:18:32 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -1686,6 +1686,8 @@ bitformations.website##.article
 bitformations.website##.sidebar_list
 bolaoke.club##.clearfix.mh-wrapper
 btcleets.xyz,coin.mg,onlinebee.in,techcraze.online##.banner-captcha.banner
+ceklink.co##.banner-captcha.banner
+ceklink.co##.blog-item
 citpekalongan.com##.section.header-right
 clickbits.io##._fa7cdd4c68507744
 clk.ink##.banner-inner
