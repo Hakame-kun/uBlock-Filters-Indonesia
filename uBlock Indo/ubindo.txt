@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 31 August 2019, 15:33:11 WIB
+! Last modified: 01 August 2019, 12:28:55 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -306,6 +306,7 @@
 ||jomys.xyz$third-party
 ||joneself.com$third-party
 ||jquery.com$third-party,domain=anitoki.com
+||jossbingit.xyz*soralink
 ||jwpcdn.com/player/v*vast.js$important
 ||kay-61.com$popup,third-party
 ||keepimg.com*gif$domain=idfl.me
@@ -1380,6 +1381,10 @@ click2shorten.com##+js(bab-defuser.js)
 clickers.info##+js(bab-defuser.js)
 clik.pw##a[href^="http://mob1ledev1ces.com/r/"]
 cll.press##+js(bab-defuser.js)
+closetopic.site##+js(nano-setInterval-booster.js)
+closetopic.site##h2
+closetopic.site##h3
+closetopic.site##p
 coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com,tetew.info##h2
 coin.mg##div.row:nth-of-type(4)
 coin4you.win##+js(bab-defuser.js)
@@ -1684,6 +1689,13 @@ btcleets.xyz,coin.mg,onlinebee.in,techcraze.online##.banner-captcha.banner
 citpekalongan.com##.section.header-right
 clickbits.io##._fa7cdd4c68507744
 clk.ink##.banner-inner
+closetopic.site##.byline
+closetopic.site##.entry-content-single.entry-content > div:nth-of-type(2)
+closetopic.site##.entry-footer
+closetopic.site##.entry-title
+closetopic.site##.idblog-core.idblog-related-post
+closetopic.site##.idblog-social-share
+closetopic.site##.posted-on
 coeg.in,siherp.com,siotong.com,telondasmu.com,tetew.info##.c-message > div:nth-of-type(1)
 coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com,tetew.info##.disclaimer
 coin.mg##.box-main > center
@@ -1839,6 +1851,9 @@ bitformations.website###site-footer
 bitformations.website###site-header
 btcleets.xyz###link-view > center:nth-of-type(1)
 btcleets.xyz###mainNav
+closetopic.site###cookie-law-info-again
+closetopic.site###footer-container
+closetopic.site###masthead
 coin.mg###link-view > div:nth-of-type(2)
 coin.mg###link-view > div:nth-of-type(4)
 coins4claim.com,free4claim.com###mydiv
