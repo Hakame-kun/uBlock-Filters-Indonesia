@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 01 August 2019, 20:18:32 WIB
+! Last modified: 02 August 2019, 12:24:05 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -1106,7 +1106,7 @@
 @@cryptocoinsad.com$first-party
 @@csi.gstatic.com$domain=cdn.applixir.com|imasdk.googleapis.com
 @@csstatic.com$domain=clixsense.com
-@@d.bloggerku.com/safelink$domain=www.njiir.com
+@@d.bloggerku.com/safelink$domain=njiir.com|vozdesportiva.com
 @@dc.services.visualstudio.com
 @@dc4in.com$elemhide
 @@dircont3.com/nvp.js
@@ -1224,6 +1224,7 @@
 @@userscloud.com/?op=login&method=
 @@vizury.com$domain=jd.id
 @@vjs.zencdn.net$domain=sendit.cloud
+@@vozdesportiva.com$elemhide
 @@want2crypto.com$elemhide
 @@wegner.tech$elemhide
 @@weheartbitcoin.com$elemhide
@@ -1610,6 +1611,8 @@ vikingbtc.xyz##+js(bab-defuser.js)
 vikingbtc.xyz##+js(nano-setInterval-booster.js)
 vivocoin.com##+js(bab-defuser.js)
 voxc.org##h4
+vozdesportiva.com##div.iklan
+vozdesportiva.com##+js(nano-setInterval-booster.js)
 want2crypto.com##+js(bab-defuser.js)
 warriorfaucet.com##+js(bab-defuser.js)
 weebly.com##+js(bab-defuser.js)
@@ -1780,6 +1783,10 @@ susutinv2.com##.panel-body.panel-default.panel > h3
 tokenfly.pw##.banner-captcha.banner
 tokenfly.pw##.box-main > center:nth-of-type(1)
 tokenfly.pw##.box-main > p
+vozdesportiva.com##.ADS
+vozdesportiva.com##.adsbygoogle
+vozdesportiva.com##.isi
+vozdesportiva.com##.separator
 waktunonton.com##.idmuvi-topbanner-aftermenu
 wegner.tech##.adsbygoogle
 wikitrade.me##.mh-clearfix.entry-header
@@ -1907,6 +1914,8 @@ situsbaru.me###secondary
 speedup-faucet.com###mainbody > center:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
 tokenfly.pw###cookie-pop
 tribunnews.com###articleright
+vozdesportiva.com###Blog1 > .title
+vozdesportiva.com###post
 webtoons.com###footer
 xydeyou.com###gc2f
 zippyshare.com###qrCode
