@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 02 August 2019, 12:24:05 WIB
+! Last modified: 02 August 2019, 12:34:56 WIB
 ! Expires: 31 days (Stable Release)
 
 ! ========== URL List ==========
@@ -1307,6 +1307,7 @@ adwerty.com##+js(bab-defuser.js)
 adwerty.com##+js(nano-setInterval-booster.js)
 agoodprofit.ru##+js(nano-setInterval-booster.js)
 agradarpan.com##+js(bab-defuser.js)
+ahexa.com##h2
 alekscoin.com##+js(abort-on-property-read.js)
 alekscoin.com##+js(bab-defuser.js)
 alekscoin.com##+js(nano-setInterval-booster.js)
@@ -1663,6 +1664,8 @@ zippyanime.net##+js(nano-setInterval-booster.js)
 46.166.167.16,semprot.com,semprotku.com##.warning
 ad4msan.win##.entry-content > p
 adsrt.me##.rounded_shape2.rounded_shape
+ahexa.com##.c-message > div:nth-of-type(2)
+ahexa.com##.disclaimer
 alinafaucet.win##.form > center
 anisubindo.org##.ArevicoModal-bg
 anjay.info##.clearfix.mh-wrapper
