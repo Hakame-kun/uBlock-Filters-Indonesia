@@ -1,6 +1,7 @@
 ! Title: uBlock Indo
-! Last modified: 02 August 2019, 12:34:56 WIB
+! Last modified: 02 August 2019, 12:39:00 WIB
 ! Expires: 31 days (Stable Release)
+! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
 ! ========== URL List ==========
 
