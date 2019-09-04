@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 02 August 2019, 12:39:00 WIB
+! Last modified: 04 August 2019, 10:37:53 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -1759,7 +1759,12 @@ luckybits.io##.ads-row.row
 mediafire.com##.on.lightbox
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
 mtofficial.com##.iklan-kiri
-myanimelist.net##._unit
+myanimelist.net##.amazon-ads
+myanimelist.net##.border_top
+myanimelist.net##.btn-mal-service
+myanimelist.net##.mal-ad-unit
+myanimelist.net##.mauto.clearfix
+myanimelist.net##.pb24 > div:nth-of-type(12)
 neonime.*##.block-player
 newsjizz.in##.taxonomy-list.comp
 njiir.com##.ADS
