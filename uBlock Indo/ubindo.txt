@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 04 August 2019, 10:37:53 WIB
+! Last modified: 05 August 2019, 22:01:00 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -1554,6 +1554,8 @@ oploverz.in##s
 oploverz.in##u
 oploverzhome.com##+js(nano-setInterval-booster.js)
 ownbitcoins.net##+js(bab-defuser.js)
+pantauterus.me##+js(nano-setInterval-booster.js)
+pantauterus.me##h2:nth-of-type(n)
 payskip.me##+js(nano-setInterval-booster.js)
 pentafaucet.com##+js(bab-defuser.js)
 platinmods.com##+js(bab-defuser.js)
@@ -1772,6 +1774,17 @@ njiir.com##.bagi > .isi
 njiir.com##.separator
 onlinebee.in##.text-left
 ouo.io##.text-center > div
+pantauterus.me##.bc-top-style
+pantauterus.me##.bs-irp
+pantauterus.me##.clearfix.post-author
+pantauterus.me##.entry-terms
+pantauterus.me##.next-prev-post
+pantauterus.me##.post-related
+pantauterus.me##.post-share
+pantauterus.me##.post-tp-1-header.post-header
+pantauterus.me##.single-post-content > p:nth-of-type(n)
+pantauterus.me##.truygiobl
+pantauterus.me##.wrapper-sticky
 pekalongan-kommuniti.net##.fb-btn-seocips
 queenfaucet.website##.modal
 reevown.com##.adsbygoogle
@@ -1848,6 +1861,7 @@ zonawibu.me##.infopost
 a-ads.com###news_feed
 aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,cointalk.club,faucet.kiwi,faucethero.com,free4claim.com,furturebitearnmore.xyz,mazenbtc.com###middle-adspace
 ad4msan.win###secondary
+adsafelink.net###cookie-pop
 altervista.org###ad
 altervista.org###ad_overlay
 androidrepublic.org###siropuChat
@@ -1909,6 +1923,9 @@ njiir.com###Blog1 > .title
 njiir.com###post
 opengapps.org###donatebox
 oploverz.in###btm_banner
+pantauterus.me###header
+pantauterus.me###respond
+pantauterus.me###site-footer
 pekalongan-kommuniti.net###box-message
 platinmods.com###siropuChat
 revolt.group###category_shoutbox
