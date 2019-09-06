@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 06 August 2019, 23:56:57 WIB
+! Last modified: 07 August 2019, 00:01:40 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -564,6 +564,7 @@
 *$third-party,domain=adbtc.top
 *$third-party,domain=adbull.cc
 *$third-party,domain=adcoin.me
+*$third-party,domain=adlink.pw
 *$third-party,domain=adlinkfly.me
 *$third-party,domain=adpop.me
 *$third-party,domain=adspuma.com
@@ -712,12 +713,14 @@
 *$third-party,domain=japet777.000webhostapp.com
 *$third-party,domain=jupiter777.000webhostapp.com
 *$third-party,domain=juragan-anime.net
+*$third-party,domain=kabarviral.blog
 *$third-party,domain=keplakneh.com
 *$third-party,domain=kickasstraffic.com
 *$third-party,domain=kimotech3.com
 *$third-party,domain=kuturl.com
 *$third-party,domain=kuyhaa.me
 *$third-party,domain=crypto-fun.cf
+*$third-party,domain=lewat.club
 *$third-party,domain=link-zero.com
 *$third-party,domain=link4win.com
 *$third-party,domain=linkrag.com
