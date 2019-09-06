@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 05 August 2019, 22:01:00 WIB
+! Last modified: 06 August 2019, 22:22:03 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -1617,6 +1617,8 @@ vivocoin.com##+js(bab-defuser.js)
 voxc.org##h4
 vozdesportiva.com##div.iklan
 vozdesportiva.com##+js(nano-setInterval-booster.js)
+wadooo.com##+js(nano-setInterval-booster.js)
+wadooo.com##ol
 want2crypto.com##+js(bab-defuser.js)
 warriorfaucet.com##+js(bab-defuser.js)
 weebly.com##+js(bab-defuser.js)
@@ -1666,6 +1668,7 @@ zippyanime.net##+js(nano-setInterval-booster.js)
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
 ad4msan.win##.entry-content > p
+adlink.pw##.entry-after-content
 adsrt.me##.rounded_shape2.rounded_shape
 ahexa.com##.c-message > div:nth-of-type(2)
 ahexa.com##.disclaimer
@@ -1809,6 +1812,18 @@ vozdesportiva.com##.ADS
 vozdesportiva.com##.adsbygoogle
 vozdesportiva.com##.isi
 vozdesportiva.com##.separator
+wadooo.com##.about-author
+wadooo.com##.entry-content > div:nth-of-type(n)
+wadooo.com##.entry-content > h2
+wadooo.com##.entry-content > h3
+wadooo.com##.entry-content > p:nth-of-type(n)
+wadooo.com##.entry-content > ul:nth-of-type(n)
+wadooo.com##.entry-date
+wadooo.com##.entry-footer
+wadooo.com##.entry-media
+wadooo.com##.entry-title
+wadooo.com##.mb30
+wadooo.com##.sidebar
 waktunonton.com##.idmuvi-topbanner-aftermenu
 wegner.tech##.adsbygoogle
 wikitrade.me##.mh-clearfix.entry-header
@@ -1861,6 +1876,8 @@ zonawibu.me##.infopost
 a-ads.com###news_feed
 aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,cointalk.club,faucet.kiwi,faucethero.com,free4claim.com,furturebitearnmore.xyz,mazenbtc.com###middle-adspace
 ad4msan.win###secondary
+adlink.pw###primary  div:nth-of-type(1)
+adlink.pw###secondary
 adsafelink.net###cookie-pop
 altervista.org###ad
 altervista.org###ad_overlay
@@ -1942,6 +1959,9 @@ tokenfly.pw###cookie-pop
 tribunnews.com###articleright
 vozdesportiva.com###Blog1 > .title
 vozdesportiva.com###post
+wadooo.com###comments
+wadooo.com###header
+wadooo.com###footer
 webtoons.com###footer
 xydeyou.com###gc2f
 zippyshare.com###qrCode
