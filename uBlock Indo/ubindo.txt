@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 06 August 2019, 22:22:03 WIB
+! Last modified: 06 August 2019, 22:52:46 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -1064,6 +1064,7 @@
 @@asr-games.net/newjs
 @@bagilagi.com$elemhide
 @@banztegnology.club$elemhide
+@@bercara.com$elemhide
 @@bitcofaucet.com$elemhide
 @@bitcoin2019.com$elemhide
 @@bitcoininformation.website/wp-content/plugins/soralink
@@ -1329,6 +1330,12 @@ awsubsco.ga##+js(nano-setInterval-booster.js)
 babesdoge.win##+js(nano-setInterval-booster.js)
 bcoin4you.com##+js(bab-defuser.js)
 beat-doge.tk##+js(bab-defuser.js)
+bercara.com##+js(nano-setInterval-booster.js)
+bercara.com##center:nth-of-type(2)
+bercara.com##h2:nth-of-type(n)
+bercara.com##h3:nth-of-type(n)
+bercara.com##header
+bercara.com##p:nth-of-type(n)
 bestbitcoinfaucets.net##+js(bab-defuser.js)
 bestbitcoinfaucetslist.com##+js(bab-defuser.js)
 bestfreebitcoin.club##+js(bab-defuser.js)
@@ -1438,6 +1445,7 @@ dogy.cf##+js(bab-defuser.js)
 dogy.cf##+js(nano-setInterval-booster.js)
 dripcoin.net##+js(bab-defuser.js)
 drive.ad4msan.win##+js(bab-defuser.js)
+duit.cc##+js(nano-setInterval-booster.js)
 dungmak.com##+js(bab-defuser.js)
 dutchycorp.ovh,dutchycorp.space##[id*="ScriptRoot"]
 dutchycorp.ovh,dutchycorp.space##center:nth-of-type(2)
@@ -1513,6 +1521,7 @@ jelajahinternet.me##+js(nano-setInterval-booster.js)
 justlikeyojna.com##center:nth-of-type(1) > strong
 kabarviral.blog##center:nth-of-type(2)
 karimunbits.net##+js(bab-defuser.js)
+kazefuri.me##+js(nano-setInterval-booster.js)
 keplakneh.com##+js(nano-setInterval-booster.js)
 lenov.ru##+js(nano-setInterval-booster.js)
 lewat.club##center:nth-of-type(2)
@@ -1624,8 +1633,10 @@ warriorfaucet.com##+js(bab-defuser.js)
 weebly.com##+js(bab-defuser.js)
 weheartbitcoin.com##+js(bab-defuser.js)
 wicr.in##+js(nano-setInterval-booster.js)
-wikitrade.me##p:nth-of-type(n)
 wikitrade.me##+js(nano-setInterval-booster.js)
+wikitrade.me##p:nth-of-type(n)
+wikitrik.com##+js(nano-setInterval-booster.js)
+wikitrik.com##p:nth-of-type(n)
 wolf-faucet.win##+js(bab-defuser.js)
 xcolander.com##+js(abort-on-property-read.js, FuckAdBlock)
 yasinews.xyz##+js(bab-defuser.js)
@@ -1689,6 +1700,13 @@ bagilagi.com##.gmr-single.gmr-box-content
 bagilagi.com##.rurasafe-ads
 batch.id##.klan300
 beat-doge.tk##.popUpBannerBox
+bercara.com##.adsbygoogle
+bercara.com##.col-lg-8.col-md-12 > div:nth-of-type(1)
+bercara.com##.col-md-6
+bercara.com##.color-ccc
+bercara.com##.float-left-right
+bercara.com##.mt-30 > b
+bercara.com##.mtb-15.list-li-mr-20
 bestbitcoinfaucets.net##.modal-body > center
 bitcoincore.us##.ablinksgroup > center
 bitcoincore.us##.ba2
@@ -1748,6 +1766,8 @@ karimunbits.net##.iklan-kiri
 kawanfilm21.online##.downloadlink
 kawanfilm21.online##.idmuvi-floatbanner
 kawanfilm21.online##.idmuvi-topbanner
+kazefuri.me##.mh-clearfix.mh-wrapper
+kazefuri.web.id##.adsbawah2
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
 lebahmovie.com##.idmuvi-floatbanner-footer.idmuvi-floatbanner
@@ -1929,6 +1949,7 @@ indo168.club###bioskop-kiri
 indoxxi.men###content-embed > center
 kawanfilm21.online###content > div.container:nth-of-type(1)
 kawanfilm21.online###floating_banner_top1
+kazefuri.web.id###iklan-pos
 liz.zdonlot.in###close-banner
 lk21c.fun###flobwh
 lk21c.fun###tengah
