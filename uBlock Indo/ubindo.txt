@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 06 August 2019, 22:57:58 WIB
+! Last modified: 06 August 2019, 23:33:56 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -1206,6 +1206,7 @@
 @@safebitcoin.info$elemhide
 @@satoshisera.com$elemhide
 @@script.crazyegg.com$domain=asmwall.com
+@@semawur.com$elemhide
 @@sendit.download
 @@sharethis.com
 @@shorte.st$first-party
@@ -1331,7 +1332,7 @@ awsubsco.ga##+js(nano-setInterval-booster.js)
 babesdoge.win##+js(nano-setInterval-booster.js)
 bcoin4you.com##+js(bab-defuser.js)
 beat-doge.tk##+js(bab-defuser.js)
-bercara.com##+js(nano-setInterval-booster.js)
+bercara.com,semawur.com##+js(nano-setInterval-booster.js)
 bercara.com##center:nth-of-type(2)
 bercara.com##h2:nth-of-type(n)
 bercara.com##h3:nth-of-type(n)
@@ -1589,6 +1590,10 @@ ryn.cc##+js(bab-defuser.js)
 safelinkreviewz.com##+js(nano-setInterval-booster.js)
 satoshikingdom.com##+js(bab-defuser.js)
 satoshilabs.net##+js(bab-defuser.js)
+semawur.com##h2:nth-of-type(n)
+semawur.com##h3:nth-of-type(n)
+semawur.com##header
+semawur.com##p:nth-of-type(n)
 sfile.mobi##+js(nano-setInterval-booster.js)
 shortit.pw##+js(bab-defuser.js)
 shortit.pw##+js(nano-setInterval-booster.js)
@@ -1814,6 +1819,13 @@ pekalongan-kommuniti.net##.fb-btn-seocips
 queenfaucet.website##.modal
 reevown.com##.adsbygoogle
 rollercoin.com##.adBlock-banner
+semawur.com##.adsbygoogle
+semawur.com##.col-lg-8.col-md-12 > div:nth-of-type(1)
+semawur.com##.col-md-6
+semawur.com##.color-ccc
+semawur.com##.float-left-right
+semawur.com##.mt-30
+semawur.com##.mtb-15.list-li-mr-20
 senimovie.co##.header-top-banner
 senimovie.co##.rsABlock
 siherp.com##.c-message > div:nth-of-type(2)
