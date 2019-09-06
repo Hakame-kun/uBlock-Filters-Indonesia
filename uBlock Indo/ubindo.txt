@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 06 August 2019, 22:52:46 WIB
+! Last modified: 06 August 2019, 22:57:58 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -363,6 +363,7 @@
 ||naenticle.info$third-party
 ||nephritish.com$third-party
 ||nererut.com$third-party
+||news-tech.xyz/download3.png
 ||nikitapoker.net$popup,third-party
 ||nobza.com$third-party
 ||nolix.ru$third-party
@@ -1553,6 +1554,7 @@ multicoinfaucet.website##+js(bab-defuser.js)
 multimining.website##+js(nano-setInterval-booster.js)
 mytreep.icu##+js(bab-defuser.js)
 nekopoi.*##+js(bab-defuser.js)
+news-tech.xyz##+js(nano-setInterval-booster.js)
 newsjizz.in##+js(nano-setInterval-booster.js)
 njiir.com##div.iklan
 njiir.com##+js(nano-setInterval-booster.js)
