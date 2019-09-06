@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 06 August 2019, 23:33:56 WIB
+! Last modified: 06 August 2019, 23:45:34 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -1562,6 +1562,7 @@ njiir.com##+js(nano-setInterval-booster.js)
 nowfor.net##+js(bab-defuser.js)
 o-bitman.com##+js(bab-defuser.js)
 obix.space##+js(nano-setInterval-booster.js)
+ockles.com##+js(nano-setInterval-booster.js)
 oploverz.in##s
 oploverz.in##u
 oploverzhome.com##+js(nano-setInterval-booster.js)
