@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 07 August 2019, 22:44:04 WIB
+! Last modified: 07 August 2019, 23:14:24 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -1841,6 +1841,7 @@ lewat.club##.entry-after-content
 lewat.club##.g1-footer
 lewat.club##.g1-hb-shadow-off
 lewat.club##.g1-prefooter
+liputannubi.net##.b-error
 liputannubi.net##.bc-top-style
 liputannubi.net##.comments-template
 liputannubi.net##.entry-content > h1:nth-of-type(n)
@@ -1859,6 +1860,7 @@ liputannubi.net##.post-share
 liputannubi.net##.qda
 liputannubi.net##.qda-image
 liputannubi.net##.rounded
+liputannubi.net##.size-full
 liputannubi.net##.wp-caption-text
 liputannubi.net##.wrapper-sticky
 lk21.web.id##.row:nth-of-type(3)
