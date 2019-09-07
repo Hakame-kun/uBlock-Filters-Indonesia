@@ -1715,12 +1715,12 @@ ahexa.com##.c-message > div:nth-of-type(2)
 ahexa.com##.disclaimer
 alinafaucet.win##.form > center
 anisubindo.org##.ArevicoModal-bg
-anjay.info##.clearfix.mh-wrapper
+anjay.info##.mh-wrapper
 anjay.info##.mh-copyright-wrap
 anjay.info##.mh-header
 anjay.info##.mh-preheader
 anjay.info##.mh-subheader
-awcar.icu,davinsurance.com,developinsurance.me,speedcar.club,xydeyou.com##.mh-clearfix.mh-wrapper
+awcar.icu,davinsurance.com,developinsurance.me,speedcar.club,xydeyou.com##.mh-wrapper
 awsubs.tv##.fb-comments
 awsubs.tv##.fb_iframe_widget.fb-like
 awsubs.tv##.minipusat
@@ -1744,7 +1744,7 @@ bitcoincore.us##.blog-sidebar
 bitcoincore.us##.bottom-separator.text-center.col-sm-12
 bitformations.website##.article
 bitformations.website##.sidebar_list
-bolaoke.club##.clearfix.mh-wrapper
+bolaoke.club##.mh-wrapper
 btcleets.xyz,coin.mg,onlinebee.in,techcraze.online##.banner-captcha.banner
 ceklink.co##.banner-captcha.banner
 ceklink.co##.blog-item
@@ -1785,6 +1785,9 @@ gigapurbalingga.net##.code-block-2.code-block
 gotravelgo.space##.adcontainer
 gotravelgo.space##.bc-top-style
 gotravelgo.space##.comments-template
+gotravelgo.space##.entry-content > h3:nth-of-type(n)
+gotravelgo.space##.entry-content > p:nth-of-type(n)
+gotravelgo.space##.entry-content > ul:nth-of-type(n)
 gotravelgo.space##.entry-terms
 gotravelgo.space##.fluid-width-video-wrapper
 gotravelgo.space##.footer-instagram
@@ -1795,9 +1798,6 @@ gotravelgo.space##.post-share
 gotravelgo.space##.post-related
 gotravelgo.space##.rxlgjcsq
 gotravelgo.space##.single-featured
-gotravelgo.space##.single-post-content.clearfix.entry-content > h3:nth-of-type(n)
-gotravelgo.space##.single-post-content.clearfix.entry-content > p:nth-of-type(n)
-gotravelgo.space##.single-post-content.clearfix.entry-content > ul:nth-of-type(n)
 gotravelgo.space##.size-full
 gotravelgo.space##.wp-caption
 gotravelgo.space##.wrapper-sticky
@@ -1825,7 +1825,7 @@ karimunbits.net##.iklan-kiri
 kawanfilm21.online##.downloadlink
 kawanfilm21.online##.idmuvi-floatbanner
 kawanfilm21.online##.idmuvi-topbanner
-kazefuri.me##.mh-clearfix.mh-wrapper
+kazefuri.me##.mh-wrapper
 kazefuri.web.id##.adsbawah2
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
@@ -1865,9 +1865,9 @@ myanimelist.net##.amazon-ads
 myanimelist.net##.border_top
 myanimelist.net##.btn-mal-service
 myanimelist.net##.mal-ad-unit
-myanimelist.net##.mauto.clearfix
+myanimelist.net##.mauto
 myanimelist.net##.pb24 > div:nth-of-type(12)
-naturalhealthy.xyz##.mh-clearfix.mh-wrapper
+naturalhealthy.xyz##.mh-wrapper
 naturalhealthy.xyz##.mh-header
 neonime.*##.block-player
 newsjizz.in##.taxonomy-list.comp
@@ -1878,7 +1878,7 @@ onlinebee.in##.text-left
 ouo.io##.text-center > div
 pantauterus.me##.bc-top-style
 pantauterus.me##.bs-irp
-pantauterus.me##.clearfix.post-author
+pantauterus.me##.post-author
 pantauterus.me##.entry-terms
 pantauterus.me##.next-prev-post
 pantauterus.me##.post-related
@@ -1932,8 +1932,8 @@ wadooo.com##.mb30
 wadooo.com##.sidebar
 waktunonton.com##.idmuvi-topbanner-aftermenu
 wegner.tech##.adsbygoogle
-wikitrade.me##.mh-clearfix.entry-header
-wikitrade.me##.mh-clearfix.mh-row.mh-post-nav
+wikitrade.me##.entry-header
+wikitrade.me##.mh-post-nav
 wikitrade.me##.mh-sidebar.mh-widget-col-1
 wikitrade.me##.mh-site-logo
 wikitrade.me##.outboxA.outBox
