@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 07 August 2019, 21:49:52 WIB
+! Last modified: 07 August 2019, 22:20:43 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -588,6 +588,7 @@
 *$third-party,domain=bcoin4you.com
 *$third-party,domain=bdurls.com
 *$third-party,domain=beat-doge.tk
+*$third-party,domain=bercara.com
 *$third-party,domain=best5link.com
 *$third-party,domain=bestbitcoinfaucets.net
 *$third-party,domain=bestfreebitcoin.club
@@ -1500,6 +1501,9 @@ getlink.pw##+js(bab-defuser.js)
 geturl.pro##+js(bab-defuser.js)
 goldenfreesatoshi.ru##+js(nano-setInterval-booster.js)
 goodfaucet.ru##+js(nano-setInterval-booster.js)
+gotravelgo.space##+js(nano-setInterval-booster.js)
+gotravelgo.space##h2:nth-of-type(n)
+gotravelgo.space##hr:nth-of-type(n)
 gr8.cc##+js(bab-defuser.js)
 grabmycoin.xyz##+js(bab-defuser.js)
 grabmylink.xyz##+js(bab-defuser.js)
@@ -1520,6 +1524,12 @@ idxxi.co##+js(nano-setInterval-booster.js)
 idzone.site##center
 imgsky.net##+js(nano-setInterval-booster.js)
 in11.site,infosehatku.club,semawur.com##+js(nano-setInterval-booster.js)
+in11.site##figcaption
+in11.site##h1:nth-of-type(n)
+in11.site##h2:nth-of-type(n)
+in11.site##h3:nth-of-type(n)
+in11.site##header
+in11.site##p:nth-of-type(n)
 indiamartoffers.com##+js(bab-defuser.js)
 infaucet.site##+js(bab-defuser.js)
 infotrendy.me##+js(nano-setInterval-booster.js)
@@ -1559,6 +1569,7 @@ muhammadyoga.me##+js(nano-setInterval-booster.js)
 multicoinfaucet.website##+js(bab-defuser.js)
 multimining.website##+js(nano-setInterval-booster.js)
 mytreep.icu##+js(bab-defuser.js)
+naturalhealthy.xyz##+js(nano-setInterval-booster.js)
 nekopoi.*##+js(bab-defuser.js)
 news-tech.xyz##+js(nano-setInterval-booster.js)
 newsjizz.in##+js(nano-setInterval-booster.js)
@@ -1573,6 +1584,7 @@ oploverz.in##u
 oploverzhome.com##+js(nano-setInterval-booster.js)
 ownbitcoins.net##+js(bab-defuser.js)
 pantauterus.me##+js(nano-setInterval-booster.js)
+pantauterus.me##figure.wp-block-image
 pantauterus.me##h2:nth-of-type(n)
 payskip.me##+js(nano-setInterval-booster.js)
 pentafaucet.com##+js(bab-defuser.js)
@@ -1768,12 +1780,37 @@ filmbioskop21.cc##.ns-right
 flaz.link##.blog-item
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
+gotravelgo.space##.adcontainer
+gotravelgo.space##.bc-top-style
+gotravelgo.space##.comments-template
+gotravelgo.space##.entry-terms
+gotravelgo.space##.fluid-width-video-wrapper
+gotravelgo.space##.footer-instagram
+gotravelgo.space##.next-prev-post
+gotravelgo.space##.post-author
+gotravelgo.space##.post-header-inner
+gotravelgo.space##.post-share
+gotravelgo.space##.post-related
+gotravelgo.space##.rxlgjcsq
+gotravelgo.space##.single-featured
+gotravelgo.space##.single-post-content.clearfix.entry-content > h3:nth-of-type(n)
+gotravelgo.space##.single-post-content.clearfix.entry-content > p:nth-of-type(n)
+gotravelgo.space##.single-post-content.clearfix.entry-content > ul:nth-of-type(n)
+gotravelgo.space##.size-full
+gotravelgo.space##.wp-caption
+gotravelgo.space##.wrapper-sticky
 greget.space##.c-message > div:nth-of-type(2)
 hdtvku.com##.banner-clicked
 idzone.site##.adsbygoogle
 imgsky.net##.content-box > div
 indozone.me##.adsbygoogle
 indoxxi.*##.jwseed
+in11.site##.color-ccc
+in11.site##.col-lg-4
+in11.site##.col-lg-8.col-md-12 > div:nth-of-type(1)
+in11.site##.float-left-right
+in11.site##.mt-30
+in11.site##.mtb-15
 ironime.org##.anon
 juragan-anime.net##.ads
 juraganfiles.com##.no-padding.box.container > center
@@ -1815,6 +1852,8 @@ myanimelist.net##.btn-mal-service
 myanimelist.net##.mal-ad-unit
 myanimelist.net##.mauto.clearfix
 myanimelist.net##.pb24 > div:nth-of-type(12)
+naturalhealthy.xyz##.mh-clearfix.mh-wrapper
+naturalhealthy.xyz##.mh-header
 neonime.*##.block-player
 newsjizz.in##.taxonomy-list.comp
 njiir.com##.ADS
@@ -1971,6 +2010,8 @@ dutchycorp.space###boxes
 easyhits4u.com###countDown
 filmbioskop21.cc###fbawah
 futureurl.info###Test
+gotravelgo.space###header
+gotravelgo.space###site-footer
 grabmylink.xyz###gb
 hdtvku.com###mybannerpopup
 healthproper.blogspot.com###adb
