@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 08 August 2019, 00:42:50 WIB
+! Last modified: 08 August 2019, 00:59:48 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -1506,6 +1506,7 @@ gotravelgo.space##+js(nano-setInterval-booster.js)
 gotravelgo.space##+js(set-constant, blurred, false)
 gotravelgo.space##h2:nth-of-type(n)
 gotravelgo.space##hr:nth-of-type(n)
+gotravelgo.space##table:nth-of-type(n)
 gr8.cc##+js(bab-defuser.js)
 grabmycoin.xyz##+js(bab-defuser.js)
 grabmylink.xyz##+js(bab-defuser.js)
@@ -1526,7 +1527,7 @@ idxxi.co##+js(nano-setInterval-booster.js)
 idzone.site##center
 imgsky.net##+js(nano-setInterval-booster.js)
 in11.site,infosehatku.club,semawur.com##+js(nano-setInterval-booster.js)
-in11.site,infosehatku.club,semawur.com##+js(set-constant, blurred, false)
+in11.site,infosehatku.club,semawur.com##+js(set-constant.js, blurred, false)
 in11.site##figcaption
 in11.site##h1:nth-of-type(n)
 in11.site##h2:nth-of-type(n)
@@ -1552,7 +1553,7 @@ linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##+js(abort-on-property-r
 linkk.bid##+js(nano-setInterval-booster.js)
 linkpoi.*##+js(abort-current-inline-script.js, addEventListener)
 liputannubi.net##+js(nano-setInterval-booster.js)
-liputannubi.net##+js(set-constant, blurred, false)
+liputannubi.net##+js(set-constant.js, blurred, false)
 liputannubi.net##blockquote
 liputannubi.net##h2:nth-of-type(n)
 liputannubi.net##h3:nth-of-type(n)
