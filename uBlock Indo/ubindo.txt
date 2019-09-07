@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 07 August 2019, 23:14:24 WIB
+! Last modified: 08 August 2019, 00:42:50 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -1338,7 +1338,8 @@ awsubsco.ga##+js(nano-setInterval-booster.js)
 babesdoge.win##+js(nano-setInterval-booster.js)
 bcoin4you.com##+js(bab-defuser.js)
 beat-doge.tk##+js(bab-defuser.js)
-bercara.com,semawur.com##+js(nano-setInterval-booster.js)
+bercara.com##+js(nano-setInterval-booster.js)
+bercara.com##+js(set-constant, blurred, false)
 bercara.com##center:nth-of-type(2)
 bercara.com##h2:nth-of-type(n)
 bercara.com##h3:nth-of-type(n)
@@ -1502,6 +1503,7 @@ geturl.pro##+js(bab-defuser.js)
 goldenfreesatoshi.ru##+js(nano-setInterval-booster.js)
 goodfaucet.ru##+js(nano-setInterval-booster.js)
 gotravelgo.space##+js(nano-setInterval-booster.js)
+gotravelgo.space##+js(set-constant, blurred, false)
 gotravelgo.space##h2:nth-of-type(n)
 gotravelgo.space##hr:nth-of-type(n)
 gr8.cc##+js(bab-defuser.js)
@@ -1524,6 +1526,7 @@ idxxi.co##+js(nano-setInterval-booster.js)
 idzone.site##center
 imgsky.net##+js(nano-setInterval-booster.js)
 in11.site,infosehatku.club,semawur.com##+js(nano-setInterval-booster.js)
+in11.site,infosehatku.club,semawur.com##+js(set-constant, blurred, false)
 in11.site##figcaption
 in11.site##h1:nth-of-type(n)
 in11.site##h2:nth-of-type(n)
@@ -1548,6 +1551,9 @@ linkduit.net##+js(nano-setInterval-booster.js)
 linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 linkk.bid##+js(nano-setInterval-booster.js)
 linkpoi.*##+js(abort-current-inline-script.js, addEventListener)
+liputannubi.net##+js(nano-setInterval-booster.js)
+liputannubi.net##+js(set-constant, blurred, false)
+liputannubi.net##blockquote
 liputannubi.net##h2:nth-of-type(n)
 liputannubi.net##h3:nth-of-type(n)
 liputannubi.net##h4:nth-of-type(n)
@@ -1590,6 +1596,7 @@ oploverz.in##u
 oploverzhome.com##+js(nano-setInterval-booster.js)
 ownbitcoins.net##+js(bab-defuser.js)
 pantauterus.me##+js(nano-setInterval-booster.js)
+pantauterus.me##+js(set-constant, blurred, false)
 pantauterus.me##figure.wp-block-image
 pantauterus.me##h2:nth-of-type(n)
 payskip.me##+js(nano-setInterval-booster.js)
