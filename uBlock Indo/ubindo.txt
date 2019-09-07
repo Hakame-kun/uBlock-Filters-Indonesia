@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 07 August 2019, 22:20:43 WIB
+! Last modified: 07 August 2019, 22:31:28 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -1548,6 +1548,8 @@ linkduit.net##+js(nano-setInterval-booster.js)
 linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 linkk.bid##+js(nano-setInterval-booster.js)
 linkpoi.*##+js(abort-current-inline-script.js, addEventListener)
+liputannubi.net##h2:nth-of-type(n)
+liputannubi.net##h3:nth-of-type(n)
 lk21c.fun##table:nth-of-type(3)
 luckybitco.in##+js(bab-defuser.js)
 luckybits.io##+js(bab-defuser.js)
@@ -1835,6 +1837,19 @@ lewat.club##.entry-after-content
 lewat.club##.g1-footer
 lewat.club##.g1-hb-shadow-off
 lewat.club##.g1-prefooter
+liputannubi.net##.bc-top-style
+liputannubi.net##.comments-template
+liputannubi.net##.entry-content > p:nth-of-type(n)
+liputannubi.net##.entry-terms
+liputannubi.net##.left
+liputannubi.net##.next-prev-post
+liputannubi.net##.post-author
+liputannubi.net##.post-header
+liputannubi.net##.post-related
+liputannubi.net##.post-share
+liputannubi.net##.qda
+liputannubi.net##.qda-image
+liputannubi.net##.wrapper-sticky
 lk21.web.id##.row:nth-of-type(3)
 lk21.web.id##.row:nth-of-type(6)
 lk21c.fun##.gmr-single.gmr-box-content > table:nth-of-type(1)
@@ -2031,6 +2046,8 @@ kazefuri.web.id###iklan-pos
 lewat.club###content
 lewat.club###primary > div:nth-of-type(2) > div:nth-of-type(1)
 lewat.club###secondary
+liputannubi.net###header
+liputannubi.net###site-footer
 liz.zdonlot.in###close-banner
 lk21c.fun###flobwh
 lk21c.fun###tengah
