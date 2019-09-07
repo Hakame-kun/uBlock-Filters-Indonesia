@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 07 August 2019, 00:01:40 WIB
+! Last modified: 07 August 2019, 21:49:52 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -109,7 +109,7 @@
 ||botkano.info$third-party
 ||boudja.com$third-party
 ||bp.blogspot.com$third-party,domain=94lauin.com|bagilagi.com|drakorindo.tv|elsfile.org|zonawibu.bid
-||bp.blogspot.com*gif$third-party,domain=123drakor.org|acefile.co|aceservice.club|awsubs.tv|cinemakv21.com|filmindo21.tv|hdtvku.com|idxxi.co|juragan-anime.net|kawanfilm21.online|komiku.net|lebahmovie.com|lk21id.com|neonime.net|netnot21.com|nontonmovie251.com|otakufile.com|oujanime.com|senimovie.co|treasurebits.net
+||bp.blogspot.com*gif$third-party,domain=123drakor.org|acefile.co|aceservice.club|awsubs.tv|cinemakv21.com|drakorindofilms.net|filmindo21.tv|hdtvku.com|idxxi.co|inidramaku.com|juragan-anime.net|kawanfilm21.online|komiku.net|korenlovers.co|lebahmovie.com|lk21id.com|neonime.net|netnot21.com|nontonmovie251.com|otakufile.com|oujanime.com|senimovie.co|treasurebits.net
 ||brainbux.com$third-party
 ||btcmedia.co$third-party
 ||btctrail.com$third-party
@@ -361,6 +361,7 @@
 ||mwh.asia$third-party
 ||my188bet.com$third-party
 ||naenticle.info$third-party
+||nf21.net$third-party,domain=korenlovers.co
 ||nephritish.com$third-party
 ||nererut.com$third-party
 ||news-tech.xyz/download3.png
@@ -840,6 +841,7 @@
 *$popup,third-party,domain=cryptomininggame.com
 *$popup,third-party,domain=cryptoworld.gq
 *$popup,third-party,domain=dinoving.com
+*$popup,third-party,domain=drakorindofilms.net|inidramaku.com|korenlovers.co
 *$popup,third-party,domain=dutchycorp.ovh
 *$popup,third-party,domain=dwindly.io
 *$popup,third-party,domain=esy.es
@@ -1788,6 +1790,7 @@ kazefuri.me##.mh-clearfix.mh-wrapper
 kazefuri.web.id##.adsbawah2
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
+korenlovers.co##.iklan
 lebahmovie.com##.idmuvi-floatbanner-footer.idmuvi-floatbanner
 lenov.ru##.clearfix.rek-but:nth-of-type(1)
 lenov.ru##.clearfix.rek-red.rek-but
@@ -1963,6 +1966,7 @@ crypto-all.com,faucetworld.in,faucetspro.com,firefaucet.win###sad-1
 dataid.us###loading
 dewafile.com###download
 downloadbatch.com###text-48
+drakorindofilms.net,inidramaku.com###ouibounce-modal
 dutchycorp.space###boxes
 easyhits4u.com###countDown
 filmbioskop21.cc###fbawah
