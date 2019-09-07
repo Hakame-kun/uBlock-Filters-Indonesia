@@ -1527,7 +1527,7 @@ idxxi.co##+js(nano-setInterval-booster.js)
 idzone.site##center
 imgsky.net##+js(nano-setInterval-booster.js)
 in11.site,infosehatku.club,semawur.com##+js(nano-setInterval-booster.js)
-in11.site,infosehatku.club,semawur.com##+js(set-constant.js, blurred, false)
+in11.site,infosehatku.club,semawur.com##+js(set-constant, blurred, false)
 in11.site##figcaption
 in11.site##h1:nth-of-type(n)
 in11.site##h2:nth-of-type(n)
@@ -1553,7 +1553,7 @@ linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##+js(abort-on-property-r
 linkk.bid##+js(nano-setInterval-booster.js)
 linkpoi.*##+js(abort-current-inline-script.js, addEventListener)
 liputannubi.net##+js(nano-setInterval-booster.js)
-liputannubi.net##+js(set-constant.js, blurred, false)
+liputannubi.net##+js(set-constant, blurred, false)
 liputannubi.net##blockquote
 liputannubi.net##h2:nth-of-type(n)
 liputannubi.net##h3:nth-of-type(n)
