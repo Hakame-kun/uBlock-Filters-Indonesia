@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 08 August 2019, 14:01:33 WIB
+! Last modified: 11 August 2019, 09:32:48 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -143,6 +143,7 @@
 ||cointiply.com/api/userads$important
 ||cointiply.com/arrowchat$important
 ||coinverti.com$third-party
+||conan.id*gif
 ||consensu.org$third-party
 ||consolebackup.com$third-party
 ||consoletarget.com$third-party
@@ -269,7 +270,7 @@
 ||i.makeagif.com$domain=nontonmovie251.com
 ||i027m.top$third-party
 ||ibb.co$third-party,domain=lk21.web.id|lk21tv.web.id
-||ibb.co*gif$domain=idfl.me
+||ibb.co*gif$domain=idfl.me|kazefuri.web.id
 ||idfl.*/fancy
 ||idsly.com$third-party
 ||idxxi.co/wp-content/uploads/*gif
@@ -1401,6 +1402,7 @@ closetopic.site##+js(nano-setInterval-booster.js)
 closetopic.site##h2
 closetopic.site##h3
 closetopic.site##p
+clx.icu##+js(set-constant, blurred, false)
 coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com,tetew.info##h2
 coin.mg##div.row:nth-of-type(4)
 coin4you.win##+js(bab-defuser.js)
