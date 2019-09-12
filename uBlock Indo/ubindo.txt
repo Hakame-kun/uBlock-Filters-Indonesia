@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 11 August 2019, 09:32:48 WIB
+! Last modified: 12 August 2019, 21:18:06 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -86,6 +86,7 @@
 ||ban-host.ru$third-party
 ||bc.vc/js/app.v5.js
 ||bercara.com/download*.png
+||bercara.com*.png
 ||bioskop45.com*gif
 ||bioskopgue.net/wp-content/uploads*gif
 ||bioskopkeren.club/images/
@@ -606,6 +607,7 @@
 *$third-party,domain=bitcolife.ru
 *$third-party,domain=bitformations.website
 *$third-party,domain=bitkoins.online
+*$third-party,domain=bitsfree.net
 *$third-party,domain=bitstarplanet.eu
 *$third-party,domain=bitstlk.com
 *$third-party,domain=bitverts.io
@@ -633,6 +635,8 @@
 *$third-party,domain=claimfreeppc.win
 *$third-party,domain=claimfreexpm.win
 *$third-party,domain=claimulike.win
+*$third-party,domain=click4bits.com
+*$third-party,domain=clickbits.io
 *$third-party,domain=clik.pw
 *$third-party,domain=clixco.in
 *$third-party,domain=clixsatoshi.com
@@ -642,6 +646,7 @@
 *$third-party,domain=clx.icu
 *$third-party,domain=coeg.in
 *$third-party,domain=coinmads.com
+*$third-party,domain=coinmarketwaves.com
 *$third-party,domain=cointalk.club
 *$third-party,domain=coins4claim.com
 *$third-party,domain=crabcut.net
@@ -1011,6 +1016,7 @@
 @@.php?adv=$domain=bitcofarm.com
 @@/AC_RunActiveContent
 @@/ad_top_bg2.png?
+@@/adblock.php?ad=$domain=bitsfree.net|claimbits.net|click4bits.com|clickbits.io
 @@/ads.js$domain=btcmines.club|dogeclix.com|hentaigasm.com
 @@/ads.min.js$domain=dashfaucet.net
 @@/adimg$image
@@ -1027,7 +1033,8 @@
 @@/flow/frontend_assets/js/advertisement.js
 @@/fuckadblock.$domain=claimcoins.cc|pyrin.org
 @@/hello^$xmlhttprequest,domain=speedtest.net
-@@/js/ads$domain=alexamaster.net|ceklink.co|kabarviral.blog|maswiki.net|wegner.tech
+@@/js/ads$domain=alexamaster.net|ceklink.co|coinmarketwaves.com|kabarviral.blog|maswiki.net|wegner.tech
+@@/noadblock.js$domain=bitsfree.net|claimbits.net|click4bits.com|clickbits.io
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/safelink$domain=detikbintang.blogspot.com|razorlink.us|safelink-49.blogspot.com
 @@/showads.js$domain=heliohost.org
@@ -1079,6 +1086,7 @@
 @@bitcoininformation.website/wp-content/plugins/soralink
 @@bitcoinspinner.io/themes
 @@bitformations.website$elemhide
+@@bitsfree.net$elemhide
 @@blockadblock.com/js/colorpicker
 @@bolaoke.club$popup,domain=awsubs.tv
 @@bp.blogspot.com*png$domain=awsubs.tv|kuyhaa.me|wegner.tech
@@ -1097,6 +1105,7 @@
 @@cdnjs.cloudflare.com/ajax/libs/materialize$domain=firefaucet.win
 @@cdnjs.cloudflare.com/ajax/libs/sceditor
 @@cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
+@@claimbits.net$elemhide
 @@claimbtc.in$elemhide
 @@claimcoin24.com$elemhide
 @@claimcoins.cc$elemhide
@@ -1104,6 +1113,8 @@
 @@clearwebstats.com$first-party
 @@click2btc.com$elemhide
 @@clickar.net$elemhide
+@@click4bits.com$elemhide
+@@clickbits.io$elemhide
 @@clicknupload.org$elemhide
 @@clixsense.com$first-party
 @@cloudflare.com$domain=adbtc.top|cryptofarmer.com|freevpn.us|kickasstraffic.com
@@ -1343,6 +1354,7 @@ bcoin4you.com##+js(bab-defuser.js)
 beat-doge.tk##+js(bab-defuser.js)
 bercara.com##+js(nano-setInterval-booster.js)
 bercara.com##+js(set-constant, blurred, false)
+bercara.com##p
 bestbitcoinfaucets.net##+js(bab-defuser.js)
 bestbitcoinfaucetslist.com##+js(bab-defuser.js)
 bestfreebitcoin.club##+js(bab-defuser.js)
@@ -1395,6 +1407,7 @@ claimfreexpm.win##+js(bab-defuser.js)
 claimltc.win##+js(bab-defuser.js)
 claimulike.win##+js(bab-defuser.js)
 click2shorten.com##+js(bab-defuser.js)
+clickbits.io##div.no-margin.no-padding.container-fluid
 clickers.info##+js(bab-defuser.js)
 clik.pw##a[href^="http://mob1ledev1ces.com/r/"]
 cll.press##+js(bab-defuser.js)
@@ -1412,6 +1425,7 @@ coindice.win##+js(nano-setInterval-booster.js)
 coingrabr.com##+js(bab-defuser.js)
 coingratisan.com##+js(bab-defuser.js)
 coinmads.com##+js(bab-defuser.js)
+coinmarketwaves.com##+js(set-constant, blurred, false)
 coinpot.win##+js(bab-defuser.js)
 coinpou.com##+js(bab-defuser.js)
 coinrotation.com##+js(bab-defuser.js)
