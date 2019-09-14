@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 14 August 2019, 23:45:21 WIB
+! Last modified: 15 August 2019, 00:01:24 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -1677,7 +1677,10 @@ tips.atv.pw##center:nth-of-type(2)
 topbtc.club##+js(bab-defuser.js)
 treasurebits.net##+js(nano-setInterval-booster.js)
 uclick.in##+js(bab-defuser.js)
+unlockapk.com##+js(bab-defuser.js)
 unlockapk.com##+js(nano-setInterval-booster.js)
+unlockapk.com##+js(noeval.js)
+unlockapk.com##+js(set-constant, blurred, false)
 updatetribun.org##+js(nano-setInterval-booster.js)
 url-win.com##+js(nano-setInterval-booster.js)
 varclaim.website##+js(bab-defuser.js)
