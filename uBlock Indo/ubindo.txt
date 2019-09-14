@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 12 August 2019, 21:18:06 WIB
+! Last modified: 14 August 2019, 17:24:14 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -819,6 +819,7 @@
 *$third-party,domain=want2crypto.com
 *$third-party,domain=web4top.win
 *$third-party,domain=weheartbitcoin.com
+*$third-party,domain=winbitcoin.io
 *$third-party,domain=wly.us
 *$third-party,domain=zapme.top
 *$third-party,domain=zetabitco.com
@@ -1016,7 +1017,7 @@
 @@.php?adv=$domain=bitcofarm.com
 @@/AC_RunActiveContent
 @@/ad_top_bg2.png?
-@@/adblock.php?ad=$domain=bitsfree.net|claimbits.net|click4bits.com|clickbits.io
+@@/adblock.php?ad=$domain=bitsfree.net|bitsroll.com|blitzcoiner.com|claimbits.net|click4bits.com|clickbits.io|doge-bitsfree.net|moremoney.io|winbitcoin.io
 @@/ads.js$domain=btcmines.club|dogeclix.com|hentaigasm.com
 @@/ads.min.js$domain=dashfaucet.net
 @@/adimg$image
@@ -1034,7 +1035,7 @@
 @@/fuckadblock.$domain=claimcoins.cc|pyrin.org
 @@/hello^$xmlhttprequest,domain=speedtest.net
 @@/js/ads$domain=alexamaster.net|ceklink.co|coinmarketwaves.com|kabarviral.blog|maswiki.net|wegner.tech
-@@/noadblock.js$domain=bitsfree.net|claimbits.net|click4bits.com|clickbits.io
+@@/noadblock.js$domain=bitsfree.net|bitsroll.com|blitzcoiner.com|claimbits.net|click4bits.com|clickbits.io|doge-bitsfree.net|moremoney.io|winbitcoin.io
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/safelink$domain=detikbintang.blogspot.com|razorlink.us|safelink-49.blogspot.com
 @@/showads.js$domain=heliohost.org
@@ -1087,6 +1088,8 @@
 @@bitcoinspinner.io/themes
 @@bitformations.website$elemhide
 @@bitsfree.net$elemhide
+@@bitsroll.com$elemhide
+@@blitzcoiner.com$elemhide
 @@blockadblock.com/js/colorpicker
 @@bolaoke.club$popup,domain=awsubs.tv
 @@bp.blogspot.com*png$domain=awsubs.tv|kuyhaa.me|wegner.tech
@@ -1133,6 +1136,7 @@
 @@dc4in.com$elemhide
 @@dircont3.com/nvp.js
 @@disingkat.in/js/advertisement.js$script,first-party
+@@doge-bitsfree.net$elemhide
 @@drive.ad4msan.win$elemhide
 @@drive.google.com/thumbnail$domain=acefile.co
 @@dutchycorp.ovh$elemhide
@@ -1199,6 +1203,7 @@
 @@mangakyo.net$elemhide
 @@maxcdn.bootstrapcdn.com
 @@meongs.bid
+@@moremoney.io$elemhide
 @@neobux.com$first-party
 @@njiir.com$elemhide
 @@nowfor.net,probusinesshub.com$first-party
@@ -1252,6 +1257,7 @@
 @@wegner.tech$elemhide
 @@weheartbitcoin.com$elemhide
 @@wicr.in$elemhide
+@@winbitcoin.io$elemhide
 @@wl.jd.com
 @@wp.com$domain=awsubs.tv
 @@www.w3schools.com*css
