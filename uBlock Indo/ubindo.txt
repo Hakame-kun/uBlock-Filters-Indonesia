@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 14 August 2019, 17:24:14 WIB
+! Last modified: 14 August 2019, 23:45:21 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -21,6 +21,7 @@
 ! ------------------------------
 ||a.admp.io$third-party
 ||a.props.$third-party
+||a2zapk.com/images/ajax-loader.gif
 ||aa24h.com$third-party
 ||aabmxezph.com$third-party
 ||aalyafaucet.com$third-party,domain=onlinebee.in
@@ -1313,6 +1314,7 @@ cointiply.com#@#.ad-panel
 cointiply.com#@#.adsbox
 earn-url.com,pay2url.co#@#.banner-468x60
 ptcwall.com#@#.ad-block
+unlockapk.com#@#.adsbygoogle:style(max-height: 1px !important;)
 faucethero.com#@##top-ads
 modapi.survivetheforest.net#@##cookie-accept
 modapi.survivetheforest.net#@##cookie-dialog
@@ -1675,6 +1677,7 @@ tips.atv.pw##center:nth-of-type(2)
 topbtc.club##+js(bab-defuser.js)
 treasurebits.net##+js(nano-setInterval-booster.js)
 uclick.in##+js(bab-defuser.js)
+unlockapk.com##+js(nano-setInterval-booster.js)
 updatetribun.org##+js(nano-setInterval-booster.js)
 url-win.com##+js(nano-setInterval-booster.js)
 varclaim.website##+js(bab-defuser.js)
@@ -1946,6 +1949,7 @@ susutinv2.com##.panel-body.panel-default.panel > h3
 tokenfly.pw##.banner-captcha.banner
 tokenfly.pw##.box-main > center:nth-of-type(1)
 tokenfly.pw##.box-main > p
+unlockapk.com##.adsbygoogle
 vozdesportiva.com##.ADS
 vozdesportiva.com##.adsbygoogle
 vozdesportiva.com##.isi
