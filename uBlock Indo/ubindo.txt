@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 15 August 2019, 00:04:52 WIB
+! Last modified: 15 August 2019, 10:56:33 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -688,6 +688,7 @@
 *$third-party,domain=fast-autos.tk
 *$third-party,domain=fastfreebtc.tk
 *$third-party,domain=faucet.kiwi
+*$third-party,domain=faucetcrypto.site
 *$third-party,domain=faucetfly.com
 *$third-party,domain=faucethero.com
 *$third-party,domain=faucethub.io
@@ -856,6 +857,7 @@
 *$popup,third-party,domain=dwindly.io
 *$popup,third-party,domain=esy.es
 *$popup,third-party,domain=faucet.gold
+*$popup,third-party,domain=faucetcrypto.site
 *$popup,third-party,domain=filmapik.eu
 *$popup,third-party,domain=futureurl.info
 *$popup,third-party,domain=get4links.xyz
@@ -1143,6 +1145,7 @@
 @@dutchycorp.ovh$elemhide
 @@easyhits4u.com$first-party
 @@faucet4claim.com$elemhide
+@@faucetcrypto.site$elemhide
 @@faucetfly.com$elemhide
 @@faucethut.tk$elemhide
 @@faucetworld.in$elemhide
@@ -1498,6 +1501,7 @@ faucet4claim.com##+js(bab-defuser.js)
 faucet4coin.com##+js(bab-defuser.js)
 faucetcrypto.com##+js(abort-on-property-read.js
 faucetcrypto.com##+js(nano-setInterval-booster.js)
+faucetcrypto.site##+js(bab-defuser.js)
 faucethero.com##+js(bab-defuser.js)
 faucethub.win##+js(bab-defuser.js)
 faucetnews.xyz##+js(nano-setInterval-booster.js)
@@ -2056,6 +2060,8 @@ downloadbatch.com###text-48
 drakorindofilms.net,inidramaku.com###ouibounce-modal
 dutchycorp.space###boxes
 easyhits4u.com###countDown
+faucetcrypto.site###left-adspace
+faucetcrypto.site###right-adspace
 filmbioskop21.cc###fbawah
 futureurl.info###Test
 gotravelgo.space###header
