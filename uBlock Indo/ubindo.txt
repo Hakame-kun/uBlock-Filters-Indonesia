@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 15 August 2019, 10:56:33 WIB
+! Last modified: 16 August 2019, 09:12:35 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -959,6 +959,7 @@
 /LRfun88.jpg
 /log?format=
 /logo/*.$domain=nwanime.tv
+/looping.js$domain=mikanime.com
 /lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
 /meongvpn.js$domain=kuyhaa.me
 /mining.js$domain=faucethub.io
