@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 16 August 2019, 09:12:35 WIB
+! Last modified: 19 August 2019, 00:37:30 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -391,6 +391,7 @@
 ||osg777id.com$popup,third-party
 ||oturl.com$subdocument
 ||oujanime.com*gif
+||ouo.io$third-party,script
 ||ouo.io/images/b1.png
 ||ouo.io/images/b2.png
 ||p*.intab.xyz$popup,third-party
@@ -1758,6 +1759,7 @@ anjay.info##.mh-subheader
 awcar.icu,davinsurance.com,developinsurance.me,speedcar.club,xydeyou.com##.mh-wrapper
 awsubs.tv##.fb-comments
 awsubs.tv##.fb_iframe_widget.fb-like
+awsubs.tv##.klnrec
 awsubs.tv##.minipusat
 awsubs.tv##.pusat728
 bagilagi.com##.klnsora
@@ -2043,6 +2045,7 @@ bitcolife.ru,cointalk.club###top-ads
 bitformations.website###page
 bitformations.website###site-footer
 bitformations.website###site-header
+blog.kopajasubs.info###fb-fanbox
 btcleets.xyz###link-view > center:nth-of-type(1)
 btcleets.xyz###mainNav
 closetopic.site###cookie-law-info-again
