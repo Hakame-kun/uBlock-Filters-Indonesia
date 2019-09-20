@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 August 2019, 23:20:00 WIB
+! Last modified: 20 August 2019, 23:24:54 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -1863,6 +1863,7 @@ kawanfilm21.online##.downloadlink
 kawanfilm21.online##.idmuvi-floatbanner
 kawanfilm21.online##.idmuvi-topbanner
 kazefuri.me##.mh-sidebar
+kazefuri.web.id##.adsbawah1
 kazefuri.web.id##.adsbawah2
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
