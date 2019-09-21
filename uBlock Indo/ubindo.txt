@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 20 August 2019, 23:24:54 WIB
+! Last modified: 21 August 2019, 09:36:09 WIB
 ! Expires: 31 days (Stable Release)
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 
@@ -91,7 +91,7 @@
 ||bioskop45.com*gif
 ||bioskopgue.net/wp-content/uploads*gif
 ||bioskopkeren.club/images/
-||bisabuka.net*$popup,domain=idfl.me
+||bisabuka.net/?utm_source=$popup,third-party
 ||bit.ly$popup,third-party,domain=awsubs.tv
 ||bitcoinad.pro$third-party
 ||bitformations.website/?p=
@@ -587,7 +587,6 @@
 *$third-party,domain=autofh.000webhostapp.com|racers-b-king.000webhostapp.com
 *$third-party,domain=automoneysurf.com
 *$third-party,domain=autoo-car.com
-*$third-party,domain=awsubs.tv
 *$third-party,domain=babesdoge.win
 *$third-party,domain=basichits4u.com
 *$third-party,domain=bcoin4you.com
@@ -835,7 +834,6 @@
 *$popup,third-party,domain=adpop.me
 *$popup,third-party,domain=allbitcoinsites.com
 *$popup,third-party,domain=anibatch.me
-*$popup,third-party,domain=awsubs.tv
 *$popup,third-party,domain=bestpayingfaucets.com
 *$popup,third-party,domain=bit-url.com
 *$popup,third-party,domain=bitcoadz.pw
@@ -1335,6 +1333,7 @@ modapi.survivetheforest.net#@##cookie-dialog
 9files.co,addfile.org,qtfile.com,upfile.mobi##a[href*="onamind.com"]
 a2zp30.com##+js(nano-setInterval-booster.js)
 aalyafaucet.com##+js(bab-defuser.js)
+acefile.*##+js(abort-on-property-read, popjs)
 ad4msan.win##center > p:nth-of-type(2)
 ad4msan.win##p:nth-of-type(3)
 adbull.cc##+js(bab-defuser.js)
