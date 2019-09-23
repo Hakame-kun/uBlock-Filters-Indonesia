@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 23 August 2019, 13:09:25 WIB
+! Last modified: 23 August 2019, 15:17:22 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -249,7 +249,6 @@
 ||go.oclasrv.com$popup,third-party
 ||go.onclasrv.com$popup,third-party
 ||godfile.info$third-party
-||gomentod.com*sora
 ||google.*/_/chrome/newtab-serviceworker.js
 ||google.*/api/stats/qoe?$third-party
 ||google.*/async*&async$third-party
@@ -1530,6 +1529,7 @@ getdogecoin.website##+js(bab-defuser.js)
 getlink.pw##+js(bab-defuser.js)
 geturl.pro##+js(bab-defuser.js)
 goldenfreesatoshi.ru##+js(nano-setInterval-booster.js)
+gomentod.com##+js(bab-defuser.js)
 goodfaucet.ru##+js(nano-setInterval-booster.js)
 gotravelgo.space##+js(nano-setInterval-booster.js)
 gotravelgo.space##+js(set-constant, blurred, false)
