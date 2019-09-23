@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 23 August 2019, 23:45:38 WIB
+! Last modified: 23 August 2019, 23:49:58 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1543,6 +1543,12 @@ greenfaucet.win##+js(bab-defuser.js)
 gwei.win##+js(bab-defuser.js)
 haxhits.com##+js(nano-setInterval-booster.js)
 healthykk.com##+js(bab-defuser.js)
+hexafile.net##center > h3
+hexafile.net##center:nth-of-type(2) > center > .row
+hexafile.net##center:nth-of-type(2) > center > div:nth-of-type(1)
+hexafile.net##h2
+hexafile.net##hr
+hexafile.net##p
 hexafile.net##+js(nano-setInterval-booster.js)
 highpayingfaucet.com##+js(nano-setInterval-booster.js)
 highwaytoco.in##+js(bab-defuser.js)
