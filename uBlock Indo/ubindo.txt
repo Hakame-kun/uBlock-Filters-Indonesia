@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 23 August 2019, 20:54:46 WIB
+! Last modified: 23 August 2019, 21:04:27 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1216,7 +1216,7 @@
 @@onlinebee.in$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.solvemedia.com
 @@onlinebee.in$elemhide
 @@pagead2.googlesyndication.com$domain=cdn.applixir.com|directlink.booogle.net|herokuapp.com|imasdk.googleapis.com|safelink.top|uclick.in
-@@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=njiir.com
+@@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=newsjizz.in|njiir.com|unlockapk.com
 @@picbaron.com$csp=script-src 'self'
 @@picbaron.com/img
 @@pixel.adsafeprotected.com$domain=tpc.googlesyndication.com
@@ -1914,6 +1914,7 @@ myanimelist.net##.pb24 > div:nth-of-type(12)
 naturalhealthy.xyz##.mh-wrapper
 naturalhealthy.xyz##.mh-header
 neonime.*##.block-player
+newsjizz.in##.taxonomy-list.comp
 njiir.com##.ADS
 njiir.com##.bagi > .isi
 njiir.com##.separator
@@ -1957,6 +1958,7 @@ susutinv2.com##.panel-body.panel-default.panel > h3
 tokenfly.pw##.banner-captcha.banner
 tokenfly.pw##.box-main > center:nth-of-type(1)
 tokenfly.pw##.box-main > p
+unlockapk.com##.adsbygoogle
 vozdesportiva.com##.ADS
 vozdesportiva.com##.adsbygoogle
 vozdesportiva.com##.isi
