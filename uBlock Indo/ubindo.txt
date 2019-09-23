@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 23 August 2019, 23:39:57 WIB
+! Last modified: 23 August 2019, 23:45:38 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1594,6 +1594,8 @@ lk21c.fun##table:nth-of-type(3)
 luckybitco.in##+js(bab-defuser.js)
 luckybits.io##+js(bab-defuser.js)
 luckybits.io##+js(nano-setInterval-booster.js)
+mawataki.com##+js(nano-setInterval-booster.js)
+mawataki.com##+js(set-constant, blurred, false)
 maxfaucet.com##+js(abort-on-property-read.js, FuckAdBlock)
 mazenbtc.com##+js(bab-defuser.js)
 mediakita.blog##center:nth-of-type(2)
