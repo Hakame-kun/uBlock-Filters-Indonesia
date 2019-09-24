@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 23 August 2019, 23:54:02 WIB
+! Last modified: 24 August 2019, 14:37:07 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1664,6 +1664,10 @@ semawur.com##h3:nth-of-type(n)
 semawur.com##header
 semawur.com##p:nth-of-type(n)
 sfile.mobi##+js(nano-setInterval-booster.js)
+short.awsubs.co##center:nth-of-type(2)
+short.awsubs.co##h1
+short.awsubs.co##hr
+short.awsubs.co##p
 shortit.pw##+js(bab-defuser.js)
 shortit.pw##+js(nano-setInterval-booster.js)
 siherp.com##+js(nano-setInterval-booster.js)
