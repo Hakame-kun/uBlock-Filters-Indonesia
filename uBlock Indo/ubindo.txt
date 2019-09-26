@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 24 September 2019, 20:42:18 WIB
+! Last modified: 26 September 2019, 21:44:31 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1335,8 +1335,7 @@ modapi.survivetheforest.net#@##cookie-dialog
 a2zp30.com##+js(nano-setInterval-booster.js)
 aalyafaucet.com##+js(bab-defuser.js)
 acefile.*##+js(abort-on-property-read, popjs)
-ad4msan.win##center > p:nth-of-type(2)
-ad4msan.win##p:nth-of-type(3)
+ad4msan.win##p
 adbull.cc##+js(bab-defuser.js)
 adlink.pw##+js(set-constant, blurred, false)
 adrianocoins.com##+js(bab-defuser.js)
@@ -1758,7 +1757,7 @@ zippyanime.net##+js(nano-setInterval-booster.js)
 21moviemania.club,cinemaindo.co,lebahmovie.com,waktunonton.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
-ad4msan.win##.entry-content > p
+ad4msan.win##.adsbygoogle
 adsrt.me##.rounded_shape2.rounded_shape
 ahexa.com##.c-message > div:nth-of-type(2)
 ahexa.com##.disclaimer
@@ -2044,6 +2043,7 @@ zonawibu.me##.infopost
 123short.com,clk.press,getlink.pw,tokenfly.pw###headlineatas
 a-ads.com###news_feed
 aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,cointalk.club,faucet.kiwi,faucethero.com,free4claim.com,furturebitearnmore.xyz,mazenbtc.com###middle-adspace
+ad4msan.win###masthead
 ad4msan.win###secondary
 adlink.pw###cookie-pop
 adsafelink.net###cookie-pop
