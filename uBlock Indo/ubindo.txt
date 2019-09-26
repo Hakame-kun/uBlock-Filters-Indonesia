@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 26 September 2019, 21:44:31 WIB
+! Last modified: 26 September 2019, 21:56:06 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -225,6 +225,8 @@
 ||firebasestorage.googleapis.com*ABP.css?$third-party
 ||firebasestorage.googleapis.com*ABP.js?$third-party
 ||fluunrkjjhv.com$third-party
+||fortatoneterrow.info$third-party
+||fortatoneterrow.info$popup,third-party
 ||fortunejackpartners.com$third-party
 ||fourtesy.info$third-party
 ||foxads.io$third-party
@@ -485,6 +487,7 @@
 ||texto.click$third-party
 ||tfw-current.s3.amazonaws.com
 ||tharbadir.com$third-party
+||thetreuntalle.pro$third-party
 ||threadsphere.bid/js/display.js
 ||tidaltv.com$third-party
 ||tinypic.com$third-party,domain=idfl.biz|idfl.info|idfl.me|idfl.my.id
@@ -666,6 +669,7 @@
 *$third-party,domain=cutlink.xyz
 *$third-party,domain=cutads.win
 *$third-party,domain=cuturl.in
+*$third-party,domain=decrypt*safelinkconverter.com
 *$third-party,domain=digitask.ru
 *$third-party,domain=dinoving.com
 *$third-party,domain=doge-coin.top
