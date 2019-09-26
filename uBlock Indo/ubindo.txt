@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 26 September 2019, 21:56:06 WIB
+! Last modified: 26 September 2019, 22:07:39 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1315,11 +1315,13 @@ vinaurl.in#@#.adsbygoogle
 vivads.net#@#+js(nano-setInterval-booster.js)
 wi.cr#@#+js(nano-setInterval-booster.js)
 ! Unblock Elements --------------------
+drive.ad4msan.win#@#p
 solidfiles.com#@#div[class^="bnr-"]
 queenfaucet.website#@#+js(addEventListener-defuser, click, trigger)
 2shorten.com#@#.banner-728x90
 cointiply.com#@#.ad-panel
 cointiply.com#@#.adsbox
+drive.ad4msan.win#@#.adsbygoogle
 earn-url.com,pay2url.co#@#.banner-468x60
 ptcwall.com#@#.ad-block
 unlockapk.com#@#.adsbygoogle:style(max-height: 1px !important;)
