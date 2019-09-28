@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 28 September 2019, 15:11:28 WIB
+! Last modified: 28 September 2019, 15:19:07 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1016,7 +1016,6 @@
 
 ! ========== . List ==========
 .adskom.com$third-party
-.bid$third-party
 .cc/_Incapsula_Resource?
 .com/*.html?q$popunder
 .top$third-party,domain=animeindo.net
@@ -1585,6 +1584,7 @@ jelajahinternet.me##+js(nano-setInterval-booster.js)
 justlikeyojna.com##center:nth-of-type(1) > strong
 kabarviral.blog##center:nth-of-type(2)
 karimunbits.net##+js(bab-defuser.js)
+kazefuri.web.id##div.section:nth-of-type(3)
 kazefuri.me##+js(nano-setInterval-booster.js)
 keplakneh.com##+js(nano-setInterval-booster.js)
 lenov.ru##+js(nano-setInterval-booster.js)
@@ -1888,6 +1888,7 @@ karimunbits.net##.iklan-kiri
 kawanfilm21.online##.downloadlink
 kawanfilm21.online##.idmuvi-floatbanner
 kawanfilm21.online##.idmuvi-topbanner
+kazefuri.me##.kill-adblock-hide
 kazefuri.me##.mh-sidebar
 kazefuri.web.id##.adsbawah1
 kazefuri.web.id##.adsbawah2
