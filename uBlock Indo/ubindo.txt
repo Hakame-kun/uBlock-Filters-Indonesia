@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 26 September 2019, 22:07:39 WIB
+! Last modified: 28 September 2019, 15:11:28 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -185,6 +185,7 @@
 ||dl.jeodrive.com$popup,domain=jheberg.net
 ||dmxoedcqcb.com$third-party
 ||dogecoinfaucets.info$third-party
+||domnovrek.com$third-party
 ||dorpaahonet-blog.logdown.com
 ||doubleclick.net$third-party
 ||downloadbatch.com*gif
@@ -285,6 +286,7 @@
 ||imageshack.host$third-party
 ||imagespublic.tk/dung
 ||img.akubebas.com/images*gif
+||img.kotakmerah.casa*gif
 ||img.topddl.net*gif$third-party
 ||imgadult.com/anex
 ||imgadult.com/ea
@@ -1188,6 +1190,7 @@
 @@idzone.site$elemhide
 @@imagetwist.com$image,first-party
 @@imasdk.googleapis.com$domain=cdn.applixir.com|link4win.com
+@@img.kotakmerah.casa/images/loading-play.gif
 @@imgblaze.net$domain=imgfile.net
 @@imgdrive.net$image,first-party
 @@imgfile.net*ads.js
@@ -1863,6 +1866,9 @@ hexafile.net##.adsbygoogle
 idzone.site##.adsbygoogle
 imgsky.net##.content-box > div
 indozone.me##.adsbygoogle
+idxx1.*##.bm.overlay
+idxx1.*##.bnner
+idxx1.*##.jwseed
 indoxxi.*##.jwseed
 in11.site##.color-ccc
 in11.site##.col-lg-4
