@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 29 September 2019, 10:38:52 WIB
+! Last modified: 29 September 2019, 11:06:49 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1878,6 +1878,7 @@ imgsky.net##.content-box > div
 indozone.me##.adsbygoogle
 idxx1.*##.bm.overlay
 idxx1.*##.bnner
+idxx1.*##.bnner2
 idxx1.*##.jwseed
 indoxxi.*##.jwseed
 in11.site##.color-ccc
