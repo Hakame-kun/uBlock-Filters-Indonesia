@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 28 September 2019, 15:19:07 WIB
+! Last modified: 29 September 2019, 10:33:23 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -7,9 +7,12 @@
 ! ========== URL List ==========
 
 ||*.*-adnow.com$script,third-party
+||0598749586ab.com
+||15257dddaccde96.com
 ||1ea1sley.com$third-party
 ||1ink.*/api/check.php?uid=*&short=$third-party
 ||1rotator.com$third-party
+||2013b42f102806.com
 ||2hanwriten.com$third-party
 ||2mindogecoin.com$third-party
 ||21moviemania.*/wp-content/uploads*gif
@@ -18,12 +21,15 @@
 ||4youtds.com$popup,third-party
 ||6c37f8a12dede103bf7.com$third-party
 ||8lhf65dy.com$third-party
+||83e40c947d01f.com
+||8f19e8616a.com
 ||9xmovie.co$third-party
 ! ------------------------------
 ||a.admp.io$third-party
 ||a.props.$third-party
 ||a2zapk.com/images/ajax-loader.gif
 ||aa24h.com$third-party
+||aa99977d661.com
 ||aabmxezph.com$third-party
 ||aalyafaucet.com$third-party,domain=onlinebee.in
 ||acefile.club/asset/rev
@@ -286,7 +292,7 @@
 ||imageshack.host$third-party
 ||imagespublic.tk/dung
 ||img.akubebas.com/images*gif
-||img.kotakmerah.casa*gif
+||img.kotak*casa*gif
 ||img.topddl.net*gif$third-party
 ||imgadult.com/anex
 ||imgadult.com/ea
@@ -1012,6 +1018,7 @@
 /wp-jw-player/css/popup
 /wp-jw-player/js/popup.js
 /wpsafelink.js
+/xvideo.js$domain=manhwa-manga.bid
 /zler.js
 
 ! ========== . List ==========
@@ -1189,7 +1196,8 @@
 @@idzone.site$elemhide
 @@imagetwist.com$image,first-party
 @@imasdk.googleapis.com$domain=cdn.applixir.com|link4win.com
-@@img.kotakmerah.casa/images/loading-play.gif
+@@img.kotak*casa/images/indoxxi-logo-satu.gif
+@@img.kotak*casa/images/loading-play.gif
 @@imgblaze.net$domain=imgfile.net
 @@imgdrive.net$image,first-party
 @@imgfile.net*ads.js
@@ -1928,6 +1936,8 @@ lk21c.fun##.ns-right
 lk21c.fun##.row > table
 lk21id.com##.idmuvi-floatbanner
 luckybits.io##.ads-row.row
+manhwa-manga.bid##.ai_widget
+manhwa-manga.bid##.widget_text
 mawataki.com##.kill-adblock-hide
 mawataki.com##.mh-wrapper
 mediafire.com##.on.lightbox
@@ -2159,3 +2169,4 @@ wadooo.com###footer
 webtoons.com###footer
 xydeyou.com###gc2f
 zippyshare.com###qrCode
+rufadses.net$third-party
