@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 29 September 2019, 10:34:15 WIB
+! Last modified: 29 September 2019, 10:38:52 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -560,6 +560,7 @@
 ||xydeyou.com$third-party,script
 ||xymtglljft.com$third-party
 ||y-image.com$third-party
+||yhig.info$third-party
 ||youtube.com$third-party,domain=alekscoin.com|bestbitcoinfaucets.net|btcsafari.com|digitask.ru|earn-url.com|earnbig.ca|ekrane.net|icenter.co|oturl.com|shortit.ca|want2crypto.com|world-mining.net
 ||youtube.com/api/stats/watchtime?$important
 ||yukwxqnxwzghxb.com$third-party
@@ -1901,6 +1902,7 @@ kazefuri.me##.kill-adblock-hide
 kazefuri.me##.mh-sidebar
 kazefuri.web.id##.adsbawah1
 kazefuri.web.id##.adsbawah2
+kazefuri.web.id##.top_index_block_adnow
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
 korenlovers.co##.iklan
