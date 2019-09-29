@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 29 September 2019, 11:06:49 WIB
+! Last modified: 29 September 2019, 11:18:18 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -132,6 +132,7 @@
 ||casterist.info$third-party
 ||caughinga.info$popup,third-party
 ||caughinga.info$third-party
+||cdn.sendpulse.com/js/push$third-party
 ||chainads.io$third-party
 ||changer.com$third-party
 ||chicgar.info$third-party
@@ -428,6 +429,7 @@
 ||predictivdisplay.com$third-party
 ||preditates.com$popup,third-party
 ||preditates.com$third-party
+||premierexxi.vip*gif
 ||privatelink.de/forward/
 ||privatelink.de/if/
 ||promodewa.com$third-party
@@ -1052,6 +1054,7 @@
 @@/flow/frontend_assets/js/advertisement.js
 @@/fuckadblock.$domain=claimcoins.cc|pyrin.org
 @@/hello^$xmlhttprequest,domain=speedtest.net
+@@/idxxi-1.gif
 @@/js/ads$domain=alexamaster.net|ceklink.co|coinmarketwaves.com|kabarviral.blog|maswiki.net|wegner.tech
 @@/noadblock.js$domain=bitsfree.net|bitsroll.com|blitzcoiner.com|claimbits.net|click4bits.com|clickbits.io|doge-bitsfree.net|moremoney.io|winbitcoin.io
 @@/ping^$xmlhttprequest,domain=speedtest.net
@@ -1575,7 +1578,7 @@ hubcoins.xyz##+js(nano-setInterval-booster.js)
 icucu.icu##+js(bab-defuser.js)
 idsht.me##+js(nano-setInterval-booster.js)
 idsly.*##+js(nano-setInterval-booster.js)
-idxxi.co##+js(nano-setInterval-booster.js)
+idxx1.*##+js(nano-setInterval-booster.js)
 idzone.site##center
 imgsky.net##+js(nano-setInterval-booster.js)
 in11.site,infosehatku.club,semawur.com##+js(nano-setInterval-booster.js)
@@ -1663,6 +1666,8 @@ platinmods.download##+js(nano-setInterval-booster.js)
 play4coin.us##+js(bab-defuser.js)
 potcoin-faucet.com##+js(bab-defuser.js)
 potcoinlotto.com##+js(bab-defuser.js)
+premierexxi.*##center
+premierexxi.*##div.extend
 premiumfaucetnetwork.com##+js(bab-defuser.js)
 pyrin.org##+js(abort-on-property-read.js, FuckAdBlock)
 queenfaucet.website##+js(bab-defuser.js)
@@ -1880,6 +1885,7 @@ idxx1.*##.bm.overlay
 idxx1.*##.bnner
 idxx1.*##.bnner2
 idxx1.*##.jwseed
+idxx1.*##.lazy
 indoxxi.*##.jwseed
 in11.site##.color-ccc
 in11.site##.col-lg-4
@@ -1974,6 +1980,7 @@ pantauterus.me##.single-post-content > p:nth-of-type(n)
 pantauterus.me##.truygiobl
 pantauterus.me##.wrapper-sticky
 pekalongan-kommuniti.net##.fb-btn-seocips
+premierexxi.*##.wpb-outer-wrap
 queenfaucet.website##.modal
 reevown.com##.adsbygoogle
 rollercoin.com##.adBlock-banner
