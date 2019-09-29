@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 29 September 2019, 11:18:18 WIB
+! Last modified: 29 September 2019, 11:20:50 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1578,7 +1578,6 @@ hubcoins.xyz##+js(nano-setInterval-booster.js)
 icucu.icu##+js(bab-defuser.js)
 idsht.me##+js(nano-setInterval-booster.js)
 idsly.*##+js(nano-setInterval-booster.js)
-idxx1.*##+js(nano-setInterval-booster.js)
 idzone.site##center
 imgsky.net##+js(nano-setInterval-booster.js)
 in11.site,infosehatku.club,semawur.com##+js(nano-setInterval-booster.js)
