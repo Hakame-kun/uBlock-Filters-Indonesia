@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 29 September 2019, 18:51:42 WIB
+! Last modified: 30 September 2019, 20:15:57 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -184,6 +184,7 @@
 ||d9tnvwv7i2n85.cloudfront.net$third-party
 ||dailymotion.com$third-party,domain=bitcoinearnner.com|mirrorace.com
 ||dc08i221b0n8a.cloudfront.net$third-party
+||dchnguasrxubf.com$third-party
 ||demand.supply$third-party
 ||dfgyw.com
 ||digiads.co.id$third-party
@@ -203,6 +204,7 @@
 ||earth-111.com/ref?k=$popup
 ||ecvladelayk.com$third-party
 ||eiqzyxofsgzel.com$third-party
+||eiygqumgrobos.com$third-party
 ||elexies.info$third-party
 ||elthamely.com$third-party
 ||emeraldbux.com$third-party
@@ -244,6 +246,7 @@
 ||fresh-video.com$third-party
 ||gafoswegc.com$third-party
 ||gambar123.com$third-party,domain=46.166.167.16|semprot.com|semprotku.com
+||ganool.*gif
 ||ganool.city/iklan
 ||ganool.web.id/wp-content/uploads*gif
 ||gdriveplayer.*ads.
@@ -486,6 +489,7 @@
 ||speedlinkdown.com$third-party
 ||srlmbvfmvl.com$third-party
 ||strucewe.info$third-party
+||suggest.kotak*casa
 ||sukipli.com*gif$third-party,domain=lk21.web.id
 ||surgeprice.com$third-party
 ||swiftmining.win$third-party
@@ -517,6 +521,7 @@
 ||tvku21.com*gif
 ||uadexchange.com$third-party
 ||ubloger.com/wp-content/uploads*gif
+||undef8trust.com$popup
 ||unxuwvntk.com$third-party
 ||usocial.pro$third-party,domain=maus-doge.top
 ||usstero.com$third-party
@@ -524,10 +529,12 @@
 ||uzone.id$third-party
 ||vc-miner.com$third-party
 ||vdztr.bid$popunder
+||vennala.pw$third-party,popup
 ||vhuhrhowm.com$third-party
 ||videogamebase.net
 ||viral782.com$third-party
 ||vktarget.ru$third-party
+||vnrapyiaxxj.com$third-party
 ||vouceeco.com$third-party
 ||vuryua.ru$third-party
 ||w55c.net$third-party
@@ -681,7 +688,6 @@
 *$third-party,domain=cutlink.xyz
 *$third-party,domain=cutads.win
 *$third-party,domain=cuturl.in
-*$third-party,domain=decrypt*safelinkconverter.com
 *$third-party,domain=digitask.ru
 *$third-party,domain=dinoving.com
 *$third-party,domain=doge-coin.top
@@ -992,6 +998,7 @@
 /popupad$script,third-party
 /popup-contact-form$domain=mangaindo.net
 /ppu.js
+/reJS*4404
 /RTwuo4KqfSU0AYIDF9g5Bz8VfSJpXJi7gCLcB/s1600/1.jpg
 /safe.js$domain=ad4msan.com
 /safelink$script,third-party
@@ -1313,6 +1320,7 @@
 ##a[href*="oupushee.com"]
 ##a[href*="pegloang.com"]
 ##a[href*="psoashee.net"]
+##a[href*="voastauz.net"]
 ##a[href*="wedeegut.net"]
 ##a[href*="z6naousb.com"]
 ! -------------------------------------
