@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 30 September 2019, 20:17:11 WIB
+! Last modified: 03 October 2019, 21:26:32 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -255,6 +255,8 @@
 ||genieessp.com$third-party
 ||getbootstrap.com$third-party
 ||getcryptotab.com$third-party
+||getlive.news
+||getlive.news$third-party,popup
 ||gitoku.com$third-party
 ||gla6at2k1aklsl1n3n211.cf
 ||gla6at2k1aklsl1n3n211.ml
@@ -488,6 +490,7 @@
 ||speedcar.club/wp-content/uploads*.jpg
 ||speedlinkdown.com$third-party
 ||srlmbvfmvl.com$third-party
+||stream-me.com
 ||strucewe.info$third-party
 ||suggest.kotak*casa
 ||sukipli.com*gif$third-party,domain=lk21.web.id
@@ -529,7 +532,7 @@
 ||uzone.id$third-party
 ||vc-miner.com$third-party
 ||vdztr.bid$popunder
-||vennala.pw$third-party,popup
+||vennala.pw/*/$third-party,popup,important
 ||vhuhrhowm.com$third-party
 ||videogamebase.net
 ||viral782.com$third-party
