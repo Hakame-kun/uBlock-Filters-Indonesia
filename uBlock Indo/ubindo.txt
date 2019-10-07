@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 03 October 2019, 21:26:32 WIB
+! Last modified: 07 October 2019, 19:12:00 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -476,6 +476,7 @@
 ||shenqiniao.com$third-party
 ||shenqiniao.net$third-party
 ||shermore.info$third-party
+||shiftexten.com
 ||shortit.pw/out.php?w=$popup
 ||shrinklink.co$third-party,script
 ||sillyscrew.com$third-party
@@ -691,6 +692,7 @@
 *$third-party,domain=cutlink.xyz
 *$third-party,domain=cutads.win
 *$third-party,domain=cuturl.in
+*$third-party,domain=decrypt2.safelinkconverter.com
 *$third-party,domain=digitask.ru
 *$third-party,domain=dinoving.com
 *$third-party,domain=doge-coin.top
@@ -1317,7 +1319,6 @@
 ##a[href*="chidsimp.com"]
 ##a[href*="earth-111.com"]
 ##a[href*="filmapik.eu/iklan"]
-##a[href*="glumtitu.net"]
 ##a[href*="inclk.com"]
 ##a[href*="mellowads.com"]
 ##a[href*="oupushee.com"]
@@ -2069,6 +2070,7 @@ zonawibu.me##.infopost
 ###idblog-adb-enabled
 ###idmuvi-adb-enabled
 ###ignielAdBlock
+###kc56
 ###mineralt-answer
 ###MGV3
 ###popup
