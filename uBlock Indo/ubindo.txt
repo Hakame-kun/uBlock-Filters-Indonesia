@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 07 October 2019, 19:12:00 WIB
+! Last modified: 08 October 2019, 14:51:49 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -341,6 +341,7 @@
 ||kuotamurahku.com$third-party
 ||layarkacaxxi.id*gif
 ||ldtv.co/wp-content/uploads/*.gif
+||lenov.ru/serviceworker.js
 ||limaten.info$popunder
 ||limaten.info$popup,third-party
 ||limaten.info$third-party
@@ -386,6 +387,7 @@
 ||nephritish.com$third-party
 ||nererut.com$third-party
 ||news-tech.xyz/download3.png
+||newsofworld.club$third-party
 ||nikitapoker.net$popup,third-party
 ||nobza.com$third-party
 ||nolix.ru$third-party
@@ -533,7 +535,7 @@
 ||uzone.id$third-party
 ||vc-miner.com$third-party
 ||vdztr.bid$popunder
-||vennala.pw/*/$third-party,popup,important
+||vennala.pw*8773$third-party,popup
 ||vhuhrhowm.com$third-party
 ||videogamebase.net
 ||viral782.com$third-party
@@ -1214,7 +1216,6 @@
 @@imagetwist.com$image,first-party
 @@imasdk.googleapis.com$domain=cdn.applixir.com|link4win.com
 @@img.kotak*casa/images/indoxxi-logo-satu.gif
-@@img.kotak*casa/images/loading-play.gif
 @@imgblaze.net$domain=imgfile.net
 @@imgdrive.net$image,first-party
 @@imgfile.net*ads.js
@@ -1306,6 +1307,8 @@
 ! ========== Custom List ==========
 
 ! ========== ## and ### List ==========
+##a.bnner
+##a.bnner2
 ##a[href*="6c37f8a12dede103bf7.com"]
 ##a[href*="/76BMlHexsYA&fix=1"]
 ##a[href*="adserver.adreactor.com"]
