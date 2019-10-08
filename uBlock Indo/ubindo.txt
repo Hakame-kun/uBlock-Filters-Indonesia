@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 08 October 2019, 14:51:49 WIB
+! Last modified: 08 October 2019, 16:33:40 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -193,6 +193,7 @@
 ||dl.jeodrive.com$popup,domain=jheberg.net
 ||dmxoedcqcb.com$third-party
 ||dogecoinfaucets.info$third-party
+||dolohen.com$popup,third-party
 ||domnovrek.com$third-party
 ||dorpaahonet-blog.logdown.com
 ||doubleclick.net$third-party
@@ -413,6 +414,7 @@
 ||ouo.io$third-party,script
 ||ouo.io/images/b1.png
 ||ouo.io/images/b2.png
+||oupushee.com$popup,third-party
 ||p*.intab.xyz$popup,third-party
 ||pampopholf.com$third-party
 ||parding.info$third-party
@@ -1324,7 +1326,6 @@
 ##a[href*="filmapik.eu/iklan"]
 ##a[href*="inclk.com"]
 ##a[href*="mellowads.com"]
-##a[href*="oupushee.com"]
 ##a[href*="pegloang.com"]
 ##a[href*="psoashee.net"]
 ##a[href*="voastauz.net"]
