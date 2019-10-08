@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 08 October 2019, 16:33:40 WIB
+! Last modified: 08 October 2019, 20:44:48 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1326,6 +1326,7 @@
 ##a[href*="filmapik.eu/iklan"]
 ##a[href*="inclk.com"]
 ##a[href*="mellowads.com"]
+##a[href*="oupushee.com"]
 ##a[href*="pegloang.com"]
 ##a[href*="psoashee.net"]
 ##a[href*="voastauz.net"]
