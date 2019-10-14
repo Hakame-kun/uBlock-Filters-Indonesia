@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 08 October 2019, 20:44:48 WIB
+! Last modified: 14 October 2019, 11:54:41 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -537,7 +537,7 @@
 ||uzone.id$third-party
 ||vc-miner.com$third-party
 ||vdztr.bid$popunder
-||vennala.pw*8773$third-party,popup
+||vennala.pw$popup,third-party
 ||vhuhrhowm.com$third-party
 ||videogamebase.net
 ||viral782.com$third-party
@@ -882,6 +882,7 @@
 *$popup,third-party,domain=cryptoadz.win
 *$popup,third-party,domain=cryptomininggame.com
 *$popup,third-party,domain=cryptoworld.gq
+*$popup,third-party,domain=desserttips.me
 *$popup,third-party,domain=dinoving.com
 *$popup,third-party,domain=drakorindofilms.net|inidramaku.com|korenlovers.co
 *$popup,third-party,domain=dutchycorp.ovh
@@ -1071,7 +1072,7 @@
 @@/fuckadblock.$domain=claimcoins.cc|pyrin.org
 @@/hello^$xmlhttprequest,domain=speedtest.net
 @@/idxxi-1.gif
-@@/js/ads$domain=alexamaster.net|ceklink.co|coinmarketwaves.com|kabarviral.blog|maswiki.net|wegner.tech
+@@/js/ads$domain=alexamaster.net|ceklink.co|coinmarketwaves.com|desserttips.me|kabarviral.blog|maswiki.net|wegner.tech
 @@/noadblock.js$domain=bitsfree.net|bitsroll.com|blitzcoiner.com|claimbits.net|click4bits.com|clickbits.io|doge-bitsfree.net|moremoney.io|winbitcoin.io
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/safelink$domain=detikbintang.blogspot.com|razorlink.us|safelink-49.blogspot.com
@@ -1329,6 +1330,7 @@
 ##a[href*="oupushee.com"]
 ##a[href*="pegloang.com"]
 ##a[href*="psoashee.net"]
+
 ##a[href*="voastauz.net"]
 ##a[href*="wedeegut.net"]
 ##a[href*="z6naousb.com"]
@@ -1505,6 +1507,7 @@ darak.me##+js(bab-defuser.js)
 darak.me##+js(nano-setInterval-booster.js)
 dash-faucet.com##+js(bab-defuser.js)
 designmyhomee.com##+js(nano-setInterval-booster.js)
+desserttips.me##+js(set-constant, blurred, false)
 dinoving.com##+js(bab-defuser.js)
 doge-coin.top##+js(bab-defuser.js)
 doge-coin.top##+js(nano-setInterval-booster.js)
@@ -1614,7 +1617,7 @@ justlikeyojna.com##center:nth-of-type(1) > strong
 kabarviral.blog##center:nth-of-type(2)
 karimunbits.net##+js(bab-defuser.js)
 kazefuri.web.id##div.section:nth-of-type(3)
-kazefuri.me##+js(nano-setInterval-booster.js)
+kazefuri.me##+js(set-constant, blurred, false)
 keplakneh.com##+js(nano-setInterval-booster.js)
 lenov.ru##+js(nano-setInterval-booster.js)
 lewat.club##+js(set-constant, blurred, false)
@@ -1758,6 +1761,7 @@ wikitrik.com##+js(nano-setInterval-booster.js)
 wikitrik.com##p:nth-of-type(n)
 wolf-faucet.win##+js(bab-defuser.js)
 xcolander.com##+js(abort-on-property-read.js, FuckAdBlock)
+xubster.com##+js(nano-setTimeout-booster.js, , , 0.01)
 yasinews.xyz##+js(bab-defuser.js)
 zandey.com##+js(bab-defuser.js)
 zetabitco.com##+js(bab-defuser.js)
