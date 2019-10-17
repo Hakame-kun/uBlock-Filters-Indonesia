@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 14 October 2019, 11:54:41 WIB
+! Last modified: 17 October 2019, 13:04:59 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1285,6 +1285,7 @@
 @@technoresults.xyz$elemhide
 @@thunderclix.com$elemhide
 @@tinyupload.com/ct/js/ct_adsense.js
+@@tpc.googlesyndication.com$domain=unlockapk.com
 @@traffboost.net$first-party
 @@unlockapk.com*ads.js
 @@unpkg.com
@@ -1350,7 +1351,10 @@ vivads.net#@#+js(nano-setInterval-booster.js)
 wi.cr#@#+js(nano-setInterval-booster.js)
 ! Unblock Elements --------------------
 drive.ad4msan.win#@#p
+simply-hentai.com#@#+js(aeld, , [native code])
+simply-hentai.com#@#+js(abort-on-property-read, BetterJsPop)
 solidfiles.com#@#div[class^="bnr-"]
+unlockapk.com#@#+js(aeld, load, onload)
 queenfaucet.website#@#+js(addEventListener-defuser, click, trigger)
 2shorten.com#@#.banner-728x90
 cointiply.com#@#.ad-panel
@@ -1358,7 +1362,6 @@ cointiply.com#@#.adsbox
 drive.ad4msan.win#@#.adsbygoogle
 earn-url.com,pay2url.co#@#.banner-468x60
 ptcwall.com#@#.ad-block
-unlockapk.com#@#.adsbygoogle:style(max-height: 1px !important;)
 faucethero.com#@##top-ads
 modapi.survivetheforest.net#@##cookie-accept
 modapi.survivetheforest.net#@##cookie-dialog
@@ -2015,6 +2018,8 @@ semawur.com##.mtb-15.list-li-mr-20
 senimovie.co##.header-top-banner
 senimovie.co##.rsABlock
 siherp.com##.c-message > div:nth-of-type(2)
+simply-hentai.com##.sticky
+simply-hentai.com##.tc
 situsbaru.me##.entry-header
 situsbaru.me##.hm-authorbox
 situsbaru.me##.hm-related-posts
