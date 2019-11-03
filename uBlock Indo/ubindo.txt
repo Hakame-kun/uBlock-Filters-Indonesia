@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 17 October 2019, 13:04:59 WIB
+! Last modified: 03 November 2019, 22:39:50 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -522,6 +522,7 @@
 ||trafficsan.com$third-party
 ||translate.google.com$third-party,domain=faucethub.io
 ||tranquilside.com$third-party
+||travellinginfos.com$third-party
 ||treasuredata.com$third-party
 ||ttplayer.info$third-party
 ||turwik.ru$third-party
@@ -865,7 +866,6 @@
 *$popunder,third-party,domain=pyrin.org
 *$popup,third-party,domain=adpop.me
 *$popup,third-party,domain=allbitcoinsites.com
-*$popup,third-party,domain=anibatch.me
 *$popup,third-party,domain=bestpayingfaucets.com
 *$popup,third-party,domain=bit-url.com
 *$popup,third-party,domain=bitcoadz.pw
@@ -1072,7 +1072,7 @@
 @@/fuckadblock.$domain=claimcoins.cc|pyrin.org
 @@/hello^$xmlhttprequest,domain=speedtest.net
 @@/idxxi-1.gif
-@@/js/ads$domain=alexamaster.net|ceklink.co|coinmarketwaves.com|desserttips.me|kabarviral.blog|maswiki.net|wegner.tech
+@@/js/ads$domain=alexamaster.net|ceklink.co|coinmarketwaves.com|desserttips.me|kabarviral.blog|maswiki.net|shrink.world|wegner.tech
 @@/noadblock.js$domain=bitsfree.net|bitsroll.com|blitzcoiner.com|claimbits.net|click4bits.com|clickbits.io|doge-bitsfree.net|moremoney.io|winbitcoin.io
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/safelink$domain=detikbintang.blogspot.com|razorlink.us|safelink-49.blogspot.com
@@ -1251,7 +1251,7 @@
 @@onlinebee.in$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.solvemedia.com
 @@onlinebee.in$elemhide
 @@pagead2.googlesyndication.com$domain=cdn.applixir.com|directlink.booogle.net|herokuapp.com|imasdk.googleapis.com|safelink.top|uclick.in
-@@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=newsjizz.in|njiir.com|unlockapk.com
+@@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=newsjizz.in|njiir.com|shrink.world|unlockapk.com
 @@picbaron.com$csp=script-src 'self'
 @@picbaron.com/img
 @@pixel.adsafeprotected.com$domain=tpc.googlesyndication.com
@@ -2033,6 +2033,7 @@ susutinv2.com##.panel-body.panel-default.panel > h3
 tokenfly.pw##.banner-captcha.banner
 tokenfly.pw##.box-main > center:nth-of-type(1)
 tokenfly.pw##.box-main > p
+travellinginfos.com##.mh-wrapper
 unlockapk.com##.adsbygoogle
 vozdesportiva.com##.ADS
 vozdesportiva.com##.adsbygoogle
@@ -2095,6 +2096,7 @@ zonawibu.me##.infopost
 ###unblocker
 ###v3ea
 ###videoad1
+###yd57
 ###y525
 ###y9cc
 ###z2c7
