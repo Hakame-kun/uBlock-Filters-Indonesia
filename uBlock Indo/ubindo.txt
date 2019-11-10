@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 10 November 2019, 21:15:25 WIB
+! Last modified: 11 November 2019, 01:23:23 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1166,6 +1166,7 @@
 @@coinhive.com$domain=btc-miner.online
 @@cointiply.com$generichide
 @@content.jwplatform.com$domain=acefile.co
+@@cowner.net$generichide
 @@crypto-all.com$generichide
 @@crypto-loot.com$first-party
 @@cryptocoinsad.com$first-party
@@ -1489,6 +1490,7 @@ coinrotation.com##+js(bab-defuser)
 coins4claim.com##+js(bab-defuser)
 coinsmondo.com##+js(bab-defuser)
 cointalk.club##+js(bab-defuser)
+cowner.net##+js(adfly-defuser.js)
 crazysat.ru##+js(bab-defuser)
 crypto-flash.com##+js(bab-defuser)
 crypto-all.com,faucetworld.in##div.hide-on-med-and-down.l3.col
