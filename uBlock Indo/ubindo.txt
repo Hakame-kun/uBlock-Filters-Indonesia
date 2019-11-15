@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 11 November 2019, 01:23:23 WIB
+! Last modified: 16 November 2019, 01:09:41 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -329,6 +329,7 @@
 ||jerwested.info$3p
 ||jomys.xyz$3p
 ||joneself.com$3p
+||jootizud.net$3p
 ||jquery.com$3p,domain=anitoki.com
 ||jossbingit.xyz*soralink
 ||jwpcdn.com/player/v*vast.js$important
@@ -1070,11 +1071,13 @@
 @@/basement/js
 @@/coingecko.js$domain=coingecko.com
 @@/download^$xmlhttprequest,domain=speedtest.net
+@@/fingerprint$domain=asmwall.com
 @@/flow/frontend_assets/js/advertisement.js
 @@/fuckadblock.$domain=claimcoins.cc|pyrin.org
 @@/hello^$xmlhttprequest,domain=speedtest.net
 @@/idxxi-1.gif
-@@/js/ads$domain=alexamaster.net|ceklink.co|coinmarketwaves.com|desserttips.me|kabarviral.blog|maswiki.net|shrink.world|wegner.tech
+@@/js/ads$domain=alexamaster.net|asmwall.com|ceklink.co|coinmarketwaves.com|desserttips.me|kabarviral.blog|maswiki.net|shrink.world|wegner.tech
+@@/js/tracking.$domain=changenow.io
 @@/noadblock.js$domain=bitsfree.net|bitsroll.com|blitzcoiner.com|claimbits.net|click4bits.com|clickbits.io|doge-bitsfree.net|moremoney.io|winbitcoin.io
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/safelink$domain=detikbintang.blogspot.com|razorlink.us|safelink-49.blogspot.com
@@ -1331,6 +1334,7 @@
 ##a[href*="filmapik.eu/iklan"]
 ##a[href*="inclk.com"]
 ##a[href*="mellowads.com"]
+##a[href*="mob1ledev1ces.com/r"]
 ##a[href*="oupushee.com"]
 ##a[href*="pegloang.com"]
 ##a[href*="psoashee.net"]
@@ -1374,7 +1378,7 @@ modapi.survivetheforest.net#@##cookie-dialog
 1ink.info##+js(nano-setInterval-booster)
 4miner.me##+js(noeval.js)
 8raa.com##+js(bab-defuser)
-94lauin.com,elsfile.org##+js(abort-on-property-read.js, h237)
+94lauin.com,elsfile.org##+js(abort-on-property-read, h237)
 94lauin.com,elsfile.org##+js(nano-setInterval-booster)
 9files.co,addfile.org,qtfile.com,upfile.mobi##a[href*="onamind.com"]
 a2zp30.com##+js(nano-setInterval-booster)
@@ -1390,22 +1394,23 @@ adwerty.com##+js(nano-setInterval-booster)
 agoodprofit.ru##+js(nano-setInterval-booster)
 agradarpan.com##+js(bab-defuser)
 ahexa.com##h2
-alekscoin.com##+js(abort-on-property-read.js)
+alekscoin.com##+js(abort-on-property-read)
 alekscoin.com##+js(bab-defuser)
 alekscoin.com##+js(nano-setInterval-booster)
 alinafaucet.win##div.form-group:nth-of-type(6)
 alinafaucet.win##+js(bab-defuser)
-alinafaucet.win##+js(set-constant.js, adBlockDetected, noopFunc)
+alinafaucet.win##+js(set-constant, adBlockDetected, noopFunc)
 allbitcoinsites.com##+js(bab-defuser)
 allcoins.pw##+js(bab-defuser)
 altcoinfuture.000webhostapp.com##body > div
-anisubindo.org##+js(abort-current-inline-script.js, addEventListener)
+anisubindo.org##+js(abort-current-inline-script, addEventListener)
 anjay.info##+js(nano-setInterval-booster)
 autoclaim.win##+js(bab-defuser)
 autoclaimbtc.ga,autoclaimfaucet.ga##+js(bab-defuser)
+autotewas.blogspot.com##+js(bab-defuser)
 aw-games.net,short.awsubs.tv##center:nth-of-type(2)
 aw-games.net,short.awsubs.tv##h1
-awsubsco.ga##+js(abort-on-property-read.js)
+awsubsco.ga##+js(abort-on-property-read)
 awsubsco.ga##+js(nano-setInterval-booster)
 babesdoge.win##+js(nano-setInterval-booster)
 bcoin4you.com##+js(bab-defuser)
@@ -1435,7 +1440,7 @@ bitcoinmoney.info##+js(nano-setInterval-booster)
 bitcolife.ru,itiad.com##ins.adsbygoogle
 bitdesire.it##+js(bab-defuser)
 bitformations.website##+js(nano-setInterval-booster)
-bitpaste.info##+js(set-constant.js, adBlockDetected, noopFunc)
+bitpaste.info##+js(set-constant, adBlockDetected, noopFunc)
 bitpaste.info##+js(bab-defuser)
 bittube.me##+js(nano-setInterval-booster)
 bitverts.io##+js(nano-setInterval-booster)
@@ -1467,7 +1472,6 @@ claimulike.win##+js(bab-defuser)
 click2shorten.com##+js(bab-defuser)
 clickbits.io##div.no-margin.no-padding.container-fluid
 clickers.info##+js(bab-defuser)
-clik.pw##a[href^="http://mob1ledev1ces.com/r/"]
 cll.press##+js(bab-defuser)
 closetopic.site##+js(nano-setInterval-booster)
 closetopic.site##h2
@@ -1533,7 +1537,7 @@ dutchycorp.ovh,dutchycorp.space##[id*="ScriptRoot"]
 dutchycorp.ovh,dutchycorp.space##center:nth-of-type(2)
 dutchycorp.ovh,dutchycorp.space##center:nth-of-type(3)
 dutchycorp.ovh,dutchycorp.space##div.hide-on-small-only
-dynamicssh.com##+js(abort-on-property-read.js)
+dynamicssh.com##+js(abort-on-property-read)
 dynamicssh.com##+js(nano-setInterval-booster)
 earn4cut.com##+js(nano-setInterval-booster)
 earnfreebitcoins.xyz##+js(nano-setInterval-booster)
@@ -1547,7 +1551,7 @@ faucet.gold##+js(nano-setInterval-booster)
 faucet.kiwi##+js(bab-defuser)
 faucet4claim.com##+js(bab-defuser)
 faucet4coin.com##+js(bab-defuser)
-faucetcrypto.com##+js(abort-on-property-read.js
+faucetcrypto.com##+js(abort-on-property-read
 faucetcrypto.com##+js(nano-setInterval-booster)
 faucetcrypto.site##+js(bab-defuser)
 faucethero.com##+js(bab-defuser)
@@ -1556,14 +1560,14 @@ faucetnews.xyz##+js(nano-setInterval-booster)
 faucets.world##+js(bab-defuser)
 faucetwhite.com##+js(bab-defuser)
 faucetwhite.com##+js(nano-setInterval-booster)
-filecloud.io##+js(abort-on-property-read.js, FuckAdBlock)
+filecloud.io##+js(abort-on-property-read, FuckAdBlock)
 firefaucet.win##+js(bab-defuser)
 forthtrade.com##+js(nano-setInterval-booster)
 free4claim.com##+js(bab-defuser)
 freebitcoin.vip##+js(nano-setInterval-booster)
 freebitcoin.win##+js(bab-defuser)
 freebitcoin.win##+js(nano-setInterval-booster)
-freefaucet.eu##+js(abort-on-property-read.js, admiral)
+freefaucet.eu##+js(abort-on-property-read, admiral)
 freek.in##+js(bab-defuser)
 freesatoshisfh.us##+js(bab-defuser)
 fstore.biz##+js(nano-setInterval-booster)
@@ -1618,7 +1622,7 @@ in11.site##p:nth-of-type(n)
 indiamartoffers.com##+js(bab-defuser)
 infaucet.site##+js(bab-defuser)
 infotrendy.me##+js(nano-setInterval-booster)
-ironime.org##+js(abort-current-inline-script.js, addEventListener)
+ironime.org##+js(abort-current-inline-script, addEventListener)
 jelajahinternet.me##+js(nano-setInterval-booster)
 justlikeyojna.com##center:nth-of-type(1) > strong
 kabarviral.blog##center:nth-of-type(2)
@@ -1631,9 +1635,9 @@ lewat.club##+js(set-constant, blurred, false)
 li-nkz.com##+js(bab-defuser)
 link4win.com##+js(nano-setInterval-booster)
 linkduit.net##+js(nano-setInterval-booster)
-linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##+js(abort-on-property-read, app_vars.force_disable_adblock)
 linkk.bid##+js(nano-setInterval-booster)
-linkpoi.*##+js(abort-current-inline-script.js, addEventListener)
+linkpoi.*##+js(abort-current-inline-script, addEventListener)
 liputannubi.net##+js(nano-setInterval-booster)
 liputannubi.net##+js(set-constant, blurred, false)
 liputannubi.net##blockquote
@@ -1649,7 +1653,7 @@ luckybits.io##+js(bab-defuser)
 luckybits.io##+js(nano-setInterval-booster)
 mawataki.com##+js(nano-setInterval-booster)
 mawataki.com##+js(set-constant, blurred, false)
-maxfaucet.com##+js(abort-on-property-read.js, FuckAdBlock)
+maxfaucet.com##+js(abort-on-property-read, FuckAdBlock)
 mazenbtc.com##+js(bab-defuser)
 mediakita.blog##center:nth-of-type(2)
 mediakita.blog##div.col-lg-4:nth-of-type(2) > center
@@ -1695,7 +1699,7 @@ potcoinlotto.com##+js(bab-defuser)
 premierexxi.*##center
 premierexxi.*##div.extend
 premiumfaucetnetwork.com##+js(bab-defuser)
-pyrin.org##+js(abort-on-property-read.js, FuckAdBlock)
+pyrin.org##+js(abort-on-property-read, FuckAdBlock)
 queenfaucet.website##+js(bab-defuser)
 qwerofaucet.tk##+js(bab-defuser)
 randomsatoshi.win##+js(bab-defuser)
@@ -1724,7 +1728,7 @@ sitowebinfo.com##+js(bab-defuser)
 situsbaru.me##+js(nano-setInterval-booster)
 situsbaru.me##p
 sivitechno.com##+js(bab-defuser)
-sova.network##+js(abort-on-property-read.js, FuckAdBlock)
+sova.network##+js(abort-on-property-read, FuckAdBlock)
 speedtest.net##+js(nano-setInterval-booster)
 speedup-faucet.com##+js(bab-defuser)
 speedup-faucet.com##td:nth-of-type(3) > center:nth-of-type(2)
@@ -1767,7 +1771,7 @@ wikitrade.me##p:nth-of-type(n)
 wikitrik.com##+js(nano-setInterval-booster)
 wikitrik.com##p:nth-of-type(n)
 wolf-faucet.win##+js(bab-defuser)
-xcolander.com##+js(abort-on-property-read.js, FuckAdBlock)
+xcolander.com##+js(abort-on-property-read, FuckAdBlock)
 xubster.com##+js(nano-setTimeout-booster.js, , , 0.01)
 yasinews.xyz##+js(bab-defuser)
 zandey.com##+js(bab-defuser)
