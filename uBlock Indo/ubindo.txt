@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 16 November 2019, 14:00:14 WIB
+! Last modified: 17 November 2019, 14:40:26 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1261,8 +1261,6 @@
 @@onlinebee.in$generichide
 @@pagead2.googlesyndication.com$domain=cdn.applixir.com|directlink.booogle.net|herokuapp.com|imasdk.googleapis.com|safelink.top|uclick.in
 @@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=newsjizz.in|njiir.com|shrink.world|unlockapk.com
-@@picbaron.com$csp=script-src 'self'
-@@picbaron.com/img
 @@pixel.adsafeprotected.com$domain=tpc.googlesyndication.com
 @@popunder.net$first-party
 @@popunder.net$popup
@@ -1694,6 +1692,7 @@ pantauterus.me##figure.wp-block-image
 pantauterus.me##h2:nth-of-type(n)
 payskip.me##+js(nano-setInterval-booster)
 pentafaucet.com##+js(bab-defuser)
+picbaron.com##+js(addEventListener-defuser.js, /^(?:click|mousedown|touchstart)$/, pop)
 platinmods.com##+js(bab-defuser)
 platinmods.download##+js(bab-defuser)
 platinmods.download##+js(nano-setInterval-booster)
