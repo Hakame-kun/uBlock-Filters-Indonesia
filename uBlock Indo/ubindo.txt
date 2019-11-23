@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 17 November 2019, 14:40:26 WIB
+! Last modified: 24 November 2019, 01:01:50 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -546,6 +546,8 @@
 ||vhuhrhowm.com$3p
 ||videogamebase.net
 ||viral782.com$3p
+||vkaofq64zz.com$3p
+||vkaofq64zz.com$3p,popup
 ||vktarget.ru$3p
 ||vnrapyiaxxj.com$3p
 ||vouceeco.com$3p
@@ -1024,7 +1026,7 @@
 /sl.js$domain=ad4msan.com
 /smart$domain=faucetwhite.com
 /sora$script,3p
-/soralink.js$domain=anitoki.com|awsubs.tv|batch.id|maxnime.com
+/soralink.js$3p,script
 /src$domain=pantsu.cat
 /static/101/site.js?
 /static/js/amvn.js
@@ -1095,12 +1097,13 @@
 @@1ink.cc$generichide
 @@1ink.cc/api/pass.php
 @@1ink.cc/includes/ajax/jquery.js
-@@a-ads.com$first-party
+@@a-ads.com$1p
 @@about:blank$domain=adbtc.top
 @@acefile.co$domain=awsubs.tv
 @@aceservice.club$domain=acefile.co
 @@ad4msan.com$generichide
 @@ad4msan.win$generichide
+@@adcash.com$1p
 @@adf.ly/js/display.js
 @@adf.ly/*.php$popup
 @@adfoc.us$domain=adfoc.us
@@ -1129,7 +1132,6 @@
 @@bercara.com$generichide
 @@bitcofaucet.com$generichide
 @@bitcoin2019.com$generichide
-@@bitcoininformation.website/wp-content/plugins/soralink
 @@bitcoinspinner.io/themes
 @@bitformations.website$generichide
 @@bitsfree.net$generichide
@@ -1158,35 +1160,38 @@
 @@claimcoin24.com$generichide
 @@claimcoins.cc$generichide
 @@claimulike.win$generichide
-@@clearwebstats.com$first-party
+@@clearwebstats.com$1p
 @@click2btc.com$generichide
 @@clickar.net$generichide
 @@click4bits.com$generichide
 @@clickbits.io$generichide
 @@clicknupload.org$generichide
-@@clixsense.com$first-party
+@@clixsense.com$1p
 @@cloudflare.com$domain=adbtc.top|cryptofarmer.com|freevpn.us|kickasstraffic.com
 @@code.jquery.com
 @@coinad.com/ads/show$domain=clixco.in
 @@coinhive.com$domain=btc-miner.online
+@@coinmarketcap.com$domain=bytecoin.money
 @@cointiply.com$generichide
 @@content.jwplatform.com$domain=acefile.co
+@@conversantmedia.com$1p
 @@cowner.net$generichide
+@@criteo.com$1p
 @@crypto-all.com$generichide
-@@crypto-loot.com$first-party
-@@cryptocoinsad.com$first-party
+@@crypto-loot.com$1p
+@@cryptocoinsad.com$1p
 @@csi.gstatic.com$domain=cdn.applixir.com|imasdk.googleapis.com
 @@csstatic.com$domain=clixsense.com
 @@d.bloggerku.com/safelink$domain=njiir.com|vozdesportiva.com
 @@dc.services.visualstudio.com
 @@dc4in.com$generichide
 @@dircont3.com/nvp.js
-@@disingkat.in/js/advertisement.js$script,first-party
+@@disingkat.in/js/advertisement.js$script,1p
 @@doge-bitsfree.net$generichide
 @@drive.ad4msan.win$generichide
 @@drive.google.com/thumbnail$domain=acefile.co
 @@dutchycorp.ovh$generichide
-@@easyhits4u.com$first-party
+@@easyhits4u.com$1p
 @@faucet4claim.com$generichide
 @@faucetcrypto.site$generichide
 @@faucetfly.com$generichide
@@ -1208,7 +1213,7 @@
 @@g.doubleclick.net$domain=imasdk.googleapis.com
 @@gamehouse.com
 @@ganzoffen.de
-@@getlink.pw$first-party
+@@getlink.pw$1p
 @@google.com$domain=criptius.com
 @@google-analytics.$domain=reevown.com
 @@googleapis.com/drive$domain=acefile.co
@@ -1217,18 +1222,18 @@
 @@grabmylink.xyz$generichide
 @@greenfaucet.win$generichide
 @@hcaptcha.com
-@@hit4hit.org$first-party
-@@hitlink.com$first-party
+@@hit4hit.org$1p
+@@hitlink.com$1p
 @@igg-games.com
 @@ialphacoins.com$generichide
 @@idsly.net$generichide
 @@idsly.org$generichide
 @@idzone.site$generichide
-@@imagetwist.com$image,first-party
+@@imagetwist.com$image,1p
 @@imasdk.googleapis.com$domain=cdn.applixir.com|link4win.com
 @@img.kotak*casa/images/indoxxi-logo-satu.gif
 @@imgblaze.net$domain=imgfile.net
-@@imgdrive.net$image,first-party
+@@imgdrive.net$image,1p
 @@imgfile.net*ads.js
 @@imgfile.net$domain=iceimg.net
 @@imgfrost.net$domain=imgfile.net
@@ -1251,22 +1256,23 @@
 @@luckybits.io/static/ads/popunder.js
 @@mangakyo.net$generichide
 @@maxcdn.bootstrapcdn.com
+@@media.net$1p
 @@meongs.bid
 @@moremoney.io$generichide
-@@neobux.com$first-party
+@@myadcash.com$1p
+@@neobux.com$1p
 @@njiir.com$generichide
-@@nowfor.net,probusinesshub.com$first-party
+@@nowfor.net,probusinesshub.com$1p
 @@obix.space$generichide
 @@onlinebee.in$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.solvemedia.com
 @@onlinebee.in$generichide
 @@pagead2.googlesyndication.com$domain=cdn.applixir.com|directlink.booogle.net|herokuapp.com|imasdk.googleapis.com|safelink.top|uclick.in
 @@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=newsjizz.in|njiir.com|shrink.world|unlockapk.com
 @@pixel.adsafeprotected.com$domain=tpc.googlesyndication.com
-@@popunder.net$first-party
-@@popunder.net$popup
-@@popunder.net$generichide
+@@popads.net$1p
+@@popunder.net$1p
 @@privatelink.de$3p
-@@probusinesshub.com$first-party
+@@probusinesshub.com$1p
 @@ptcwall.com$domain=kickasstraffic.com
 @@qualityfilehosting.com$generichide
 @@queenfaucet.website$generichide
@@ -1280,20 +1286,20 @@
 @@semawur.com$generichide
 @@sendit.download
 @@sharethis.com
-@@shorte.st$first-party
+@@shorte.st$1p
 @@stackpathcdn.com$domain=shortlink.live
 @@stackpath.bootstrapcdn.com/bootstrap
 @@starcoins.ws$generichide
 @@statically.io$domain=siherp.com
 @@sturl.pw$generichide
 @@superrewards-offers.com$domain=hit4hit.org
-@@systweak.com$first-party
+@@systweak.com$1p
 @@tasks.figure-eight.work/channels/neodev
 @@technoresults.xyz$generichide
 @@thunderclix.com$generichide
 @@tinyupload.com/ct/js/ct_adsense.js
 @@tpc.googlesyndication.com$domain=unlockapk.com
-@@traffboost.net$first-party
+@@traffboost.net$1p
 @@unlockapk.com*ads.js
 @@unpkg.com
 @@updatetribun.org$popup,domain=awsubs.tv
@@ -1310,6 +1316,7 @@
 @@wp.com$domain=awsubs.tv
 @@www.w3schools.com*css
 @@xydeyou.com$popup
+@@yllix.com$1p
 @@youtube.com$domain=bitverts.io
 @@youtube.com/ad_data$domain=linkdows.pw
 @@zetabitco.com$generichide
@@ -1685,6 +1692,7 @@ ockles.com##+js(nano-setInterval-booster)
 oploverz.in##s
 oploverz.in##u
 oploverzhome.com##+js(nano-setInterval-booster)
+ouo.io##+js(nano-setInterval-booster)
 ownbitcoins.net##+js(bab-defuser)
 pantauterus.me##+js(nano-setInterval-booster)
 pantauterus.me##+js(set-constant, blurred, false)
@@ -1774,6 +1782,7 @@ wikitrade.me##p:nth-of-type(n)
 wikitrik.com##+js(nano-setInterval-booster)
 wikitrik.com##p:nth-of-type(n)
 wolf-faucet.win##+js(bab-defuser)
+x-forex.site##+js(nano-setInterval-booster)
 xcolander.com##+js(abort-on-property-read, FuckAdBlock)
 xubster.com##+js(nano-setTimeout-booster.js, , , 0.01)
 yasinews.xyz##+js(bab-defuser)
@@ -2070,6 +2079,7 @@ wikitrade.me##.mh-sidebar.mh-widget-col-1
 wikitrade.me##.mh-site-logo
 wikitrade.me##.outboxA.outBox
 wikitrade.me##.swal2-in.swal2-fade.swal2-container
+x-forex.site##.mh-wrapper
 zapme.top##.overlay
 zippyshare.com##.slickbox > .center
 zonawibu.bid##.artikel
