@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 24 November 2019, 01:01:50 WIB
+! Last modified: 10 December 2019, 19:51:18 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -100,7 +100,6 @@
 ||bioskopgue.net/wp-content/uploads*gif
 ||bioskopkeren.club/images/
 ||bisabuka.net/?utm_source=$popup,3p
-||bit.ly$popup,3p,domain=awsubs.tv
 ||bitcoinad.pro$3p
 ||bitformations.website/?p=
 ||bitformations.website/wp-content/uploads
@@ -155,6 +154,7 @@
 ||cointiply.com/api/userads$important
 ||cointiply.com/arrowchat$important
 ||coinverti.com$3p
+||coinzillatag.com$3p
 ||conan.id*gif
 ||consensu.org$3p
 ||consolebackup.com$3p
@@ -369,6 +369,9 @@
 ||mediaonspot.com$3p
 ||minishing.com$popup,3p
 ||minishing.com$3p
+||miningpoolstats.stream*gif$1p
+||miningpoolstats.stream/img*.$1p
+||miningpoolstats.stream/referral
 ||mirrorace.com/themes/ace/assets/img/Jk
 ||misslk.com$3p
 ||ml314.com$3p
@@ -786,6 +789,7 @@
 *$3p,domain=moybtc.ru
 *$3p,domain=mmbtcl.ink
 *$3p,domain=multicoinfaucet.website
+*$3p,domain=nekopoi.care
 *$3p,domain=neobux.com
 *$3p,domain=nowfor.net|probusinesshub.com
 *$3p,domain=o-bitman.com
@@ -1171,7 +1175,7 @@
 @@code.jquery.com
 @@coinad.com/ads/show$domain=clixco.in
 @@coinhive.com$domain=btc-miner.online
-@@coinmarketcap.com$domain=bytecoin.money
+@@coinmarketcap.com$domain=bytecoin.money|miningpoolstats.stream
 @@cointiply.com$generichide
 @@content.jwplatform.com$domain=acefile.co
 @@conversantmedia.com$1p
@@ -1993,6 +1997,9 @@ manhwa-manga.bid##.widget_text
 mawataki.com##.kill-adblock-hide
 mawataki.com##.mh-wrapper
 mediafire.com##.on.lightbox
+miningpoolstats.stream##.btn-default
+miningpoolstats.stream##.navbar
+miningpoolstats.stream##.show1300
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
 mtofficial.com##.iklan-kiri
 myanimelist.net##.amazon-ads
@@ -2198,6 +2205,7 @@ lk21c.fun###flobwh
 lk21c.fun###tengah
 lk21c.fun###text-12
 mediafire.com###abnotify
+miningpoolstats.stream###mainpage_right > table > tbody > tr:nth-of-type(4)
 netnot21.com###kiri
 netnot21.com###ngisor
 njiir.com###Blog1 > .title
