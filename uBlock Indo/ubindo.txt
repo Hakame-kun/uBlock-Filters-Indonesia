@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 23 December 2019, 20:44:54 WIB
+! Last modified: 23 December 2019, 20:50:50 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1400,7 +1400,7 @@ modapi.survivetheforest.net#@##cookie-dialog
 123link.pw##+js(nano-sib)
 1idsly.com##+js(nano-sib)
 1ink.info##+js(nano-sib)
-4miner.me##+js(noeval-silent.js)
+4miner.me##+js(noeval-silent)
 8raa.com##+js(noeval-silent)
 94lauin.com,elsfile.org##+js(aopr, h237)
 94lauin.com,elsfile.org##+js(nano-sib)
@@ -1408,7 +1408,7 @@ modapi.survivetheforest.net#@##cookie-dialog
 a2zp30.com##+js(nano-sib)
 aalyafaucet.com##+js(noeval-silent)
 acefile.*##+js(aopr, popjs)
-ad-doge.com##+js(noeval-silent-silent)
+ad-doge.com##+js(noeval-silent)
 ad4msan.win##p
 adbull.cc##+js(noeval-silent)
 adlink.pw##+js(set, blurred, false)
@@ -1520,7 +1520,7 @@ coinrotation.com##+js(noeval-silent)
 coins4claim.com##+js(noeval-silent)
 coinsmondo.com##+js(noeval-silent)
 cointalk.club##+js(noeval-silent)
-cowner.net##+js(adfly-defuser.js)
+cowner.net##+js(adfly-defuser)
 crazysat.ru##+js(noeval-silent)
 crypto-flash.com##+js(noeval-silent)
 crypto-all.com,faucetworld.in##div.hide-on-med-and-down.l3.col
@@ -1685,7 +1685,7 @@ mediakita.blog##center:nth-of-type(2)
 mediakita.blog##div.col-lg-4:nth-of-type(2) > center
 mediakita.blog##+js(nano-sib)
 melovin.site##+js(noeval-silent)
-meownime.com##+js(noeval-silent.js)
+meownime.com##+js(noeval-silent)
 merdekaid.online##+js(nano-sib)
 midiavip.com##+js(noeval-silent)
 mishangfaucets.com##+js(noeval-silent)
@@ -1717,7 +1717,7 @@ pantauterus.me##figure.wp-block-image
 pantauterus.me##h2:nth-of-type(n)
 payskip.me##+js(nano-sib)
 pentafaucet.com##+js(noeval-silent)
-picbaron.com##+js(aeld.js, /^(?:click|mousedown|touchstart)$/, pop)
+picbaron.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 platinmods.com##+js(noeval-silent)
 platinmods.download##+js(noeval-silent)
 platinmods.download##+js(nano-sib)
@@ -1802,7 +1802,7 @@ wikitrik.com##p:nth-of-type(n)
 wolf-faucet.win##+js(noeval-silent)
 x-forex.site##+js(nano-sib)
 xcolander.com##+js(aopr, FuckAdBlock)
-xubster.com##+js(nano-setTimeout-booster, , , 0.01)
+xubster.com##+js(nano-stb, , , 0.01)
 yasinews.xyz##+js(noeval-silent)
 zandey.com##+js(noeval-silent)
 zetabitco.com##+js(noeval-silent)
