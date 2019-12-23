@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 10 December 2019, 19:51:18 WIB
+! Last modified: 23 December 2019, 20:44:54 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -290,7 +290,7 @@
 ||i.makeagif.com$domain=nontonmovie251.com
 ||i027m.top$3p
 ||ibb.co$3p,domain=lk21.web.id|lk21tv.web.id
-||ibb.co*gif$domain=idfl.me|kazefuri.web.id
+||ibb.co*gif$domain=idfl.me|kazefuri.web.id|ojooo.com
 ||idfl.*/fancy
 ||idsly.com$3p
 ||idxxi.co/wp-content/uploads/*gif
@@ -408,6 +408,8 @@
 ||odnobi.ru$3p
 ||offerenced.com$3p
 ||ogondkskyahxa.ru$3p
+||ojooo.com/img/*.gif
+||oukruque.com$3p
 ||olcqpdykme.com$3p
 ||old.dshe.gov.bd$3p
 ||onesignal.com$3p
@@ -435,6 +437,7 @@
 ||platinmods.com/js/Siropu/Chat
 ||play.google.com/log$3p
 ||plenty.analisis.io$3p
+||plusis.net
 ||poker99vip.net$popup,3p
 ||pokergo88.com$popup,3p
 ||poopads.xyz$popup,3p
@@ -464,6 +467,7 @@
 ||ratufilm.com/wp-content/uploads*gif
 ||rawgit.com$3p,domain=ambian-movies.blogspot.com|cryptostar.tk|imroot001.ga|myanimeindo.net
 ||readvasturked.pro$3p
+||redirect2719.ws$popunder
 ||regionads.ru$3p
 ||restricted$3p
 ||restricted*error=404$popup,3p
@@ -525,6 +529,7 @@
 ||top4top.net$3p
 ||torpsol.com$popunder
 ||torpsol.com$popup,3p
+||tpb.party/static/custom_ads.js
 ||trafadsense.ru$3p
 ||trafficsan.com$3p
 ||translate.google.com$3p,domain=faucethub.io
@@ -556,6 +561,7 @@
 ||vouceeco.com$3p
 ||vuryua.ru$3p
 ||w55c.net$3p
+||wad.ojooo.com/images/banners
 ||waktunonton.com/wp-content/uploads*gif
 ||wanhealth.me*soralink
 ||wapwon.desi$3p
@@ -608,6 +614,7 @@
 *$3p,domain=2shorten.com
 *$3p,domain=7link.us
 *$3p,domain=acefile.co
+*$3p,domain=ad-doge.com
 *$3p,domain=adbilty.me
 *$3p,domain=adbtc.top
 *$3p,domain=adbull.cc
@@ -862,6 +869,7 @@
 *$3p,domain=vipshort.com
 *$3p,domain=vivads.net
 *$3p,domain=vivebtc.win
+*$3p,domain=wad.ojooo.com
 *$3p,domain=want2crypto.com
 *$3p,domain=web4top.win
 *$3p,domain=weheartbitcoin.com
@@ -875,6 +883,7 @@
 *$popunder,3p,domain=imgrock.pw
 *$popunder,3p,domain=indo168.club
 *$popunder,3p,domain=pyrin.org
+*$popunder,3p,domain=wad.ojooo.com
 *$popup,3p,domain=adpop.me
 *$popup,3p,domain=allbitcoinsites.com
 *$popup,3p,domain=bestpayingfaucets.com
@@ -938,6 +947,7 @@
 *$popup,3p,domain=urle.co
 *$popup,3p,domain=voxc.org
 *$popup,3p,domain=warriorfaucet.com
+*$popup,3p,domain=wad.ojooo.com
 *$popup,3p,domain=wicr.me
 *$popup,3p,domain=za.gl
 *$popup,3p,domain=zetabitco.com
@@ -1084,7 +1094,7 @@
 @@/fuckadblock.$domain=claimcoins.cc|pyrin.org
 @@/hello^$xmlhttprequest,domain=speedtest.net
 @@/idxxi-1.gif
-@@/js/ads$domain=alexamaster.net|asmwall.com|ceklink.co|coinmarketwaves.com|desserttips.me|kabarviral.blog|maswiki.net|shrink.world|wegner.tech
+@@/js/ads$domain=ad-doge.com|alexamaster.net|asmwall.com|ceklink.co|coinmarketwaves.com|desserttips.me|kabarviral.blog|maswiki.net|ojooo.com|shrink.world|wegner.tech
 @@/js/tracking.$domain=changenow.io
 @@/noadblock.js$domain=bitsfree.net|bitsroll.com|blitzcoiner.com|claimbits.net|click4bits.com|clickbits.io|doge-bitsfree.net|moremoney.io|winbitcoin.io
 @@/ping^$xmlhttprequest,domain=speedtest.net
@@ -1105,6 +1115,7 @@
 @@about:blank$domain=adbtc.top
 @@acefile.co$domain=awsubs.tv
 @@aceservice.club$domain=acefile.co
+@@ad-doge.com/viewad
 @@ad4msan.com$generichide
 @@ad4msan.win$generichide
 @@adcash.com$1p
@@ -1225,6 +1236,7 @@
 @@googleusercontent.com$domain=acefile.co
 @@grabmylink.xyz$generichide
 @@greenfaucet.win$generichide
+@@gstatic.com/charts$domain=ojooo.com
 @@hcaptcha.com
 @@hit4hit.org$1p
 @@hitlink.com$1p
@@ -1358,22 +1370,22 @@
 ##iframe[src*="servlet/redirect.srv"]
 oturl.com##iframe[src*="oturl.com"]
 ! Link Shortener Error-----------------
-adsurl.co#@#+js(nano-setInterval-booster)
+adsurl.co#@#+js(nano-sib)
 clik.pw#@#A[href$=".html"][rel="nofollow norefferer noopener"]
-earnbig.ca#@#+js(nano-setInterval-booster)
-link-zero.com#@#+js(nano-setInterval-booster)
-payskip.me#@#+js(nano-setInterval-booster)
-short2win.com#@#+js(nano-setInterval-booster)
+earnbig.ca#@#+js(nano-sib)
+link-zero.com#@#+js(nano-sib)
+payskip.me#@#+js(nano-sib)
+short2win.com#@#+js(nano-sib)
 vinaurl.in#@#.adsbygoogle
-vivads.net#@#+js(nano-setInterval-booster)
-wi.cr#@#+js(nano-setInterval-booster)
+vivads.net#@#+js(nano-sib)
+wi.cr#@#+js(nano-sib)
 ! Unblock Elements --------------------
 drive.ad4msan.win#@#p
 simply-hentai.com#@#+js(aeld, , [native code])
-simply-hentai.com#@#+js(abort-on-property-read, BetterJsPop)
+simply-hentai.com#@#+js(aopr, BetterJsPop)
 solidfiles.com#@#div[class^="bnr-"]
 unlockapk.com#@#+js(aeld, load, onload)
-queenfaucet.website#@#+js(addEventListener-defuser, click, trigger)
+queenfaucet.website#@#+js(aeld, click, trigger)
 2shorten.com#@#.banner-728x90
 cointiply.com#@#.ad-panel
 cointiply.com#@#.adsbox
@@ -1384,275 +1396,276 @@ faucethero.com#@##top-ads
 modapi.survivetheforest.net#@##cookie-accept
 modapi.survivetheforest.net#@##cookie-dialog
 ! -------------------------------------
-000webhostapp.com##+js(bab-defuser)
-123link.pw##+js(nano-setInterval-booster)
-1idsly.com##+js(nano-setInterval-booster)
-1ink.info##+js(nano-setInterval-booster)
-4miner.me##+js(noeval.js)
-8raa.com##+js(bab-defuser)
-94lauin.com,elsfile.org##+js(abort-on-property-read, h237)
-94lauin.com,elsfile.org##+js(nano-setInterval-booster)
+000webhostapp.com##+js(noeval-silent)
+123link.pw##+js(nano-sib)
+1idsly.com##+js(nano-sib)
+1ink.info##+js(nano-sib)
+4miner.me##+js(noeval-silent.js)
+8raa.com##+js(noeval-silent)
+94lauin.com,elsfile.org##+js(aopr, h237)
+94lauin.com,elsfile.org##+js(nano-sib)
 9files.co,addfile.org,qtfile.com,upfile.mobi##a[href*="onamind.com"]
-a2zp30.com##+js(nano-setInterval-booster)
-aalyafaucet.com##+js(bab-defuser)
-acefile.*##+js(abort-on-property-read, popjs)
+a2zp30.com##+js(nano-sib)
+aalyafaucet.com##+js(noeval-silent)
+acefile.*##+js(aopr, popjs)
+ad-doge.com##+js(noeval-silent-silent)
 ad4msan.win##p
-adbull.cc##+js(bab-defuser)
-adlink.pw##+js(set-constant, blurred, false)
-adrianocoins.com##+js(bab-defuser)
+adbull.cc##+js(noeval-silent)
+adlink.pw##+js(set, blurred, false)
+adrianocoins.com##+js(noeval-silent)
 adspuma.com##a[href*="psoaghie.net"]
-adwerty.com##+js(bab-defuser)
-adwerty.com##+js(nano-setInterval-booster)
-agoodprofit.ru##+js(nano-setInterval-booster)
-agradarpan.com##+js(bab-defuser)
+adwerty.com##+js(noeval-silent)
+adwerty.com##+js(nano-sib)
+agoodprofit.ru##+js(nano-sib)
+agradarpan.com##+js(noeval-silent)
 ahexa.com##h2
-alekscoin.com##+js(abort-on-property-read)
-alekscoin.com##+js(bab-defuser)
-alekscoin.com##+js(nano-setInterval-booster)
+alekscoin.com##+js(aopr)
+alekscoin.com##+js(noeval-silent)
+alekscoin.com##+js(nano-sib)
 alinafaucet.win##div.form-group:nth-of-type(6)
-alinafaucet.win##+js(bab-defuser)
-alinafaucet.win##+js(set-constant, adBlockDetected, noopFunc)
-allbitcoinsites.com##+js(bab-defuser)
-allcoins.pw##+js(bab-defuser)
+alinafaucet.win##+js(noeval-silent)
+alinafaucet.win##+js(set, adBlockDetected, noopFunc)
+allbitcoinsites.com##+js(noeval-silent)
+allcoins.pw##+js(noeval-silent)
 altcoinfuture.000webhostapp.com##body > div
 anisubindo.org##+js(abort-current-inline-script, addEventListener)
-anjay.info##+js(nano-setInterval-booster)
-autoclaim.win##+js(bab-defuser)
-autoclaimbtc.ga,autoclaimfaucet.ga##+js(bab-defuser)
-autotewas.blogspot.com##+js(bab-defuser)
+anjay.info##+js(nano-sib)
+autoclaim.win##+js(noeval-silent)
+autoclaimbtc.ga,autoclaimfaucet.ga##+js(noeval-silent)
+autotewas.blogspot.com##+js(noeval-silent)
 aw-games.net,short.awsubs.tv##center:nth-of-type(2)
 aw-games.net,short.awsubs.tv##h1
 awsubs.tv##div.section.widget_text:nth-of-type(2)
-awsubsco.ga##+js(abort-on-property-read)
-awsubsco.ga##+js(nano-setInterval-booster)
-babesdoge.win##+js(nano-setInterval-booster)
-bcoin4you.com##+js(bab-defuser)
-beat-doge.tk##+js(bab-defuser)
-bercara.com##+js(nano-setInterval-booster)
-bercara.com##+js(set-constant, blurred, false)
+awsubsco.ga##+js(aopr)
+awsubsco.ga##+js(nano-sib)
+babesdoge.win##+js(nano-sib)
+bcoin4you.com##+js(noeval-silent)
+beat-doge.tk##+js(noeval-silent)
+bercara.com##+js(nano-sib)
+bercara.com##+js(set, blurred, false)
 bercara.com##p
-bestbitcoinfaucets.net##+js(bab-defuser)
-bestbitcoinfaucetslist.com##+js(bab-defuser)
-bestfreebitcoin.club##+js(bab-defuser)
-bestpayingfaucets.com##+js(bab-defuser)
-bitcofaucet.net##+js(bab-defuser)
-bitcofaucet.com##+js(nano-setInterval-booster)
-bitcoin-s.com##+js(bab-defuser)
-bitcoin-trading.pw##+js(bab-defuser)
-bitcoinclub.pw##+js(bab-defuser)
+bestbitcoinfaucets.net##+js(noeval-silent)
+bestbitcoinfaucetslist.com##+js(noeval-silent)
+bestfreebitcoin.club##+js(noeval-silent)
+bestpayingfaucets.com##+js(noeval-silent)
+bitcofaucet.net##+js(noeval-silent)
+bitcofaucet.com##+js(nano-sib)
+bitcoin-s.com##+js(noeval-silent)
+bitcoin-trading.pw##+js(noeval-silent)
+bitcoinclub.pw##+js(noeval-silent)
 bitcoincore.us##div.form-group:nth-of-type(3) > center
 bitcoincore.us##div.row:nth-of-type(3)
-bitcoincore.us##+js(nano-setInterval-booster)
-bitcoinearnner.com##+js(bab-defuser)
-bitcoinfaucet.fun##+js(bab-defuser)
-bitcoinfaucet.fun##+js(nano-setInterval-booster)
-bitcoininformation.website##+js(nano-setInterval-booster)
-bitcoinker.com##+js(bab-defuser)
-bitcoinmoney.info##+js(bab-defuser)
-bitcoinmoney.info##+js(nano-setInterval-booster)
+bitcoincore.us##+js(nano-sib)
+bitcoinearnner.com##+js(noeval-silent)
+bitcoinfaucet.fun##+js(noeval-silent)
+bitcoinfaucet.fun##+js(nano-sib)
+bitcoininformation.website##+js(nano-sib)
+bitcoinker.com##+js(noeval-silent)
+bitcoinmoney.info##+js(noeval-silent)
+bitcoinmoney.info##+js(nano-sib)
 bitcolife.ru,itiad.com##ins.adsbygoogle
-bitdesire.it##+js(bab-defuser)
-bitformations.website##+js(nano-setInterval-booster)
-bitpaste.info##+js(set-constant, adBlockDetected, noopFunc)
-bitpaste.info##+js(bab-defuser)
-bittube.me##+js(nano-setInterval-booster)
-bitverts.io##+js(nano-setInterval-booster)
-blockadblock.com##+js(bab-defuser)
-bolaoke.club##+js(nano-setInterval-booster)
+bitdesire.it##+js(noeval-silent)
+bitformations.website##+js(nano-sib)
+bitpaste.info##+js(set, adBlockDetected, noopFunc)
+bitpaste.info##+js(noeval-silent)
+bittube.me##+js(nano-sib)
+bitverts.io##+js(nano-sib)
+blockadblock.com##+js(noeval-silent)
+bolaoke.club##+js(nano-sib)
 btc.ms##div.col-md-12:nth-of-type(1)
-btcfaucet.design##+js(bab-defuser)
-btcforcaptcha.ml##+js(nano-setInterval-booster)
-btcmines.club##+js(bab-defuser)
-btcnewz.com##+js(bab-defuser)
-chopcoin.io##+js(bab-defuser)
-claimbit.top##+js(bab-defuser)
-claimbits.io##+js(bab-defuser)
-claimbtc.in##+js(bab-defuser)
-claimethfree.win##+js(bab-defuser)
-claimfreebch.win##+js(bab-defuser)
-claimfreeblk.win##+js(bab-defuser)
-claimfreebtc.win##+js(bab-defuser)
-claimfreebtx.win##+js(bab-defuser)
-claimfreecoins.io##+js(bab-defuser)
-claimfreedash.win##+js(bab-defuser)
-claimfreedoge.win##+js(bab-defuser)
-claimfreeltc.win##+js(bab-defuser)
-claimfreepot.win##+js(bab-defuser)
-claimfreeppc.win##+js(bab-defuser)
-claimfreexpm.win##+js(bab-defuser)
-claimltc.win##+js(bab-defuser)
-claimulike.win##+js(bab-defuser)
-click2shorten.com##+js(bab-defuser)
+btcfaucet.design##+js(noeval-silent)
+btcforcaptcha.ml##+js(nano-sib)
+btcmines.club##+js(noeval-silent)
+btcnewz.com##+js(noeval-silent)
+chopcoin.io##+js(noeval-silent)
+claimbit.top##+js(noeval-silent)
+claimbits.io##+js(noeval-silent)
+claimbtc.in##+js(noeval-silent)
+claimethfree.win##+js(noeval-silent)
+claimfreebch.win##+js(noeval-silent)
+claimfreeblk.win##+js(noeval-silent)
+claimfreebtc.win##+js(noeval-silent)
+claimfreebtx.win##+js(noeval-silent)
+claimfreecoins.io##+js(noeval-silent)
+claimfreedash.win##+js(noeval-silent)
+claimfreedoge.win##+js(noeval-silent)
+claimfreeltc.win##+js(noeval-silent)
+claimfreepot.win##+js(noeval-silent)
+claimfreeppc.win##+js(noeval-silent)
+claimfreexpm.win##+js(noeval-silent)
+claimltc.win##+js(noeval-silent)
+claimulike.win##+js(noeval-silent)
+click2shorten.com##+js(noeval-silent)
 clickbits.io##div.no-margin.no-padding.container-fluid
-clickers.info##+js(bab-defuser)
-cll.press##+js(bab-defuser)
-closetopic.site##+js(nano-setInterval-booster)
+clickers.info##+js(noeval-silent)
+cll.press##+js(noeval-silent)
+closetopic.site##+js(nano-sib)
 closetopic.site##h2
 closetopic.site##h3
 closetopic.site##p
-clx.icu##+js(set-constant, blurred, false)
+clx.icu##+js(set, blurred, false)
 coeg.in,greget.space,siherp.com,siotong.com,susutinv2.com,telondasmu.com,tetew.info##h2
 coin.mg##div.row:nth-of-type(4)
-coin4you.win##+js(bab-defuser)
-coinclaimers.com##+js(bab-defuser)
-coindice.win##+js(bab-defuser)
-coindice.win##+js(nano-setInterval-booster)
-coingrabr.com##+js(bab-defuser)
-coingratisan.com##+js(bab-defuser)
-coinmads.com##+js(bab-defuser)
-coinmarketwaves.com##+js(set-constant, blurred, false)
-coinpot.win##+js(bab-defuser)
-coinpou.com##+js(bab-defuser)
-coinrotation.com##+js(bab-defuser)
-coins4claim.com##+js(bab-defuser)
-coinsmondo.com##+js(bab-defuser)
-cointalk.club##+js(bab-defuser)
+coin4you.win##+js(noeval-silent)
+coinclaimers.com##+js(noeval-silent)
+coindice.win##+js(noeval-silent)
+coindice.win##+js(nano-sib)
+coingrabr.com##+js(noeval-silent)
+coingratisan.com##+js(noeval-silent)
+coinmads.com##+js(noeval-silent)
+coinmarketwaves.com##+js(set, blurred, false)
+coinpot.win##+js(noeval-silent)
+coinpou.com##+js(noeval-silent)
+coinrotation.com##+js(noeval-silent)
+coins4claim.com##+js(noeval-silent)
+coinsmondo.com##+js(noeval-silent)
+cointalk.club##+js(noeval-silent)
 cowner.net##+js(adfly-defuser.js)
-crazysat.ru##+js(bab-defuser)
-crypto-flash.com##+js(bab-defuser)
+crazysat.ru##+js(noeval-silent)
+crypto-flash.com##+js(noeval-silent)
 crypto-all.com,faucetworld.in##div.hide-on-med-and-down.l3.col
-cryptobite.site##+js(bab-defuser)
-cryptobro.xyz##+js(bab-defuser)
-cryptoclaimer.website##+js(bab-defuser)
-cryptofauset.cf##+js(bab-defuser)
-cryptofights.com##+js(bab-defuser)
-cryptoforcemaster.website##+js(bab-defuser)
-cryptofun.space##+js(bab-defuser)
-cryptoprofits.in.ua##+js(nano-setInterval-booster)
-cryptoskipad.com##+js(nano-setInterval-booster)
-cryptothrower.website##+js(nano-setInterval-booster)
-cryptoworld.gq##+js(bab-defuser)
-cryptsly.io##+js(bab-defuser)
-currentcrypto.net##+js(bab-defuser)
+cryptobite.site##+js(noeval-silent)
+cryptobro.xyz##+js(noeval-silent)
+cryptoclaimer.website##+js(noeval-silent)
+cryptofauset.cf##+js(noeval-silent)
+cryptofights.com##+js(noeval-silent)
+cryptoforcemaster.website##+js(noeval-silent)
+cryptofun.space##+js(noeval-silent)
+cryptoprofits.in.ua##+js(nano-sib)
+cryptoskipad.com##+js(nano-sib)
+cryptothrower.website##+js(nano-sib)
+cryptoworld.gq##+js(noeval-silent)
+cryptsly.io##+js(noeval-silent)
+currentcrypto.net##+js(noeval-silent)
 damimage.com##body > div:nth-of-type(5)
 darak.me##div.col-md-3.col-xs-6:nth-of-type(3)
-darak.me##+js(bab-defuser)
-darak.me##+js(nano-setInterval-booster)
-dash-faucet.com##+js(bab-defuser)
-designmyhomee.com##+js(nano-setInterval-booster)
-desserttips.me##+js(set-constant, blurred, false)
-dinoving.com##+js(bab-defuser)
-doge-coin.top##+js(bab-defuser)
-doge-coin.top##+js(nano-setInterval-booster)
-doge-faucet.com##+js(bab-defuser)
-dogecoinfloodgate.ml##+js(nano-setInterval-booster)
-dogecoinfree.win##+js(bab-defuser)
-dogecoinfree.win##+js(nano-setInterval-booster)
-dogecoins.top##+js(bab-defuser)
-dogecoins.top##+js(nano-setInterval-booster)
-dogy.cf##+js(bab-defuser)
-dogy.cf##+js(nano-setInterval-booster)
-dripcoin.net##+js(bab-defuser)
-drive.ad4msan.win##+js(bab-defuser)
-duit.cc##+js(nano-setInterval-booster)
-dungmak.com##+js(bab-defuser)
+darak.me##+js(noeval-silent)
+darak.me##+js(nano-sib)
+dash-faucet.com##+js(noeval-silent)
+designmyhomee.com##+js(nano-sib)
+desserttips.me##+js(set, blurred, false)
+dinoving.com##+js(noeval-silent)
+doge-coin.top##+js(noeval-silent)
+doge-coin.top##+js(nano-sib)
+doge-faucet.com##+js(noeval-silent)
+dogecoinfloodgate.ml##+js(nano-sib)
+dogecoinfree.win##+js(noeval-silent)
+dogecoinfree.win##+js(nano-sib)
+dogecoins.top##+js(noeval-silent)
+dogecoins.top##+js(nano-sib)
+dogy.cf##+js(noeval-silent)
+dogy.cf##+js(nano-sib)
+dripcoin.net##+js(noeval-silent)
+drive.ad4msan.win##+js(noeval-silent)
+duit.cc##+js(nano-sib)
+dungmak.com##+js(noeval-silent)
 dutchycorp.ovh,dutchycorp.space##[id*="ScriptRoot"]
 dutchycorp.ovh,dutchycorp.space##center:nth-of-type(2)
 dutchycorp.ovh,dutchycorp.space##center:nth-of-type(3)
 dutchycorp.ovh,dutchycorp.space##div.hide-on-small-only
-dynamicssh.com##+js(abort-on-property-read)
-dynamicssh.com##+js(nano-setInterval-booster)
-earn4cut.com##+js(nano-setInterval-booster)
-earnfreebitcoins.xyz##+js(nano-setInterval-booster)
-eth-faucet.net##+js(bab-defuser)
-ethereum-faucet.org##+js(bab-defuser)
-expressbulletin.in##+js(bab-defuser)
-expressfaucet.com##+js(bab-defuser)
-fapcoin.cc##+js(bab-defuser)
-faucet.gold##+js(bab-defuser)
-faucet.gold##+js(nano-setInterval-booster)
-faucet.kiwi##+js(bab-defuser)
-faucet4claim.com##+js(bab-defuser)
-faucet4coin.com##+js(bab-defuser)
-faucetcrypto.com##+js(abort-on-property-read
-faucetcrypto.com##+js(nano-setInterval-booster)
-faucetcrypto.site##+js(bab-defuser)
-faucethero.com##+js(bab-defuser)
-faucethub.win##+js(bab-defuser)
-faucetnews.xyz##+js(nano-setInterval-booster)
-faucets.world##+js(bab-defuser)
-faucetwhite.com##+js(bab-defuser)
-faucetwhite.com##+js(nano-setInterval-booster)
-filecloud.io##+js(abort-on-property-read, FuckAdBlock)
-firefaucet.win##+js(bab-defuser)
-forthtrade.com##+js(nano-setInterval-booster)
-free4claim.com##+js(bab-defuser)
-freebitcoin.vip##+js(nano-setInterval-booster)
-freebitcoin.win##+js(bab-defuser)
-freebitcoin.win##+js(nano-setInterval-booster)
-freefaucet.eu##+js(abort-on-property-read, admiral)
-freek.in##+js(bab-defuser)
-freesatoshisfh.us##+js(bab-defuser)
-fstore.biz##+js(nano-setInterval-booster)
+dynamicssh.com##+js(aopr)
+dynamicssh.com##+js(nano-sib)
+earn4cut.com##+js(nano-sib)
+earnfreebitcoins.xyz##+js(nano-sib)
+eth-faucet.net##+js(noeval-silent)
+ethereum-faucet.org##+js(noeval-silent)
+expressbulletin.in##+js(noeval-silent)
+expressfaucet.com##+js(noeval-silent)
+fapcoin.cc##+js(noeval-silent)
+faucet.gold##+js(noeval-silent)
+faucet.gold##+js(nano-sib)
+faucet.kiwi##+js(noeval-silent)
+faucet4claim.com##+js(noeval-silent)
+faucet4coin.com##+js(noeval-silent)
+faucetcrypto.com##+js(aopr
+faucetcrypto.com##+js(nano-sib)
+faucetcrypto.site##+js(noeval-silent)
+faucethero.com##+js(noeval-silent)
+faucethub.win##+js(noeval-silent)
+faucetnews.xyz##+js(nano-sib)
+faucets.world##+js(noeval-silent)
+faucetwhite.com##+js(noeval-silent)
+faucetwhite.com##+js(nano-sib)
+filecloud.io##+js(aopr, FuckAdBlock)
+firefaucet.win##+js(noeval-silent)
+forthtrade.com##+js(nano-sib)
+free4claim.com##+js(noeval-silent)
+freebitcoin.vip##+js(nano-sib)
+freebitcoin.win##+js(noeval-silent)
+freebitcoin.win##+js(nano-sib)
+freefaucet.eu##+js(aopr, admiral)
+freek.in##+js(noeval-silent)
+freesatoshisfh.us##+js(noeval-silent)
+fstore.biz##+js(nano-sib)
 furturebitearnmore.xyz##div.col-md-6:nth-of-type(3) > center
 furturebitearnmore.xyz##div.form-group:nth-of-type(2) > center
-furturebitearnmore.xyz##+js(bab-defuser)
-gameinfo.pw##+js(bab-defuser)
-getdoge.win##+js(nano-setInterval-booster)
-getdogecoin.website##+js(bab-defuser)
-getlink.pw##+js(bab-defuser)
-geturl.pro##+js(bab-defuser)
-goldenfreesatoshi.ru##+js(nano-setInterval-booster)
-gomentod.com##+js(bab-defuser)
-goodfaucet.ru##+js(nano-setInterval-booster)
-gotravelgo.space##+js(nano-setInterval-booster)
-gotravelgo.space##+js(set-constant, blurred, false)
+furturebitearnmore.xyz##+js(noeval-silent)
+gameinfo.pw##+js(noeval-silent)
+getdoge.win##+js(nano-sib)
+getdogecoin.website##+js(noeval-silent)
+getlink.pw##+js(noeval-silent)
+geturl.pro##+js(noeval-silent)
+goldenfreesatoshi.ru##+js(nano-sib)
+gomentod.com##+js(noeval-silent)
+goodfaucet.ru##+js(nano-sib)
+gotravelgo.space##+js(nano-sib)
+gotravelgo.space##+js(set, blurred, false)
 gotravelgo.space##h2:nth-of-type(n)
 gotravelgo.space##hr:nth-of-type(n)
 gotravelgo.space##table:nth-of-type(n)
-gr8.cc##+js(bab-defuser)
-grabmycoin.xyz##+js(bab-defuser)
-grabmylink.xyz##+js(bab-defuser)
-greenfaucet.win##+js(bab-defuser)
-gwei.win##+js(bab-defuser)
-haxhits.com##+js(nano-setInterval-booster)
-healthykk.com##+js(bab-defuser)
+gr8.cc##+js(noeval-silent)
+grabmycoin.xyz##+js(noeval-silent)
+grabmylink.xyz##+js(noeval-silent)
+greenfaucet.win##+js(noeval-silent)
+gwei.win##+js(noeval-silent)
+haxhits.com##+js(nano-sib)
+healthykk.com##+js(noeval-silent)
 hexafile.net##center > h3
 hexafile.net##center:nth-of-type(2) > center > .row
 hexafile.net##center:nth-of-type(2) > center > div:nth-of-type(1)
 hexafile.net##h2
 hexafile.net##hr
 hexafile.net##p
-hexafile.net##+js(nano-setInterval-booster)
-highpayingfaucet.com##+js(nano-setInterval-booster)
-highwaytoco.in##+js(bab-defuser)
-hikarinoakariost.info##+js(nano-setInterval-booster)
-hokiciki.org##+js(nano-setInterval-booster)
-hubcoins.xyz##+js(nano-setInterval-booster)
-icucu.icu##+js(bab-defuser)
-idsht.me##+js(nano-setInterval-booster)
-idsly.*##+js(nano-setInterval-booster)
+hexafile.net##+js(nano-sib)
+highpayingfaucet.com##+js(nano-sib)
+highwaytoco.in##+js(noeval-silent)
+hikarinoakariost.info##+js(nano-sib)
+hokiciki.org##+js(nano-sib)
+hubcoins.xyz##+js(nano-sib)
+icucu.icu##+js(noeval-silent)
+idsht.me##+js(nano-sib)
+idsly.*##+js(nano-sib)
 idzone.site##center
-imgsky.net##+js(nano-setInterval-booster)
-in11.site,infosehatku.club,semawur.com##+js(nano-setInterval-booster)
-in11.site,infosehatku.club,semawur.com##+js(set-constant, blurred, false)
+imgsky.net##+js(nano-sib)
+in11.site,infosehatku.club,semawur.com##+js(nano-sib)
+in11.site,infosehatku.club,semawur.com##+js(set, blurred, false)
 in11.site##figcaption
 in11.site##h1:nth-of-type(n)
 in11.site##h2:nth-of-type(n)
 in11.site##h3:nth-of-type(n)
 in11.site##header
 in11.site##p:nth-of-type(n)
-indiamartoffers.com##+js(bab-defuser)
-infaucet.site##+js(bab-defuser)
-infotrendy.me##+js(nano-setInterval-booster)
+indiamartoffers.com##+js(noeval-silent)
+infaucet.site##+js(noeval-silent)
+infotrendy.me##+js(nano-sib)
 ironime.org##+js(abort-current-inline-script, addEventListener)
-jelajahinternet.me##+js(nano-setInterval-booster)
+jelajahinternet.me##+js(nano-sib)
 justlikeyojna.com##center:nth-of-type(1) > strong
 kabarviral.blog##center:nth-of-type(2)
-karimunbits.net##+js(bab-defuser)
+karimunbits.net##+js(noeval-silent)
 kazefuri.web.id##div.section:nth-of-type(3)
-kazefuri.me##+js(set-constant, blurred, false)
-keplakneh.com##+js(nano-setInterval-booster)
-lenov.ru##+js(nano-setInterval-booster)
-lewat.club##+js(set-constant, blurred, false)
-li-nkz.com##+js(bab-defuser)
-link4win.com##+js(nano-setInterval-booster)
-linkduit.net##+js(nano-setInterval-booster)
-linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##+js(abort-on-property-read, app_vars.force_disable_adblock)
-linkk.bid##+js(nano-setInterval-booster)
+kazefuri.me##+js(set, blurred, false)
+keplakneh.com##+js(nano-sib)
+lenov.ru##+js(nano-sib)
+lewat.club##+js(set, blurred, false)
+li-nkz.com##+js(noeval-silent)
+link4win.com##+js(nano-sib)
+linkduit.net##+js(nano-sib)
+linkk.bid,payskip.me,shorted.id,shrinklink.co,tunnl.com##+js(aopr, app_vars.force_disable_adblock)
+linkk.bid##+js(nano-sib)
 linkpoi.*##+js(abort-current-inline-script, addEventListener)
-liputannubi.net##+js(nano-setInterval-booster)
-liputannubi.net##+js(set-constant, blurred, false)
+liputannubi.net##+js(nano-sib)
+liputannubi.net##+js(set, blurred, false)
 liputannubi.net##blockquote
 liputannubi.net##h2:nth-of-type(n)
 liputannubi.net##h3:nth-of-type(n)
@@ -1661,138 +1674,139 @@ liputannubi.net##hr:nth-of-type(n)
 liputannubi.net##table:nth-of-type(n)
 liputannubi.net##ol:nth-of-type(n)
 lk21c.fun##table:nth-of-type(3)
-luckybitco.in##+js(bab-defuser)
-luckybits.io##+js(bab-defuser)
-luckybits.io##+js(nano-setInterval-booster)
-mawataki.com##+js(nano-setInterval-booster)
-mawataki.com##+js(set-constant, blurred, false)
-maxfaucet.com##+js(abort-on-property-read, FuckAdBlock)
-mazenbtc.com##+js(bab-defuser)
+luckybitco.in##+js(noeval-silent)
+luckybits.io##+js(noeval-silent)
+luckybits.io##+js(nano-sib)
+mawataki.com##+js(nano-sib)
+mawataki.com##+js(set, blurred, false)
+maxfaucet.com##+js(aopr, FuckAdBlock)
+mazenbtc.com##+js(noeval-silent)
 mediakita.blog##center:nth-of-type(2)
 mediakita.blog##div.col-lg-4:nth-of-type(2) > center
-mediakita.blog##+js(nano-setInterval-booster)
-melovin.site##+js(bab-defuser)
-meownime.com##+js(noeval.js)
-merdekaid.online##+js(nano-setInterval-booster)
-midiavip.com##+js(bab-defuser)
-mishangfaucets.com##+js(bab-defuser)
-mixfaucetsbrasil.com.br##+js(bab-defuser)
-mmbtcl.ink##+js(bab-defuser)
-mtofficial.com##+js(bab-defuser)
-muhammadyoga.me##+js(nano-setInterval-booster)
-multicoinfaucet.website##+js(bab-defuser)
-multimining.website##+js(nano-setInterval-booster)
-mytreep.icu##+js(bab-defuser)
-naturalhealthy.xyz##+js(nano-setInterval-booster)
-nekopoi.*##+js(bab-defuser)
-news-tech.xyz##+js(nano-setInterval-booster)
-newsjizz.in##+js(nano-setInterval-booster)
+mediakita.blog##+js(nano-sib)
+melovin.site##+js(noeval-silent)
+meownime.com##+js(noeval-silent.js)
+merdekaid.online##+js(nano-sib)
+midiavip.com##+js(noeval-silent)
+mishangfaucets.com##+js(noeval-silent)
+mixfaucetsbrasil.com.br##+js(noeval-silent)
+mmbtcl.ink##+js(noeval-silent)
+mtofficial.com##+js(noeval-silent)
+muhammadyoga.me##+js(nano-sib)
+multicoinfaucet.website##+js(noeval-silent)
+multimining.website##+js(nano-sib)
+mytreep.icu##+js(noeval-silent)
+naturalhealthy.xyz##+js(nano-sib)
+nekopoi.*##+js(noeval-silent)
+news-tech.xyz##+js(nano-sib)
+newsjizz.in##+js(nano-sib)
 njiir.com##div.iklan
-njiir.com##+js(nano-setInterval-booster)
-nowfor.net##+js(bab-defuser)
-o-bitman.com##+js(bab-defuser)
-obix.space##+js(nano-setInterval-booster)
-ockles.com##+js(nano-setInterval-booster)
+njiir.com##+js(nano-sib)
+nowfor.net##+js(noeval-silent)
+o-bitman.com##+js(noeval-silent)
+obix.space##+js(nano-sib)
+ockles.com##+js(nano-sib)
 oploverz.in##s
 oploverz.in##u
-oploverzhome.com##+js(nano-setInterval-booster)
-ouo.io##+js(nano-setInterval-booster)
-ownbitcoins.net##+js(bab-defuser)
-pantauterus.me##+js(nano-setInterval-booster)
-pantauterus.me##+js(set-constant, blurred, false)
+oploverzhome.com##+js(nano-sib)
+ouo.io##+js(nano-sib)
+ownbitcoins.net##+js(noeval-silent)
+pantauterus.me##+js(nano-sib)
+pantauterus.me##+js(set, blurred, false)
 pantauterus.me##figure.wp-block-image
 pantauterus.me##h2:nth-of-type(n)
-payskip.me##+js(nano-setInterval-booster)
-pentafaucet.com##+js(bab-defuser)
-picbaron.com##+js(addEventListener-defuser.js, /^(?:click|mousedown|touchstart)$/, pop)
-platinmods.com##+js(bab-defuser)
-platinmods.download##+js(bab-defuser)
-platinmods.download##+js(nano-setInterval-booster)
-play4coin.us##+js(bab-defuser)
-potcoin-faucet.com##+js(bab-defuser)
-potcoinlotto.com##+js(bab-defuser)
+payskip.me##+js(nano-sib)
+pentafaucet.com##+js(noeval-silent)
+picbaron.com##+js(aeld.js, /^(?:click|mousedown|touchstart)$/, pop)
+platinmods.com##+js(noeval-silent)
+platinmods.download##+js(noeval-silent)
+platinmods.download##+js(nano-sib)
+play4coin.us##+js(noeval-silent)
+potcoin-faucet.com##+js(noeval-silent)
+potcoinlotto.com##+js(noeval-silent)
 premierexxi.*##center
 premierexxi.*##div.extend
-premiumfaucetnetwork.com##+js(bab-defuser)
-pyrin.org##+js(abort-on-property-read, FuckAdBlock)
-queenfaucet.website##+js(bab-defuser)
-qwerofaucet.tk##+js(bab-defuser)
-randomsatoshi.win##+js(bab-defuser)
-rivayz.info##+js(bab-defuser)
-rivayz.info##+js(nano-setInterval-booster)
-rocketfaucet.win##+js(bab-defuser)
+premiumfaucetnetwork.com##+js(noeval-silent)
+pyrin.org##+js(aopr, FuckAdBlock)
+queenfaucet.website##+js(noeval-silent)
+qwerofaucet.tk##+js(noeval-silent)
+randomsatoshi.win##+js(noeval-silent)
+rivayz.info##+js(noeval-silent)
+rivayz.info##+js(nano-sib)
+rocketfaucet.win##+js(noeval-silent)
 ryn.cc##form > div:nth-of-type(2)
 ryn.cc##form > div:nth-of-type(3)
-ryn.cc##+js(bab-defuser)
-safelinkreviewz.com##+js(nano-setInterval-booster)
-satoshikingdom.com##+js(bab-defuser)
-satoshilabs.net##+js(bab-defuser)
+ryn.cc##+js(noeval-silent)
+safelinkreviewz.com##+js(nano-sib)
+satoshikingdom.com##+js(noeval-silent)
+satoshilabs.net##+js(noeval-silent)
 semawur.com##h2:nth-of-type(n)
 semawur.com##h3:nth-of-type(n)
 semawur.com##header
 semawur.com##p:nth-of-type(n)
-sfile.mobi##+js(nano-setInterval-booster)
+sfile.mobi##+js(nano-sib)
 short.awsubs.co##center:nth-of-type(2)
 short.awsubs.co##h1
 short.awsubs.co##hr
 short.awsubs.co##p
-shortit.pw##+js(bab-defuser)
-shortit.pw##+js(nano-setInterval-booster)
-siherp.com##+js(nano-setInterval-booster)
-sitowebinfo.com##+js(bab-defuser)
-situsbaru.me##+js(nano-setInterval-booster)
+shortit.pw##+js(noeval-silent)
+shortit.pw##+js(nano-sib)
+siherp.com##+js(nano-sib)
+sitowebinfo.com##+js(noeval-silent)
+situsbaru.me##+js(nano-sib)
 situsbaru.me##p
-sivitechno.com##+js(bab-defuser)
-sova.network##+js(abort-on-property-read, FuckAdBlock)
-speedtest.net##+js(nano-setInterval-booster)
-speedup-faucet.com##+js(bab-defuser)
+sivitechno.com##+js(noeval-silent)
+sova.network##+js(aopr, FuckAdBlock)
+speedtest.net##+js(nano-sib)
+speedup-faucet.com##+js(noeval-silent)
 speedup-faucet.com##td:nth-of-type(3) > center:nth-of-type(2)
 speedup-faucet.com##td:nth-of-type(5)
 speedup-faucet.com##tr:nth-of-type(3) > td > table
 speedup-faucet.com##tr:nth-of-type(4) > td > center
 speedup-faucet.com##tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(1) > td
 speedup-faucet.com##tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(2) > td
-starcoins.ws##+js(bab-defuser)
-startxchange.com##+js(nano-setInterval-booster)
-sturl.pw##+js(bab-defuser)
-suarankri.me##+js(nano-setInterval-booster)
+starcoins.ws##+js(noeval-silent)
+startxchange.com##+js(nano-sib)
+sturl.pw##+js(noeval-silent)
+suarankri.me##+js(nano-sib)
 susutinv2.com##p:nth-of-type(n)
-synced-rewards.com##+js(bab-defuser)
-technoresults.xyz##+js(nano-setInterval-booster)
-theinsurance.pw##+js(bab-defuser)
-theseotools.net##+js(bab-defuser)
+synced-rewards.com##+js(noeval-silent)
+technoresults.xyz##+js(nano-sib)
+theinsurance.pw##+js(noeval-silent)
+theseotools.net##+js(noeval-silent)
 tips.atv.pw##center:nth-of-type(2)
-topbtc.club##+js(bab-defuser)
-treasurebits.net##+js(nano-setInterval-booster)
-uclick.in##+js(bab-defuser)
-updatetribun.org##+js(nano-setInterval-booster)
-url-win.com##+js(nano-setInterval-booster)
-varclaim.website##+js(bab-defuser)
-vikingbtc.xyz##+js(bab-defuser)
-vikingbtc.xyz##+js(nano-setInterval-booster)
-vivocoin.com##+js(bab-defuser)
+topbtc.club##+js(noeval-silent)
+treasurebits.net##+js(nano-sib)
+uclick.in##+js(noeval-silent)
+updatetribun.org##+js(nano-sib)
+url-win.com##+js(nano-sib)
+varclaim.website##+js(noeval-silent)
+vikingbtc.xyz##+js(noeval-silent)
+vikingbtc.xyz##+js(nano-sib)
+vivocoin.com##+js(noeval-silent)
 voxc.org##h4
 vozdesportiva.com##div.iklan
-vozdesportiva.com##+js(nano-setInterval-booster)
-wadooo.com##+js(nano-setInterval-booster)
+vozdesportiva.com##+js(nano-sib)
+wad.ojooo.com##+js(set, blurred, false)
+wadooo.com##+js(nano-sib)
 wadooo.com##ol
-want2crypto.com##+js(bab-defuser)
-warriorfaucet.com##+js(bab-defuser)
-weebly.com##+js(bab-defuser)
-weheartbitcoin.com##+js(bab-defuser)
-wicr.in##+js(nano-setInterval-booster)
-wikitrade.me##+js(nano-setInterval-booster)
+want2crypto.com##+js(noeval-silent)
+warriorfaucet.com##+js(noeval-silent)
+weebly.com##+js(noeval-silent)
+weheartbitcoin.com##+js(noeval-silent)
+wicr.in##+js(nano-sib)
+wikitrade.me##+js(nano-sib)
 wikitrade.me##p:nth-of-type(n)
-wikitrik.com##+js(nano-setInterval-booster)
+wikitrik.com##+js(nano-sib)
 wikitrik.com##p:nth-of-type(n)
-wolf-faucet.win##+js(bab-defuser)
-x-forex.site##+js(nano-setInterval-booster)
-xcolander.com##+js(abort-on-property-read, FuckAdBlock)
-xubster.com##+js(nano-setTimeout-booster.js, , , 0.01)
-yasinews.xyz##+js(bab-defuser)
-zandey.com##+js(bab-defuser)
-zetabitco.com##+js(bab-defuser)
-zippyanime.net##+js(nano-setInterval-booster)
+wolf-faucet.win##+js(noeval-silent)
+x-forex.site##+js(nano-sib)
+xcolander.com##+js(aopr, FuckAdBlock)
+xubster.com##+js(nano-setTimeout-booster, , , 0.01)
+yasinews.xyz##+js(noeval-silent)
+zandey.com##+js(noeval-silent)
+zetabitco.com##+js(noeval-silent)
+zippyanime.net##+js(nano-sib)
 ! -------------------------------------
 ##.__b-popup1__.b-modal
 ##.ablkAlert
@@ -2029,6 +2043,8 @@ pantauterus.me##.single-post-content > p:nth-of-type(n)
 pantauterus.me##.truygiobl
 pantauterus.me##.wrapper-sticky
 pekalongan-kommuniti.net##.fb-btn-seocips
+pirate-bay.net##.modal
+pirate-bay.net##.sidebar-vpn
 premierexxi.*##.wpb-outer-wrap
 queenfaucet.website##.modal
 reevown.com##.adsbygoogle
