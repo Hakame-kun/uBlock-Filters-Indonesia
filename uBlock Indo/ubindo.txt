@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 23 December 2019, 20:50:50 WIB
+! Last modified: 24 December 2019, 23:58:39 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -205,6 +205,9 @@
 ||dr1.masbro.id/js2.js
 ||dwindly.io$3p
 ||earth-111.com/ref?k=$popup
+||easyhits4u.com/service-worker.js$important
+||easyhits4u.com*gif$important
+||easyhits4u.com/user/banners$important
 ||ecvladelayk.com$3p
 ||eiqzyxofsgzel.com$3p
 ||eiygqumgrobos.com$3p
@@ -787,6 +790,7 @@
 *$3p,domain=linkrag.com
 *$3p,domain=linkrex.net
 *$3p,domain=linktor.io
+*$3p,domain=manyhit.com
 *$3p,domain=mazenbtc.com
 *$3p,domain=megaurl.in
 *$3p,domain=melovin.site
@@ -855,6 +859,7 @@
 *$3p,domain=topfan.info
 *$3p,domain=topurl.net
 *$3p,domain=traffboost.net
+*$3p,domain=traffic2bitcoin.com
 *$3p,domain=trafficadbar.com
 *$3p,domain=thehugemarket.com
 *$3p,domain=thunderclix.com
@@ -1166,7 +1171,7 @@
 @@cdnjs.cloudflare.com/ajax/libs*css
 @@cdnjs.cloudflare.com/ajax/libs*js$domain=faucethub.io|randomsatoshi.win
 @@cdnjs.cloudflare.com/ajax/libs/font-awesome
-@@cdnjs.cloudflare.com/ajax/libs/jquery$domain=acefile.co|btcleets.xyz
+@@cdnjs.cloudflare.com/ajax/libs/jquery
 @@cdnjs.cloudflare.com/ajax/libs/materialize$domain=firefaucet.win
 @@cdnjs.cloudflare.com/ajax/libs/sceditor
 @@cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
@@ -1207,6 +1212,7 @@
 @@drive.google.com/thumbnail$domain=acefile.co
 @@dutchycorp.ovh$generichide
 @@easyhits4u.com$1p
+@@easyhits4u.com$generichide
 @@faucet4claim.com$generichide
 @@faucetcrypto.site$generichide
 @@faucetfly.com$generichide
@@ -1232,7 +1238,7 @@
 @@google.com$domain=criptius.com
 @@google-analytics.$domain=reevown.com
 @@googleapis.com/drive$domain=acefile.co
-@@googletagmanager.com$domain=jd.id
+@@googletagmanager.com
 @@googleusercontent.com$domain=acefile.co
 @@grabmylink.xyz$generichide
 @@greenfaucet.win$generichide
@@ -1397,9 +1403,11 @@ modapi.survivetheforest.net#@##cookie-accept
 modapi.survivetheforest.net#@##cookie-dialog
 ! -------------------------------------
 000webhostapp.com##+js(noeval-silent)
+10khits.com##+js(set)
 123link.pw##+js(nano-sib)
 1idsly.com##+js(nano-sib)
 1ink.info##+js(nano-sib)
+247autohits.com##+js(set)
 4miner.me##+js(noeval-silent)
 8raa.com##+js(noeval-silent)
 94lauin.com,elsfile.org##+js(aopr, h237)
@@ -1408,6 +1416,7 @@ modapi.survivetheforest.net#@##cookie-dialog
 a2zp30.com##+js(nano-sib)
 aalyafaucet.com##+js(noeval-silent)
 acefile.*##+js(aopr, popjs)
+ad-doge.com##+js(nano-sib)
 ad-doge.com##+js(noeval-silent)
 ad4msan.win##p
 adbull.cc##+js(noeval-silent)
@@ -1567,6 +1576,9 @@ dynamicssh.com##+js(aopr)
 dynamicssh.com##+js(nano-sib)
 earn4cut.com##+js(nano-sib)
 earnfreebitcoins.xyz##+js(nano-sib)
+ebesucher.com##+js(aopr)
+ebesucher.com##+js(nano-sib, , , 0.625)
+ebesucher.com##+js(set)
 eth-faucet.net##+js(noeval-silent)
 ethereum-faucet.org##+js(noeval-silent)
 expressbulletin.in##+js(noeval-silent)
@@ -1677,6 +1689,7 @@ lk21c.fun##table:nth-of-type(3)
 luckybitco.in##+js(noeval-silent)
 luckybits.io##+js(noeval-silent)
 luckybits.io##+js(nano-sib)
+manyhit.com##+js(set)
 mawataki.com##+js(nano-sib)
 mawataki.com##+js(set, blurred, false)
 maxfaucet.com##+js(aopr, FuckAdBlock)
