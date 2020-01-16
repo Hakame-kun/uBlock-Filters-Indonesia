@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 16 January 2019, 21:07:54 WIB
+! Last modified: 16 January 2019, 21:40:10 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1022,11 +1022,8 @@ xubster.com##+js(nano-stb, , , 0.01)
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
 ad4msan.win##.adsbygoogle
-adsrt.me##.rounded_shape2.rounded_shape
 ahexa.com##.c-message > div:nth-of-type(2)
 ahexa.com##.disclaimer
-alinafaucet.win##.form > center
-anisubindo.org##.ArevicoModal-bg
 anjay.info##.adseast
 anjay.info##.mh-wrapper
 anjay.info##.mh-copyright-wrap
@@ -1038,11 +1035,7 @@ awsubs.tv##.fb_iframe_widget.fb-like
 awsubs.tv##.kln
 awsubs.tv##.minipusat
 awsubs.tv##.pusat728
-bagilagi.com##.klnsora
-bagilagi.com##.gmr-single.gmr-box-content
-bagilagi.com##.rurasafe-ads
 batch.id##.klan300
-beat-doge.tk##.popUpBannerBox
 bercara.com##.adsbygoogle
 bercara.com##.col-lg-8.col-md-12 > div:nth-of-type(1)
 bercara.com##.col-md-6
@@ -1052,11 +1045,10 @@ bercara.com##.mt-30 > b
 bercara.com##.mtb-15.list-li-mr-20
 bestbitcoinfaucets.net##.modal-body > center
 bolaoke.club##.mh-wrapper
-btcleets.xyz,coin.mg,onlinebee.in,techcraze.online##.banner-captcha.banner
+btcleets.xyz,coin.mg,techcraze.online##.banner-captcha.banner
 ceklink.co##.banner-captcha.banner
 ceklink.co##.blog-item
 citpekalongan.com##.section.header-right
-clickbits.io##._fa7cdd4c68507744
 clk.ink##.banner-inner
 closetopic.site##.byline
 closetopic.site##.entry-content-single.entry-content > div:nth-of-type(2)
@@ -1077,6 +1069,7 @@ downloadbatch.com##.idblog-topbanner-aftermenu
 dutchycorp.ovh##.row > center:nth-of-type(1)
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
+grabmylink.xyz##.iklan-kiri
 greget.space##.c-message > div:nth-of-type(2)
 hexafile.net##.adsbygoogle
 idzone.site##.adsbygoogle
@@ -1114,38 +1107,14 @@ korenlovers.co##.iklan
 lebahmovie.com##.idmuvi-floatbanner-footer.idmuvi-floatbanner
 lenov.ru##.clearfix.rek-but:nth-of-type(1)
 lenov.ru##.clearfix.rek-red.rek-but
-liputannubi.net##.b-error
-liputannubi.net##.bc-top-style
-liputannubi.net##.comments-template
-liputannubi.net##.entry-content > h1:nth-of-type(n)
-liputannubi.net##.entry-content > ul:nth-of-type(n)
-liputannubi.net##.entry-content > p:nth-of-type(n)
-liputannubi.net##.entry-terms
-liputannubi.net##.fluid-width-video-wrapper
-liputannubi.net##.gallery
-liputannubi.net##.image-border
-liputannubi.net##.left
-liputannubi.net##.next-prev-post
-liputannubi.net##.post-author
-liputannubi.net##.post-header
-liputannubi.net##.post-related
-liputannubi.net##.post-share
-liputannubi.net##.qda
-liputannubi.net##.qda-image
-liputannubi.net##.rounded
-liputannubi.net##.size-full
-liputannubi.net##.wp-caption-text
-liputannubi.net##.wrapper-sticky
-lk21.web.id##.row:nth-of-type(3)
-lk21.web.id##.row:nth-of-type(6)
 lk21c.fun##.gmr-single.gmr-box-content > table:nth-of-type(1)
 lk21c.fun##.gmr-single.gmr-box-content > table:nth-of-type(2)
 lk21c.fun##.ns-right
 lk21c.fun##.row > table
 lk21id.com##.idmuvi-floatbanner
 luckybits.io##.ads-row.row
-manhwa-manga.bid##.ai_widget
-manhwa-manga.bid##.widget_text
+manhwa-manga5.bid##.ai_widget
+manhwa-manga5.bid##.widget_text
 mawataki.com##.kill-adblock-hide
 mawataki.com##.mh-wrapper
 mediafire.com##.on.lightbox
@@ -1164,10 +1133,6 @@ naturalhealthy.xyz##.mh-wrapper
 naturalhealthy.xyz##.mh-header
 neonime.*##.block-player
 newsjizz.in##.taxonomy-list.comp
-njiir.com##.ADS
-njiir.com##.bagi > .isi
-njiir.com##.separator
-onlinebee.in##.text-left
 ouo.io##.text-center > div
 pantauterus.me##.bc-top-style
 pantauterus.me##.bs-irp
@@ -1180,13 +1145,11 @@ pantauterus.me##.post-tp-1-header.post-header
 pantauterus.me##.single-post-content > p:nth-of-type(n)
 pantauterus.me##.truygiobl
 pantauterus.me##.wrapper-sticky
-pekalongan-kommuniti.net##.fb-btn-seocips
 pirate-bay.net##.modal
 pirate-bay.net##.sidebar-vpn
 premierexxi.*##.wpb-outer-wrap
 queenfaucet.website##.modal
 reevown.com##.adsbygoogle
-rollercoin.com##.adBlock-banner
 samehadaku.tv##.keyw
 samehadaku.tv##.share-links
 semawur.com##.adsbygoogle
@@ -1201,18 +1164,11 @@ senimovie.co##.rsABlock
 siherp.com##.c-message > div:nth-of-type(2)
 simply-hentai.com##.sticky
 simply-hentai.com##.tc
-situsbaru.me##.entry-header
-situsbaru.me##.hm-authorbox
-situsbaru.me##.hm-related-posts
-situsbaru.me##.post-navigation.navigation
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
 speedtest.net##.lower-horizontal.ad
 speedtest.net##.notification-container
 speedtest.net##.top-horizontal
-tokenfly.pw##.banner-captcha.banner
-tokenfly.pw##.box-main > center:nth-of-type(1)
-tokenfly.pw##.box-main > p
 travellinginfos.com##.mh-wrapper
 unlockapk.com##.adsbygoogle
 vozdesportiva.com##.ADS
@@ -1231,21 +1187,10 @@ wadooo.com##.entry-media
 wadooo.com##.entry-title
 wadooo.com##.mb30
 wadooo.com##.sidebar
-waktunonton.com##.idmuvi-topbanner-aftermenu
 wegner.tech##.adsbygoogle
-wikitrade.me##.entry-header
-wikitrade.me##.mh-post-nav
-wikitrade.me##.mh-sidebar.mh-widget-col-1
-wikitrade.me##.mh-site-logo
-wikitrade.me##.outboxA.outBox
-wikitrade.me##.swal2-in.swal2-fade.swal2-container
-x-forex.site##.mh-wrapper
 zapme.top##.overlay
 zippyshare.com##.slickbox > .center
-zonawibu.bid##.artikel
-zonawibu.bid##h4
-zonawibu.bid##.thumbnail
-zonawibu.me##.infopost
+zonawibu.cc##.infopost
 ! -------------------------------------
 ###abAlert
 ###ab_notice1
@@ -1254,6 +1199,8 @@ zonawibu.me##.infopost
 ###adblockdetected
 ###ads-pop
 ###agegate_content
+###ai-adb-message
+###ai-adb-overlay
 ###b300
 ###banner_ikln_tengah
 ###bg_popup
@@ -1283,32 +1230,17 @@ zonawibu.me##.infopost
 ###y9cc
 ###z2c7
 ! -------------------------------------
-123short.com,clk.press,getlink.pw,tokenfly.pw###headlineatas
+123short.com,clk.press###headlineatas
 a-ads.com###news_feed
-aalyafaucet.com,alinafaucet.win,bitcoinclub.pw,bitcolife.ru,claimulike.win,cointalk.club,faucet.kiwi,faucethero.com,free4claim.com,furturebitearnmore.xyz,mazenbtc.com###middle-adspace
 ad4msan.win###masthead
 ad4msan.win###secondary
-adlink.pw###cookie-pop
 adsafelink.net###cookie-pop
-altervista.org###ad
-altervista.org###ad_overlay
 androidrepublic.org###siropuChat
 awsubs.tv###floatcenter
 awsubs.tv###overplay
-bagilagi.com###comments
-bagilagi.com###secondary
-bestbitcoinfaucets.net,links4cash.com,want2crypto.com###Floater-Left-3
+bestbitcoinfaucets.net,want2crypto.com###Floater-Left-3
 bestbitcoinfaucets.net,want2crypto.com###Floater-Middle-3
-bestbitcoinfaucets.net,links4cash.com,want2crypto.com###Floater-Right-3
-bitcoincore.us###header
-bitcoininformation.website###page
-bitcoininformation.website###site-footer
-bitcoininformation.website###site-header
-bitcoinclub.pw,bitcolife.ru,claimbit.top,coins4claim.com,cointalk.club,dinoving.com,faucet.kiwi,faucethero.com,free4claim.com,greenfaucet.win,mazenbtc.com###captcha-adspace
-bitcolife.ru,cointalk.club###top-ads
-bitformations.website###page
-bitformations.website###site-footer
-bitformations.website###site-header
+bestbitcoinfaucets.net,want2crypto.com###Floater-Right-3
 blog.kopajasubs.info###fb-fanbox
 btcleets.xyz###link-view > center:nth-of-type(1)
 btcleets.xyz###mainNav
@@ -1317,32 +1249,19 @@ closetopic.site###footer-container
 closetopic.site###masthead
 coin.mg###link-view > div:nth-of-type(2)
 coin.mg###link-view > div:nth-of-type(4)
-coins4claim.com,free4claim.com###mydiv
-coins4claim.com,free4claim.com###mydiv1
-cointalk.club###left-adspace
-cointalk.club###right-adspace
-crypto-all.com,faucetworld.in,faucetspro.com,firefaucet.win###sad-1
-dataid.us###loading
 dewafile.com###download
 downloadbatch.com###text-48
-drakorindofilms.net,inidramaku.com###ouibounce-modal
+drakorindofilms.tv,inidramaku.com###ouibounce-modal
 dutchycorp.space###boxes
 easyhits4u.com###countDown
-faucetcrypto.site###left-adspace
-faucetcrypto.site###right-adspace
-filmbioskop21.cc###fbawah
-futureurl.info###Test
-grabmylink.xyz###gb
-hdtvku.com###mybannerpopup
+faucethero.com###captcha-adspace
+faucethero.com###middle-adspace
 healthproper.blogspot.com###adb
 idfl.*###ad_global_below_navbar
 idfl.*###fancybox-overlay
 idsly.net,idsly.org,jelajahinternet.me,merdekaid.online,muhammadyoga.me,updatetribun.org###m813
 idxx1.*###player-side-right
 imgbaron.com###iframe-fb
-indo168.club###bioskop-kanan
-indo168.club###bioskop-kiri
-indoxxi.men###content-embed > center
 kabarviral.blog###content
 kabarviral.blog###primary > div:nth-of-type(2) > div:nth-of-type(1)
 kabarviral.blog###secondary
@@ -1350,9 +1269,6 @@ kawanfilm21.online###content > div.container:nth-of-type(1)
 kawanfilm21.online###floating_banner_top1
 kazefuri.me###main-content
 kazefuri.web.id###iklan-pos
-liputannubi.net###header
-liputannubi.net###site-footer
-liz.zdonlot.in###close-banner
 lk21c.fun###flobwh
 lk21c.fun###tengah
 lk21c.fun###text-12
@@ -1360,26 +1276,15 @@ mediafire.com###abnotify
 miningpoolstats.stream###mainpage_right > table > tbody > tr:nth-of-type(4)
 netnot21.com###kiri
 netnot21.com###ngisor
-njiir.com###Blog1 > .title
-njiir.com###post
 opengapps.org###donatebox
 oploverz.in###btm_banner
 pantauterus.me###header
 pantauterus.me###respond
 pantauterus.me###site-footer
-pekalongan-kommuniti.net###box-message
 platinmods.com###siropuChat
-revolt.group###category_shoutbox
-ryn.cc###main > div:nth-of-type(1)
-ryn.cc###main > div:nth-of-type(2)
 senimovie.co###sidebar
 short.pe###dfp
-situsbaru.me###colophon
-situsbaru.me###masthead
-situsbaru.me###primary
-situsbaru.me###secondary
 speedup-faucet.com###mainbody > center:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
-tokenfly.pw###cookie-pop
 tribunnews.com###articleright
 vozdesportiva.com###Blog1 > .title
 vozdesportiva.com###post
@@ -1387,5 +1292,4 @@ wadooo.com###comments
 wadooo.com###header
 wadooo.com###footer
 webtoons.com###footer
-xydeyou.com###gc2f
 zippyshare.com###qrCode
