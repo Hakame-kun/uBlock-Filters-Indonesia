@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 16 January 2019, 21:40:10 WIB
+! Last modified: 21 January 2019, 13:38:58 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -175,6 +175,9 @@
 ||img.kotak*casa*gif
 ||img.topddl.net*gif$3p
 ||imgadult.com/ea
+||imgfile.net/shrinker/js/jquery.min.js
+||imgfile.net/vip
+||imgsky.net/shrinker/js/xeloa.js
 ||impactify.io$3p
 ||impressionsme.net$3p
 ||inclk.com/itab/sa?cid=$popunder
@@ -318,6 +321,7 @@
 ||zonawibu.me/data/no-ads.
 
 ! ========== * List ==========
+*$3p,domain=100count.net
 *$3p,domain=123short.com
 *$3p,domain=1idsly.com
 *$3p,domain=1ink.cc
@@ -327,6 +331,8 @@
 *$3p,domain=ad-doge.com
 *$3p,domain=adbtc.top
 *$3p,domain=adpop.me
+*$3p,domain=adsbtc.org
+*$3p,domain=adshort.tech
 *$3p,domain=adwerty.com
 *$3p,domain=anjay.info
 *$3p,domain=as2link.com
@@ -336,6 +342,8 @@
 *$3p,domain=bestbitcoinfaucets.net
 *$3p,domain=bit-url.com
 *$3p,domain=bitcoadz.pw
+*$3p,domain=bitearns.com
+*$3p,domain=bitlinks.pw
 *$3p,domain=bitsfree.net
 *$3p,domain=btc.ms
 *$3p,domain=btc-treats.pw
@@ -354,12 +362,14 @@
 *$3p,domain=coinmads.com
 *$3p,domain=coinmarketwaves.com
 *$3p,domain=cryptofarmer.com
+*$3p,domain=cryptofxflash.com
 *$3p,domain=cuon.io
 *$3p,domain=cuturl.in
 *$3p,domain=decrypt2.safelinkconverter.com
 *$3p,domain=digitask.ru
 *$3p,domain=dogecoins.top
 *$3p,domain=dogecoins.win
+*$3p,domain=dogemate.com
 *$3p,domain=dutchycorp.ovh|dutchycorp.space
 *$3p,domain=earnwithshortlink.com
 *$3p,domain=easyhits4u.com
@@ -416,11 +426,13 @@
 *$3p,domain=traffic2bitcoin.com
 *$3p,domain=trafficadbar.com
 *$3p,domain=uii.io
+*$3p,domain=urle.io
 *$3p,domain=vipshort.com
 *$3p,domain=vivads.net
 *$3p,domain=vivebtc.win
 *$3p,domain=wad.ojooo.com
 *$3p,domain=want2crypto.com
+*$3p,domain=xz2.xyz
 *$3p,domain=yibbida.com
 *$3p,domain=zapme.top
 *$popunder,3p,domain=imgrock.pw
@@ -437,7 +449,7 @@
 *$popup,3p,domain=drakorindofilms.net|inidramaku.com|korenlovers.co
 *$popup,3p,domain=dutchycorp.ovh
 *$popup,3p,domain=imgbaron.com
-*$popup,3p,domain=imgfile.net
+*$popup,3p,domain=imgfile.net|imgsky.net
 *$popup,3p,domain=kabarviral.blog
 *$popup,3p,domain=lewat.club
 *$popup,3p,domain=linktor.io
@@ -447,9 +459,11 @@
 *$popup,3p,domain=picbaron.com
 *$popup,3p,domain=pyrin.org
 *$popup,3p,domain=techcraze.online
+*$popup,3p,domain=urle.io
 *$popup,3p,domain=voxc.org
 *$popup,3p,domain=wad.ojooo.com
 *$popup,3p,domain=wicr.me
+*$popup,3p,domain=xz2.xyz
 *$popup,3p,domain=za.gl
 
 ! ========== / List ==========
@@ -569,12 +583,11 @@
 @@/libs/show_ads.js?v=
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/safelink$domain=detikbintang.blogspot.com|razorlink.us|safelink-49.blogspot.com
-@@/showads.js$domain=heliohost.org
+@@/showads.js$domain=heliohost.org|nawalakarsa.id
 @@/Sites/admin/Scripts/md5.min.js
 @@/themes$domain=iceimg.net|imgfile.net
 @@/themes*js/adsbygoogle.js
 @@/upload^$xmlhttprequest,domain=speedtest.net
-@@/video-slider.js$domain=imgsky.net
 ! ----------------------------------------
 @@159.65.130.32$generichide
 @@1ink.cc$generichide
@@ -598,6 +611,7 @@
 @@api.solvemedia.com
 @@api-secure.solvemedia.com
 @@apis.google.com$domain=easyhits4u.com
+@@app.infinityfree.net/js/ads.js
 @@applixir.com$1p
 @@bercara.com$generichide
 @@bitsfree.net$generichide
@@ -687,6 +701,7 @@
 @@linkbucks.com/scripts/intermissionLink$1p
 @@linkbucks.com/scripts/script-adv.js$1p
 @@linkbucksmedia.com$1p
+@@marocclickers.network$generichide
 @@maxcdn.bootstrapcdn.com
 @@media.net$1p
 @@moremoney.io$generichide
@@ -715,6 +730,8 @@
 @@traffboost.net$1p
 @@unlockapk.com*ads.js
 @@unpkg.com
+@@userscloud.com/assets/library/jquery/jquery.
+@@userscloud.com/js/vendor/core/bootstrap.js
 @@vizury.com$domain=jd.id
 @@vjs.zencdn.net$domain=sendit.cloud
 @@vozdesportiva.com$generichide
@@ -759,232 +776,97 @@
 ##iframe[src*="servlet/redirect.srv"]
 ! Unblock Elements --------------------
 drive.ad4msan.win#@#p
+simply-hentai.com#@#+js(aeld, , [native code])
 cointiply.com#@#.ad-panel
 cointiply.com#@#.adsbox
+cryptofxflash.com#@#.banner-728x90
 drive.ad4msan.win#@#.adsbygoogle
 ptcwall.com#@#.ad-block
 cinemaindo21.org#@##topad
 faucethero.com#@##top-ads
-! -------------------------------------
-000webhostapp.com##+js(noeval-silent)
-10khits.com##+js(set)
-123link.pw##+js(nano-sib)
-1idsly.com##+js(nano-sib)
-247autohits.com##+js(set)
-elsfile.org##+js(aopr, h237)
-elsfile.org##+js(nano-sib)
+! ========== Noeval.js List ==========
+000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,indiamartoffers.com,karimunbits.net,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,nekopoi.*,ownbitcoins.net,platinmods.com,platinmods.download,potcoin-faucet.com,queenfaucet.website,randomsatoshi.win,satoshikingdom.com,satoshilabs.net,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com##+js(noeval-silent)
+
+! ========== Shortlink Disable AdBlock and Counter List ==========
+100count.net,adsbtc.org,bitearns.com,bitlinks.pw,cryptofxflash.com,link-ad.com,urle.io,zapme.top##+js(aopr, app_vars.force_disable_adblock)
+
+100count.net,adsbtc.org,adshort.tech,altilly.com,bercara.com,bitlinks.pw,coinmarketwaves.com,cryptofxflash.com,desserttips.me,dutchycorp.space,ebesucher.com,express-cut.ovh,in11.site,infosehatku.club,lewat.club,link-ad.com,mawataki.com,pantauterus.me,semawur.com,urle.io,wad.ojooo.com,xz2.xyz,zapme.top##+js(set, blurred, false)
+10khits.com,247autohits.com,bitearns.com,manyhit.com##+js(set)
+
+! ========== Make Countdown Faster List ==========
+123link.pw,1idsly.com,a2zp30.com,ad-doge.com,adwerty.com,agoodprofit.ru,anjay.info,bercara.com,bitcoinfaucet.fun,bittube.me,bolaoke.club,closetopic.site,coindice.win,cryptoprofits.in.ua,designmyhomee.com,doge-coin.top,dogecoins.top,duit.cc,dynamicssh.com,elsfile.org,faucet.gold,faucetcrypto.com,faucetwhite.com,forthtrade.com,freebitcoin.vip,freebitcoin.win,fstore.biz,goldenfreesatoshi.ru,goodfaucet.ru,haxhits.com,hexafile.net,hikarinoakariost.info,hokiciki.org,hubcoins.xyz,idsly.*,imgsky.net,in11.site,infosehatku.club,infotrendy.me,jelajahinternet.me,lenov.ru,linkduit.net,luckybits.io,mawataki.com,mediakita.blog,merdekaid.online,muhammadyoga.me,multimining.website,naturalhealthy.xyz,news-tech.xyz,newsjizz.in,ockles.com,oploverzhome.com,ouo.io,pantauterus.me,platinmods.download,semawur.com,sfile.mobi,shortit.pw,siherp.com,speedtest.net,startxchange.com,suarankri.me,technoresults.xyz,treasurebits.net,updatetribun.org,vozdesportiva.com,wadooo.com,wicr.in,wikitrik.com##+js(nano-sib)
+
+xubster.com##+js(nano-stb, , , 0.01)
+! ========== Other ## List ==========
 9files.co,qtfile.com,upfile.mobi##a[href*="onamind.com"]
-a2zp30.com##+js(nano-sib)
 acefile.*##+js(aopr, popjs)
-ad-doge.com##+js(nano-sib)
-ad-doge.com##+js(noeval-silent)
 ad4msan.win##p
-adwerty.com##+js(noeval-silent)
-adwerty.com##+js(nano-sib)
-agoodprofit.ru##+js(nano-sib)
 ahexa.com##h2
-allcoins.pw##+js(noeval-silent)
-altilly.com##+js(set)
-anjay.info##+js(nano-sib)
-autotewas.blogspot.com##+js(noeval-silent)
 awsubs.tv##div.section.widget_text:nth-of-type(2)
-bercara.com##+js(nano-sib)
-bercara.com##+js(set, blurred, false)
 bercara.com##p
-bestbitcoinfaucets.net##+js(noeval-silent)
-bitcoinfaucet.fun##+js(nano-sib)
-bitcoinker.com##+js(noeval-silent)
-bittube.me##+js(nano-sib)
-blockadblock.com##+js(noeval-silent)
-bolaoke.club##+js(nano-sib)
 btc.ms##div.col-md-12:nth-of-type(1)
-btcmines.club##+js(noeval-silent)
-btcnewz.com##+js(noeval-silent)
-claimbits.io##+js(noeval-silent)
 clickbits.io##div.no-margin.no-padding.container-fluid
-clickers.info##+js(noeval-silent)
-closetopic.site##+js(nano-sib)
 closetopic.site##h2
 closetopic.site##h3
 closetopic.site##p
 coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##h2
 coin.mg##div.row:nth-of-type(4)
-coindice.win##+js(noeval-silent)
-coindice.win##+js(nano-sib)
-coinmads.com##+js(noeval-silent)
-coinmarketwaves.com##+js(set, blurred, false)
-coinpou.com##+js(noeval-silent)
-coinrotation.com##+js(noeval-silent)
 cowner.net##+js(adfly-defuser)
-crypto-flash.com##+js(noeval-silent)
-cryptobite.site##+js(noeval-silent)
-cryptofights.com##+js(noeval-silent)
-cryptofun.space##+js(noeval-silent)
-cryptoprofits.in.ua##+js(nano-sib)
 damimage.com##body > div:nth-of-type(5)
-dash-faucet.com##+js(noeval-silent)
-designmyhomee.com##+js(nano-sib)
-desserttips.me##+js(set, blurred, false)
-doge-coin.top##+js(noeval-silent)
-doge-coin.top##+js(nano-sib)
-doge-faucet.com##+js(noeval-silent)
-dogecoins.top##+js(noeval-silent)
-dogecoins.top##+js(nano-sib)
-drive.ad4msan.win##+js(noeval-silent)
-duit.cc##+js(nano-sib)
 dutchycorp.ovh,dutchycorp.space##[id*="ScriptRoot"]
-dutchycorp.ovh,dutchycorp.space##center:nth-of-type(2)
-dutchycorp.ovh,dutchycorp.space##center:nth-of-type(3)
-dutchycorp.ovh,dutchycorp.space##div.hide-on-small-only
-dynamicssh.com##+js(aopr)
-dynamicssh.com##+js(nano-sib)
-ebesucher.com##+js(aopr)
-ebesucher.com##+js(nano-sib, , , 0.625)
-ebesucher.com##+js(set)
-ethereum-faucet.org##+js(noeval-silent)
-expressfaucet.com##+js(noeval-silent)
-faucet.gold##+js(noeval-silent)
-faucet.gold##+js(nano-sib)
-faucetcrypto.com##+js(aopr)
-faucetcrypto.com##+js(nano-sib)
-faucethero.com##+js(noeval-silent)
-faucetwhite.com##+js(noeval-silent)
-faucetwhite.com##+js(nano-sib)
+elsfile.org##+js(aopr, h237)
 faucetworld.in##div.hide-on-med-and-down.l3.col
 filecloud.io##+js(aopr, FuckAdBlock)
-firefaucet.win##+js(noeval-silent)
-forthtrade.com##+js(nano-sib)
-freebitcoin.vip##+js(nano-sib)
-freebitcoin.win##+js(noeval-silent)
-freebitcoin.win##+js(nano-sib)
-fstore.biz##+js(nano-sib)
-goldenfreesatoshi.ru##+js(nano-sib)
-gomentod.com##+js(noeval-silent)
-goodfaucet.ru##+js(nano-sib)
-gr8.cc##+js(noeval-silent)
-grabmylink.xyz##+js(noeval-silent)
-gwei.win##+js(noeval-silent)
-haxhits.com##+js(nano-sib)
 hexafile.net##center > h3
 hexafile.net##center:nth-of-type(2) > center > .row
 hexafile.net##center:nth-of-type(2) > center > div:nth-of-type(1)
 hexafile.net##h2
 hexafile.net##hr
 hexafile.net##p
-hexafile.net##+js(nano-sib)
-hikarinoakariost.info##+js(nano-sib)
-hokiciki.org##+js(nano-sib)
-hubcoins.xyz##+js(nano-sib)
-icucu.icu##+js(noeval-silent)
-idsly.*##+js(nano-sib)
 idzone.site##center
-imgsky.net##+js(nano-sib)
-in11.site,infosehatku.club,semawur.com##+js(nano-sib)
-in11.site,infosehatku.club,semawur.com##+js(set, blurred, false)
 in11.site##figcaption
 in11.site##h1:nth-of-type(n)
 in11.site##h2:nth-of-type(n)
 in11.site##h3:nth-of-type(n)
 in11.site##header
 in11.site##p:nth-of-type(n)
-indiamartoffers.com##+js(noeval-silent)
-infotrendy.me##+js(nano-sib)
-jelajahinternet.me##+js(nano-sib)
 justlikeyojna.com##center:nth-of-type(1) > strong
 kabarviral.blog##center:nth-of-type(2)
-karimunbits.net##+js(noeval-silent)
 kazefuri.web.id##div.section:nth-of-type(3)
-lenov.ru##+js(nano-sib)
-lewat.club##+js(set, blurred, false)
-linkduit.net##+js(nano-sib)
+kvador.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 linkpoi.*##+js(abort-current-inline-script, addEventListener)
 lk21c.fun##table:nth-of-type(3)
-luckybitco.in##+js(noeval-silent)
-luckybits.io##+js(noeval-silent)
-luckybits.io##+js(nano-sib)
-manyhit.com##+js(set)
-mawataki.com##+js(nano-sib)
-mawataki.com##+js(set, blurred, false)
 maxfaucet.com##+js(aopr, FuckAdBlock)
 mediakita.blog##center:nth-of-type(2)
 mediakita.blog##div.col-lg-4:nth-of-type(2) > center
-mediakita.blog##+js(nano-sib)
-melovin.site##+js(noeval-silent)
-merdekaid.online##+js(nano-sib)
-mtofficial.com##+js(noeval-silent)
-muhammadyoga.me##+js(nano-sib)
-multimining.website##+js(nano-sib)
-naturalhealthy.xyz##+js(nano-sib)
-nekopoi.*##+js(noeval-silent)
-news-tech.xyz##+js(nano-sib)
-newsjizz.in##+js(nano-sib)
-ockles.com##+js(nano-sib)
 oploverz.in##s
 oploverz.in##u
-oploverzhome.com##+js(nano-sib)
-ouo.io##+js(nano-sib)
-ownbitcoins.net##+js(noeval-silent)
-pantauterus.me##+js(nano-sib)
-pantauterus.me##+js(set, blurred, false)
 pantauterus.me##figure.wp-block-image
 pantauterus.me##h2:nth-of-type(n)
 picbaron.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
-platinmods.com##+js(noeval-silent)
-platinmods.download##+js(noeval-silent)
-platinmods.download##+js(nano-sib)
-potcoin-faucet.com##+js(noeval-silent)
 premierexxi.*##center
 premierexxi.*##div.extend
 pyrin.org##+js(aopr, FuckAdBlock)
-queenfaucet.website##+js(noeval-silent)
-randomsatoshi.win##+js(noeval-silent)
-satoshikingdom.com##+js(noeval-silent)
-satoshilabs.net##+js(noeval-silent)
 semawur.com##h2:nth-of-type(n)
 semawur.com##h3:nth-of-type(n)
 semawur.com##header
 semawur.com##p:nth-of-type(n)
-sfile.mobi##+js(nano-sib)
 short.awsubs.co##center:nth-of-type(2)
 short.awsubs.co##h1
 short.awsubs.co##hr
 short.awsubs.co##p
-shortit.pw##+js(noeval-silent)
-shortit.pw##+js(nano-sib)
-siherp.com##+js(nano-sib)
-sitowebinfo.com##+js(noeval-silent)
-sivitechno.com##+js(noeval-silent)
 sova.network##+js(aopr, FuckAdBlock)
-speedtest.net##+js(nano-sib)
-speedup-faucet.com##+js(noeval-silent)
 speedup-faucet.com##td:nth-of-type(3) > center:nth-of-type(2)
 speedup-faucet.com##td:nth-of-type(5)
 speedup-faucet.com##tr:nth-of-type(3) > td > table
 speedup-faucet.com##tr:nth-of-type(4) > td > center
 speedup-faucet.com##tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(1) > td
 speedup-faucet.com##tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(2) > td
-starcoins.ws##+js(noeval-silent)
-startxchange.com##+js(nano-sib)
-sturl.pw##+js(noeval-silent)
-suarankri.me##+js(nano-sib)
-technoresults.xyz##+js(nano-sib)
-theseotools.net##+js(noeval-silent)
-topbtc.club##+js(noeval-silent)
-treasurebits.net##+js(nano-sib)
-updatetribun.org##+js(nano-sib)
 voxc.org##h4
 vozdesportiva.com##div.iklan
-vozdesportiva.com##+js(nano-sib)
-wad.ojooo.com##+js(set, blurred, false)
-wadooo.com##+js(nano-sib)
 wadooo.com##ol
-want2crypto.com##+js(noeval-silent)
-weebly.com##+js(noeval-silent)
-wicr.in##+js(nano-sib)
-wikitrik.com##+js(nano-sib)
 wikitrik.com##p:nth-of-type(n)
 xcolander.com##+js(aopr, FuckAdBlock)
-xubster.com##+js(nano-stb, , , 0.01)
 ! -------------------------------------
 ##.__b-popup1__.b-modal
 ##.ablkAlert
@@ -1065,6 +947,7 @@ cu5.io##.col-md-8
 cu5.io##.faq
 cu5.io##.link > .container > .row > .text-center.col-md-12
 cu5.io##.short
+cryptofxflash.com##.banner-inner
 downloadbatch.com##.idblog-topbanner-aftermenu
 dutchycorp.ovh##.row > center:nth-of-type(1)
 gigapurbalingga.net##.code-block-1.code-block
@@ -1171,6 +1054,7 @@ speedtest.net##.notification-container
 speedtest.net##.top-horizontal
 travellinginfos.com##.mh-wrapper
 unlockapk.com##.adsbygoogle
+urle.io##.box-main > .btn-lg.btn-success.btn
 vozdesportiva.com##.ADS
 vozdesportiva.com##.adsbygoogle
 vozdesportiva.com##.isi
@@ -1249,13 +1133,16 @@ closetopic.site###footer-container
 closetopic.site###masthead
 coin.mg###link-view > div:nth-of-type(2)
 coin.mg###link-view > div:nth-of-type(4)
+cryptofxflash.com###tamvan1
 dewafile.com###download
 downloadbatch.com###text-48
 drakorindofilms.tv,inidramaku.com###ouibounce-modal
+dutchycorp.ovh,dutchycorp.space###sad-1
 dutchycorp.space###boxes
 easyhits4u.com###countDown
-faucethero.com###captcha-adspace
-faucethero.com###middle-adspace
+faucethero.com,grabmylink.xyz###captcha-adspace
+faucethero.com,grabmylink.xyz###middle-adspace
+grabmylink.xyz###top_adspace
 healthproper.blogspot.com###adb
 idfl.*###ad_global_below_navbar
 idfl.*###fancybox-overlay
