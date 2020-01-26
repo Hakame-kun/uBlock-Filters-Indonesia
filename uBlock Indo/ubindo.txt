@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 21 January 2019, 13:38:58 WIB
+! Last modified: 26 January 2019, 23:37:08 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -336,10 +336,12 @@
 *$3p,domain=adwerty.com
 *$3p,domain=anjay.info
 *$3p,domain=as2link.com
+*$3p,domain=ashort1a.xyz
 *$3p,domain=automoneysurf.com
 *$3p,domain=basichits4u.com
 *$3p,domain=bercara.com
 *$3p,domain=bestbitcoinfaucets.net
+*$3p,domain=birdurls.com
 *$3p,domain=bit-url.com
 *$3p,domain=bitcoadz.pw
 *$3p,domain=bitearns.com
@@ -351,6 +353,7 @@
 *$3p,domain=btcvic.com
 *$3p,domain=cash4url.com
 *$3p,domain=claimcoin24.com
+*$3p,domain=click2win.xyz
 *$3p,domain=click4bits.com
 *$3p,domain=clickbits.io
 *$3p,domain=clik.pw
@@ -361,9 +364,11 @@
 *$3p,domain=coeg.in
 *$3p,domain=coinmads.com
 *$3p,domain=coinmarketwaves.com
+*$3p,domain=cryptocut.org
 *$3p,domain=cryptofarmer.com
 *$3p,domain=cryptofxflash.com
 *$3p,domain=cuon.io
+*$3p,domain=cute2w.in
 *$3p,domain=cuturl.in
 *$3p,domain=decrypt2.safelinkconverter.com
 *$3p,domain=digitask.ru
@@ -374,6 +379,7 @@
 *$3p,domain=earnwithshortlink.com
 *$3p,domain=easyhits4u.com
 *$3p,domain=ebesucher.com
+*$3p,domain=emcsautoexpress.com
 *$3p,domain=exc.10khits.com
 *$3p,domain=faucetfly.com
 *$3p,domain=faucethero.com
@@ -381,10 +387,15 @@
 *$3p,domain=faucetwhite.com
 *$3p,domain=firefaucet.win
 *$3p,domain=forumcoin.win
+*$3p,domain=ganarpastafacil.com
+*$3p,domain=gelas.casa
+*$3p,domain=getfreedoge.com
+*$3p,domain=grabmylink.xyz
 *$3p,domain=gram.im
 *$3p,domain=greget.space
 *$3p,domain=hit4hit.org
 *$3p,domain=hubcoins.xyz
+*$3p,domain=icucu.icu
 *$3p,domain=in11.site|infosehatku.club|semawur.com
 *$3p,domain=infinitytrafficboost.com
 *$3p,domain=iceimg.net|imgfile.net
@@ -407,6 +418,7 @@
 *$3p,domain=neobux.com
 *$3p,domain=ouo.io
 *$3p,domain=ownbitcoins.net
+*$3p,domain=owllink.net
 *$3p,domain=paid4link.xyz
 *$3p,domain=pantsu.cat
 *$3p,domain=ptc.cointiply.com
@@ -414,6 +426,8 @@
 *$3p,domain=queenfaucet.website
 *$3p,domain=randomsatoshi.win
 *$3p,domain=sendit.cloud
+*$3p,domain=sharelink.club
+*$3p,domain=shortbitsfree.net
 *$3p,domain=shrink.icu
 *$3p,domain=siherp.com
 *$3p,domain=siotong.com
@@ -427,6 +441,7 @@
 *$3p,domain=trafficadbar.com
 *$3p,domain=uii.io
 *$3p,domain=urle.io
+*$3p,domain=ventax.net
 *$3p,domain=vipshort.com
 *$3p,domain=vivads.net
 *$3p,domain=vivebtc.win
@@ -435,10 +450,14 @@
 *$3p,domain=xz2.xyz
 *$3p,domain=yibbida.com
 *$3p,domain=zapme.top
+*$popunder,3p,domain=100count.net
 *$popunder,3p,domain=imgrock.pw
+*$popunder,3p,domain=mm1.ink
 *$popunder,3p,domain=pyrin.org
 *$popunder,3p,domain=wad.ojooo.com
+*$popup,3p,domain=100count.net
 *$popup,3p,domain=adpop.me
+*$popup,3p,domain=ashort1a.xyz
 *$popup,3p,domain=bit-url.com
 *$popup,3p,domain=bitcoadz.pw
 *$popup,3p,domain=btcleets.xyz
@@ -656,6 +675,7 @@
 @@dc4in.com$generichide
 @@disingkat.in/js/advertisement.js$script,1p
 @@doge-bitsfree.net$generichide
+@@dogemate.com$generichide
 @@drive.ad4msan.win$generichide
 @@drive.google.com/thumbnail$domain=acefile.co
 @@dutchycorp.ovh$generichide
@@ -673,6 +693,7 @@
 @@freebitcoin.vip$generichide
 @@freebtcn.win$generichide
 @@freevpn.us$generichide
+@@frogsfaucet.site$1p
 @@gamehouse.com$1p
 @@ganzoffen.de
 @@google-analytics.
@@ -706,6 +727,7 @@
 @@media.net$1p
 @@moremoney.io$generichide
 @@neobux.com$1p
+@@ouo.io/css/bootstrap.css
 @@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 @@popads.net$1p
 @@popunder.net$1p
@@ -717,6 +739,7 @@
 @@recaptcha.net
 @@satoshisera.com$generichide
 @@semawur.com$generichide
+@@seo-stat.info$generichide
 @@sharethis.com$1p
 @@shorte.st$1p
 @@stackpath.bootstrapcdn.com/bootstrap
@@ -784,19 +807,27 @@ drive.ad4msan.win#@#.adsbygoogle
 ptcwall.com#@#.ad-block
 cinemaindo21.org#@##topad
 faucethero.com#@##top-ads
-! ========== Noeval.js List ==========
-000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,indiamartoffers.com,karimunbits.net,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,nekopoi.*,ownbitcoins.net,platinmods.com,platinmods.download,potcoin-faucet.com,queenfaucet.website,randomsatoshi.win,satoshikingdom.com,satoshilabs.net,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com##+js(noeval-silent)
 
-! ========== Shortlink Disable AdBlock and Counter List ==========
-100count.net,adsbtc.org,bitearns.com,bitlinks.pw,cryptofxflash.com,link-ad.com,urle.io,zapme.top##+js(aopr, app_vars.force_disable_adblock)
+! ========== blockAdBlock & AdBlockDetected List ==========
+freebitcoin.vip##+js(aopr, adBlockDetected)
 
-100count.net,adsbtc.org,adshort.tech,altilly.com,bercara.com,bitlinks.pw,coinmarketwaves.com,cryptofxflash.com,desserttips.me,dutchycorp.space,ebesucher.com,express-cut.ovh,in11.site,infosehatku.club,lewat.club,link-ad.com,mawataki.com,pantauterus.me,semawur.com,urle.io,wad.ojooo.com,xz2.xyz,zapme.top##+js(set, blurred, false)
+000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,indiamartoffers.com,karimunbits.net,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,nekopoi.*,ownbitcoins.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com##+js(nobab)
+
+! ========== Iframe & Annoying Ads List ==========
+birdurls.com##[href*="/go."]
+
+! ========== Shortlink Bypass Force Disable AdBlock and Count the Timer List ==========
+100count.net,adsbtc.org,ashort1a.xyz,bitearns.com,bitlinks.pw,cryptobite.site,cryptocut.org,cryptofxflash.com,cute2w.in,ganarpastafacil.com,grabmylink.xyz,link-ad.com,urle.io,zapme.top##+js(aopr, app_vars.force_disable_adblock)
+
+100count.net,ac-mo.com,adsbtc.org,adshort.tech,ashort1a.xyz,altilly.com,bercara.com,birdurls.com,bitearns.com,bitlinks.pw,btcleets.xyz,coinmarketwaves.com,cryptocut.org,cryptofxflash.com,cute2w.in,desserttips.me,dutchycorp.space,ebesucher.com,express-cut.ovh,fc.lc,ganarpastafacil.com,grabmylink.xyz,in11.site,infosehatku.club,lewat.club,link-ad.com,mawataki.com,mm1.ink,oko.sh,owllink.net,pantauterus.me,semawur.com,shrtwin.com,techsapparel.com,urle.io,ventax.net,voxc.org,wad.ojooo.com,wealthh.xyz,xz2.xyz,zapme.top##+js(set, blurred, false)
+
 10khits.com,247autohits.com,bitearns.com,manyhit.com##+js(set)
 
 ! ========== Make Countdown Faster List ==========
-123link.pw,1idsly.com,a2zp30.com,ad-doge.com,adwerty.com,agoodprofit.ru,anjay.info,bercara.com,bitcoinfaucet.fun,bittube.me,bolaoke.club,closetopic.site,coindice.win,cryptoprofits.in.ua,designmyhomee.com,doge-coin.top,dogecoins.top,duit.cc,dynamicssh.com,elsfile.org,faucet.gold,faucetcrypto.com,faucetwhite.com,forthtrade.com,freebitcoin.vip,freebitcoin.win,fstore.biz,goldenfreesatoshi.ru,goodfaucet.ru,haxhits.com,hexafile.net,hikarinoakariost.info,hokiciki.org,hubcoins.xyz,idsly.*,imgsky.net,in11.site,infosehatku.club,infotrendy.me,jelajahinternet.me,lenov.ru,linkduit.net,luckybits.io,mawataki.com,mediakita.blog,merdekaid.online,muhammadyoga.me,multimining.website,naturalhealthy.xyz,news-tech.xyz,newsjizz.in,ockles.com,oploverzhome.com,ouo.io,pantauterus.me,platinmods.download,semawur.com,sfile.mobi,shortit.pw,siherp.com,speedtest.net,startxchange.com,suarankri.me,technoresults.xyz,treasurebits.net,updatetribun.org,vozdesportiva.com,wadooo.com,wicr.in,wikitrik.com##+js(nano-sib)
+123link.pw,1idsly.com,a2zp30.com,ad-doge.com,adwerty.com,agoodprofit.ru,bercara.com,bitcoinfaucet.fun,bittube.me,bolaoke.club,closetopic.site,coindice.win,cryptoprofits.in.ua,designmyhomee.com,doge-coin.top,dogecoins.top,duit.cc,dynamicssh.com,elsfile.org,faucet.gold,faucetcrypto.com,faucetwhite.com,forthtrade.com,freebitcoin.vip,freebitcoin.win,fstore.biz,goldenfreesatoshi.ru,goodfaucet.ru,haxhits.com,hexafile.net,hikarinoakariost.info,hokiciki.org,hubcoins.xyz,idsly.*,imgsky.net,in11.site,infosehatku.club,infotrendy.me,jelajahinternet.me,lenov.ru,linkduit.net,luckybits.io,mawataki.com,mediakita.blog,merdekaid.online,muhammadyoga.me,multimining.website,naturalhealthy.xyz,news-tech.xyz,newsjizz.in,ockles.com,oploverzhome.com,ouo.io,pantauterus.me,platinmods.download,semawur.com,sfile.mobi,shortit.pw,speedtest.net,startxchange.com,suarankri.me,technoresults.xyz,treasurebits.net,updatetribun.org,vozdesportiva.com,wadooo.com,wicr.in,wikitrik.com##+js(nano-sib)
 
 xubster.com##+js(nano-stb, , , 0.01)
+
 ! ========== Other ## List ==========
 9files.co,qtfile.com,upfile.mobi##a[href*="onamind.com"]
 acefile.*##+js(aopr, popjs)
@@ -804,16 +835,17 @@ ad4msan.win##p
 ahexa.com##h2
 awsubs.tv##div.section.widget_text:nth-of-type(2)
 bercara.com##p
+birdurls.com,bitearns.com,btcleets.xyz,dutchycorp.ovh,dutchycorp.space,mm1.ink,seo-stat.info,urle.io##[id*="ScriptRoot"]
 btc.ms##div.col-md-12:nth-of-type(1)
+bucin.net,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##h2
+bucin.net##p
 clickbits.io##div.no-margin.no-padding.container-fluid
 closetopic.site##h2
 closetopic.site##h3
 closetopic.site##p
-coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##h2
 coin.mg##div.row:nth-of-type(4)
 cowner.net##+js(adfly-defuser)
 damimage.com##body > div:nth-of-type(5)
-dutchycorp.ovh,dutchycorp.space##[id*="ScriptRoot"]
 elsfile.org##+js(aopr, h237)
 faucetworld.in##div.hide-on-med-and-down.l3.col
 filecloud.io##+js(aopr, FuckAdBlock)
@@ -928,10 +960,12 @@ bercara.com##.mtb-15.list-li-mr-20
 bestbitcoinfaucets.net##.modal-body > center
 bolaoke.club##.mh-wrapper
 btcleets.xyz,coin.mg,techcraze.online##.banner-captcha.banner
+bucin.net,coeg.in,siherp.com,siotong.com,telondasmu.com##.c-message > div:nth-of-type(1)
+bucin.net,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##.disclaimer
 ceklink.co##.banner-captcha.banner
 ceklink.co##.blog-item
 citpekalongan.com##.section.header-right
-clk.ink##.banner-inner
+clk.ink,cute2w.in##.banner-inner
 closetopic.site##.byline
 closetopic.site##.entry-content-single.entry-content > div:nth-of-type(2)
 closetopic.site##.entry-footer
@@ -939,8 +973,6 @@ closetopic.site##.entry-title
 closetopic.site##.idblog-core.idblog-related-post
 closetopic.site##.idblog-social-share
 closetopic.site##.posted-on
-coeg.in,siherp.com,siotong.com,telondasmu.com##.c-message > div:nth-of-type(1)
-coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##.disclaimer
 coin.mg##.box-main > center
 cointiply.com##.fl-ad-left
 cu5.io##.col-md-8
@@ -1031,7 +1063,6 @@ pantauterus.me##.wrapper-sticky
 pirate-bay.net##.modal
 pirate-bay.net##.sidebar-vpn
 premierexxi.*##.wpb-outer-wrap
-queenfaucet.website##.modal
 reevown.com##.adsbygoogle
 samehadaku.tv##.keyw
 samehadaku.tv##.share-links
@@ -1133,6 +1164,8 @@ closetopic.site###footer-container
 closetopic.site###masthead
 coin.mg###link-view > div:nth-of-type(2)
 coin.mg###link-view > div:nth-of-type(4)
+cryptobite.site,faucethero.com,grabmylink.xyz,topbtc.club###captcha-adspace
+cryptobite.site,faucethero.com,grabmylink.xyz,topbtc.club###middle-adspace
 cryptofxflash.com###tamvan1
 dewafile.com###download
 downloadbatch.com###text-48
@@ -1140,8 +1173,6 @@ drakorindofilms.tv,inidramaku.com###ouibounce-modal
 dutchycorp.ovh,dutchycorp.space###sad-1
 dutchycorp.space###boxes
 easyhits4u.com###countDown
-faucethero.com,grabmylink.xyz###captcha-adspace
-faucethero.com,grabmylink.xyz###middle-adspace
 grabmylink.xyz###top_adspace
 healthproper.blogspot.com###adb
 idfl.*###ad_global_below_navbar
