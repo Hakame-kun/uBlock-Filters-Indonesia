@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 26 January 2019, 23:37:08 WIB
+! Last modified: 28 January 2019, 23:42:12 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -824,7 +824,7 @@ birdurls.com##[href*="/go."]
 10khits.com,247autohits.com,bitearns.com,manyhit.com##+js(set)
 
 ! ========== Make Countdown Faster List ==========
-123link.pw,1idsly.com,a2zp30.com,ad-doge.com,adwerty.com,agoodprofit.ru,bercara.com,bitcoinfaucet.fun,bittube.me,bolaoke.club,closetopic.site,coindice.win,cryptoprofits.in.ua,designmyhomee.com,doge-coin.top,dogecoins.top,duit.cc,dynamicssh.com,elsfile.org,faucet.gold,faucetcrypto.com,faucetwhite.com,forthtrade.com,freebitcoin.vip,freebitcoin.win,fstore.biz,goldenfreesatoshi.ru,goodfaucet.ru,haxhits.com,hexafile.net,hikarinoakariost.info,hokiciki.org,hubcoins.xyz,idsly.*,imgsky.net,in11.site,infosehatku.club,infotrendy.me,jelajahinternet.me,lenov.ru,linkduit.net,luckybits.io,mawataki.com,mediakita.blog,merdekaid.online,muhammadyoga.me,multimining.website,naturalhealthy.xyz,news-tech.xyz,newsjizz.in,ockles.com,oploverzhome.com,ouo.io,pantauterus.me,platinmods.download,semawur.com,sfile.mobi,shortit.pw,speedtest.net,startxchange.com,suarankri.me,technoresults.xyz,treasurebits.net,updatetribun.org,vozdesportiva.com,wadooo.com,wicr.in,wikitrik.com##+js(nano-sib)
+123link.pw,1idsly.com,a2zp30.com,ad-doge.com,adwerty.com,agoodprofit.ru,anjay.info,bercara.com,bitcoinfaucet.fun,bittube.me,bolaoke.club,closetopic.site,coindice.win,cryptoprofits.in.ua,designmyhomee.com,doge-coin.top,dogecoins.top,duit.cc,dynamicssh.com,elsfile.org,faucet.gold,faucetcrypto.com,faucetwhite.com,forthtrade.com,freebitcoin.vip,freebitcoin.win,fstore.biz,goldenfreesatoshi.ru,goodfaucet.ru,haxhits.com,hexafile.net,hikarinoakariost.info,hokiciki.org,hubcoins.xyz,idsly.*,imgsky.net,in11.site,infosehatku.club,infotrendy.me,jelajahinternet.me,lenov.ru,linkduit.net,luckybits.io,mawataki.com,mediakita.blog,merdekaid.online,muhammadyoga.me,multimining.website,naturalhealthy.xyz,news-tech.xyz,newsjizz.in,ockles.com,oploverzhome.com,ouo.io,pantauterus.me,platinmods.download,semawur.com,sfile.mobi,shortit.pw,speedtest.net,startxchange.com,suarankri.me,technoresults.xyz,treasurebits.net,updatetribun.org,vozdesportiva.com,wadooo.com,wicr.in,wikitrik.com##+js(nano-sib)
 
 xubster.com##+js(nano-stb, , , 0.01)
 
