@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 28 January 2019, 23:42:12 WIB
+! Last modified: 02 February 2020, 16:30:10 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -59,7 +59,7 @@
 ||bonusbitcoin.co$3p
 ||boudja.com$3p
 ||bp.blogspot.com$3p,domain=drakorindo.cc|elsfile.org
-||bp.blogspot.com*gif$3p,domain=acefile.co|aceservice.club|awsubs.tv|cinemakv21.com|drakorindofilms.tv|inidramaku.com|juragan-anime.net|kawanfilm21.online|komiku.net|korenlovers.co|lebahmovie.com|lk21id.com|neonime.org|netnot21.com|oujanime.com|senimovie.co|treasurebits.net
+||bp.blogspot.com*gif$3p,domain=acefile.co|aceservice.club|awsubstv.com|cinemakv21.com|drakorindofilms.tv|inidramaku.com|juragan-anime.net|kawanfilm21.online|komiku.net|korenlovers.co|lebahmovie.com|lk21id.com|neonime.org|netnot21.com|oujanime.com|senimovie.co|treasurebits.net
 ||brainbux.com$3p
 ||btcmedia.co$3p
 ||bucket.id*gif$3p,domain=idfl.me
@@ -164,7 +164,7 @@
 ||hibids10.com$3p
 ||hitcpm.com$popunder
 ||hitcpm.com$popup,3p
-||i.imgur.com$3p,domain=acefile.co|aceservice.club|awsubs.tv|bitcolife.ru|dunia21.men|mangaindo.net|nanime.tv|treasurebits.net
+||i.imgur.com$3p,domain=acefile.co|aceservice.club|awsubstv.com|bitcolife.ru|dunia21.men|mangaindo.net|nanime.tv|treasurebits.net
 ||ibb.co*gif$domain=idfl.me|kazefuri.web.id|ojooo.com
 ||idfl.*/fancy
 ||idsly.com$3p
@@ -269,6 +269,7 @@
 ||shelljacket.us$3p
 ||shenqiniao.com$3p
 ||shiftexten.com
+||shitiphu.com
 ||shortit.pw/out.php?w=$popup
 ||sillyscrew.com$3p
 ||smartphoneslist.com$popunder
@@ -314,7 +315,7 @@
 ||wi.cr/bn.png$image
 ||wistia.com$3p
 ||wp.com*gif$domain=idxxi.top|lebahmovie.com|nonton.drakor-id.com|pusatfilm21.com
-||wp.com*gif$important,domain=awsubs.tv
+||wp.com*gif$important,domain=awsubstv.com
 ||x.kinja-static.com/assets/packaged-js/dollars.
 ||y-image.com$3p
 ||yhig.info$3p
@@ -613,7 +614,7 @@
 @@1ink.cc/api/pass.php
 @@1ink.cc/includes/ajax/jquery.js
 @@a-ads.com$1p
-@@acefile.co$domain=awsubs.tv
+@@acefile.co$domain=awsubstv.com
 @@aceservice.club$domain=acefile.co
 @@ad-doge.com/viewad
 @@ad4msan.com$generichide
@@ -637,9 +638,9 @@
 @@bitsroll.com$generichide
 @@blitzcoiner.com$generichide
 @@blockadblock.com/js/colorpicker$1p
-@@bolaoke.club$popup,domain=awsubs.tv
+@@bolaoke.club$popup,domain=awsubstv.com
 @@bootstrapcdn.com
-@@bp.blogspot.com*png$domain=awsubs.tv|kuyhaa.me
+@@bp.blogspot.com*png$domain=awsubstv.com|kuyhaa.me
 @@btcsafari.com$generichide
 @@cashcrate.com$1p
 @@cdn.datatables.net
@@ -762,9 +763,11 @@
 @@wegner.tech$generichide
 @@wicr.in$generichide
 @@wl.jd.com
-@@wp.com$domain=awsubs.tv
+@@wp.com$domain=awsubstv.com
 @@www.w3schools.com*css
 @@yllix.com$1p
+@@zdassets.com
+@@zendesk.com
 @@zippyshare.com$generichide
 
 ! ========== Custom List ==========
@@ -833,9 +836,9 @@ xubster.com##+js(nano-stb, , , 0.01)
 acefile.*##+js(aopr, popjs)
 ad4msan.win##p
 ahexa.com##h2
-awsubs.tv##div.section.widget_text:nth-of-type(2)
+awsubstv.com##div.section.widget_text:nth-of-type(2)
 bercara.com##p
-birdurls.com,bitearns.com,btcleets.xyz,dutchycorp.ovh,dutchycorp.space,mm1.ink,seo-stat.info,urle.io##[id*="ScriptRoot"]
+birdurls.com,bitearns.com,btcleets.xyz,dutchycorp.ovh,dutchycorp.space,mm1.ink,urle.io##[id*="ScriptRoot"]
 btc.ms##div.col-md-12:nth-of-type(1)
 bucin.net,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##h2
 bucin.net##p
@@ -944,11 +947,11 @@ anjay.info##.mh-copyright-wrap
 anjay.info##.mh-header
 anjay.info##.mh-preheader
 anjay.info##.mh-subheader
-awsubs.tv##.fb-comments
-awsubs.tv##.fb_iframe_widget.fb-like
-awsubs.tv##.kln
-awsubs.tv##.minipusat
-awsubs.tv##.pusat728
+awsubstv.com##.fb-comments
+awsubstv.com##.fb_iframe_widget.fb-like
+awsubstv.com##.kln
+awsubstv.com##.minipusat
+awsubstv.com##.pusat728
 batch.id##.klan300
 bercara.com##.adsbygoogle
 bercara.com##.col-lg-8.col-md-12 > div:nth-of-type(1)
@@ -1151,8 +1154,8 @@ ad4msan.win###masthead
 ad4msan.win###secondary
 adsafelink.net###cookie-pop
 androidrepublic.org###siropuChat
-awsubs.tv###floatcenter
-awsubs.tv###overplay
+awsubstv.com###floatcenter
+awsubstv.com###overplay
 bestbitcoinfaucets.net,want2crypto.com###Floater-Left-3
 bestbitcoinfaucets.net,want2crypto.com###Floater-Middle-3
 bestbitcoinfaucets.net,want2crypto.com###Floater-Right-3
