@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 24 February 2020, 23:29:34 WIB
+! Last modified: 25 February 2020, 19:10:35 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -278,6 +278,8 @@
 ||shiftexten.com
 ||shitiphu.com
 ||shortit.pw/out.php?w=$popup
+||shortpixel.ai*gif$3p
+||sibautomation.com$3p
 ||sillyscrew.com$3p
 ||smartphoneslist.com$popunder
 ||smartphoneslist.com$popup,3p
@@ -832,7 +834,7 @@ faucethero.com#@##top-ads
 ! ========== blockAdBlock & AdBlockDetected List ==========
 freebitcoin.vip##+js(aopr, adBlockDetected)
 
-000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,indiamartoffers.com,karimunbits.net,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,nekopoi.*,ownbitcoins.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com##+js(nobab)
+000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,indiamartoffers.com,karimunbits.net,kiminime.com,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,nekopoi.*,ownbitcoins.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com##+js(nobab)
 
 ! ========== Iframe & Annoying Ads List ==========
 birdurls.com##[href*="9eb10b7a3d04a.com"]
@@ -904,10 +906,6 @@ picbaron.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 premierexxi.*##center
 premierexxi.*##div.extend
 pyrin.org##+js(aopr, FuckAdBlock)
-semawur.com##h2:nth-of-type(n)
-semawur.com##h3:nth-of-type(n)
-semawur.com##header
-semawur.com##p:nth-of-type(n)
 short.awsubs.co##center:nth-of-type(2)
 short.awsubs.co##h1
 short.awsubs.co##hr
@@ -1091,13 +1089,6 @@ premierexxi.*##.wpb-outer-wrap
 reevown.com##.adsbygoogle
 samehadaku.tv##.keyw
 samehadaku.tv##.share-links
-semawur.com##.adsbygoogle
-semawur.com##.col-lg-8.col-md-12 > div:nth-of-type(1)
-semawur.com##.col-md-6
-semawur.com##.color-ccc
-semawur.com##.float-left-right
-semawur.com##.mt-30
-semawur.com##.mtb-15.list-li-mr-20
 senimovie.co##.header-top-banner
 senimovie.co##.rsABlock
 siherp.com##.c-message > div:nth-of-type(2)
