@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 25 February 2020, 19:10:35 WIB
+! Last modified: 27 February 2020, 15:31:22 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -403,6 +403,7 @@
 *$3p,domain=forumcoin.win
 *$3p,domain=ganarpastafacil.com
 *$3p,domain=gelas.casa
+*$3p,domain=get4link.xyz|p4link.com|paid4link.xyz
 *$3p,domain=getfreedoge.com
 *$3p,domain=getpronews.com
 *$3p,domain=gpmojo.co
@@ -437,7 +438,6 @@
 *$3p,domain=ouo.io
 *$3p,domain=ownbitcoins.net
 *$3p,domain=owllink.net
-*$3p,domain=paid4link.xyz
 *$3p,domain=pantsu.cat
 *$3p,domain=pingit.im
 *$3p,domain=ptc.cointiply.com
@@ -487,14 +487,13 @@
 *$popup,3p,domain=desserttips.me
 *$popup,3p,domain=drakorindofilms.net|inidramaku.com|korenlovers.co
 *$popup,3p,domain=dutchycorp.ovh
+*$popup,3p,domain=get4link.xyz|p4link.com|paid4link.xyz
 *$popup,3p,domain=imgbaron.com
 *$popup,3p,domain=imgfile.net|imgsky.net
 *$popup,3p,domain=kabarviral.blog
 *$popup,3p,domain=lewat.club
 *$popup,3p,domain=linktor.io
 *$popup,3p,domain=ouo.io
-*$popup,3p,domain=p4link.com
-*$popup,3p,domain=paid4link.xyz
 *$popup,3p,domain=picbaron.com
 *$popup,3p,domain=pyrin.org
 *$popup,3p,domain=techcraze.online
@@ -843,7 +842,7 @@ birdurls.com##body > div:nth-of-type(4)
 ! ========== Shortlink Bypass Force Disable AdBlock and Count the Timer List ==========
 100count.net,4cash.me,adsbtc.org,ashort1a.xyz,bitconews.net,bitearns.com,bitlinks.pw,cashurl.in,cryptobite.site,cryptcoin.online,cryptocut.org,cryptofxflash.com,cute2w.in,ganarpastafacil.com,getpronews.com,gpmojo.co,grabmylink.xyz,link-ad.com,urle.io,vipshort.com,zapme.top##+js(aopr, app_vars.force_disable_adblock)
 
-100count.net,4cash.me,ac-mo.com,adsbtc.org,adshort.tech,adsrt.org,ashort1a.xyz,altilly.com,bercara.com,birdurls.com,bitconews.net,bitearns.com,bitlinks.pw,btcleets.xyz,cashurl.in,coinmarketwaves.com,cryptcoin.online,cryptocut.org,cryptofxflash.com,cute2w.in,desserttips.me,dutchycorp.space,ebesucher.com,exe.io,express-cut.ovh,fc.lc,ganarpastafacil.com,getpronews.com,gpmojo.co,grabmylink.xyz,in11.site,infosehatku.club,lewat.club,link-ad.com,mawataki.com,mm1.ink,newwaysurf.com,oko.sh,owllink.net,pantauterus.me,pingit.im,semawur.com,shrtwin.com,techsapparel.com,topadnetworks.net,urle.io,ventax.net,vipshort.com,voxc.org,wad.ojooo.com,wealthh.xyz,xz2.xyz,zapme.top##+js(set, blurred, false)
+100count.net,4cash.me,ac-mo.com,adsbtc.org,adshort.tech,adsrt.org,ashort1a.xyz,altilly.com,bercara.com,birdurls.com,bitconews.net,bitearns.com,bitlinks.pw,btcleets.xyz,cashurl.in,coinmarketwaves.com,cryptcoin.online,cryptocut.org,cryptofxflash.com,cute2w.in,desserttips.me,dutchycorp.space,ebesucher.com,exe.io,express-cut.ovh,fc.lc,ganarpastafacil.com,get4link.xyz,getpronews.com,gpmojo.co,grabmylink.xyz,in11.site,infosehatku.club,lewat.club,link-ad.com,mawataki.com,mm1.ink,newwaysurf.com,oko.sh,owllink.net,pantauterus.me,pingit.im,semawur.com,shrtwin.com,techsapparel.com,topadnetworks.net,urle.io,ventax.net,vipshort.com,voxc.org,wad.ojooo.com,wealthh.xyz,xz2.xyz,zapme.top##+js(set, blurred, false)
 
 10khits.com,247autohits.com,bitearns.com,manyhit.com##+js(set)
 
