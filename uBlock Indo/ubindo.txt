@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 14 April 2020, 19:21:27 WIB
+! Last modified: 14 April 2020, 19:49:53 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -40,6 +40,7 @@
 ||androidrepublic.org/js/siropu/chat
 ||anibatch.me*gif
 ||animebatch.web.id*gif
+||animelist.pw$inline-script
 ||app.pegel.pw/wp-content/uploads
 ||apps.drakor.id/images/yu/2.jpg
 ||arenabetting.cc$3p
