@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 14 April 2020, 19:49:53 WIB
+! Last modified: 12 May 2020, 15:12:32 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -88,6 +88,7 @@
 ||coinverti.com$3p
 ||coinzillatag.com$3p
 ||conan.id*gif
+||consensu.org$3p
 ||consolebackup.com$3p
 ||consoletarget.com$3p
 ||contextbar.ru$3p
@@ -129,6 +130,7 @@
 ||emeraldbux.com$3p
 ||enrilov.info$3p
 ||evidon.com$3p
+||exe.io$3p
 ||eyeota.net$3p
 ||facebook.com$3p,domain=gimmemore.com|quizdelivery.com|quizriddle.com|videoquizhero.com
 ||facebook.net$3p,domain=gimmemore.com|quizdelivery.com|quizriddle.com|videoquizhero.com
@@ -186,7 +188,6 @@
 ||img.kotak*casa*gif
 ||img.topddl.net*gif$3p
 ||imgadult.com/ea
-||imgfile.net/shrinker/js/jquery.min.js
 ||imgfile.net/vip
 ||imgsky.net/shrinker/js/xeloa.js
 ||impactify.io$3p
@@ -294,6 +295,7 @@
 ||smartphoneslist.com$popunder
 ||smartphoneslist.com$popup,3p
 ||sparechange.io$3p
+||steadfastsystem.com$3p
 ||stream-me.com
 ||tagbucket.cc$3p
 ||talysu.info$3p
@@ -460,6 +462,7 @@
 *$3p,domain=ptcwall.com
 *$3p,domain=queenfaucet.website
 *$3p,domain=randomsatoshi.win
+*$3p,domain=semawur.com
 *$3p,domain=sendit.cloud
 *$3p,domain=sharelink.club
 *$3p,domain=shortbitsfree.net
@@ -560,6 +563,7 @@
 /jserror?
 /JuraganFinal/images/300ads.
 /JuraganFinal/images/hads.
+/jquery$script,domain=anichin.my.id|imgfile.net
 /keremiyav4/js/lockscript.js
 /kita/busa.php
 /layarkaca21/js/lk21ads.js
@@ -658,6 +662,7 @@
 @@ad4msan.com$generichide
 @@ad4msan.win$generichide
 @@adcash.com$1p
+@@addthis.com$1p
 @@adf.ly/js/display.js
 @@adf.ly/*.php$popup
 @@adfoc.us$1p
@@ -674,6 +679,7 @@
 @@applixir.com$1p
 @@bercara.com$generichide
 @@bitsfree.net$generichide
+@@dogemate.com$domain=bitlinks.pw
 @@bitmedia.io$1p
 @@bitsroll.com$generichide
 @@blitzcoiner.com$generichide
@@ -705,6 +711,7 @@
 @@code.jquery.com
 @@coinmarketcap.com$domain=bytecoin.money|miningpoolstats.stream
 @@cointiply.com$generichide
+@@cointiply.com/img/partners
 @@content.jwplatform.com$domain=acefile.co
 @@conversantmedia.com$1p
 @@cowner.net$generichide
@@ -738,7 +745,6 @@
 @@gamehouse.com$1p
 @@ganzoffen.de
 @@googleapis.com/drive$domain=acefile.co
-@@googletagmanager.com
 @@googleusercontent.com$domain=acefile.co
 @@googleusercontent.com$image,domain=a2zapk.com
 @@grabmylink.xyz$generichide
@@ -848,19 +854,23 @@
 ##iframe[src*="servlet/redirect.srv"]
 ! Unblock Elements --------------------
 drive.ad4msan.win#@#p
+
+semawur.com#@#+js(aopr, open)
 simply-hentai.com#@#+js(aeld, , [native code])
+
 aospextended.com,drive.ad4msan.win,redv.co#@#.adsbygoogle
 cointiply.com#@#.ad-panel
 cointiply.com#@#.adsbox
 cryptofxflash.com#@#.banner-728x90
 ptcwall.com#@#.ad-block
+
 cinemaindo21.org#@##topad
 faucethero.com#@##top-ads
 
 ! ========== blockAdBlock & AdBlockDetected List ==========
 freebitcoin.vip##+js(aopr, adBlockDetected)
 
-000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,indiamartoffers.com,karimunbits.net,kiminime.com,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,nekopoi.*,ownbitcoins.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com##+js(nobab)
+000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,indiamartoffers.com,karimunbits.net,kiminime.com,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,nekopoi.*,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com##+js(nobab)
 
 ! ========== Iframe & Annoying Ads List ==========
 birdurls.com##[href*="9eb10b7a3d04a.com"]
@@ -1009,7 +1019,7 @@ awsubstv.com##.minipusat
 awsubstv.com##.pusat728
 batch.id##.klan300
 beermoneyforum.com##.samBackgroundItem
-bercara.com##.adsbygoogle
+bercara.com,semawur.com##.adsbygoogle
 bercara.com##.col-lg-8.col-md-12 > div:nth-of-type(1)
 bercara.com##.col-md-6
 bercara.com##.color-ccc
@@ -1213,6 +1223,7 @@ zonawibu.cc##.infopost
 a-ads.com###news_feed
 ad4msan.win###masthead
 ad4msan.win###secondary
+adf.ly###cookie_notice
 adsafelink.net###cookie-pop
 androidrepublic.org###siropuChat
 awsubstv.com###floatcenter
