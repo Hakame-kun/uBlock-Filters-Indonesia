@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 12 May 2020, 15:34:27 WIB
+! Last modified: 12 May 2020, 15:37:02 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -62,7 +62,7 @@
 ||bolaoke.club/wp-content/uploads*.jpg
 ||bonusbitcoin.co$3p
 ||boudja.com$3p
-||bp.blogspot.com$3p,domain=drakorindo.cc|elsfile.org|kazefuri.me
+||bp.blogspot.com$3p,domain=drakorindo.cc|elsfile.org|kazefuri.me|samehadaku.vip
 ||bp.blogspot.com*gif$3p,domain=acefile.co|aceservice.club|awsubstv.com|cinemakv21.com|drakorindofilms.tv|inidramaku.com|juragan-anime.net|kawanfilm21.online|komiku.net|korenlovers.co|lebahmovie.com|lk21id.com|neonime.org|netnot21.com|oujanime.com|senimovie.co|treasurebits.net
 ||brainbux.com$3p
 ||btcmedia.co$3p
@@ -462,7 +462,6 @@
 *$3p,domain=ptcwall.com
 *$3p,domain=queenfaucet.website
 *$3p,domain=randomsatoshi.win
-*$3p,domain=samehadaku.vip
 *$3p,domain=semawur.com
 *$3p,domain=sendit.cloud
 *$3p,domain=sharelink.club
@@ -734,7 +733,6 @@
 @@faucetworld.in$generichide
 @@faucetspro.com$generichide
 @@febbit.com$generichide
-@@filmindo21.us$domain=samehadaku.vip
 @@firefaucet.win$generichide
 @@fontawesome.com$domain=kickasstraffic.com
 @@fonts.gstatic.com
