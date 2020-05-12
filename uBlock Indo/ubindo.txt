@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 12 May 2020, 15:12:32 WIB
+! Last modified: 12 May 2020, 15:34:27 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -462,6 +462,7 @@
 *$3p,domain=ptcwall.com
 *$3p,domain=queenfaucet.website
 *$3p,domain=randomsatoshi.win
+*$3p,domain=samehadaku.vip
 *$3p,domain=semawur.com
 *$3p,domain=sendit.cloud
 *$3p,domain=sharelink.club
@@ -733,6 +734,7 @@
 @@faucetworld.in$generichide
 @@faucetspro.com$generichide
 @@febbit.com$generichide
+@@filmindo21.us$domain=samehadaku.vip
 @@firefaucet.win$generichide
 @@fontawesome.com$domain=kickasstraffic.com
 @@fonts.gstatic.com
@@ -815,7 +817,7 @@
 @@wegner.tech$generichide
 @@wicr.in$generichide
 @@wl.jd.com
-@@wp.com$domain=awsubstv.com
+@@wp.com$domain=samehadaku.vip
 @@www.w3schools.com*css
 @@yllix.com$1p
 @@zdassets.com
@@ -1138,8 +1140,8 @@ pornhubpremium.com##.bottomNotification
 pornhubpremium.com##.sectionCarousel.sectionWrapper
 premierexxi.*##.wpb-outer-wrap
 reevown.com##.adsbygoogle
-samehadaku.tv##.keyw
-samehadaku.tv##.share-links
+samehadaku.vip##.kwbos
+samehadaku.vip##.pencenter
 senimovie.co##.header-top-banner
 senimovie.co##.rsABlock
 siherp.com##.c-message > div:nth-of-type(2)
