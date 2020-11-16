@@ -9,12 +9,10 @@ Anda juga dapat menghemat penggunaan kuota internet atau mempercepat loading web
 - My filters<br>
 - uBlock filters<br>
 - EasyList<br>
-- AdGuard Tracking Protection<br>
 - EasyPrivacy<br>
 - Malware domains<br>
 - Spam404<br>
 - Dan Pollock’s hosts file<br>
-- hpHosts’ Ad and tracking servers<br>
 - MVPS HOSTS<br>
 Dan matikan 3rd-party filters yang tidak tertera di atas.
 
