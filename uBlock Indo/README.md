@@ -26,10 +26,10 @@ Agar URL yang telah diblock muncul kembali, hapus saja URL tersebut dari List.
 
 ========== Tambahan ==========
 
-Masih belum terblok secara maksimal ?<br>
-Buka alamat ini (chrome) : "chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/popup.html?tabId=-1&fullsize=1" tanpa kutip<br>
-Untuk firefox pastikan tetap sama "moz-extension://blablabla/dashboard.html" dan ubah "/dashboard" menjadi "/popup.html?tabId=-1&fullsize=1" tanpa kutip.<br>
+Masih belum terblok secara maksimal?<br>
+Buka alamat ini (chrome) : `chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/popup.html?tabId=-1&fullsize=1`", tanpa kutip.<br>
+Untuk firefox pastikan tetap sama "`moz-extension://blablabla/dashboard.html" dan ubah "/dashboard" menjadi "/popup.html?tabId=-1&fullsize=1`", tanpa kutip.<br>
 Hilangkan tanda abu-abu lalu lock (gambar kunci) dan apabila uBlock belum berwarna biru (nyala), klik 1x sampai berwarna biru.<br>
 Untuk apakah tutorial di atas ? Pastinya itu akan membuat pengguna dapat memblok background/behind-the-scene ads (advertisement/iklan) agar dapat mempercepat penjelajahan web.<br>
 Jika Anda masih mendapatkan iklan dari website yang Anda sukai, Anda dapat melaporkan kepada kami untuk memblock iklan yang ada di website tersebut.<br>
-Caranya, Buka web lalu tuliskan komentar Anda di : <a href="https://github.com/Hakame-kun/uBlock/issues">Di sini</a>
+Caranya, buka web lalu tuliskan komentar Anda di: <a href="https://github.com/Hakame-kun/uBlock/issues">Di sini</a>
