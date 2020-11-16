@@ -20,8 +20,8 @@ Dan matikan 3rd-party filters yang tidak tertera di atas.
 
 ========== Cara memblokir dan mengunblock website ==========
 
-Jika anda ingin memblokir website, masukkan langsung saja URL web tersebut di URL List.
-Jika anda ingin mengunblock website, Masukkan "@@URLwebsite" pakai double at / @@ lalu nama website dan masukkan di Unblocked URL List.
+Jika Anda ingin memblokir website, masukkan langsung saja URL web tersebut di URL List.
+Jika Anda ingin mengunblock website, Masukkan "@@URLwebsite" pakai double at / @@ lalu nama website dan masukkan di Unblocked URL List.
 Agar URL yang telah diblock muncul kembali, hapus saja URL tersebut dari List.
 
 ========== Tambahan ==========
