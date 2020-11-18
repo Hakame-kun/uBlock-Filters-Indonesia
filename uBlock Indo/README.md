@@ -9,8 +9,7 @@ Anda juga dapat menghemat penggunaan kuota internet atau mempercepat loading web
 - My filters<br>
 - uBlock filters<br>
 - EasyList<br>
-- EasyPrivacy<br>
-- Malware domains<br>
+- Online Malicious URL Blocklist<br>
 - Spam404<br>
 - Dan Pollock’s hosts file<br>
 - MVPS HOSTS<br>
