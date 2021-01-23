@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 22 December 2020, 10:57:17 WIB
+! Last modified: 23 January 2021, 23:11:50 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -182,6 +182,7 @@
 ||i.imgur.com$3p,domain=acefile.co|aceservice.club|awsubstv.com|bitcolife.ru|dunia21.men|mangaindo.net|nanime.tv|treasurebits.net
 ||ibb.co$3p,domain=kazefuri.me
 ||ibb.co*gif$3p,domain=idfl.me|ojooo.com
+||icoawhou.com$3p
 ||idfl.*/fancy
 ||idsly.com$3p
 ||iframedogecoin.com$3p
@@ -686,6 +687,7 @@
 @@bercara.com$generichide
 @@bitsfree.net$generichide
 @@dogemate.com$domain=bitlinks.pw
+@@b-cdn.net
 @@bitmedia.io$1p
 @@bitsroll.com$generichide
 @@blitzcoiner.com$generichide
@@ -959,6 +961,8 @@ picbaron.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 premierexxi.*##center
 premierexxi.*##div.extend
 pyrin.org##+js(aopr, FuckAdBlock)
+samehadaku.vip##body > p
+samehadaku.vip##iframe:nth-of-type(4)
 short.awsubs.co##center:nth-of-type(2)
 short.awsubs.co##h1
 short.awsubs.co##hr
@@ -1172,6 +1176,7 @@ pornhubpremium.com##.sectionCarousel.sectionWrapper
 premierexxi.*##.wpb-outer-wrap
 reevown.com##.adsbygoogle
 samehadaku.vip##.ads_area
+samehadaku.vip##.box_item_berlangganan_popup
 samehadaku.vip##.kwbos
 samehadaku.vip##.pencenter
 senimovie.co##.header-top-banner
