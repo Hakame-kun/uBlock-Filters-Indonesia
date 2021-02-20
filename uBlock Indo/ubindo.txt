@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 23 January 2021, 23:11:50 WIB
+! Last modified: 21 February 2021, 00:23:45 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -64,7 +64,7 @@
 ||bonusbitcoin.co$3p
 ||boudja.com$3p
 ||bp.blogspot.com$3p,domain=drakorindo.cc|elsfile.org|kazefuri.me|samehadaku.vip
-||bp.blogspot.com*gif$3p,domain=acefile.co|aceservice.club|awsubstv.com|cinemakv21.com|drakorindofilms.tv|inidramaku.com|juragan-anime.net|kawanfilm21.online|komiku.net|korenlovers.co|lebahmovie.com|lk21id.com|neonime.org|netnot21.com|oujanime.com|senimovie.co|treasurebits.net
+||bp.blogspot.com*gif$3p,domain=acefile.co|aceservice.club|awsubstv.com|cinemakv21.com|drakorindofilms.tv|inidramaku.com|juragan-anime.net|kawanfilm21.online|komiku.net|korenlovers.co|lebahmovie.com|lk21id.com|nekopoi.care|neonime.org|netnot21.com|oujanime.com|senimovie.co|treasurebits.net
 ||brainbux.com$3p
 ||btcmedia.co$3p
 ||bucket.id*gif$3p,domain=idfl.me
@@ -240,6 +240,7 @@
 ||movieon21.*/wp-content/uploads*gif
 ||moviesave.net$3p
 ||my188bet.com$3p
+||nekopoi.care/wp-content/uploads/*ads*.$image
 ||nekopoi.care/wp-content/uploads*gif
 ||news-tech.xyz/download3.png
 ||newsofworld.club$3p
@@ -342,7 +343,6 @@
 ||waxpigbaa.com$3p
 ||webminepool.com$3p
 ||wi.cr/bn.png$image
-||wistia.com$3p
 ||wowjogsot.com$3p
 ||wp.com*gif$domain=conan.id|idxxi.top|lebahmovie.com|nonton.drakor-id.com|pusatfilm21.com
 ||wp.com*gif$important,domain=awsubstv.com
@@ -455,7 +455,6 @@
 *$3p,domain=melovin.site
 *$3p,domain=mirrored.to
 *$3p,domain=mm1.ink
-*$3p,domain=nekopoi.care
 *$3p,domain=neobux.com
 *$3p,domain=newwaysurf.com
 *$3p,domain=ouo.io
@@ -559,7 +558,6 @@
 /hitomi/nutaku/
 /HOKI365.gif
 /hoyajackpot-slider-
-/iklan*.gif$domain=nekopoi.care
 /iklan/728
 /includes/left_list-ad.php
 /index.php?ajax/ad-action
@@ -688,6 +686,7 @@
 @@bitsfree.net$generichide
 @@dogemate.com$domain=bitlinks.pw
 @@b-cdn.net
+@@binance.cloud
 @@bitmedia.io$1p
 @@bitsroll.com$generichide
 @@blitzcoiner.com$generichide
@@ -701,7 +700,7 @@
 @@cdn.jsdelivr.net
 @@cdn.rawgit.com$domain=1idsly.com|idsly.net|in11.site|infosehatku.club|safelinku.net|semawur.com
 @@cdnjs.cloudflare.com/ajax/libs*css
-@@cdnjs.cloudflare.com/ajax/libs*js$domain=faucethub.io
+@@cdnjs.cloudflare.com/ajax/libs*js$domain=acefile.co|faucethub.io
 @@cdnjs.cloudflare.com/ajax/libs/font-awesome
 @@cdnjs.cloudflare.com/ajax/libs/jquery
 @@cdnjs.cloudflare.com/ajax/libs/materialize$domain=firefaucet.win
@@ -790,6 +789,7 @@
 @@nsimg.net$domain=pornhubpremium.com
 @@ouo.io/css/bootstrap.css
 @@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+@@pixiv.net/cdn-cgi/bm/cv$1p
 @@plyr.io
 @@popads.net$1p
 @@popcash.net$1p
@@ -822,6 +822,7 @@
 @@unpkg.com
 @@userscloud.com/assets/library/jquery/jquery.
 @@userscloud.com/js/vendor/core/bootstrap.js
+@@vidlox.me/bootstrap.js
 @@vizury.com$domain=jd.id
 @@vjs.zencdn.net$domain=sendit.cloud
 @@vozdesportiva.com$generichide
@@ -883,7 +884,7 @@ faucethero.com#@##top-ads
 ! ========== blockAdBlock & AdBlockDetected List ==========
 freebitcoin.vip,webmonetiser.com##+js(aopr, adBlockDetected)
 
-000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,indiamartoffers.com,karimunbits.net,kiminime.com,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,nekopoi.*,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
+000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,indiamartoffers.com,karimunbits.net,kiminime.com,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
 
 ! ========== Iframe & Annoying Ads List ==========
 birdurls.com##[href*="9eb10b7a3d04a.com"]
@@ -903,9 +904,6 @@ xubster.com##+js(nano-stb, , , 0.01)
 
 ! ========== Unblock Element Fix Error ==========
 queenfaucet.website#@#+js(aeld, click, trigger)
-
-nekopoi.*#@#+js(aeld, , adsense)
-nekopoi.*#@#+js(acis, atob, tabunder)
 
 ! ========== Other ## List ==========
 10khits.com##cloudflare-app
@@ -1073,6 +1071,7 @@ coingecko.com##.sponsored
 coingecko.com##.text-secondary:nth-of-type(1)
 coingecko.com##.top-header
 coingecko.com##.topfooter
+coingecko.com##tr.sponsored-v2
 coinmarketcap.com##.cmc-bottom-margin-2x
 coinmarketcap.com##.cmc-sidebar-ad
 cointiply.com##.fl-ad-left
@@ -1216,6 +1215,7 @@ wadooo.com##.mb30
 wadooo.com##.sidebar
 wegner.tech##.adsbygoogle
 youtube.com##.ytd-search-pyv-renderer
+youtube.com##.ytp-ce-element
 zapme.top##.overlay
 zippyshare.com##.slickbox > .center
 zonawibu.cc##.infopost
