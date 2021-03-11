@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 4 March 2021, 17:18:10 WIB
+! Last modified: 11 March 2021, 17:03:55 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -288,6 +288,7 @@
 ||runtnc.net$3p
 ||safelinkconverter.com$3p,script
 ||safelinku$3p,script
+||samehadaku.vip/*.gif
 ||schillmania.com/projects$3p
 ||sendit.cloud$3p
 ||serve.popads.net/s?cid=$popup,3p
@@ -699,6 +700,7 @@
 @@cashcrate.com$1p
 @@cdn.datatables.net
 @@cdn.jsdelivr.net
+@@cdn.perfops.net$3p,domain=dnsperf.com
 @@cdn.rawgit.com$domain=1idsly.com|idsly.net|in11.site|infosehatku.club|safelinku.net|semawur.com
 @@cdnjs.cloudflare.com/ajax/libs*css
 @@cdnjs.cloudflare.com/ajax/libs*js$domain=acefile.co|faucethub.io
@@ -1307,6 +1309,7 @@ kabarviral.blog###primary > div:nth-of-type(2) > div:nth-of-type(1)
 kabarviral.blog###secondary
 kawanfilm21.online###content > div.container:nth-of-type(1)
 kawanfilm21.online###floating_banner_top1
+kazefuri.*###floatcenter
 kazefuri.*###iklan-pos
 lepiratebay.org###searchResult:nth-of-type(1)
 lk21c.fun###flobwh
