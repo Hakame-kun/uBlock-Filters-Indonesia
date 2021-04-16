@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 11 March 2021, 17:03:55 WIB
+! Last modified: 16 April 2021, 19:33:25 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -65,7 +65,7 @@
 ||bonusbitcoin.co$3p
 ||boudja.com$3p
 ||bp.blogspot.com$3p,domain=drakorindo.cc|elsfile.org|kazefuri.me|samehadaku.vip
-||bp.blogspot.com*gif$3p,domain=acefile.co|aceservice.club|awsubstv.com|cinemakv21.com|drakorindofilms.tv|inidramaku.com|juragan-anime.net|kawanfilm21.online|komiku.net|korenlovers.co|lebahmovie.com|lk21id.com|nekopoi.care|neonime.org|netnot21.com|oujanime.com|senimovie.co|treasurebits.net
+||bp.blogspot.com*gif$3p,domain=acefile.co|aceservice.club|awsubstv.com|cinemakv21.com|drakorindofilms.tv|inidramaku.com|juragan-anime.net|kawanfilm21.online|komiku.net|korenlovers.co|lebahmovie.com|lk21id.com|nekopoi.care|neonime.org|netnot21.com|oploverz.bz|oujanime.com|senimovie.co|treasurebits.net
 ||brainbux.com$3p
 ||btcmedia.co$3p
 ||bucket.id*gif$3p,domain=idfl.me
@@ -344,6 +344,7 @@
 ||wanhealth.me*soralink
 ||waxpigbaa.com$3p
 ||webminepool.com$3p
+||whouledu.com$3p
 ||wi.cr/bn.png$image
 ||wowjogsot.com$3p
 ||wp.com*gif$domain=conan.id|idxxi.top|lebahmovie.com|nonton.drakor-id.com|pusatfilm21.com
@@ -477,6 +478,7 @@
 *$3p,domain=siherp.com
 *$3p,domain=siotong.com
 *$3p,domain=startxchange.com
+*$3p,domain=srek.net
 *$3p,domain=techcraze.online
 *$3p,domain=telondasmu.com
 *$3p,domain=topadnetworks.net
@@ -489,6 +491,7 @@
 *$3p,domain=uproxy.to
 *$3p,domain=urle.io
 *$3p,domain=ventax.net
+*$3p,domain=vidlox.me
 *$3p,domain=vipshort.com
 *$3p,domain=vivads.net
 *$3p,domain=vivebtc.win
@@ -688,7 +691,6 @@
 @@bitsfree.net$generichide
 @@dogemate.com$domain=bitlinks.pw
 @@b-cdn.net
-@@binance.cloud
 @@bitmedia.io$1p
 @@bitsroll.com$generichide
 @@blitzcoiner.com$generichide
@@ -701,9 +703,9 @@
 @@cdn.datatables.net
 @@cdn.jsdelivr.net
 @@cdn.perfops.net$3p,domain=dnsperf.com
-@@cdn.rawgit.com$domain=1idsly.com|idsly.net|in11.site|infosehatku.club|safelinku.net|semawur.com
+@@cdn.rawgit.com$domain=1idsly.com|idsly.net|in11.site|infosehatku.club|safelinku.net|semawur.com|vidlox.me
 @@cdnjs.cloudflare.com/ajax/libs*css
-@@cdnjs.cloudflare.com/ajax/libs*js$domain=acefile.co|faucethub.io
+@@cdnjs.cloudflare.com/ajax/libs*js$domain=acefile.co|faucethub.io|vidlox.me
 @@cdnjs.cloudflare.com/ajax/libs/font-awesome
 @@cdnjs.cloudflare.com/ajax/libs/jquery
 @@cdnjs.cloudflare.com/ajax/libs/materialize$domain=firefaucet.win
@@ -719,6 +721,7 @@
 @@clickbits.io$generichide
 @@clicknupload.org$generichide
 @@cloudflare.com$domain=adbtc.top
+@@code.ionicframework.com$domain=vidlox.me
 @@code.jquery.com
 @@coinmarketcap.com$domain=bytecoin.money|miningpoolstats.stream
 @@cointiply.com$generichide
@@ -740,6 +743,7 @@
 @@dutchycorp.ovh$generichide
 @@easyhits4u.com$1p
 @@easyhits4u.com$generichide
+@@ethereum-pocket.com$3p,domain=stakecube.net
 @@faucetfly.com$generichide
 @@faucetworld.in$generichide
 @@faucetspro.com$generichide
@@ -825,6 +829,7 @@
 @@unpkg.com
 @@userscloud.com/assets/library/jquery/jquery.
 @@userscloud.com/js/vendor/core/bootstrap.js
+@@videobin.co/imgs
 @@vidlox.me/bootstrap.js
 @@vizury.com$domain=jd.id
 @@vjs.zencdn.net$domain=sendit.cloud
@@ -954,8 +959,6 @@ lk21c.fun##table:nth-of-type(3)
 maxfaucet.com##+js(aopr, FuckAdBlock)
 mediakita.blog##center:nth-of-type(2)
 mediakita.blog##div.col-lg-4:nth-of-type(2) > center
-oploverz.in##s
-oploverz.in##u
 pantauterus.me##figure.wp-block-image
 pantauterus.me##h2:nth-of-type(n)
 picbaron.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
@@ -1151,6 +1154,8 @@ naturalhealthy.xyz##.mh-wrapper
 naturalhealthy.xyz##.mh-header
 neonime.*##.block-player
 newsjizz.in##.taxonomy-list.comp
+oploverz.bz##.sg-popup-content
+oploverz.bz##.sgpb-popup-overlay
 pantauterus.me##.bc-top-style
 pantauterus.me##.bs-irp
 pantauterus.me##.entry-terms
@@ -1324,7 +1329,7 @@ miningpoolstats.stream###mainpage2 > table:nth-of-type(1) > tbody > tr
 netnot21.com###kiri
 netnot21.com###ngisor
 opengapps.org###donatebox
-oploverz.in###btm_banner
+oploverz.bz###overplay
 pantauterus.me###header
 pantauterus.me###respond
 pantauterus.me###site-footer
