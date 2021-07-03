@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 16 April 2021, 19:33:25 WIB
+! Last modified: 03 July 2021, 15:04:24 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -884,6 +884,7 @@ aospextended.com,drive.ad4msan.win,redv.co#@#.adsbygoogle
 cointiply.com#@#.ad-panel
 cointiply.com#@#.adsbox
 cryptofxflash.com#@#.banner-728x90
+galaxyfirmware.com#@#.textad
 ptcwall.com#@#.ad-block
 
 cinemaindo21.org#@##topad
@@ -892,7 +893,7 @@ faucethero.com#@##top-ads
 ! ========== blockAdBlock & AdBlockDetected List ==========
 freebitcoin.vip,webmonetiser.com##+js(aopr, adBlockDetected)
 
-000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,claimfreecoins.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,indiamartoffers.com,karimunbits.net,kiminime.com,linkpoi.me,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
+000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,claimfreecoins.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,getexploits.com,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,indiamartoffers.com,karimunbits.net,kiminime.com,linkpoi.me,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,sakpot.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
 
 ! ========== Iframe & Annoying Ads List ==========
 birdurls.com##[href*="9eb10b7a3d04a.com"]
@@ -1090,6 +1091,7 @@ dashboard.honeygain.com##.gpZnYi
 downloadbatch.com##.idblog-topbanner-aftermenu
 dutchycorp.ovh##.row > center:nth-of-type(1)
 eterbase.exchange##.app-footer
+genesisexploits.com##.jconfirm
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
 grabmylink.xyz##.iklan-kiri
@@ -1295,6 +1297,7 @@ cryptobite.site,faucethero.com,grabmylink.xyz,topbtc.club###captcha-adspace
 cryptobite.site,faucethero.com,grabmylink.xyz,topbtc.club###middle-adspace
 cryptofxflash.com###tamvan1
 dewafile.com###download
+doujins.com###comments
 downloadbatch.com###text-48
 drakorindofilms.tv,inidramaku.com###ouibounce-modal
 dutchycorp.ovh,dutchycorp.space###sad-1
