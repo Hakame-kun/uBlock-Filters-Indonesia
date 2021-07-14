@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 03 July 2021, 15:04:24 WIB
+! Last modified: 14 July 2021, 21:46:23 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -64,7 +64,7 @@
 ||bolaoke.club/wp-content/uploads*.jpg
 ||bonusbitcoin.co$3p
 ||boudja.com$3p
-||bp.blogspot.com$3p,domain=drakorindo.cc|elsfile.org|kazefuri.me|samehadaku.vip
+||bp.blogspot.com$3p,domain=drakorindo.cc|elsfile.org|kazefuri.me|samehadaku.to
 ||bp.blogspot.com*gif$3p,domain=acefile.co|aceservice.club|awsubstv.com|cinemakv21.com|drakorindofilms.tv|inidramaku.com|juragan-anime.net|kawanfilm21.online|komiku.net|korenlovers.co|lebahmovie.com|lk21id.com|nekopoi.care|neonime.org|netnot21.com|oploverz.bz|oujanime.com|senimovie.co|treasurebits.net
 ||brainbux.com$3p
 ||btcmedia.co$3p
@@ -126,6 +126,7 @@
 ||easyhits4u.com/service-worker.js$important
 ||easyhits4u.com*gif$important
 ||easyhits4u.com/user/banners$important
+||eexupeer.net$3p
 ||elevenday.me$3p
 ||elexies.info$3p
 ||elfsight.com$3p
@@ -288,7 +289,7 @@
 ||runtnc.net$3p
 ||safelinkconverter.com$3p,script
 ||safelinku$3p,script
-||samehadaku.vip/*.gif
+||samehadaku.to/*.gif
 ||schillmania.com/projects$3p
 ||sendit.cloud$3p
 ||serve.popads.net/s?cid=$popup,3p
@@ -300,6 +301,7 @@
 ||shortpixel.ai*gif$3p
 ||sibautomation.com$3p
 ||sillyscrew.com$3p
+||siwhausy.net$3p
 ||smartphoneslist.com$popunder
 ||smartphoneslist.com$popup,3p
 ||sparechange.io$3p
@@ -469,6 +471,7 @@
 *$3p,domain=ptcwall.com
 *$3p,domain=queenfaucet.website
 *$3p,domain=randomsatoshi.win
+*$3p,domain=samehadaku.to
 *$3p,domain=semawur.com
 *$3p,domain=sendit.cloud
 *$3p,domain=sharelink.club
@@ -839,7 +842,7 @@
 @@wegner.tech$generichide
 @@wicr.in$generichide
 @@wl.jd.com
-@@wp.com$domain=samehadaku.vip
+@@wp.com$domain=samehadaku.to
 @@yllix.com$1p
 @@zdassets.com
 @@zendesk.com
@@ -893,7 +896,7 @@ faucethero.com#@##top-ads
 ! ========== blockAdBlock & AdBlockDetected List ==========
 freebitcoin.vip,webmonetiser.com##+js(aopr, adBlockDetected)
 
-000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,claimfreecoins.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,getexploits.com,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,indiamartoffers.com,karimunbits.net,kiminime.com,linkpoi.me,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,sakpot.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
+000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,claimfreecoins.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,getexploits.com,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,imostafayt.com,indiamartoffers.com,karimunbits.net,kiminime.com,linkpoi.me,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,sakpot.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
 
 ! ========== Iframe & Annoying Ads List ==========
 birdurls.com##[href*="9eb10b7a3d04a.com"]
@@ -966,8 +969,8 @@ picbaron.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 premierexxi.*##center
 premierexxi.*##div.extend
 pyrin.org##+js(aopr, FuckAdBlock)
-samehadaku.vip##body > p
-samehadaku.vip##iframe:nth-of-type(4)
+samehadaku.to##body > p
+samehadaku.to##iframe:nth-of-type(4)
 short.awsubs.co##center:nth-of-type(2)
 short.awsubs.co##h1
 short.awsubs.co##hr
@@ -1184,10 +1187,10 @@ pornhubpremium.com##.bottomNotification
 pornhubpremium.com##.sectionCarousel.sectionWrapper
 premierexxi.*##.wpb-outer-wrap
 reevown.com##.adsbygoogle
-samehadaku.vip##.ads_area
-samehadaku.vip##.box_item_berlangganan_popup
-samehadaku.vip##.kwbos
-samehadaku.vip##.pencenter
+samehadaku.to##.ads_area
+samehadaku.to##.box_item_berlangganan_popup
+samehadaku.to##.kwbos
+samehadaku.to##.pencenter
 senimovie.co##.header-top-banner
 senimovie.co##.rsABlock
 siherp.com##.c-message > div:nth-of-type(2)
