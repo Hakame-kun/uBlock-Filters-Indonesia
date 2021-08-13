@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 13 August 2021, 23:41:27 WIB
+! Last modified: 13 August 2021, 23:50:48 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -699,6 +699,7 @@
 @@bitsroll.com$generichide
 @@blitzcoiner.com$generichide
 @@blockadblock.com/js/colorpicker$1p
+@@blogger.com/video$3p,domain=samehadaku.*
 @@bolaoke.club$popup,domain=awsubstv.com
 @@bootstrapcdn.com
 @@bp.blogspot.com*png$domain=awsubstv.com|kuyhaa.me
@@ -740,6 +741,8 @@
 @@d.bloggerku.com/safelink$domain=vozdesportiva.com
 @@dc4in.com$generichide
 @@disingkat.in/js/advertisement.js$script,1p
+@@disqus.com*embed$3p,domain=samehadaku.*
+@@disquscdn.com*embed$3p,domain=samehadaku.*
 @@doge-bitsfree.net$generichide
 @@dogemate.com$generichide
 @@drive.ad4msan.win$generichide
@@ -748,6 +751,7 @@
 @@easyhits4u.com$1p
 @@easyhits4u.com$generichide
 @@ethereum-pocket.com$3p,domain=stakecube.net
+@@facebook.com$3p,domain=samehadaku.*
 @@faucetfly.com$generichide
 @@faucetworld.in$generichide
 @@faucetspro.com$generichide
@@ -970,8 +974,6 @@ picbaron.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 premierexxi.*##center
 premierexxi.*##div.extend
 pyrin.org##+js(aopr, FuckAdBlock)
-samehadaku.*##body > p
-samehadaku.*##iframe:nth-of-type(4)
 short.awsubs.co##center:nth-of-type(2)
 short.awsubs.co##h1
 short.awsubs.co##hr
@@ -1188,10 +1190,7 @@ pornhubpremium.com##.bottomNotification
 pornhubpremium.com##.sectionCarousel.sectionWrapper
 premierexxi.*##.wpb-outer-wrap
 reevown.com##.adsbygoogle
-samehadaku.*##.ads_area
 samehadaku.*##.box_item_berlangganan_popup
-samehadaku.*##.kwbos
-samehadaku.*##.pencenter
 senimovie.co##.header-top-banner
 senimovie.co##.rsABlock
 siherp.com##.c-message > div:nth-of-type(2)
