@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 13 August 2021, 23:39:10 WIB
+! Last modified: 13 August 2021, 23:41:27 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -65,7 +65,7 @@
 ||bolaoke.club/wp-content/uploads*.jpg
 ||bonusbitcoin.co$3p
 ||boudja.com$3p
-||bp.blogspot.com$3p,domain=drakorindo.cc|elsfile.org|kazefuri.me|samehadaku.to
+||bp.blogspot.com$3p,domain=drakorindo.cc|elsfile.org|kazefuri.me|samehadaku.*
 ||bp.blogspot.com*gif$3p,domain=acefile.co|aceservice.club|awsubstv.com|cinemakv21.com|drakorindofilms.tv|inidramaku.com|juragan-anime.net|kawanfilm21.online|komiku.net|korenlovers.co|lebahmovie.com|lk21id.com|nekopoi.care|neonime.org|netnot21.com|oploverz.bz|oujanime.com|senimovie.co|treasurebits.net
 ||brainbux.com$3p
 ||btcmedia.co$3p
@@ -290,7 +290,7 @@
 ||runtnc.net$3p
 ||safelinkconverter.com$3p,script
 ||safelinku$3p,script
-||samehadaku.to/*.gif
+||samehadaku.*/*.gif
 ||schillmania.com/projects$3p
 ||sendit.cloud$3p
 ||serve.popads.net/s?cid=$popup,3p
@@ -472,7 +472,7 @@
 *$3p,domain=ptcwall.com
 *$3p,domain=queenfaucet.website
 *$3p,domain=randomsatoshi.win
-*$3p,domain=samehadaku.to
+*$3p,domain=samehadaku.*
 *$3p,domain=semawur.com
 *$3p,domain=sendit.cloud
 *$3p,domain=sharelink.club
@@ -843,7 +843,7 @@
 @@wegner.tech$generichide
 @@wicr.in$generichide
 @@wl.jd.com
-@@wp.com$domain=samehadaku.to
+@@wp.com$domain=samehadaku.*
 @@yllix.com$1p
 @@zdassets.com
 @@zendesk.com
@@ -970,8 +970,8 @@ picbaron.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 premierexxi.*##center
 premierexxi.*##div.extend
 pyrin.org##+js(aopr, FuckAdBlock)
-samehadaku.to##body > p
-samehadaku.to##iframe:nth-of-type(4)
+samehadaku.*##body > p
+samehadaku.*##iframe:nth-of-type(4)
 short.awsubs.co##center:nth-of-type(2)
 short.awsubs.co##h1
 short.awsubs.co##hr
@@ -1188,10 +1188,10 @@ pornhubpremium.com##.bottomNotification
 pornhubpremium.com##.sectionCarousel.sectionWrapper
 premierexxi.*##.wpb-outer-wrap
 reevown.com##.adsbygoogle
-samehadaku.to##.ads_area
-samehadaku.to##.box_item_berlangganan_popup
-samehadaku.to##.kwbos
-samehadaku.to##.pencenter
+samehadaku.*##.ads_area
+samehadaku.*##.box_item_berlangganan_popup
+samehadaku.*##.kwbos
+samehadaku.*##.pencenter
 senimovie.co##.header-top-banner
 senimovie.co##.rsABlock
 siherp.com##.c-message > div:nth-of-type(2)
