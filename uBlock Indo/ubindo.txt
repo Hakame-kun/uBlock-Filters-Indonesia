@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 13 August 2021, 23:50:48 WIB
+! Last modified: 09 September 2021, 22:05:35 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -901,7 +901,7 @@ faucethero.com#@##top-ads
 ! ========== blockAdBlock & AdBlockDetected List ==========
 freebitcoin.vip,webmonetiser.com##+js(aopr, adBlockDetected)
 
-000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,claimfreecoins.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,getexploits.com,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,imostafayt.com,indiamartoffers.com,karimunbits.net,kiminime.com,linkpoi.me,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,ryos.best,sakpot.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
+000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,claimfreecoins.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freevipservers.net,freebitcoin.win,getexploits.com,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,imostafayt.com,indiamartoffers.com,karimunbits.net,kiminime.com,linkpoi.me,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,ryos.best,sakpot.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
 
 ! ========== Iframe & Annoying Ads List ==========
 birdurls.com##[href*="9eb10b7a3d04a.com"]
@@ -921,6 +921,7 @@ xubster.com##+js(nano-stb, , , 0.01)
 
 ! ========== Unblock Element Fix Error ==========
 queenfaucet.website#@#+js(aeld, click, trigger)
+pastebin.com#@#.adsbyvli:upward(1)
 
 ! ========== Other ## List ==========
 10khits.com##cloudflare-app
