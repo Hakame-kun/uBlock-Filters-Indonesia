@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 22 October 2021, 22:04:41 WIB
+! Last modified: 22 October 2021, 22:11:59 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -258,6 +258,7 @@
 ||oukruque.com$3p
 ||onesignal.com$3p
 ||onlyhgames.com/balo
+||onnnxftprfvm.xyz$3p
 ||onsafelink.com$3p
 ||orbisbux.com$3p
 ||oujanime.com*gif
