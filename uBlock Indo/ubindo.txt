@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 22 October 2021, 22:11:59 WIB
+! Last modified: 22 October 2021, 22:17:28 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -591,6 +591,7 @@
 /LRfun88.jpg
 /log?format=
 /logo/*.$domain=nwanime.tv
+/logo-samehadaku.png$popup,1p
 /looping.js$domain=mikanime.com
 /lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
 /meongvpn.js$domain=kuyhaa.me
@@ -891,6 +892,7 @@
 ##a[href*="z6naousb.com"]
 ! -------------------------------------
 ##iframe[src*="/widget.html"]
+##iframe[src*="agacelebir.com"]
 ##iframe[src*="servlet/redirect.srv"]
 ! Unblock Elements --------------------
 drive.ad4msan.win#@#p
