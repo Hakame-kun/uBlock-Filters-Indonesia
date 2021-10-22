@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 09 September 2021, 22:05:35 WIB
+! Last modified: 22 October 2021, 22:04:41 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -85,6 +85,7 @@
 ||clearonclick.com$popunder
 ||clk.press/js/pop.php
 ||clksite.com$3p
+||cloudfront.net$3p,domain=hakie.net
 ||cointiply.com/api/ads*all$important
 ||cointiply.com/api/userads$important
 ||cointiply.com/arrowchat$important
@@ -132,6 +133,7 @@
 ||elexies.info$3p
 ||elfsight.com$3p
 ||elthamely.com$3p
+||embed.js$3p
 ||emeraldbux.com$3p
 ||enrilov.info$3p
 ||estoopsi.com$3p
@@ -262,6 +264,7 @@
 ||ouo.io$3p,script
 ||ouo.io/images/b1.png
 ||ouo.io/images/b2.png
+||ouphoarg.com$3p
 ||oupushee.com$popup,3p
 ||paripartners55.com$3p
 ||pc2ads.com$3p
@@ -353,7 +356,9 @@
 ||wp.com*gif$domain=conan.id|idxxi.top|lebahmovie.com|nonton.drakor-id.com|pusatfilm21.com
 ||wp.com*gif$important,domain=awsubstv.com
 ||x.kinja-static.com/assets/packaged-js/dollars.
+||xsusmtvgvxp.xyz$3p
 ||y-image.com$3p
+||yepsawomen.com$3p
 ||yhig.info$3p
 ||yonashbin.com$3p
 ||zonawibu.me/data/no-ads.
@@ -740,6 +745,7 @@
 @@csstatic.com$domain=clixsense.com
 @@d.bloggerku.com/safelink$domain=vozdesportiva.com
 @@dc4in.com$generichide
+@@ddos*.*/check.js$script,3p
 @@disingkat.in/js/advertisement.js$script,1p
 @@disqus.com*embed$3p,domain=samehadaku.*
 @@disquscdn.com*embed$3p,domain=samehadaku.*
@@ -768,6 +774,7 @@
 @@gamehouse.com$1p
 @@ganzoffen.de
 @@googleapis.com/drive$domain=acefile.co
+@@googleoptimize.com$3p
 @@googleusercontent.com$domain=acefile.co
 @@googleusercontent.com$image,domain=a2zapk.com
 @@grabmylink.xyz$generichide
@@ -816,6 +823,7 @@
 @@raincaptcha.com/base.js
 @@raincaptcha.com*frame
 @@recaptcha.net
+@@rubyfortune.com$1p
 @@satoshisera.com$generichide
 @@semawur.com$generichide
 @@seo-stat.info$generichide
