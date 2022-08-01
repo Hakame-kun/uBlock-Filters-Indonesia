@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 22 October 2021, 22:17:28 WIB
+! Last modified: 01 August 2022, 14:30:45 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -126,7 +126,6 @@
 ||dramaindo.me$3p
 ||dwindly.io$3p
 ||easyhits4u.com/service-worker.js$important
-||easyhits4u.com*gif$important
 ||easyhits4u.com/user/banners$important
 ||eexupeer.net$3p
 ||elevenday.me$3p
@@ -159,6 +158,7 @@
 ||freeproxy.io$3p
 ||fresh-video.com$3p
 ||ganool.*gif
+||gather.network$3p
 ||gdriveplayer.*ads.
 ||genderfluidsupport.com
 ||genieessp.com$3p
@@ -356,6 +356,7 @@
 ||wowjogsot.com$3p
 ||wp.com*gif$domain=conan.id|idxxi.top|lebahmovie.com|nonton.drakor-id.com|pusatfilm21.com
 ||wp.com*gif$important,domain=awsubstv.com
+||www.googletagmanjs$3p
 ||x.kinja-static.com/assets/packaged-js/dollars.
 ||xsusmtvgvxp.xyz$3p
 ||y-image.com$3p
@@ -526,7 +527,6 @@
 *$popup,3p,domain=clik.pw
 *$popup,3p,domain=desserttips.me
 *$popup,3p,domain=drakorindofilms.net|inidramaku.com|korenlovers.co
-*$popup,3p,domain=dutchycorp.ovh
 *$popup,3p,domain=get4link.xyz|p4link.com
 *$popup,3p,domain=imgbaron.com
 *$popup,3p,domain=imgfile.net|imgsky.net
@@ -715,12 +715,13 @@
 @@cdn.datatables.net
 @@cdn.jsdelivr.net
 @@cdn.perfops.net$3p,domain=dnsperf.com
+@@cdn.playerserve.com/v1/placements$3p
 @@cdn.rawgit.com$domain=1idsly.com|idsly.net|in11.site|infosehatku.club|safelinku.net|semawur.com|vidlox.me
 @@cdnjs.cloudflare.com/ajax/libs*css
 @@cdnjs.cloudflare.com/ajax/libs*js$domain=acefile.co|faucethub.io|vidlox.me
 @@cdnjs.cloudflare.com/ajax/libs/font-awesome
 @@cdnjs.cloudflare.com/ajax/libs/jquery
-@@cdnjs.cloudflare.com/ajax/libs/materialize$domain=firefaucet.win
+@@cdnjs.cloudflare.com/ajax/libs/materialize$domain=dutchycorp.space|firefaucet.win
 @@cdnjs.cloudflare.com/ajax/libs/sceditor
 @@cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
 @@claimbits.net$generichide
@@ -805,6 +806,7 @@
 @@live.sekindo.com
 @@marocclickers.network$generichide
 @@maxcdn.bootstrapcdn.com
+@@maxmind.com$3p,domain=easyhits4u.com
 @@media.net$1p
 @@mellowads.com$1p
 @@members.popcash.net$1p
@@ -835,6 +837,7 @@
 @@stackpath.bootstrapcdn.com/bootstrap
 @@starcoins.ws$generichide
 @@statically.io$domain=siherp.com
+@@stream.playerserve.com/stream$3p
 @@sturl.pw$generichide
 @@superrewards-offers.com$domain=hit4hit.org
 @@systweak.com$1p
@@ -912,7 +915,7 @@ faucethero.com#@##top-ads
 ! ========== blockAdBlock & AdBlockDetected List ==========
 freebitcoin.vip,webmonetiser.com##+js(aopr, adBlockDetected)
 
-000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,claimfreecoins.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freevipservers.net,freebitcoin.win,getexploits.com,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,imostafayt.com,indiamartoffers.com,karimunbits.net,kiminime.com,linkpoi.me,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,ryos.best,sakpot.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
+000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,claimfreecoins.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,corvusrom.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freevipservers.net,freebitcoin.win,getexploits.com,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,imostafayt.com,indiamartoffers.com,karimunbits.net,kiminime.com,linkpoi.me,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,ryos.best,sakpot.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
 
 ! ========== Iframe & Annoying Ads List ==========
 birdurls.com##[href*="9eb10b7a3d04a.com"]
@@ -921,9 +924,9 @@ birdurls.com##body > div:nth-of-type(4)
 ! ========== Shortlink Bypass Force Disable AdBlock and Count the Timer List ==========
 100count.net,4cash.me,adsbtc.org,ashort1a.xyz,bitconews.net,bitearns.com,bitlinks.pw,cashurl.in,cryptobite.site,cryptcoin.online,cryptocut.org,cryptofxflash.com,cute2w.in,ganarpastafacil.com,getpronews.com,gpmojo.co,grabmylink.xyz,link-ad.com,linkpoi.me,rshrt.com,urle.io,vipshort.com,zapme.top##+js(aopr, app_vars.force_disable_adblock)
 
-100count.net,4cash.me,ac-mo.com,adsbtc.org,adshort.tech,adsrt.org,ashort1a.xyz,altilly.com,bercara.com,birdurls.com,bitconews.net,bitearns.com,bitlinks.pw,btcleets.xyz,cashurl.in,coinmarketwaves.com,cryptcoin.online,cryptocut.org,cryptofxflash.com,cute2w.in,desserttips.me,dutchycorp.space,ebesucher.com,exe.io,express-cut.ovh,fc.lc,ganarpastafacil.com,get4link.xyz,getpronews.com,gpmojo.co,grabmylink.xyz,in11.site,infosehatku.club,lewat.club,link-ad.com,linkpoi.me,mawataki.com,mm1.ink,newwaysurf.com,oko.sh,owllink.net,pantauterus.me,pingit.im,rshrt.com,semawur.com,shorten.sh,shrtwin.com,sportif.id,techsapparel.com,topadnetworks.net,urle.io,ventax.net,vipshort.com,voxc.org,wad.ojooo.com,wealthh.xyz,xz2.xyz,zapme.top##+js(set, blurred, false)
+100count.net,10khits.com,4cash.me,ac-mo.com,adsbtc.org,adshort.tech,adsrt.org,ashort1a.xyz,altilly.com,bercara.com,birdurls.com,bitconews.net,bitearns.com,bitlinks.pw,btcleets.xyz,cashurl.in,coinmarketwaves.com,cryptcoin.online,cryptocut.org,cryptofxflash.com,cute2w.in,desserttips.me,dutchycorp.space,easyhits4u.com,ebesucher.com,exe.io,express-cut.ovh,fc.lc,ganarpastafacil.com,get4link.xyz,getpronews.com,gpmojo.co,grabmylink.xyz,in11.site,infosehatku.club,lewat.club,link-ad.com,linkpoi.me,manyhit.com,mawataki.com,mm1.ink,newwaysurf.com,oko.sh,owllink.net,pantauterus.me,pingit.im,rshrt.com,semawur.com,shorten.sh,shrtwin.com,sportif.id,techsapparel.com,topadnetworks.net,urle.io,ventax.net,vipshort.com,voxc.org,wad.ojooo.com,wealthh.xyz,xz2.xyz,zapme.top##+js(set, blurred, false)
 
-10khits.com,247autohits.com,bitearns.com,manyhit.com##+js(set)
+247autohits.com,bitearns.com##+js(set)
 
 ! ========== Make Countdown Faster List ==========
 123link.pw,1idsly.com,a2zupload.com,ad-doge.com,adwerty.com,agoodprofit.ru,anjay.info,bercara.com,beti.club,bitcoinfaucet.fun,bittube.me,bolaoke.club,closetopic.site,coindice.win,cryptoprofits.in.ua,designmyhomee.com,doge-coin.top,dogecoins.top,duit.cc,dynamicssh.com,elsfile.org,faucet.gold,faucetcrypto.com,faucetwhite.com,forthtrade.com,freebitcoin.vip,freebitcoin.win,fstore.biz,goldenfreesatoshi.ru,goodfaucet.ru,haxhits.com,hexafile.net,hikarinoakariost.info,hokiciki.org,hubcoins.xyz,idsly.*,imgsky.net,in11.site,infosehatku.club,infotrendy.me,jelajahinternet.me,lenov.ru,linkduit.net,luckybits.io,mawataki.com,mediakita.blog,merdekaid.online,muhammadyoga.me,multimining.website,naturalhealthy.xyz,news-tech.xyz,newsjizz.in,ockles.com,oploverzhome.com,ouo.io,pantauterus.me,platinmods.download,racaty.net,sfile.mobi,shortit.pw,speedtest.net,startxchange.com,suarankri.me,technoresults.xyz,treasurebits.net,updatetribun.org,vozdesportiva.com,wadooo.com,wicr.in,wikitrik.com##+js(nano-sib)
@@ -944,7 +947,7 @@ anichin.my.id##tr
 anichin.my.id,kazefuri.me##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 awsubstv.com##div.section.widget_text:nth-of-type(2)
 bercara.com##p
-birdurls.com,bitearns.com,btcleets.xyz,dutchycorp.ovh,dutchycorp.space,mm1.ink,urle.io##[id*="ScriptRoot"]
+birdurls.com,bitearns.com,btcleets.xyz,mm1.ink,urle.io##[id*="ScriptRoot"]
 btc.ms##div.col-md-12:nth-of-type(1)
 bucin.net,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##h2
 bucin.net##p
@@ -1040,6 +1043,7 @@ xcolander.com##+js(aopr, FuckAdBlock)
 10khits.com##.jq-toast-wrap
 10khits.com##.what-to-do
 123link.*##.i-said-no-thing-can-stop-me-warning
+194.163.183.129##.box_item_berlangganan_popup
 21moviemania.club,cinemaindo.co,lebahmovie.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
@@ -1107,7 +1111,7 @@ cu5.io##.short
 cryptofxflash.com##.banner-inner
 dashboard.honeygain.com##.gpZnYi
 downloadbatch.com##.idblog-topbanner-aftermenu
-dutchycorp.ovh##.row > center:nth-of-type(1)
+easyhits4u.com##.ads
 eterbase.exchange##.app-footer
 genesisexploits.com##.jconfirm
 gigapurbalingga.net##.code-block-1.code-block
@@ -1255,11 +1259,13 @@ zonawibu.cc##.infopost
 ###agegate_content
 ###ai-adb-message
 ###ai-adb-overlay
+###b0f8
 ###b300
 ###banner_ikln_tengah
 ###bg_popup
 ###btm_banner
 ###ctr_banner
+###d931
 ###eae2
 ###g207
 ###h237
@@ -1279,6 +1285,7 @@ zonawibu.cc##.infopost
 ###tevrzbo-blanket
 ###unblocker
 ###v3ea
+###v72e
 ###videoad1
 ###yd57
 ###y525
@@ -1286,6 +1293,7 @@ zonawibu.cc##.infopost
 ###z2c7
 ! -------------------------------------
 123short.com,clk.press###headlineatas
+194.163.183.129###overplay
 a-ads.com###news_feed
 ad4msan.win###masthead
 ad4msan.win###secondary
@@ -1315,8 +1323,6 @@ dewafile.com###download
 doujins.com###comments
 downloadbatch.com###text-48
 drakorindofilms.tv,inidramaku.com###ouibounce-modal
-dutchycorp.ovh,dutchycorp.space###sad-1
-dutchycorp.space###boxes
 easyhits4u.com###countDown
 google.com###bottomads
 google.com###tads
