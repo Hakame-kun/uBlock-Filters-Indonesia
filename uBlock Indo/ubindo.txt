@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 1 September 2022, 11:29:25 WIB
+! Last modified: 4 October 2022, 00:24:05 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -22,6 +22,7 @@
 ||a.admp.io$3p
 ||a.props.$3p
 ||aa24h.com$3p
+||absoluteroute.com$3p
 ||acefile.club/asset/rev
 ||ad.a-ads.com$3p
 ||ad.plus$3p
@@ -34,6 +35,7 @@
 ||adsafelink.com/js/webscript.js$3p
 ||adtival.*$3p,script
 ||advideo.ru$3p
+||alexametrics.com$3p
 ||allcoins.pw$3p
 ||allsync.com/img/ad$3p
 ||alphamrkt.com$3p
@@ -320,6 +322,7 @@
 ||tcheats.com$inline-script
 ||tharbadir.com$3p
 ||thetreuntalle.pro$3p
+||tikstok.fun$3p
 ||tinypic.com$3p,domain=idfl.biz|idfl.info|idfl.me|idfl.my.id
 ||tobys.dk$inline-script
 ||top4top.net$3p
@@ -462,7 +465,6 @@
 *$3p,domain=linkrag.com
 *$3p,domain=linkrex.net
 *$3p,domain=linktor.io
-*$3p,domain=lrepacks.net
 *$3p,domain=manyhit.com
 *$3p,domain=marocclickers.network
 *$3p,domain=megaurl.xyz
