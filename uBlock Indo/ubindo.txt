@@ -646,6 +646,8 @@
 .adskom.com$3p
 .cc/_Incapsula_Resource?
 .com/*.html?q$popunder
+.gif$1p,domain=194.163.183.129
+.gif$3p,domain=194.163.183.129
 .org/lube
 
 ! ========== Unblocked URL List ==========
@@ -1306,6 +1308,7 @@ zonawibu.cc##.infopost
 ###z2c7
 ! -------------------------------------
 123short.com,clk.press###headlineatas
+194.163.183.129###floatbottom
 194.163.183.129###overplay
 a-ads.com###news_feed
 ad4msan.win###masthead
