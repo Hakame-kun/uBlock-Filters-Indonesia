@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 4 December 2022, 21:58:05 WIB
+! Last modified: 24 January 2023, 16:51:55 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -195,6 +195,7 @@
 ||idsly.com$3p
 ||iframedogecoin.com$3p
 ||iframedogecoin.xyz$3p
+||iili.io$3p
 ||imageshack.host$3p
 ||img.akubebas.com/images*gif
 ||img.kotak*casa*gif
@@ -644,8 +645,8 @@
 .adskom.com$3p
 .cc/_Incapsula_Resource?
 .com/*.html?q$popunder
-.gif$1p,domain=194.163.183.129|samehadaku.*
-.gif$3p,domain=194.163.183.129|samehadaku.*
+.gif$1p,domain=194.163.183.129|144.126.148.112|samehadaku.*
+.gif$3p,domain=194.163.183.129|144.126.148.112|samehadaku.*
 .org/lube
 
 ! ========== Unblocked URL List ==========
@@ -1286,6 +1287,7 @@ zonawibu.cc##.infopost
 ###ia6b
 ###idblog-adb-enabled
 ###idmuvi-adb-enabled
+###idmuvi-popup
 ###ignielAdBlock
 ###kc56
 ###levelmaxblock
@@ -1366,6 +1368,9 @@ miningpoolstats.stream###mainpage_right > table > tbody > tr:nth-of-type(6)
 netnot21.com###kiri
 netnot21.com###ngisor
 opengapps.org###donatebox
+orami.co.id###post-section1
+orami.co.id###post-section2
+orami.co.id###post-top
 oploverz.bz###overplay
 pantauterus.me###header
 pantauterus.me###respond
