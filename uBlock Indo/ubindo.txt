@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 24 January 2023, 16:51:55 WIB
+! Last modified: 28 January 2023, 17:12:55 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -53,6 +53,7 @@
 ||asiatoday.online$3p
 ||aud3g.com$3p
 ||auplod.com$3p
+||avtub.click$3p
 ||backlinkr.net/img/adblock-
 ||ban-host.ru$3p
 ||batsdivannab.com$3p
@@ -645,8 +646,8 @@
 .adskom.com$3p
 .cc/_Incapsula_Resource?
 .com/*.html?q$popunder
-.gif$1p,domain=194.163.183.129|144.126.148.112|samehadaku.*
-.gif$3p,domain=194.163.183.129|144.126.148.112|samehadaku.*
+.gif$1p,domain=95.111.195.241|144.126.148.112|185.99.135.234|194.163.183.129|indoxxi.*.ac.id|samehadaku.*
+.gif$3p,domain=95.111.195.241|144.126.148.112|185.99.135.234|194.163.183.129|indoxxi.*.ac.id|samehadaku.*
 .org/lube
 
 ! ========== Unblocked URL List ==========
