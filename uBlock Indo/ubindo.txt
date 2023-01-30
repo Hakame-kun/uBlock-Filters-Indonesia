@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 30 January 2023, 12:01:51 WIB
+! Last modified: 30 January 2023, 22:21:15 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -536,10 +536,12 @@
 *$popup,3p,domain=kabarviral.blog
 *$popup,3p,domain=lewat.club
 *$popup,3p,domain=linktor.io
+*$popup,3p,domain=mitedrive.my.id
 *$popup,3p,domain=ouo.io
 *$popup,3p,domain=picbaron.com
 *$popup,3p,domain=pyrin.org
 *$popup,3p,domain=techcraze.online
+*$popup,3p,domain=teknosimple.com
 *$popup,3p,domain=topadnetworks.net
 *$popup,3p,domain=urle.io
 *$popup,3p,domain=voxc.org
@@ -819,6 +821,7 @@
 @@queenfaucet.website$generichide
 @@raincaptcha.com/base.js
 @@raincaptcha.com*frame
+@@raw.githack.com/safelinkwebid$3p
 @@recaptcha.net
 @@rubyfortune.com$1p
 @@satoshisera.com$generichide
@@ -1221,6 +1224,7 @@ speedtest.net##.notification-container
 speedtest.net##.top-horizontal
 storables.com##.amzn-btn-wrapper
 storables.com##.amzn-con
+teknosimple.com##.slu-download
 travellinginfos.com##.mh-wrapper
 unlockapk.com##.adsbygoogle
 urle.io##.box-main > .btn-lg.btn-success.btn
