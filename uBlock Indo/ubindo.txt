@@ -1,8 +1,9 @@
 ! Title: uBlock Indo
-! Last modified: 28 January 2023, 17:12:55 WIB
+! Last modified: 30 January 2023, 12:01:51 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
+! If you want to support your favorite website, try turning off uBlock for that, it will help web admins for their websites
 
 ! ========== URL List ==========
 
@@ -57,8 +58,6 @@
 ||backlinkr.net/img/adblock-
 ||ban-host.ru$3p
 ||batsdivannab.com$3p
-||bercara.com/download*.png
-||bercara.com*.png
 ||bioskopgue.net/wp-content/uploads*gif
 ||bisabuka.net/?utm_source=$popup,3p
 ||bitcoinad.pro$3p
@@ -251,7 +250,6 @@
 ||my188bet.com$3p
 ||nekopoi.care/wp-content/uploads/*ads*.$image
 ||nekopoi.care/wp-content/uploads*gif
-||news-tech.xyz/download3.png
 ||newsofworld.club$3p
 ||nikitapoker.net$popup,3p
 ||nobza.com$3p
@@ -554,14 +552,9 @@
 -728x90.
 -728-x-90.
 /?ga_action=googleanalytics_get_script
-/296467_712a70a8-97e6-11e4-9eb1-ca992523fab8.jpg
 /2pop$domain=claimcoin24.com
-/32207792_1901717173172364_6279682588403564544_n.png
-/7811552/250x250.gif
-/7813650/paxful.gif
 /abd.interstitial.preroll$script,3p
 /ad-overlay-anything
-/adaqq160x600.gif
 /adnetwork.js$script,3p
 /ads$domain=vinaurl.in
 /analytics/track.png?q
@@ -576,7 +569,6 @@
 /check.js
 /download$domain=idsly.org|jelajahinternet.me|muhammadyoga.me|safelinku.net
 /hitomi/nutaku/
-/HOKI365.gif
 /hoyajackpot-slider-
 /iklan/728
 /includes/left_list-ad.php
@@ -593,11 +585,9 @@
 /layarkaca21/js/lk21ads.js
 /levelmaxblock.js
 /LkdTwv6o7OAfOMlx2k764u22OX7TgeiSACLcB/s1600/Adblock.
-/LRfun88.jpg
 /log?format=
 /logo/*.$domain=nwanime.tv
 /looping.js$domain=mikanime.com
-/lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
 /meongvpn.js$domain=kuyhaa.me
 /mining.js$domain=faucethub.io
 /mts_ad_sense/js
@@ -612,7 +602,6 @@
 /popupad$script,3p
 /ppu.js
 /reJS*/4404
-/RTwuo4KqfSU0AYIDF9g5Bz8VfSJpXJi7gCLcB/s1600/1.jpg
 /safe.js$domain=ad4msan.com
 /safelink$script,3p
 /safelink-indolinker
@@ -632,7 +621,6 @@
 /widgets/www.hiqqu$3p
 /win728x90_2x.
 /wp-adblock-
-/wp-content/themes/animeindo/images/blacktr.png
 /wp-content/themes/animeku/iklan/
 /wp-content/uploads*gif$domain=dunia21s.fun
 /wp-content/uploads/iklan/
@@ -646,8 +634,8 @@
 .adskom.com$3p
 .cc/_Incapsula_Resource?
 .com/*.html?q$popunder
-.gif$1p,domain=95.111.195.241|144.126.148.112|185.99.135.234|194.163.183.129|indoxxi.*.ac.id|samehadaku.*
-.gif$3p,domain=95.111.195.241|144.126.148.112|185.99.135.234|194.163.183.129|indoxxi.*.ac.id|samehadaku.*
+.gif$1p,domain=95.111.195.241|144.126.148.112|185.99.135.234|194.163.183.129|kazefuri.net|indoxxi.*.ac.id|samehadaku.*
+.gif$3p,domain=95.111.195.241|144.126.148.112|185.99.135.234|194.163.183.129|kazefuri.net|indoxxi.*.ac.id|samehadaku.*
 .org/lube
 
 ! ========== Unblocked URL List ==========
@@ -799,7 +787,6 @@
 @@imgdrive.net$image,1p
 @@imgrock.net$domain=imgrock.pw
 @@imgtown.net$image,domain=imgtown.pw
-@@i.imgur.com/*.png$image,domain=topadnetworks.net
 @@inboxdollars.com$1p
 @@ipeenk.com$generichide
 @@jsdelivr.net
@@ -923,10 +910,6 @@ faucethero.com#@##top-ads
 freebitcoin.vip,webmonetiser.com##+js(aopr, adBlockDetected)
 
 000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,claimfreecoins.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,corvusrom.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freevipservers.net,freebitcoin.win,getexploits.com,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,imostafayt.com,indiamartoffers.com,karimunbits.net,kiminime.com,linkpoi.me,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,ryos.best,sakpot.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
-
-! ========== Iframe & Annoying Ads List ==========
-birdurls.com##[href*="9eb10b7a3d04a.com"]
-birdurls.com##body > div:nth-of-type(4)
 
 ! ========== Shortlink Bypass Force Disable AdBlock and Count the Timer List ==========
 100count.net,4cash.me,adsbtc.org,ashort1a.xyz,bitconews.net,bitearns.com,bitlinks.pw,cashurl.in,cryptobite.site,cryptcoin.online,cryptocut.org,cryptofxflash.com,cute2w.in,ganarpastafacil.com,getpronews.com,gpmojo.co,grabmylink.xyz,link-ad.com,linkpoi.me,rshrt.com,urle.io,vipshort.com,zapme.top##+js(aopr, app_vars.force_disable_adblock)
