@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 30 January 2023, 22:21:15 WIB
+! Last modified: 15 February 2023, 15:40:30 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -254,9 +254,7 @@
 ||nikitapoker.net$popup,3p
 ||nobza.com$3p
 ||nolix.ru$3p
-||nontondrakor.*.gif
 ||nt1.co$3p
-||ojooo.com/img/*.gif
 ||oukruque.com$3p
 ||onesignal.com$3p
 ||onlyhgames.com/balo
@@ -636,8 +634,8 @@
 .adskom.com$3p
 .cc/_Incapsula_Resource?
 .com/*.html?q$popunder
-.gif$1p,domain=95.111.195.241|144.126.148.112|185.99.135.234|194.163.183.129|kazefuri.net|indoxxi.*.ac.id|samehadaku.*
-.gif$3p,domain=95.111.195.241|144.126.148.112|185.99.135.234|194.163.183.129|kazefuri.net|indoxxi.*.ac.id|samehadaku.*
+.gif$1p,domain=95.111.195.241|144.126.148.112|185.99.135.234|194.163.183.129|kazefuri.net|indoxxi.*|nontondrakor.*|ojooo.com|samehadaku.*
+.gif$3p,domain=95.111.195.241|144.126.148.112|185.99.135.234|194.163.183.129|kazefuri.net|indoxxi.*|nontondrakor.*|ojooo.com|samehadaku.*
 .org/lube
 
 ! ========== Unblocked URL List ==========
@@ -1067,6 +1065,7 @@ bercara.com##.color-ccc
 bercara.com##.float-left-right
 bercara.com##.mt-30 > b
 bercara.com##.mtb-15.list-li-mr-20
+bestanime3.xyz,domdom.stream##.comment-panel
 bestbitcoinfaucets.net##.modal-body > center
 beti.club##.blue-text
 beti.club##.post-body
