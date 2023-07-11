@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 15 February 2023, 15:40:30 WIB
+! Last modified: 11 July 2023, 15:26:45 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -595,7 +595,6 @@
 /neko/data/*ads*png
 /neko/data/*iklan
 /news*/cait.js
-/noadblock.js
 /nontonanime.org/js/ads.js
 /ouo2018$script,3p
 /pops.js
@@ -1023,6 +1022,8 @@ xcolander.com##+js(aopr, FuckAdBlock)
 ##.hads
 ##.hitomi-anintager
 ##.idmuvi-socialicon-share
+##.idmuvi-topbanner
+##.idmuvi-topbanner-aftermenu
 ##.in_up_ad-area
 ##.js.cwv3_dialog
 ##.ke2b2b-hide
@@ -1297,6 +1298,8 @@ zonawibu.cc##.infopost
 123short.com,clk.press###headlineatas
 194.163.183.129,samehadaku.*###floatbottom
 194.163.183.129,samehadaku.*###overplay
+45.141.56.28###fixedban
+45.141.56.28###fixedfoot
 a-ads.com###news_feed
 ad4msan.win###masthead
 ad4msan.win###secondary
