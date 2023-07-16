@@ -1,6 +1,6 @@
 ! Title: uBlock Indo
-! Last modified: 11 July 2023, 15:26:45 WIB
-! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
+! Last modified: 16 July 2023, 16:23:03 WIB
+! Expires: 90 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 ! If you want to support your favorite website, try turning off uBlock for that, it will help web admins for their websites
@@ -41,6 +41,7 @@
 ||allsync.com/img/ad$3p
 ||alphamrkt.com$3p
 ||anews.today$3p
+||androidmodapk.cc$inline-script
 ||androidrepublic.org/js/siropu/chat
 ||anibatch.me*gif
 ||animebatch.web.id*gif
@@ -950,7 +951,7 @@ cowner.net,fiaharam.net##+js(adfly-defuser)
 damimage.com##body > div:nth-of-type(5)
 elsfile.org##+js(aopr, h237)
 faucetworld.in##div.hide-on-med-and-down.l3.col
-filecloud.io##+js(aopr, FuckAdBlock)
+filecloud.io,maxfaucet.com,pyrin.org,sova.network,xcolander.com##+js(aopr, FuckAdBlock)
 hexafile.net##center > h3
 hexafile.net##center:nth-of-type(2) > center > .row
 hexafile.net##center:nth-of-type(2) > center > div:nth-of-type(1)
@@ -970,7 +971,6 @@ kazefuri.me##div.section:nth-of-type(5)
 kvador.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 linkpoi.*##+js(abort-current-inline-script, addEventListener)
 lk21c.fun##table:nth-of-type(3)
-maxfaucet.com##+js(aopr, FuckAdBlock)
 mediakita.blog##center:nth-of-type(2)
 mediakita.blog##div.col-lg-4:nth-of-type(2) > center
 miningpoolstats.stream##button.btn-default.btn:nth-of-type(3)
@@ -980,12 +980,10 @@ pantauterus.me##h2:nth-of-type(n)
 picbaron.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 premierexxi.*##center
 premierexxi.*##div.extend
-pyrin.org##+js(aopr, FuckAdBlock)
 short.awsubs.co##center:nth-of-type(2)
 short.awsubs.co##h1
 short.awsubs.co##hr
 short.awsubs.co##p
-sova.network##+js(aopr, FuckAdBlock)
 speedup-faucet.com##td:nth-of-type(3) > center:nth-of-type(2)
 speedup-faucet.com##td:nth-of-type(5)
 speedup-faucet.com##tr:nth-of-type(3) > td > table
@@ -997,11 +995,9 @@ voxc.org##h4
 vozdesportiva.com##div.iklan
 wadooo.com##ol
 wikitrik.com##p:nth-of-type(n)
-xcolander.com##+js(aopr, FuckAdBlock)
 ! -------------------------------------
 ##.__b-popup1__.b-modal
 ##.ablkAlert
-##.adblockInfo
 ##.adBtn
 ##.adlink2
 ##.adsbyadop
