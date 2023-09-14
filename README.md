@@ -30,9 +30,5 @@ Online Malicious URL Blocklist<br>
 Phishing URL Blocklist<br>
 PUP Domains Blocklist
 
-Annoyances 5/16<br>
-AdGuard – Annoyances 2/7<br>
-AdGuard/uBO – Cookie Notices 2/2<br>
-EasyList – Annoyances 2/7<br>
-EasyList/uBO – Cookie Notices 2/2<br>
+Annoyances 1/16<br>
 uBlock filters – Annoyances
