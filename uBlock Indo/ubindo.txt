@@ -1,6 +1,6 @@
 ! Title: uBlock Indo
-! Last modified: 16 July 2023, 16:23:03 WIB
-! Expires: 90 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
+! Last modified: 28 October 2023, 10:17:25 WIB
+! Expires: 180 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
 ! If you want to support your favorite website, try turning off uBlock for that, it will help web admins for their websites
@@ -352,6 +352,7 @@
 ||wanhealth.me*soralink
 ||waxpigbaa.com$3p
 ||webminepool.com$3p
+||whos.amung.us$3p
 ||whouledu.com$3p
 ||wi.cr/bn.png$image
 ||wowjogsot.com$3p
@@ -774,6 +775,7 @@
 @@googleoptimize.com$3p
 @@googleusercontent.com$domain=acefile.co
 @@googleusercontent.com$image,domain=a2zapk.com
+@@gplinks.in$3p,domain=gplinks.co|jabigetjob.com
 @@grabmylink.xyz$generichide
 @@gstatic.com/charts$domain=ojooo.com
 @@hcaptcha.com
@@ -806,6 +808,7 @@
 @@moremoney.io$generichide
 @@neobux.com$1p
 @@nsimg.net$domain=pornhubpremium.com
+oolean.id##+js(aopr, adBlockDetected)
 @@ouo.io/css/bootstrap.css
 @@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 @@pixiv.net/cdn-cgi/bm/cv$1p
@@ -969,7 +972,6 @@ justlikeyojna.com##center:nth-of-type(1) > strong
 kabarviral.blog##center:nth-of-type(2)
 kazefuri.me##div.section:nth-of-type(5)
 kvador.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
-linkpoi.*##+js(abort-current-inline-script, addEventListener)
 lk21c.fun##table:nth-of-type(3)
 mediakita.blog##center:nth-of-type(2)
 mediakita.blog##div.col-lg-4:nth-of-type(2) > center
@@ -1119,6 +1121,7 @@ in11.site##.col-lg-8.col-md-12 > div:nth-of-type(1)
 in11.site##.float-left-right
 in11.site##.mt-30
 in11.site##.mtb-15
+jabigetjob.com##.adb-overlay
 juragan-anime.net##.ads
 juraganfiles.com##.no-padding.box.container > center
 justlikeyojna.com##.text-left
