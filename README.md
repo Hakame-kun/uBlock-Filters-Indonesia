@@ -18,17 +18,16 @@ uBlock filters – Privacy<br>
 uBlock filters – Quick fixes<br>
 uBlock filters – Unbreak
 
-Ads 2/3<br>
+Ads 2/3 (Aktifkan 1 saja, agar tidak bentrok)<br>
 AdGuard – Ads<br>
-EasyList
+EasyList (Lebih disarankan)
 
 Privacy 1/4<br>
 AdGuard URL Tracking Protection
 
-Malware protection, security 3/3<br>
+Malware protection, security 2/2<br>
 Online Malicious URL Blocklist<br>
 Phishing URL Blocklist<br>
-PUP Domains Blocklist
 
 Annoyances 1/16<br>
 uBlock filters – Annoyances
