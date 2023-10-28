@@ -18,7 +18,7 @@ uBlock filters – Privacy<br>
 uBlock filters – Quick fixes<br>
 uBlock filters – Unbreak
 
-Ads 2/3 (Aktifkan 1 saja, agar tidak bentrok)<br>
+Ads 1/3 (Aktifkan 1 saja, agar tidak bentrok)<br>
 AdGuard – Ads<br>
 EasyList (Lebih disarankan)
 
