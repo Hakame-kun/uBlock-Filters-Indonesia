@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 02 November 2023, 15:41:30 WIB
+! Last modified: 12 November 2023, 17:24:37 WIB
 ! Expires: 180 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1347,6 +1347,8 @@ kawanfilm21.online###content > div.container:nth-of-type(1)
 kawanfilm21.online###floating_banner_top1
 kazefuri.*###iklan-pos
 lepiratebay.org###searchResult:nth-of-type(1)
+lintastungkal.com###sidebar-banner-bawah
+lintastungkal.com###sidebar-banner-mobile-top-header-parallax
 lk21c.fun###flobwh
 lk21c.fun###tengah
 lk21c.fun###text-12
