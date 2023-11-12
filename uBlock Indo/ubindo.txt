@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 12 November 2023, 17:24:37 WIB
+! Last modified: 12 November 2023, 19:04:49 WIB
 ! Expires: 180 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1214,6 +1214,9 @@ simply-hentai.com##.sticky
 simply-hentai.com##.tc
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
+sonora.id##.ads-partner-wrap
+sonora.id##.banner
+sonora.id##.height_sonoraads_600
 sorewa.net##.clearfix.entry-content > div:nth-of-type(3)
 sorewa.net##.clearfix.mh-row.mh-post-nav
 sorewa.net##.mh-header
@@ -1371,6 +1374,7 @@ pantauterus.me###site-footer
 platinmods.com###siropuChat
 senimovie.co###sidebar
 short.pe###dfp
+sonora.id###_popIn_recommend_word
 speedup-faucet.com###mainbody > center:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
 tribunnews.com###articleright
 vozdesportiva.com###Blog1 > .title
