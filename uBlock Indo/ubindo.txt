@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 17 November 2023, 21:17:55 WIB
+! Last modified: 17 November 2023, 21:34:10 WIB
 ! Expires: 180 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1190,7 +1190,10 @@ pixiv.net##.ad-container
 pixiv.net##.ad-frame-container
 pixiv.net##.premium-lead-new-t-info-home-top
 pixiv.net##.premium-lead-t-footer
+popbela.com##.min-h-\[270px\]
 popbela.com##.my-\[15px\]
+popbela.com##.overflow-hidden.relative
+popbela.com##.wrapper-ads
 pornhub.com##.abovePlayer
 pornhub.com##.ad-link
 pornhub.com##.premiumPromoBannerWrapper
@@ -1240,6 +1243,8 @@ wadooo.com##.entry-media
 wadooo.com##.entry-title
 wadooo.com##.mb30
 wadooo.com##.sidebar
+yesdok.com##.fixed.box-progress
+yesdok.com##.max-w-full.w-fit.mx-auto
 youtube.com##.ytd-search-pyv-renderer
 youtube.com##.ytp-ce-element
 zapme.top##.overlay
