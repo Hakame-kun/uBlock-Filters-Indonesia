@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 13 November 2023, 22:10:45 WIB
+! Last modified: 17 November 2023, 21:17:55 WIB
 ! Expires: 180 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1067,6 +1067,8 @@ bolaoke.club##.mh-wrapper
 btcleets.xyz,coin.mg,techcraze.online##.banner-captcha.banner
 bucin.net,coeg.in,siherp.com,siotong.com,telondasmu.com##.c-message > div:nth-of-type(1)
 bucin.net,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##.disclaimer
+bunda.co.id##.sgpb-popup-dialog-main-div-wrapper
+bunda.co.id##.sgpb-popup-overlay
 ceklink.co##.banner-captcha.banner
 ceklink.co##.blog-item
 citpekalongan.com##.section.header-right
@@ -1101,11 +1103,13 @@ dashboard.honeygain.com##.gpZnYi
 downloadbatch.com##.idblog-topbanner-aftermenu
 easyhits4u.com##.ads
 eterbase.exchange##.app-footer
+favo.id##.banner-blog
 genesisexploits.com##.jconfirm
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
 grabmylink.xyz##.iklan-kiri
 greget.space##.c-message > div:nth-of-type(2)
+hellosehat.com##.article-mobile-ad
 imgsky.net##.content-box > div
 in11.site##.color-ccc
 in11.site##.col-lg-4
@@ -1186,6 +1190,7 @@ pixiv.net##.ad-container
 pixiv.net##.ad-frame-container
 pixiv.net##.premium-lead-new-t-info-home-top
 pixiv.net##.premium-lead-t-footer
+popbela.com##.my-\[15px\]
 pornhub.com##.abovePlayer
 pornhub.com##.ad-link
 pornhub.com##.premiumPromoBannerWrapper
@@ -1218,6 +1223,7 @@ storables.com##.amzn-btn-wrapper
 storables.com##.amzn-con
 teknosimple.com##.slu-download
 travellinginfos.com##.mh-wrapper
+tribunnewswiki.com##.box__reserved
 urle.io##.box-main > .btn-lg.btn-success.btn
 vozdesportiva.com##.ADS
 vozdesportiva.com##.isi
@@ -1362,6 +1368,7 @@ short.pe###dfp
 sonora.id###_popIn_recommend_word
 speedup-faucet.com###mainbody > center:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
 tribunnews.com###articleright
+tribunnewswiki.com###iklan_anchor
 vozdesportiva.com###Blog1 > .title
 vozdesportiva.com###post
 wadooo.com###comments
