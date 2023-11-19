@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 17 November 2023, 21:34:10 WIB
+! Last modified: 19 November 2023, 16:17:35 WIB
 ! Expires: 180 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1110,6 +1110,8 @@ gigapurbalingga.net##.code-block-2.code-block
 grabmylink.xyz##.iklan-kiri
 greget.space##.c-message > div:nth-of-type(2)
 hellosehat.com##.article-mobile-ad
+idntimes.com##.parallax-ad
+idntimes.com,popbela.com##.wrapper-ads
 imgsky.net##.content-box > div
 in11.site##.color-ccc
 in11.site##.col-lg-4
@@ -1193,7 +1195,6 @@ pixiv.net##.premium-lead-t-footer
 popbela.com##.min-h-\[270px\]
 popbela.com##.my-\[15px\]
 popbela.com##.overflow-hidden.relative
-popbela.com##.wrapper-ads
 pornhub.com##.abovePlayer
 pornhub.com##.ad-link
 pornhub.com##.premiumPromoBannerWrapper
@@ -1336,6 +1337,7 @@ grabmylink.xyz###top_adspace
 healthproper.blogspot.com###adb
 idfl.*###ad_global_below_navbar
 idfl.*###fancybox-overlay
+idntimes.com###hidden-parallax
 idsly.net,idsly.org,jelajahinternet.me,merdekaid.online,muhammadyoga.me,updatetribun.org###m813
 idxx1.*###player-side-right
 imgbaron.com###iframe-fb
