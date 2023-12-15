@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 19 November 2023, 16:17:35 WIB
+! Last modified: 16 December 2023, 00:38:30 WIB
 ! Expires: 180 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -350,6 +350,7 @@
 ||vkaofq64zz.com$3p,popup
 ||vktarget.ru$3p
 ||vouceeco.com$3p
+||vpnrice.com$3p
 ||wad.ojooo.com/images/banners
 ||wanhealth.me*soralink
 ||waxpigbaa.com$3p
@@ -781,7 +782,6 @@
 @@hcaptcha.com
 @@hit4hit.org$1p
 @@hitlink.com$1p
-@@igg-games.com$1p
 @@idsly.net$generichide
 @@idsly.org$generichide
 @@idzone.site$generichide
@@ -807,7 +807,6 @@
 @@moremoney.io$generichide
 @@neobux.com$1p
 @@nsimg.net$domain=pornhubpremium.com
-oolean.id##+js(aopr, adBlockDetected)
 @@ouo.io/css/bootstrap.css
 @@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 @@pixiv.net/cdn-cgi/bm/cv$1p
@@ -909,7 +908,7 @@ cinemaindo21.org#@##topad
 faucethero.com#@##top-ads
 
 ! ========== blockAdBlock & AdBlockDetected List ==========
-freebitcoin.vip,webmonetiser.com##+js(aopr, adBlockDetected)
+freebitcoin.vip,oolean.id,webmonetiser.com##+js(aopr, adBlockDetected)
 
 000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,claimfreecoins.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,corvusrom.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freevipservers.net,freebitcoin.win,getexploits.com,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,imostafayt.com,indiamartoffers.com,karimunbits.net,kiminime.com,linkpoi.me,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,ryos.best,sakpot.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
 
