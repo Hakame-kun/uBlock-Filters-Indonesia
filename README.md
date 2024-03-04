@@ -31,3 +31,11 @@ Phishing URL Blocklist<br>
 
 Annoyances 1/16<br>
 uBlock filters – Annoyances
+
+# Apakah filter ini masih bisa digunakan walaupun sudah tidak diupdate?
+Ya. Namun disarankan untuk beralih dan hanya menggunakan filter yang sudah saya sebutkan di atas tanpa filter ini atau gunakan <a href="https://adguard.com/en/adguard-browser-extension/overview.html" target="_blank">AdGuard AdBlocker</a> dengan 4 filter saja, sebagai berikut:<br><br>
+Ad Blocking, Enable AdGuard Base filter<br>
+Privacy, Aktifkan AdGuard Tracking Protection filter, AdGuard URL Tracking filter, dan Legitimate URL Shortener<br><br>
+General settings disarankan untuk aktifkan Block search ads and websites' self-promotion<br>
+Aktifkan juga Stealth Mode dan aktifkan beberapa General settings di bawah Stealth Mode. Block trackers, Remove tracking parameters, Hide your search queries, dan Hide Referrer from third parties. Nonaktifkan Ask websites not to track you dan Self-destruction of third-party cookies, supaya semua website yang membutuhkan cookie berjalan dengan lancar.<br><br>
+Thank you for everything to all of you. Good luck and keep living!
